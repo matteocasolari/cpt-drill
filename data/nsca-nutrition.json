@@ -1,0 +1,656 @@
+[
+  {
+    "id": "nsca-nut-001",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Nutrition scope of practice",
+    "question": "Which nutrition activity falls within the personal trainer's scope of practice?",
+    "choices": [
+      "Providing medical nutrition therapy for a client who has been diagnosed with type 2 diabetes",
+      "Interpreting biochemical lab data to diagnose deficiency",
+      "Writing individualized therapeutic meal plans for heart disease",
+      "Addressing misinformation and giving general nutrition advice"
+    ],
+    "answerIndex": 3,
+    "explanation": "It is well within the personal trainer's scope of practice to address misinformation and give general advice about nutrition for physical performance, disease prevention, weight loss, and weight gain. An example of general nutrition knowledge would be relaying a health organization's position that omega-3 fatty acids from fatty fish may benefit those at risk of cardiovascular disease. Medical nutrition therapy falls under the scope of a licensed nutritionist, dietitian, or registered dietitian."
+  },
+  {
+    "id": "nsca-nut-002",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Referral",
+    "question": "When is referral to a nutrition professional indicated?",
+    "choices": [
+      "When a disease state is involved, or the issue exceeds the trainer's competence",
+      "Only when the client specifically requests it in writing at the start of the program",
+      "Only when the client is an athlete",
+      "Never, since trainers can address all nutrition questions"
+    ],
+    "answerIndex": 0,
+    "explanation": "Referral is indicated when a client has a disease state affected by nutrition, such as diabetes, heart disease, gastrointestinal disease, an eating disorder, osteoporosis, or elevated cholesterol. It is also indicated when the complexity of the issue goes beyond the trainer's competence, which will vary by individual. Recognizing complicated nutrition issues and knowing where to refer is described as an important part of core knowledge from both an ethical and a safety standpoint."
+  },
+  {
+    "id": "nsca-nut-003",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Medical nutrition therapy",
+    "question": "What is medical nutrition therapy, and who may provide it?",
+    "choices": [
+      "General nutrition education, which any certified fitness professional is permitted to provide freely",
+      "Nutrition information for a disease state, provided by a licensed dietitian",
+      "Supplement recommendations, which any certified trainer may provide",
+      "Body composition assessment, provided by the trainer"
+    ],
+    "answerIndex": 1,
+    "explanation": "Medical nutrition therapy is the type of nutrition information required when a client has a disease state affected by nutrition. It falls under the scope of practice of a licensed nutritionist, dietitian, or registered dietitian, depending on the country and, in the United States, on the state's licensure laws. Personal trainers should identify a nutrition professional they are comfortable referring to and with whom they can communicate about clients."
+  },
+  {
+    "id": "nsca-nut-004",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "State regulation",
+    "question": "How does licensing differ from statutory certification in regulating nutrition practice?",
+    "choices": [
+      "Both terms mean the same thing",
+      "Licensing only limits the use of protected titles, while statutory certification prohibits practice entirely",
+      "Licensing makes unlicensed practice illegal; certification only restricts titles",
+      "Neither has any legal force"
+    ],
+    "answerIndex": 2,
+    "explanation": "Licensing statutes include an explicitly defined scope of practice, and performing the profession is illegal without a state-issued license. Statutory certification limits the use of particular titles to persons meeting predetermined requirements, but uncertified persons can still practice the occupation. Registration is the least restrictive form, permitting unregistered persons to practice with minimal enforcement and typically no exams."
+  },
+  {
+    "id": "nsca-nut-005",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Jurisdictional variation",
+    "question": "A trainer relocating to another state plans to keep advising clients on diet. Why must they check that state's dietetic licensing board first?",
+    "choices": [
+      "Because national certification automatically grants nutrition counseling authority in every state and country",
+      "Because state boards approve exercise programs",
+      "Because licensing boards set training session prices",
+      "Regulations vary by state, from full restriction to none at all"
+    ],
+    "answerIndex": 3,
+    "explanation": "Various states and countries have different regulations governing whether personal trainers may provide dietary advice, so trainers should follow their local provisions. In one example state the scope of nutrition practice is clearly defined and specific dietary guidance is allowed only from a registered dietitian or nutritionist, while in another no licensure law exists and any professional may offer nutrition advice. Trainers outside the United States should consult local dietetic organizations or their country's dietetic regulatory body."
+  },
+  {
+    "id": "nsca-nut-006",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Communication with dietitians",
+    "question": "What should be obtained so that a trainer and a nutrition professional can communicate about a shared client?",
+    "choices": [
+      "A signed release of information form from the client",
+      "A physician's prescription",
+      "A complete copy of the client's medical chart obtained from their primary physician",
+      "Nothing; communication is unrestricted"
+    ],
+    "answerIndex": 0,
+    "explanation": "To facilitate communication, the client should sign a release of information form so the personal trainer and the nutrition professional can discuss the client's training program and general nutrition needs. This protects client confidentiality while enabling coordinated care. Trainers should proactively identify a nutrition professional they can work with in this way."
+  },
+  {
+    "id": "nsca-nut-007",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Nutrition assessment",
+    "question": "Which four components make up a complete nutrition assessment?",
+    "choices": [
+      "Body weight, body fat percentage, waist girth, and resting blood pressure measurements",
+      "Dietary, anthropometric, and biochemical data plus a clinical examination",
+      "Diet recall, exercise log, sleep log, and stress rating",
+      "Calories, protein, carbohydrate, and fat intake"
+    ],
+    "answerIndex": 1,
+    "explanation": "A complete nutrition assessment includes dietary data, anthropometric data, biochemical data from laboratory tests, and a clinical examination of things such as skin and teeth condition. Personal trainers are usually not involved in the comprehensive assessment but should be familiar with its components so they can work effectively alongside a dietitian. In this context the word diet refers to the client's usual eating pattern rather than a restrictive weight loss plan."
+  },
+  {
+    "id": "nsca-nut-008",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Dietary assessment methods",
+    "question": "Which dietary assessment method is considered the most valid for an individual, and what is its main pitfall?",
+    "choices": [
+      "The diet recall, because clients reliably forget what they ate more than a day ago",
+      "Computerized analysis; software is always accurate",
+      "The three-day diet record; recording tends to inhibit normal eating patterns",
+      "A single 24-hour recall; it captures long-term habits"
+    ],
+    "answerIndex": 2,
+    "explanation": "The three-day diet record, in which the client logs everything consumed including foods, beverages, and supplements, is considered the most valid method for assessing an individual's diet. Its pitfall is that the act of recording usually inhibits regular eating patterns, so recorded intake underestimates true intake. Because it also demands scrupulous recording and analysis, only the most motivated clients should be asked to complete it, with a diet recall or history more appropriate for many others."
+  },
+  {
+    "id": "nsca-nut-009",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Computerized diet analysis",
+    "question": "Why will a computerized diet analysis not be completely accurate even with perfect recording?",
+    "choices": [
+      "Software cannot calculate calories",
+      "Analysis software only accepts generic food names rather than the specific commercial brand",
+      "Clients cannot use computers reliably",
+      "All programs have gaps in their food and nutrient databases"
+    ],
+    "answerIndex": 3,
+    "explanation": "Even a perfectly recorded diet will not analyze accurately because all software programs have shortcomings. Some foods in the database are missing values for certain vitamins and minerals, which produces erroneously low intake values, and some foods the client eats are simply not in the database, requiring substitutions or manual entry. To improve accuracy the client should record at least three days, specify amounts and cooking methods, and give brand names rather than generic terms."
+  },
+  {
+    "id": "nsca-nut-010",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Assessment practice",
+    "question": "A trainer wants to give a new client dietary recommendations. What must the trainer do first?",
+    "choices": [
+      "Assessing the diet, since assumptions should never be made",
+      "Prescribing a target calorie level calculated from the client's body weight and activity",
+      "Ordering laboratory blood work",
+      "Recommending a commercial diet program"
+    ],
+    "answerIndex": 0,
+    "explanation": "The personal trainer should never make assumptions about a client's eating habits, and assessing the client's diet is essential before making dietary recommendations. Useful preliminary questions include how balanced the current diet is, whether the client has food allergies, is vegetarian, is restricting food groups, is dieting to lose weight, or eats sporadically. If assessment falls outside the trainer's scope, they can work alongside a dietitian who performs it."
+  },
+  {
+    "id": "nsca-nut-011",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Dietary guidelines tools",
+    "question": "How can the MyPlate framework be used in the personal training setting?",
+    "choices": [
+      "As a therapeutic diet prescription for clients with a diagnosed cardiovascular or metabolic disease",
+      "As general guidance and an interactive tool for client education",
+      "As a substitute for referral to a dietitian in all cases",
+      "As a laboratory assessment method"
+    ],
+    "answerIndex": 1,
+    "explanation": "One way to evaluate a client's diet is to compare it with the country's general dietary guidelines, and in the United States the Department of Agriculture created MyPlate. The associated website offers tools for creating customized meal plans, analyzing diets, and tracking physical activity, and is described as an excellent starting point for client education. Each food group provides key nutrients that are harder to obtain if that group is omitted."
+  },
+  {
+    "id": "nsca-nut-012",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Empty calories",
+    "question": "What are empty calories?",
+    "choices": [
+      "Calories from any carbohydrate source consumed outside of the daily training window",
+      "Calories consumed after 8 p.m.",
+      "Calories from solid fats or added sugars that have no nutrients",
+      "Calories from protein in excess of need"
+    ],
+    "answerIndex": 2,
+    "explanation": "Empty calories are calories from solid fats or added sugars that carry no nutrients, replacing the older discretionary calories concept. Solid fats are those solid at room temperature, such as butter, beef fat, and shortening, while added sugars are sugars or syrups added during processing or preparation. Foods identified as providing the largest number of empty calories include cakes, cookies, pastries and donuts, sodas and energy, sport, and fruit drinks, cheese, pizza, ice cream, and sausages, hot dogs, bacon, and ribs."
+  },
+  {
+    "id": "nsca-nut-013",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Energy requirements",
+    "question": "Which three factors make up the energy requirement of adults?",
+    "choices": [
+      "Body weight, height, and age",
+      "Protein intake, carbohydrate intake, and the total dietary fat consumed each day",
+      "Sleep, stress, and hydration",
+      "Resting metabolic rate, physical activity, and the thermic effect of food"
+    ],
+    "answerIndex": 3,
+    "explanation": "Three factors make up the energy requirement of adults: resting metabolic rate, physical activity, and the thermic effect of food. Each can be affected by age, genetics, body size, body composition, environmental temperature, training conditions, nontraining physical activity, and calorie intake. For infants, children, and teens, growth adds a further variable that raises the energy requirement."
+  },
+  {
+    "id": "nsca-nut-014",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Resting metabolic rate",
+    "question": "By roughly how much can resting metabolic rate vary between individuals?",
+    "choices": [
+      "Up to 20%",
+      "Up to 5%",
+      "Up to 50%",
+      "It does not vary between individuals"
+    ],
+    "answerIndex": 0,
+    "explanation": "Resting metabolic rate can vary by up to 20% between individuals due to normal genetic variations in metabolism. It reflects the energy needed to maintain normal body functions such as respiration, cardiac function, and thermoregulation. Physical activity is the second largest component of the total energy requirement."
+  },
+  {
+    "id": "nsca-nut-015",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Protein needs",
+    "question": "What general daily protein range is recommended for athletes?",
+    "choices": [
+      "0.5 to 0.8 grams per kilogram per day, which is adequate for every active adult",
+      "1.2 to 2.0 grams per kilogram per day, depending on the sport",
+      "3.0 to 4.0 grams per kilogram per day",
+      "There is no protein recommendation for athletes"
+    ],
+    "answerIndex": 1,
+    "explanation": "A general recommendation for athletes is 1.2 to 2.0 grams of protein per kilogram of body weight per day, varying with the sport, training intensity, total calorie intake, and overall health. The lower general population allowance is sufficient for nonactive healthy young adults but not for clients with greater needs. Higher intake helps offset protein and amino acid oxidation during exercise, repair muscle damage, and build lean tissue."
+  },
+  {
+    "id": "nsca-nut-016",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Protein excess",
+    "question": "What happens to protein consumed in excess of tissue synthesis needs?",
+    "choices": [
+      "It is excreted unchanged",
+      "It is converted directly into new contractile muscle protein",
+      "It is used for energy or stored",
+      "It cannot be absorbed"
+    ],
+    "answerIndex": 2,
+    "explanation": "Proteins consumed beyond the amounts needed for tissue synthesis are used for energy or stored. Concerns about the potential negative effects of high protein intakes are described as largely unfounded, especially in healthy individuals. This does not eliminate the value of individualizing intake to the client's goals and total diet."
+  },
+  {
+    "id": "nsca-nut-017",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Carbohydrate needs",
+    "question": "What carbohydrate intake is commonly recommended for physically active individuals as a percentage of total calories?",
+    "choices": [
+      "Under 30% of the total calories consumed each day",
+      "There is no recommendation",
+      "Exactly 80%",
+      "Up to 60% to 70% of total calories"
+    ],
+    "answerIndex": 3,
+    "explanation": "Because of the muscle and liver glycogen used during high-intensity activity, a high-carbohydrate diet of up to 60% to 70% of total calories is commonly recommended for physically active individuals. However, a variety of diets with different carbohydrate, protein, and fat mixtures have been shown equally effective at supporting training and performance. Which diet is appropriate depends on the client's goals, training regimen, and fitness level."
+  },
+  {
+    "id": "nsca-nut-018",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Carbohydrate individualization",
+    "question": "A client on a high-carbohydrate diet develops rising serum triglycerides and weight gain. What consideration applies?",
+    "choices": [
+      "Some benefit and some do not, so intake must be individualized",
+      "High-carbohydrate diets benefit every physically active individual regardless of their training program",
+      "Carbohydrate should be eliminated entirely",
+      "Triglycerides are unrelated to dietary intake"
+    ],
+    "answerIndex": 0,
+    "explanation": "Some physically active individuals benefit from a high-carbohydrate diet while others do not, and the latter may experience negative effects such as increased serum triglycerides or weight gain. Individualizing carbohydrate intake based on the training program and diet history is described as imperative. Nutrient timing strategies may also matter more than overall carbohydrate intake."
+  },
+  {
+    "id": "nsca-nut-019",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Nutrient timing",
+    "question": "What does nutrient timing involve?",
+    "choices": [
+      "Eating only within an eight-hour window each day and fasting for the remainder",
+      "Timing food and supplement intake to support mass, composition, and glycogen",
+      "Avoiding all food before exercise",
+      "Consuming protein exclusively at breakfast"
+    ],
+    "answerIndex": 1,
+    "explanation": "Nutrient timing is the strategic timing of food and supplement intake to maximize muscle mass gains, alter body composition, and restore glycogen levels. Incorporating timing strategies may be more important than overall carbohydrate intake for some clients. It is one of several tools for individualizing carbohydrate around the training program."
+  },
+  {
+    "id": "nsca-nut-020",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Carbohydrate for strength training",
+    "question": "What carbohydrate intake is reasonable for clients whose training is strength, sprint, or skill based?",
+    "choices": [
+      "1 to 2 grams per kilogram of body weight per day at most",
+      "10 to 12 grams per kilogram of body weight per day",
+      "5 to 6 grams per kilogram of body weight per day",
+      "Carbohydrate is unnecessary for these clients"
+    ],
+    "answerIndex": 2,
+    "explanation": "Most physically active individuals do not train aerobically for more than an hour daily, and research on their carbohydrate needs is sparse. Moderately low carbohydrate intake and muscle glycogen levels appear to have minor impact on resistance training performance, so an intake of 5 to 6 grams per kilogram of body weight per day is reasonable to support strength, sprint, and skill training. Clients training aerobically for 90 minutes or more daily require higher replenishment."
+  },
+  {
+    "id": "nsca-nut-021",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Dietary fat requirement",
+    "question": "What minimum essential fatty acid intake is estimated to prevent true deficiency?",
+    "choices": [
+      "No dietary fat is required",
+      "At least 20% of total energy from saturated fat in order to support hormone production",
+      "At least 35% of energy from total fat",
+      "At least 3% from omega-6 and 0.5% to 1% from omega-3"
+    ],
+    "answerIndex": 3,
+    "explanation": "Individuals should consume at least 3% of energy from omega-6 linoleic fatty acids and 0.5% to 1% from omega-3 alpha-linolenic acid to prevent true deficiency. Although the requirement is low, inadequate fat intake is a potential problem for otherwise healthy people who overly restrict dietary fat. Very low-fat diets, such as those sometimes prescribed for severe heart disease, are not recommended for healthy active individuals."
+  },
+  {
+    "id": "nsca-nut-022",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Dietary fat context",
+    "question": "Approximately what percentage of calories in the typical American diet comes from fat?",
+    "choices": [
+      "About 34%",
+      "About 25%",
+      "About 15%",
+      "Somewhere closer to about 55%"
+    ],
+    "answerIndex": 0,
+    "explanation": "Approximately 34% of calories in the typical American diet come from fat, and intake in most European countries is similar. Overconsumption rather than underconsumption of fat has held scientific and public attention for decades, particularly regarding the relationship between dietary fat and cardiovascular disease. Trainers should nonetheless be aware of client perceptions about fat and educate them on the importance of essential fatty acids."
+  },
+  {
+    "id": "nsca-nut-023",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Total diet focus",
+    "question": "Because carbohydrate is the primary fuel for exercise, trainers should have clients focus on carbohydrate intake rather than on the total diet.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Protein, carbohydrates, and fats are all essential nutrients, and an excess or deficiency of any one will be problematic. The personal trainer should help clients stay focused on the total diet rather than fixating on a single nutrient. Nutrition and physical activity should also be addressed together, since focusing on one to the exclusion of the other yields less than optimal results."
+  },
+  {
+    "id": "nsca-nut-024",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Dietary Reference Intakes",
+    "question": "What is the Recommended Dietary Allowance within the Dietary Reference Intakes framework?",
+    "choices": [
+      "The maximum intake unlikely to pose any risk of adverse effects in healthy people",
+      "The intake meeting the needs of almost all healthy individuals",
+      "The intake meeting the estimated need of half the individuals in a group",
+      "A goal intake used when scientific information is insufficient"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Recommended Dietary Allowance is the intake meeting the nutrient needs of almost all healthy individuals, 97% to 98%, in a specific age and sex group. Adequate Intake is the goal used when scientific information is insufficient to estimate the allowance, and Estimated Average Requirement meets the need of half the individuals in a group. Tolerable Upper Intake Level is the maximum intake unlikely to pose risks of adverse effects in almost all healthy individuals."
+  },
+  {
+    "id": "nsca-nut-025",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Dietary Reference Intakes",
+    "question": "How do the Dietary Reference Intakes differ in emphasis from the Recommended Dietary Allowances they replaced?",
+    "choices": [
+      "They emphasize deficiency diseases rather than long-term health outcomes",
+      "They apply only to athletes",
+      "They emphasize long-term health instead of deficiency diseases",
+      "They ignore life stage and sex"
+    ],
+    "answerIndex": 2,
+    "explanation": "The Dietary Reference Intakes replaced the Recommended Dietary Allowances starting in 1997 and represent a different approach that emphasizes long-term health instead of deficiency diseases. They are recommendations for vitamin and mineral intake used for planning and assessing diets for healthy people. They are organized by life stage groups accounting for age, sex, pregnancy, and lactation."
+  },
+  {
+    "id": "nsca-nut-026",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Fluid balance",
+    "question": "At approximately what level of dehydration is thirst triggered?",
+    "choices": [
+      "0.1%",
+      "Closer to 10% dehydration",
+      "5%",
+      "About 1%"
+    ],
+    "answerIndex": 3,
+    "explanation": "Thirst is triggered at approximately 1% dehydration. The goal of fluid intake is to avoid dehydration and maintain fluid balance, which exists when water lost through urine, insensible loss from skin and lungs, and feces is replaced. Because thirst is not a reliable indicator of fluid needs under high sweat loss and physical stress, a systematic approach to water replacement is necessary."
+  },
+  {
+    "id": "nsca-nut-027",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Post-exercise rehydration",
+    "question": "How much fluid should clients drink for every pound of body weight lost during activity?",
+    "choices": [
+      "20 to 24 ounces, about 600 to 700 milliliters",
+      "8 ounces",
+      "48 ounces",
+      "One full liter for every pound of body weight lost"
+    ],
+    "answerIndex": 0,
+    "explanation": "Clients should drink 20 to 24 ounces, roughly 600 to 700 milliliters, of fluid for every pound lost. Sweat loss is monitored by checking body weight before and after activity, removing sweaty clothes first for accuracy. Sodium-rich foods or a sport drink should be used to stimulate thirst, replace lost electrolytes, and enhance rehydration."
+  },
+  {
+    "id": "nsca-nut-028",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Hydration education",
+    "question": "A weight-loss client sees the scale drop after a hard workout and treats it as fat loss. How should the trainer respond?",
+    "choices": [
+      "Confirm the interpretation in order to reinforce the client's motivation to keep training",
+      "Clarify that the acute loss is water and must be replaced",
+      "Recommend restricting fluids to preserve the reading",
+      "Recommend weighing only before exercise"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clients with a weight loss goal may misperceive acute weight loss during a workout as fat loss and view it positively. Trainers must clarify that the acute loss is water, not fat, and must be replaced by hydrating, preferably with sodium-rich foods or an electrolyte-enhanced sport beverage. Measuring the required replacement volume into bottles or pitchers keeps rehydration from being left to chance."
+  },
+  {
+    "id": "nsca-nut-029",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Monitoring hydration",
+    "question": "Which signs indicate dehydration?",
+    "choices": [
+      "Pale, odorless urine together with frequent urination throughout the whole day",
+      "A slow resting heart rate and reduced soreness",
+      "Dark, strong-smelling urine, reduced urination, and rapid resting heart rate",
+      "Bright yellow urine in a client taking vitamin supplements"
+    ],
+    "answerIndex": 2,
+    "explanation": "Signs of dehydration include dark yellow, strong-smelling urine, decreased frequency of urination, rapid resting heart rate, and prolonged muscle soreness. Normal urine is the color of light lemon juice, though supplemental vitamins tend to make urine bright yellow without indicating a problem. These indicators are useful monitoring tools although less sensitive than weight change."
+  },
+  {
+    "id": "nsca-nut-030",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Normal urine production",
+    "question": "What is normal daily urine production for an adult?",
+    "choices": [
+      "It cannot be characterized",
+      "About 4 quarts per day, spread evenly across the waking hours of the day",
+      "About 8 ounces total per day",
+      "About 1.2 quarts per day across roughly four urinations"
+    ],
+    "answerIndex": 3,
+    "explanation": "Normal urine production for adults is about 1.2 quarts, or 1.1 liters, per day, corresponding to roughly 8 to 10 fluid ounces per urination about four times daily. The kidneys dilute or concentrate urine to keep the body's internal environment stable despite significant changes in intake. During rehydration, urine is produced before full rehydration is achieved."
+  },
+  {
+    "id": "nsca-nut-031",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Fluid sources",
+    "question": "Which statement about fluid sources is accurate?",
+    "choices": [
+      "All fluids from beverages and food contribute to hydration",
+      "Only plain water contributes to hydration, since other beverages act as mild diuretics",
+      "Milk dehydrates the body",
+      "Foods contribute nothing to fluid requirements"
+    ],
+    "answerIndex": 0,
+    "explanation": "All fluids, from both beverages and food, contribute to the body's fluid requirement. Juice and soft drinks are 89% water, milk is 90% water, and even pizza is 50% water. Clients who eat many fruits, vegetables, and soups may be getting much of their water requirement from food."
+  },
+  {
+    "id": "nsca-nut-032",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Caffeine and hydration",
+    "question": "What do the data show about whether caffeinated beverages cause dehydration?",
+    "choices": [
+      "Caffeinated beverages always cause a net fluid loss and should be excluded from intake",
+      "Tolerance develops within one to four days, so urine output does not rise",
+      "Caffeine has never been studied in this context",
+      "Caffeinated beverages should be counted as half their volume"
+    ],
+    "answerIndex": 1,
+    "explanation": "Data show that tolerance to caffeine occurs within one to four days and that people who are tolerant do not experience increased urine output. Caffeine-containing beverages therefore contribute to hydration. This is a frequently asked client question that the trainer can answer with general nutrition knowledge."
+  },
+  {
+    "id": "nsca-nut-033",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Fluid during exercise",
+    "question": "When does replacing sodium during exercise become particularly important, and why?",
+    "choices": [
+      "During any activity lasting more than ten minutes, in order to improve palatability",
+      "Only during resistance training",
+      "During long-duration activity, to prevent hyponatremia",
+      "Sodium replacement is never necessary"
+    ],
+    "answerIndex": 2,
+    "explanation": "Cool water is an ideal fluid replacement except during long-duration activity such as endurance exercise or multiple games in a day, when replacing sodium becomes very important. Sodium replacement in those situations prevents a dangerous drop in blood sodium levels called hyponatremia. Other options include commercial sport drinks or homemade versions such as diluted juice or diluted soft drinks."
+  },
+  {
+    "id": "nsca-nut-034",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Sport drinks",
+    "question": "What is the carbohydrate concentration range of commercial sport drinks, and why does it matter?",
+    "choices": [
+      "1% to 2%, which provides negligible carbohydrate",
+      "6% to 8%, which tends to be absorbed rapidly",
+      "15% to 20%, a concentration which noticeably speeds up gastric emptying",
+      "25% or more, matching most soft drinks"
+    ],
+    "answerIndex": 1,
+    "explanation": "Commercial sport drinks have a carbohydrate concentration of 6% to 8%, a solution that tends to be absorbed rapidly. They contain water, sugars, and electrolytes, usually sodium, chloride, and potassium, with slightly less sugar than most soft drinks and juices. Rapid absorption matters because the goal during exercise is to move fluid from mouth through gut into circulation quickly at a volume matching sweat losses."
+  },
+  {
+    "id": "nsca-nut-035",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Carbohydrate during exercise",
+    "question": "When can carbohydrate along with water intake be helpful during aerobic endurance training?",
+    "choices": [
+      "When activities last more than 60 to 90 minutes",
+      "For any activity lasting longer than ten minutes in total",
+      "Only during resistance training",
+      "Never during exercise"
+    ],
+    "answerIndex": 0,
+    "explanation": "During aerobic endurance training, carbohydrate along with water intake can be helpful if activities last more than 60 to 90 minutes. Plain water can meet fluid requirements in most cases, though some people drink more when the fluid is flavored. Palatability matters because the practical goal is a volume that matches sweat losses."
+  },
+  {
+    "id": "nsca-nut-036",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Sport drink decisions",
+    "question": "A weight-loss client is monitoring calories and does not want the extra calories from a sport drink during a 45-minute session. How should the trainer frame this?",
+    "choices": [
+      "Insist on the sport drink, because carbohydrate is always needed during aerobic exercise",
+      "Weigh the cost against the benefit for this client's actual goal",
+      "Recommend eliminating all fluid during the session",
+      "Recommend doubling the sport drink volume"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clients monitoring calorie intake to maintain or lose weight may be averse to the extra calories in sport drinks, and in that case the cost to benefit must be examined. The benefits of carbohydrate during aerobic endurance training matter most for competitive clients wanting to increase speed and aerobic endurance. They matter less for a client training primarily for health and fitness with an interest in weight loss, particularly for a session under 60 minutes."
+  },
+  {
+    "id": "nsca-nut-037",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Sodium after exercise",
+    "question": "Why is consuming sodium chloride after significant sweating beneficial?",
+    "choices": [
+      "It increases urine output in order to flush metabolic waste products from the body",
+      "It suppresses thirst so less fluid is needed",
+      "It minimizes urine output and hastens recovery of water and electrolyte balance",
+      "It has no measurable effect"
+    ],
+    "answerIndex": 2,
+    "explanation": "When significant sweating has occurred, consuming sodium chloride in the form of beverages or food minimizes urine output and hastens recovery of water and electrolyte balance. Practically, this means consuming a wide variety of beverages and foods after training matters. Most fluid consumption in fact occurs during and around mealtimes."
+  },
+  {
+    "id": "nsca-nut-038",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Weight gain",
+    "question": "What is essential for weight gain in the form of muscle mass?",
+    "choices": [
+      "A caloric surplus alone, with no resistance training stimulus required at all",
+      "Aerobic training alone",
+      "Protein supplementation alone",
+      "A combination of diet and progressive resistance training"
+    ],
+    "answerIndex": 3,
+    "explanation": "For weight gain in the form of muscle mass, a combination of diet and progressive resistance training is essential. Genetic predisposition, body type, and compliance determine how much progress the client makes. Muscle tissue is approximately 70% water, 22% protein, and 8% fatty acids and glycogen."
+  },
+  {
+    "id": "nsca-nut-039",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Body composition change",
+    "question": "How does training status affect the ability to lose fat without losing lean mass?",
+    "choices": [
+      "Untrained clients can do both; lean trained clients find it harder",
+      "Trained clients find it easier because their resting metabolic rate is considerably higher",
+      "Training status has no effect",
+      "Only trained clients can lose fat at all"
+    ],
+    "answerIndex": 0,
+    "explanation": "Previously untrained clients can lose body fat and gain lean body mass as a result of caloric restriction and training. It is more difficult for trained persons who already have a low percentage of body fat to reduce fat further without losing some lean mass. Rapid rates of weight loss can also cause dehydration and reduce vitamin and mineral status because of decreased food intake."
+  },
+  {
+    "id": "nsca-nut-040",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Nutrition information quality",
+    "question": "Because television, newspapers, magazines, and websites are the major nutrition information sources for most people, personal trainers have an opportunity to serve as a source of credible nutrition information.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Television, newspapers, magazines, and websites are the major sources of nutrition information for most people, and information delivered as sound bites and advertisements can create consumer confusion. Personal trainers have an opportunity to clear that confusion by serving as a source of credible nutrition information. Doing so requires maintaining core nutrition knowledge and individualizing advice while staying within scope."
+  },
+  {
+    "id": "nsca-nut-041",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Diet analysis limitations",
+    "question": "A trainer is preparing to ask clients to complete a computerized diet analysis. What should the trainer do first?",
+    "choices": [
+      "Purchase the most expensive analysis software that is available on the market",
+      "Complete a computerized analysis on themselves first",
+      "Skip the analysis and estimate intake",
+      "Ask the client to record a single meal"
+    ],
+    "answerIndex": 1,
+    "explanation": "Before asking clients to assess their diet, it is helpful for trainers to complete a computerized diet analysis on themselves. Doing so reveals the bias that recording imposes on true habits and builds awareness of the level of detail needed for an accurate assessment. Many trainers lack the training, time, knowledge, or resources for this work and turn to dietitians or refer motivated clients to reputable self-entry websites."
+  },
+  {
+    "id": "nsca-nut-042",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Rate of weight loss",
+    "question": "A client wants to lose weight as fast as possible through severe calorie restriction. What risks should the trainer raise?",
+    "choices": [
+      "Only slower progress than expected",
+      "There are no meaningful risks to rapid weight loss in an otherwise healthy adult",
+      "Dehydration and reduced vitamin and mineral status",
+      "Rapid loss guarantees preservation of lean mass"
+    ],
+    "answerIndex": 2,
+    "explanation": "Rapid rates of weight loss can cause dehydration and reduce vitamin and mineral status because food intake falls so far. Fat loss also requires a net deficit while minimizing loss of lean body mass, which is harder for already lean, trained clients than for previously untrained ones. Because the request touches on disease risk and complex planning, coordinating with a dietitian is appropriate."
+  },
+  {
+    "id": "nsca-nut-043",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Fluid choice",
+    "question": "A client dislikes plain water and drinks very little during training. What practical option is described?",
+    "choices": [
+      "Insist on plain water only, since flavored drinks are ineffective for rehydration",
+      "Replace all fluid with solid food",
+      "Restrict fluid to encourage adaptation",
+      "Offer palatable flavored alternatives such as sport drinks"
+    ],
+    "answerIndex": 3,
+    "explanation": "Although plain water can meet fluid requirements in most cases, some people find flavored drinks more palatable and consequently drink more. Options include commercial sport drinks or homemade versions such as diluted juice or diluted soft drinks. The practical goal during exercise is to provide fluid that is absorbed rapidly, is palatable to the client, and matches sweat losses in volume."
+  },
+  {
+    "id": "nsca-nut-044",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Nutrition and activity together",
+    "question": "Focusing on nutrition or physical activity to the exclusion of the other yields less than optimal results for clients.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nutrition and physical activity should be addressed in conjunction with one another, and focusing on one at the exclusion of the other yields less than optimal results. Trainers enhance their overall effectiveness by maintaining core nutrition knowledge and individualizing their advice. Assessment and recommendations should match the client's needs and goals, and referral should follow when those needs exceed the trainer's scope."
+  }
+]

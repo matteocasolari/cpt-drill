@@ -1,0 +1,1109 @@
+[
+  {
+    "id": "both-001",
+    "source": "both",
+    "type": "mcq",
+    "topic": "Energy systems",
+    "question": "Which energy pathway is the simplest and fastest way to generate adenosine triphosphate?",
+    "choices": [
+      "Oxidative phosphorylation in the mitochondria",
+      "Beta-oxidation",
+      "Glycolysis",
+      "The ATP-PC system"
+    ],
+    "answerIndex": 3,
+    "explanation": "The ATP-PC system is the simplest and fastest route to new adenosine triphosphate and does not require oxygen, making it anaerobic. Because the supply of phosphocreatine is limited, it supports only short-duration, high-intensity activity. It provides most of the energy for roughly the first 10 to 15 seconds of a transition from low to high intensity."
+  },
+  {
+    "id": "both-002",
+    "source": "both",
+    "type": "mcq",
+    "topic": "Energy systems",
+    "question": "What are the end products of glycolysis, and what happens under anaerobic conditions?",
+    "choices": [
+      "Adenosine triphosphate and pyruvate, which becomes lactate without oxygen",
+      "Carbon dioxide and water, which are then cleared through the lungs and kidneys",
+      "Free fatty acids and glycerol; they are stored as fat",
+      "Ketone bodies only; they are exhaled"
+    ],
+    "answerIndex": 0,
+    "explanation": "Glycolysis turns free blood glucose or stored glycogen into pyruvate and adenosine triphosphate in the cell cytoplasm. If oxygen is available, pyruvate enters the oxidative system for additional energy production, but when oxygen cannot be delivered fast enough the pyruvate is converted to lactate. The accumulating lactate and free hydrogen ions lower muscle pH, a state called acidosis that contributes to the burn and fatigue of intense exercise."
+  },
+  {
+    "id": "both-003",
+    "source": "both",
+    "type": "mcq",
+    "topic": "Energy systems",
+    "question": "Roughly how long can the glycolytic system serve as the majority energy contributor before the oxidative system takes over?",
+    "choices": [
+      "10 to 15 seconds",
+      "Around 2 minutes",
+      "Around 20 minutes",
+      "Around 1 hour"
+    ],
+    "answerIndex": 1,
+    "explanation": "For roughly the first 10 to 15 seconds of a shift from low to high intensity, the ATP-PC system supplies most of the energy. As it depletes, glycolysis ramps up and can support the majority of energy production for around 2 minutes. Throughout this the oxidative system is also ramping up, eventually becoming the primary source of adenosine triphosphate."
+  },
+  {
+    "id": "both-004",
+    "source": "both",
+    "type": "mcq",
+    "topic": "Oxidative system",
+    "question": "Which substrates can the oxidative system use, and where do its reactions occur?",
+    "choices": [
+      "Only glucose, broken down in the cytosol without any involvement of the mitochondria",
+      "Only phosphocreatine, in the sarcoplasmic reticulum",
+      "Free fatty acids, pyruvate, and deaminated amino acids in the mitochondria",
+      "Only ketone bodies, in the liver"
+    ],
+    "answerIndex": 2,
+    "explanation": "Oxidative phosphorylation can use free fatty acids, the pyruvate created during glycolysis, and amino acids that have undergone deamination. Both sets of reactions in the pathway occur in cellular organelles called mitochondria. All substrates must be broken down to acetyl coenzyme A before entering the citric acid cycle, and converting fat requires beta-oxidation."
+  },
+  {
+    "id": "both-005",
+    "source": "both",
+    "type": "mcq",
+    "topic": "Intensity and duration",
+    "question": "What relationship exists between exercise intensity and duration?",
+    "choices": [
+      "Directly related, so a higher intensity can be sustained for a longer time",
+      "Duration determines intensity in all cases",
+      "They are unrelated",
+      "Inversely related, so higher intensity means shorter duration"
+    ],
+    "answerIndex": 3,
+    "explanation": "Exercise can be defined by intensity and duration, and these two factors are inversely related, so as intensity rises duration must fall. The same principle governs session design more broadly, since higher-intensity sessions are shorter and require more recovery. It also explains why the most important determinants of which energy system predominates are intensity and duration."
+  },
+  {
+    "id": "both-006",
+    "source": "both",
+    "type": "mcq",
+    "topic": "Fuel utilization",
+    "question": "How does fuel use shift as exercise intensity increases?",
+    "choices": [
+      "A shift from mostly fat toward mostly glucose as intensity rises",
+      "A shift from mostly glucose toward mostly fat as the exercise intensity rises",
+      "Protein becomes the primary fuel",
+      "Fuel selection does not change with intensity"
+    ],
+    "answerIndex": 0,
+    "explanation": "As intensity rises the body transitions from using mostly fat toward using mostly glucose, because glucose can be used much faster and can be metabolized without oxygen while fat use always requires oxygen. Lower-intensity activity uses a higher percentage of fat but generally does not burn many calories unless sustained a very long time. Higher-intensity activity draws a higher percentage of energy from carbohydrate and usually burns more total calories in a given time."
+  },
+  {
+    "id": "both-007",
+    "source": "both",
+    "type": "mcq",
+    "topic": "Macronutrient energy",
+    "question": "How many calories per gram do protein, carbohydrate, and fat provide?",
+    "choices": [
+      "4, 4, and 9 respectively",
+      "4, 9, and 4 respectively",
+      "7, 4, and 7 respectively",
+      "9, 9, and 4 kilocalories respectively"
+    ],
+    "answerIndex": 0,
+    "explanation": "Protein and carbohydrate each provide 4 calories per gram while lipids provide 9 calories per gram. These are the three macronutrients, food substances required in large amounts to supply energy. All three are essential, so an excess or deficiency of any one is problematic."
+  },
+  {
+    "id": "both-008",
+    "source": "both",
+    "type": "mcq",
+    "topic": "Essential amino acids",
+    "question": "How many of the 20 amino acids used to build bodily proteins are essential?",
+    "choices": [
+      "Five",
+      "Twelve",
+      "Nine",
+      "All twenty"
+    ],
+    "answerIndex": 2,
+    "explanation": "Humans use 20 different amino acids to assemble bodily proteins, and nine of them are essential, meaning the body cannot synthesize them and they must be consumed in the diet. The remaining eleven are nonessential because the body can make them. Amino acids can supply energy if carbohydrate and fat are low, but this should happen rarely so that protein is spared."
+  },
+  {
+    "id": "both-009",
+    "source": "both",
+    "type": "mcq",
+    "topic": "First law of thermodynamics",
+    "question": "What does the first law of thermodynamics state, and what is its practical implication for body mass?",
+    "choices": [
+      "Energy can be created under load, which is how muscles produce net mechanical work",
+      "Energy conversion is impossible in living systems",
+      "Energy is destroyed during exercise; mass is unaffected",
+      "Energy is not created or destroyed, only converted between forms"
+    ],
+    "answerIndex": 3,
+    "explanation": "The first law of thermodynamics holds that energy cannot be created or destroyed, only converted from one form to another. Energy entering the body as macronutrients and leaving it is always accounted for by changes in mass, so consistently expending more than is consumed produces weight loss and the reverse produces weight gain. Stored energy always comes with an accompanying increase in carbon-based body mass to contain it."
+  },
+  {
+    "id": "both-010",
+    "source": "both",
+    "type": "mcq",
+    "topic": "Muscle fiber types",
+    "question": "Which fiber type is small, fatigue resistant, and rich in capillaries, mitochondria, and myoglobin?",
+    "choices": [
+      "Type I",
+      "Type IIa fibers",
+      "Type IIx",
+      "Cardiac"
+    ],
+    "answerIndex": 0,
+    "explanation": "Type I fibers are small, produce lower force, and resist fatigue, which is why they are called slow-twitch. They contain a large number of capillaries, mitochondria, and myoglobin, improving oxygen delivery. Type II fibers are larger, produce more force, contain fewer capillaries and mitochondria, and fatigue quickly."
+  },
+  {
+    "id": "both-011",
+    "source": "both",
+    "type": "mcq",
+    "topic": "Stretch-shortening cycle",
+    "question": "Why does a shorter amortization phase produce a more powerful movement?",
+    "choices": [
+      "Because it allows more time for the motor units to be fully recruited beforehand",
+      "Stored elastic energy from the eccentric phase is lost during a long pause",
+      "Because it reduces motor unit recruitment",
+      "Because it eliminates the eccentric phase"
+    ],
+    "answerIndex": 1,
+    "explanation": "The amortization phase is the transition from the end of the eccentric phase to the start of the concentric contraction. The shorter it is, the more efficiently the stored elastic energy from the eccentric loading is used, producing a more powerful subsequent movement. Reducing amortization time is one of the primary objectives of plyometric training."
+  },
+  {
+    "id": "both-012",
+    "source": "both",
+    "type": "mcq",
+    "topic": "Blood pressure",
+    "question": "Below which systolic and diastolic values is blood pressure classified as normal?",
+    "choices": [
+      "A systolic below 160 mmHg and a diastolic below 100 mmHg",
+      "Systolic below 140 mmHg and diastolic below 90 mmHg",
+      "Systolic below 120 mmHg and diastolic below 80 mmHg",
+      "Systolic below 100 mmHg and diastolic below 60 mmHg"
+    ],
+    "answerIndex": 2,
+    "explanation": "A normal reading is a systolic pressure below 120 mmHg with a diastolic pressure below 80 mmHg. Systolic pressure reflects the greatest arterial pressure as the heart contracts, and diastolic reflects the lowest pressure while the heart is relaxed. Higher values indicate greater cardiovascular disease risk, and repeated elevated readings define hypertension."
+  },
+  {
+    "id": "both-013",
+    "source": "both",
+    "type": "mcq",
+    "topic": "Resistance training adaptations",
+    "question": "Which statement about strength gains early in a resistance training program is accurate?",
+    "choices": [
+      "They come entirely from an increase in the cross-sectional area of the fibers",
+      "They occur only after visible hypertrophy appears",
+      "They plateau after the first two sessions",
+      "An early increase in the number of motor units recruited"
+    ],
+    "answerIndex": 3,
+    "explanation": "An increase in the number of motor units recruited is an important factor in strength gains, especially early in a program. The majority of strength increases occur during the first 12 weeks of resistance training, driven by increased neural recruitment along with muscle hypertrophy. Because muscle operates under central nervous system control, strength should be viewed as a neuromuscular rather than purely muscular outcome."
+  },
+  {
+    "id": "both-014",
+    "source": "both",
+    "type": "mcq",
+    "topic": "Specificity",
+    "question": "What does the principle of specificity indicate about training adaptations?",
+    "choices": [
+      "Specific training methods produce specific adaptations",
+      "Any training stimulus produces broadly the same adaptation in every body system",
+      "Adaptations are determined solely by genetics",
+      "Only maximal loads produce adaptation"
+    ],
+    "answerIndex": 0,
+    "explanation": "Specificity means specific methods of training produce specific changes or results, so the training stimulus must match the intended adaptation. In sport contexts, the more similar the training activity is to the actual movement, the greater the likelihood of positive transfer. Neuromuscular specificity in particular refers to the speed of contraction and to exercise selection."
+  },
+  {
+    "id": "both-015",
+    "source": "both",
+    "type": "mcq",
+    "topic": "Rest intervals",
+    "question": "Which rest interval principle applies across training goals?",
+    "choices": [
+      "All training goals use identical rest intervals of roughly ninety seconds each",
+      "Heavier loads and power goals need longer rest; endurance needs less",
+      "Endurance training requires the longest rest",
+      "Rest intervals do not influence adaptation"
+    ],
+    "answerIndex": 1,
+    "explanation": "A direct relationship exists between load and the need for rest, so heavier loads require longer rest between sets or exercises. Strength and power goals therefore use rest measured in minutes, while muscular endurance uses roughly 30 to 60 seconds and hypertrophy a short to moderate range. Rest must always be sufficient for the client to complete the assigned work with sound technique."
+  },
+  {
+    "id": "both-016",
+    "source": "both",
+    "type": "mcq",
+    "topic": "Exercise order",
+    "question": "Why are multijoint, large-muscle exercises typically placed before single-joint exercises?",
+    "choices": [
+      "Single-joint exercises require a longer specific warm-up before they can be loaded",
+      "Single-joint exercises are more technically demanding",
+      "Session force production is greater when compound lifts come first",
+      "It reduces the total number of exercises needed"
+    ],
+    "answerIndex": 2,
+    "explanation": "Muscle force production for the entire session is significantly greater when multijoint or compound exercises are performed before small-muscle work. Performing single-joint exercises first pre-fatigues the assisting musculature and reduces force output on the larger movements. Ordering exercises to manage fatigue lets the client tolerate the loads and complete the session."
+  },
+  {
+    "id": "both-017",
+    "source": "both",
+    "type": "mcq",
+    "topic": "Warm-up",
+    "question": "Which outcomes are attributed to a proper warm-up?",
+    "choices": [
+      "Immediate improvement in maximal strength, together with a lower resting heart rate",
+      "Reduced heart rate and cooled tissue",
+      "Depleted glycogen to prime fat oxidation",
+      "More muscle blood flow, higher tissue temperature, and prepared tissue"
+    ],
+    "answerIndex": 3,
+    "explanation": "A warm-up increases blood flow to the muscles that will be used, raises heart rate gradually so oxygen debt is minimized, and increases tissue temperature. It also prepares the nervous system for action and readies the client psychologically for higher training intensities. Warm-ups should progress from small, simple movements to the larger, more complex movements used in the session."
+  },
+  {
+    "id": "both-018",
+    "source": "both",
+    "type": "mcq",
+    "topic": "Cool-down",
+    "question": "What is the purpose of a cool-down?",
+    "choices": [
+      "A smooth transition back to rest, lowering heart and breathing rates",
+      "To maximize fatigue before the client leaves so the adaptation stimulus is larger",
+      "To test the client's recovery capacity",
+      "To replace the need for a warm-up next session"
+    ],
+    "answerIndex": 0,
+    "explanation": "A cool-down provides a smooth transition from exercise back to a steady state of rest, essentially reversing the warm-up. Its benefits include reducing heart and breathing rates, restoring physiologic systems close to baseline, gradually cooling body temperature, returning muscles toward optimal resting length, and preventing blood pooling in the lower extremities. Flexibility work is commonly included in this period."
+  },
+  {
+    "id": "both-019",
+    "source": "both",
+    "type": "mcq",
+    "topic": "Physical activity guidelines",
+    "question": "Which weekly aerobic activity target do major public health bodies recommend for adults?",
+    "choices": [
+      "30 minutes of vigorous activity per month",
+      "60 minutes of moderate-intensity activity or 30 minutes of vigorous activity each week",
+      "150 minutes moderate or 75 minutes vigorous weekly",
+      "300 minutes of moderate-intensity activity only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Major public health bodies recommend that adults accumulate 150 minutes of moderate-intensity aerobic activity per week or 75 minutes of vigorous-intensity activity, or an equivalent mix. Exceeding those amounts yields additional health benefits. Clients pursuing weight loss generally benefit from considerably more than the minimum."
+  },
+  {
+    "id": "both-020",
+    "source": "both",
+    "type": "mcq",
+    "topic": "Scope of practice",
+    "question": "Which nutrition-related action falls outside a fitness professional's scope of practice?",
+    "choices": [
+      "Providing general nutrition information drawn from published national dietary guidelines",
+      "Directing a client to credible nutrition resources",
+      "Prescribing a therapeutic diet to treat a disease",
+      "Providing accountability and support for dietary changes"
+    ],
+    "answerIndex": 2,
+    "explanation": "Fitness professionals who are not registered or licensed dietitians can provide general nutrition guidelines, direct clients to credible resources, refer to dietitians, and offer accountability and support. Prescribing a therapeutic diet or supplement regimen to treat a medical condition or disease falls outside that scope. Nutrition counseling, medical nutrition therapy, and individualized meal plans belong to registered and licensed dietitians and nutritionists."
+  },
+  {
+    "id": "both-021",
+    "source": "both",
+    "type": "mcq",
+    "topic": "Referral",
+    "question": "Which situation requires the fitness professional to refer a client to a medical professional?",
+    "choices": [
+      "The client reports mild delayed-onset muscle soreness in the two days afterwards",
+      "The client asks about proper squat technique",
+      "The client wants to change their training days",
+      "Unusual pain or discomfort during a session"
+    ],
+    "answerIndex": 3,
+    "explanation": "Referral is required when the trainer becomes aware of a change in the client's health status or medication, an undiagnosed illness, injury, or risk factor, or unusual pain or discomfort during a session. Training a client who is currently in pain without physician clearance and direction is not recommended. Delayed-onset soreness after new training is a normal adaptation rather than a referral trigger."
+  },
+  {
+    "id": "both-022",
+    "source": "both",
+    "type": "mcq",
+    "topic": "Hydration",
+    "question": "Why is thirst an unreliable guide to fluid needs during heavy sweating?",
+    "choices": [
+      "Thirst appears only after about 1% dehydration",
+      "Thirst is triggered before any fluid deficit develops, making it a reliable guide",
+      "Thirst is unrelated to hydration status",
+      "Thirst only occurs in hot environments"
+    ],
+    "answerIndex": 0,
+    "explanation": "Thirst is triggered at approximately 1% dehydration, meaning some fluid deficit already exists before the sensation arrives. During periods of high sweat loss under physical stress, thirst is not a reliable indicator of fluid needs, so a systematic approach to replacement is necessary. Slight dehydration is common in almost all physical activity, which is why starting hydrated and drinking during activity both matter."
+  },
+  {
+    "id": "both-023",
+    "source": "both",
+    "type": "mcq",
+    "topic": "Ratings of perceived exertion",
+    "question": "When is a ratings of perceived exertion scale especially useful for prescribing intensity?",
+    "choices": [
+      "Only for competitive athletes who are already familiar with the exertion scale",
+      "When heart rate is unreliable, such as with certain medications",
+      "Only during resistance training",
+      "Only when a heart rate monitor is available"
+    ],
+    "answerIndex": 1,
+    "explanation": "Perceived exertion captures overall effort rather than heart rate alone, so it is especially valuable when heart rate prescriptions are inaccurate because of medication or illness. Beta-blocking medications, for example, prevent heart rate from rising normally with exercise, making target heart rates unattainable and misleading. Clients on such medications should have intensity regulated by perceived exertion instead."
+  },
+  {
+    "id": "both-024",
+    "source": "both",
+    "type": "mcq",
+    "topic": "Progressive overload",
+    "question": "Why must training stress be progressively increased over time?",
+    "choices": [
+      "Because training volume must always increase in order to burn additional calories",
+      "Because muscles lose all adaptation within 24 hours",
+      "The body adapts, so demands must keep increasing",
+      "Because clients become bored otherwise"
+    ],
+    "answerIndex": 2,
+    "explanation": "The body adapts to the stress placed on it and then requires more or varied stress to produce further adaptation. Applying overload systematically and progressively makes the body stronger and more resilient while reducing injury and overtraining risk. Overload can be applied by increasing load, adding sessions, adding or advancing exercises, or adding sets."
+  },
+  {
+    "id": "both-025",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Screening and referral",
+    "question": "A new client answers yes to a preparticipation screening question about chest discomfort during physical activity. What is the correct next step?",
+    "choices": [
+      "Begin a light program and monitor the client's symptoms closely as they train",
+      "Record the answer and proceed as planned",
+      "Perform a maximal exercise test to characterize the symptom",
+      "Direct the client to obtain physician clearance first"
+    ],
+    "answerIndex": 3,
+    "explanation": "A yes answer to a screening question about signs or symptoms suggestive of cardiovascular disease requires physician clearance before exercise testing or participation. Chest pain or discomfort possibly due to ischemia is one of the major signs and symptoms that must be interpreted clinically rather than by the trainer. Encouraging clearance is a reasonable and safe course of action, not an abdication of responsibility."
+  },
+  {
+    "id": "both-026",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Energy systems application",
+    "question": "A client performs repeated 20-second all-out sprints with short recoveries. Which energy pathways dominate?",
+    "choices": [
+      "The ATP-PC system early, with glycolysis contributing as bouts repeat",
+      "Almost exclusively oxidative metabolism, since the total session lasts over an hour",
+      "Beta-oxidation of free fatty acids",
+      "Ketogenesis"
+    ],
+    "answerIndex": 0,
+    "explanation": "For roughly the first 10 to 15 seconds of each high-intensity bout the ATP-PC system supplies most of the energy, after which glycolysis takes over the bulk of production. Most people have enough free blood glucose and stored glycogen to fuel anaerobic glycolysis for many repeated bursts such as a sprint session. The oxidative system contributes throughout and dominates during the recovery periods."
+  },
+  {
+    "id": "both-027",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Energy systems application",
+    "question": "A client completes a 90-minute steady-state ride and reports feeling suddenly depleted near the end. What is the likely metabolic explanation?",
+    "choices": [
+      "The ATP-PC system was exhausted within the first few minutes of the ride",
+      "Carbohydrate stores typically run low after about an hour",
+      "Protein oxidation was inadequate from the start",
+      "Ketone production was excessive"
+    ],
+    "answerIndex": 1,
+    "explanation": "For most people, free glucose and stored glycogen run out after around 1 hour of sustained activity. Aerobic metabolism can sustain the body indefinitely but only at progressively lower intensities as substrate availability shifts. This is why carbohydrate along with water can help when aerobic activity extends beyond roughly 60 to 90 minutes."
+  },
+  {
+    "id": "both-028",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Intensity monitoring",
+    "question": "A trainer has no heart rate monitor and a client on blood pressure medication. Which pair of intensity tools is most appropriate?",
+    "choices": [
+      "Target heart rate zones and the estimated metabolic equivalents",
+      "Percentage of one-repetition maximum and metabolic equivalents",
+      "Ratings of perceived exertion and the talk test",
+      "Age-predicted maximal heart rate and stroke volume"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ratings of perceived exertion and the talk test both gauge intensity without equipment and without depending on heart rate. That matters because medications such as beta blockers blunt the heart rate response, making heart rate targets unreachable and misleading. Both tools reflect the client's own physiological response rather than an assumed population average."
+  },
+  {
+    "id": "both-029",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Program design",
+    "question": "A deconditioned client with no training history asks to begin with heavy barbell work and depth jumps. What is the sound programming response?",
+    "choices": [
+      "Comply, since motivation is highest now and should be used while it lasts",
+      "Test a one-repetition maximum to establish loads",
+      "Program only aerobic exercise indefinitely",
+      "Build competency, stability, and a base of strength first"
+    ],
+    "answerIndex": 3,
+    "explanation": "Prescribing exercise that is too advanced is illogical and potentially dangerous and can frustrate the client. Plyometric work in particular requires proper technique, a base of resistance training experience, and sufficient strength, speed, and balance for the drill level used, while clients who have never resistance trained should be precluded from it. One-repetition maximum testing is likewise inappropriate for untrained clients."
+  },
+  {
+    "id": "both-031",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Hydration education",
+    "question": "A client is pleased that the scale dropped 3 pounds during a hot session. How should the trainer respond?",
+    "choices": [
+      "Congratulate them on the result and encourage them to repeat the same session",
+      "Explain that the acute loss is water, not fat",
+      "Advise restricting fluid to preserve the reading",
+      "Recommend repeating the session twice daily"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clients pursuing weight loss may misinterpret acute session weight loss as fat loss. Trainers should clarify that this loss is water, not fat, and must be replaced by hydrating, preferably including sodium-rich foods or an electrolyte-enhanced beverage. Failing to correct the misconception encourages a behavior that impairs performance and health."
+  },
+  {
+    "id": "both-032",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Exercise sequencing",
+    "question": "A client's session includes plyometric jumps, a barbell squat, and a seated calf raise. What is the appropriate order?",
+    "choices": [
+      "Calf raise first, then squat, then jumps",
+      "Squat, then calf raise, then jumps",
+      "Jumps, then squat, then calf raise",
+      "Any order, since sequencing is arbitrary"
+    ],
+    "answerIndex": 2,
+    "explanation": "Power and explosive exercises come first, then multijoint core exercises, then single-joint assistance exercises. Plyometric work in particular should be performed before other exercise, because previously fatigued muscles and tendons can be overstressed by its high demands. Placing the calf raise first would pre-fatigue assisting musculature and reduce force production on the squat."
+  },
+  {
+    "id": "both-033",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Rest interval selection",
+    "question": "A client is training a heavy multijoint lift for maximal strength but only rests 45 seconds between sets and cannot complete the prescribed repetitions. What should change?",
+    "choices": [
+      "Reduce the repetitions and keep the rest interval exactly where it currently is",
+      "Add a second exercise between sets",
+      "Increase the load to compensate",
+      "Lengthen the rest interval to the range suited to power"
+    ],
+    "answerIndex": 3,
+    "explanation": "Maximal strength adaptations require relatively long rest, in the range of several minutes, especially for lower body and whole-body multijoint movements. Short rest intervals belong to muscular endurance and circuit formats. Insufficient rest compromises the load that can be handled on later sets and degrades technique, which is the primary consideration."
+  },
+  {
+    "id": "both-034",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Overtraining",
+    "question": "A client reports disturbed sleep, unusual fatigue, declining performance, loss of appetite, and mood changes after several weeks of hard training. What should the trainer do?",
+    "choices": [
+      "Reduce volume and intensity, as these signal overtraining",
+      "Increase intensity to break through what is most likely a temporary performance plateau",
+      "Add a second daily session",
+      "Ignore the reports as normal adaptation"
+    ],
+    "answerIndex": 0,
+    "explanation": "Disturbed sleep, excessive fatigue, impaired performance, loss of appetite, and mood swings are recognized signs of overtraining and should prompt a reduction in volume and intensity. Prolonged or intolerable stress leads to the exhaustion stage of the general adaptation syndrome, characterized by stress fractures, strains and sprains, joint pain, and emotional fatigue. Periodized variation exists precisely to reduce this risk."
+  },
+  {
+    "id": "both-035",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Program variation",
+    "question": "An experienced client has run the same program unchanged for six months and their strength has begun to decline. What explains this and what is the fix?",
+    "choices": [
+      "They have reached their genetic ceiling and no further adaptation is now possible",
+      "An unvaried stimulus can reduce strength and neural drive",
+      "They need to train to failure on every set",
+      "They should eliminate all rest days"
+    ],
+    "answerIndex": 1,
+    "explanation": "Maintaining the same plan without variation can induce monotonous overtraining, and an unvaried stimulus over several months can decrease muscular strength and neuromuscular performance even in trained clients. The remedy is purposeful variation of program design variables including frequency, intensity, volume, and rest intervals between sets and exercises. Novice clients need far less variation because almost any reasonable plan produces results for them."
+  },
+  {
+    "id": "both-038",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Assessment sequencing",
+    "question": "A trainer plans body composition, a cardiorespiratory field test, and postural and movement screening in one appointment. How should these be sequenced?",
+    "choices": [
+      "Non-fatiguing measures first, then movement, then performance",
+      "Cardiorespiratory testing first, followed by body composition and then the health screening",
+      "Movement screening last, after maximal effort",
+      "Order does not affect the results"
+    ],
+    "answerIndex": 0,
+    "explanation": "Non-fatiguing assessments such as preparticipation health screening and physiological and body composition measures should precede postural, movement, and performance assessments. Exercise causes peripheral vasodilation that can inflate a skinfold reading, and fatigue degrades movement quality. Cardiorespiratory and performance testing are best scheduled on separate days so energy levels are fresh."
+  },
+  {
+    "id": "both-039",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Scope of practice",
+    "question": "A client with newly diagnosed high cholesterol asks the trainer to build them a cholesterol-lowering diet. What is the appropriate action?",
+    "choices": [
+      "Write the diet, since choosing foods is within the fitness professional's remit",
+      "Refer to a registered or licensed dietitian",
+      "Recommend a specific supplement instead",
+      "Tell the client nutrition is irrelevant to cholesterol"
+    ],
+    "answerIndex": 1,
+    "explanation": "Referral to a nutrition professional is indicated when the client has a disease state affected by nutrition, such as elevated cholesterol, heart disease, diabetes, gastrointestinal disease, an eating disorder, or osteoporosis. That work is medical nutrition therapy and falls under a licensed nutritionist's or dietitian's scope. The trainer can still provide general nutrition guidance, credible resources, and accountability."
+  },
+  {
+    "id": "both-040",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Scope of practice",
+    "question": "A client asks the trainer which supplement will treat their diagnosed thyroid condition. How should the trainer respond?",
+    "choices": [
+      "Recommend a specific product and dose based on the client's stated training goal",
+      "State that supplements are always safe at label doses",
+      "Give general education and refer for individual advice",
+      "Advise the client to stop all medication"
+    ],
+    "answerIndex": 2,
+    "explanation": "Prescribing dietary supplements to treat a medical condition or disease is beyond a fitness professional's scope of practice. It is appropriate to provide general education about supplements or to direct the client to consult a dietitian or medical professional. Referral for nutritional and supplemental advice is an explicit professional obligation."
+  },
+  {
+    "id": "both-041",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Progression rate",
+    "question": "A client wants to double their weekly running volume after two weeks of training. What guidance applies?",
+    "choices": [
+      "Doubling the weekly volume is appropriate whenever the client feels fully recovered",
+      "Progression should always come from intensity alone",
+      "Volume should be increased only once per year",
+      "Increases should generally stay near 10% per week"
+    ],
+    "answerIndex": 3,
+    "explanation": "As a general rule, increases in frequency, intensity, or duration should be limited to roughly 10%, and made only after the body has adapted to the current program. Progressing too quickly raises the risk of musculoskeletal injury such as sprains and strains. Failing to plan the rate of progression is one of the most common errors in program design."
+  },
+  {
+    "id": "both-042",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Pain during exercise",
+    "question": "A client reports sharp joint pain during a movement assessment. What should the trainer do?",
+    "choices": [
+      "Stop and recommend evaluation by a medical professional",
+      "Reduce the load and complete the remaining sets to see whether the pain settles",
+      "Record it as a movement impairment and design corrective exercise",
+      "Substitute a different exercise for the same joint and continue"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pain reported during a movement assessment warrants further evaluation by a medical professional. Training a client who is currently in pain without clearance and direction from their physician is not recommended. Pain is a medical finding rather than a movement impairment to be corrected with programming."
+  },
+  {
+    "id": "both-043",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Special population screening",
+    "question": "A prospective client is 68 years old with two chronic conditions and wants to begin vigorous training. What must happen first?",
+    "choices": [
+      "Nothing, since age alone is not a recognized barrier to beginning exercise",
+      "Complete screening and obtain medical clearance",
+      "Perform a maximal exercise test in the gym",
+      "Begin vigorous training and monitor symptoms"
+    ],
+    "answerIndex": 1,
+    "explanation": "Preparticipation screening comes first, and clearance is required because the presence of known disease places a client in a higher risk category, while the intended intensity raises the threshold further. Clients with diagnosed conditions must have physician clearance before training. Older adults should also complete a health history questionnaire and appropriate assessments before beginning."
+  },
+  {
+    "id": "both-044",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Adherence",
+    "question": "A client repeatedly cancels sessions and says they find the programmed treadmill work boring. What is the most productive adjustment?",
+    "choices": [
+      "Insist on the treadmill because it is the most effective mode",
+      "Increase the treadmill intensity to make it more engaging",
+      "Change to modes the client enjoys",
+      "Reduce the program to one session per month"
+    ],
+    "answerIndex": 2,
+    "explanation": "Enjoyment is a formal component of exercise programming because a client who does not enjoy the activity is unlikely to adhere and therefore unlikely to reach their goals. Personal preference on exercise mode strongly influences whether clients complete the program as designed rather than cutting sessions short or lowering intensity. Selecting enjoyable activities is a legitimate programming decision, not a compromise."
+  },
+  {
+    "id": "both-045",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Fat loss programming",
+    "question": "A client's goal is fat loss. Why should resistance training be included alongside cardiorespiratory work?",
+    "choices": [
+      "Because resistance training burns more calories per session than aerobic exercise does",
+      "Because resistance training eliminates the need for a calorie deficit",
+      "Because cardiorespiratory training is ineffective for fat loss",
+      "Lean tissue supports calorie expenditure during a deficit"
+    ],
+    "answerIndex": 3,
+    "explanation": "Fat loss requires a net calorie deficit, but the goal is to minimize loss of lean body mass. Resistance training provides a potent stimulus that maintains or increases lean tissue, and greater lean mass plus more total activity increases calories expended during exercise and throughout the day. Adequate caloric and especially protein intake combined with resistance training is an essential element for preserving and building muscle."
+  },
+  {
+    "id": "both-046",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Technique and feedback",
+    "question": "A client insists on loose technique because it lets them lift more weight. What is the underlying risk the trainer should explain?",
+    "choices": [
+      "Poor form sends incorrect sensory information to the nervous system",
+      "Only that their total training volume for the session will be slightly reduced",
+      "There is no risk with submaximal loads",
+      "It will slow their heart rate response"
+    ],
+    "answerIndex": 0,
+    "explanation": "Training with improper form feeds incorrect sensory information into the nervous system, which leads to movement compensations and potential injury. This is why programs should be well designed and clients encouraged to train with correct technique at all times. Quality of movement should always take precedence over the load or repetition count."
+  },
+  {
+    "id": "both-047",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Delayed-onset muscle soreness",
+    "question": "A client is sore two days after their first session with substantial eccentric loading. How should this be interpreted?",
+    "choices": [
+      "As an injury requiring medical assessment before any further training is attempted",
+      "As delayed-onset muscle soreness appearing 24 to 72 hours later",
+      "As a sign the program was too easy",
+      "As evidence of overtraining syndrome"
+    ],
+    "answerIndex": 1,
+    "explanation": "Delayed-onset muscle soreness typically occurs 24 to 72 hours after strenuous exercise, particularly movements involving a great deal of eccentric deceleration. It is part of the initial alarm reaction to a new stressor, alongside fatigue and joint stiffness. Short bouts of self-myofascial rolling have been shown to decrease post-exercise soreness and fatigue."
+  },
+  {
+    "id": "both-048",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Detraining and maintenance",
+    "question": "A client will be traveling for three weeks and cannot maintain their usual training volume. What is the most useful guidance?",
+    "choices": [
+      "All of the adaptations will be lost within the first week away from training",
+      "They must train daily to avoid losing all fitness",
+      "Aerobic capacity can be held on substantially reduced volume",
+      "They should stop training entirely and resume on return"
+    ],
+    "answerIndex": 2,
+    "explanation": "Maintaining aerobic capacity requires significantly less effort than improving it, and clients can hold their gains by reducing frequency to no fewer than two sessions per week while maintaining duration and especially intensity. Total aerobic volume can be reduced substantially for a few weeks without negatively affecting maximal oxygen uptake. Using a variety of modes also helps sustain motivation during such a period."
+  },
+  {
+    "id": "both-049",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Plyometric readiness",
+    "question": "A client wants to add depth jumps but has been resistance training for only three weeks and cannot hold a stable half-squat position. What is the correct decision?",
+    "choices": [
+      "Proceed, using a low box and a small number of repetitions per set",
+      "Proceed but eliminate the landing",
+      "Substitute maximal sprinting",
+      "Postpone plyometrics and build resistance training experience"
+    ],
+    "answerIndex": 3,
+    "explanation": "Plyometric participation requires proper technique for each drill, a base of resistance training experience, and sufficient strength, speed, and balance for the drill level. The partial or half-squat position is the fundamental position from which all lower body plyometric exercise originates and ends, so the ability to hold it must be assessed first. Depth jumps are a high-intensity drill for which the published strength guidelines should be met."
+  },
+  {
+    "id": "both-050",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Landing mechanics",
+    "question": "During jump training a client repeatedly lands with the knees collapsing inward. What is the priority?",
+    "choices": [
+      "Reduce intensity and coach the landing mechanics",
+      "Add external load in order to increase the stabilization demand on the knee",
+      "Increase jump height to force better positioning",
+      "Continue the set and address it later"
+    ],
+    "answerIndex": 0,
+    "explanation": "Plyometric intensity should be programmed to what the client can execute with adequate technique, and if technique is lost the intensity should drop until it is restored. Proper landing places the shoulders over the knees with the knees over or slightly posterior to the toes and no inward or outward deviation. Constant feedback during and after each drill is what instills the correct pattern."
+  },
+  {
+    "id": "both-052",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Spotting decisions",
+    "question": "A client will perform a barbell bench press with a challenging load. What does this require?",
+    "choices": [
+      "No spotter, since the bar path is short and fully controlled by the lifter",
+      "Three spotters regardless of load",
+      "A spotter, since the bar travels over the face",
+      "A spotter positioned behind the client's head only after the set"
+    ],
+    "answerIndex": 2,
+    "explanation": "Free weight exercises performed over the face, such as the bench press, are among the conditions that require a spotter. Bars, dumbbells, and plates that are not restricted to a fixed path increase the chance that a client loses control and is injured. Machine exercises still require supervision but carry less risk of a weight falling on the client."
+  },
+  {
+    "id": "both-053",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Muscle imbalance",
+    "question": "A client's assessment reveals chronically shortened hip flexors and lengthened, underactive glutes. What corrective logic applies?",
+    "choices": [
+      "Strengthen both muscle groups equally with heavy loading twice each training week",
+      "Ignore the finding since both muscles cross the hip",
+      "Stretch both groups and avoid strengthening",
+      "Lengthen the overactive hip flexors and strengthen the glutes"
+    ],
+    "answerIndex": 3,
+    "explanation": "When muscles on either side of a joint have altered length-tension relationships, the joint is held in a suboptimal resting position, which is the basis of poor posture. Flexibility techniques are used to calm down overactive muscle and strengthening techniques to improve neural activation of underactive muscle. Applying stretching indiscriminately to both sides would reinforce rather than resolve the imbalance."
+  },
+  {
+    "id": "both-055",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Confidentiality",
+    "question": "A trainer wants to use a client's before-and-after photos and health history in facility advertising. What is required?",
+    "choices": [
+      "Nothing, since the client's results are the trainer's own professional achievement",
+      "Confidentiality must be protected in advertising",
+      "Only the manager's approval",
+      "Only that the client's name be omitted"
+    ],
+    "answerIndex": 1,
+    "explanation": "Certified professionals must protect client confidentiality in conversations, advertising, and any other arena. Records must be stored and disposed of securely, and the interests of clients who are minors or unable to give voluntary consent must be protected through the appropriate guardian. Using identifiable client information without consent breaches these obligations."
+  },
+  {
+    "id": "both-059",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Machine versus free weight selection",
+    "question": "A novice exerciser is intimidated by the free weight area. What is a reasonable programming choice, and what trade-off should the trainer recognize?",
+    "choices": [
+      "Machines are superior to free weights in every respect",
+      "Machines can offer a safer, effective starting option",
+      "Only free weights should ever be used",
+      "Machines cannot produce any strength adaptation"
+    ],
+    "answerIndex": 1,
+    "explanation": "Because most novice exercisers lack resistance training experience, strength-training machines can offer a safer and effective option. The trade-off is that machines are regarded as inferior to free weights for developing core stability and muscular coordination, since they provide artificial support instead of demanding the client's own core musculature. Free weights remain highly versatile across populations and goals but can intimidate some clients."
+  },
+  {
+    "id": "both-060",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Volume and intensity",
+    "question": "A trainer wants to raise both training volume and training intensity substantially in the same week. What principle argues against this?",
+    "choices": [
+      "Volume and intensity are unrelated",
+      "Intensity should always be maximized regardless of volume",
+      "Volume and intensity have an inverse relationship",
+      "Volume cannot be measured accurately"
+    ],
+    "answerIndex": 2,
+    "explanation": "Volume and intensity have an inverse relationship, so as intensity increases volume usually decreases and vice versa. This trade-off appears across periodization models, including linear progressions that raise load while lowering total repetitions. Both must still be increased strategically over the long term to avoid plateaus."
+  },
+  {
+    "id": "both-061",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Session duration",
+    "question": "A client insists on training at very high intensity for two hours per session. What principle should guide the trainer's response?",
+    "choices": [
+      "Longer is always better regardless of intensity",
+      "Two hours is the recommended minimum",
+      "Session length has no relationship to intensity",
+      "Duration and intensity are inversely related"
+    ],
+    "answerIndex": 3,
+    "explanation": "Duration and intensity are inversely related, so as intensity rises the session must shorten. In most fitness settings exercise sessions last roughly 30 to 90 minutes, with client health status, training level, program goals, and volume all influencing the appropriate length. Longer, higher-intensity sessions also require more recovery and therefore cannot be repeated as frequently."
+  },
+  {
+    "id": "both-063",
+    "source": "both",
+    "type": "tf",
+    "topic": "Energy systems",
+    "question": "All three energy systems work together to fulfill the body's total energy demand rather than operating one at a time.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "The ATP-PC, glycolytic, and oxidative systems all contribute simultaneously, with their relative shares changing over time. The ATP-PC system dominates the first 10 to 15 seconds, glycolysis takes over for roughly the next two minutes, and the oxidative system ramps up throughout to eventually become primary. Intensity and duration determine which system predominates at any moment."
+  },
+  {
+    "id": "both-064",
+    "source": "both",
+    "type": "tf",
+    "topic": "Oxidative metabolism",
+    "question": "Fat can be metabolized for fuel without oxygen, in the same way glucose can.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Free fatty acids are oxidized exclusively via the aerobic pathway, which uses oxygen to create adenosine triphosphate. Glucose, by contrast, can be metabolized without oxygen and can be used much faster, which is why intensity increases shift the body toward carbohydrate. To enter the oxidative pathway, fat must first be converted to free fatty acids and broken down to acetyl coenzyme A through beta-oxidation."
+  },
+  {
+    "id": "both-065",
+    "source": "both",
+    "type": "tf",
+    "topic": "Anaerobic metabolism",
+    "question": "Lactate and hydrogen ions accumulating during intense exercise lower muscle pH, which can interfere with muscle contraction.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "As pyruvate accumulates in an anaerobic environment it is quickly converted to lactate, releasing a free hydrogen ion. Those hydrogen ions lower muscle pH, a condition called acidosis, and can interfere with muscle contraction. This contributes to the pain and fatigue associated with intense exercise."
+  },
+  {
+    "id": "both-066",
+    "source": "both",
+    "type": "tf",
+    "topic": "Glycogen storage",
+    "question": "The body can store considerably more energy as glycogen than it can as fat.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Glucose is stored as glycogen in the liver and muscle cells, where it can be broken down rapidly when free blood glucose is insufficient. The amount of glycogen the body can store is much less than the amount of fat it can store. This is one reason carbohydrate availability limits high-intensity work while fat can support prolonged lower-intensity activity."
+  },
+  {
+    "id": "both-068",
+    "source": "both",
+    "type": "tf",
+    "topic": "Referral",
+    "question": "A fitness professional may diagnose and treat a client's injury provided the client gives written consent.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Fitness professionals do not diagnose or treat illness or injury beyond basic first aid, regardless of client consent. Diagnosis and treatment belong to licensed medical practitioners, and clients presenting with pain or disease must be referred. Working outside that boundary exposes both client and trainer to serious risk."
+  },
+  {
+    "id": "both-070",
+    "source": "both",
+    "type": "tf",
+    "topic": "Medications",
+    "question": "Medications can alter heart rate, blood pressure, cardiac function, and exercise capacity, so heart rate may be an inappropriate intensity marker for some clients.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Various medications influence physiological responses during activity, altering heart rate, blood pressure, cardiac function, and exercise capacity. Beta blockers in particular blunt the normal rise in heart rate, so clients on them cannot reach and should not chase target heart rates. Ratings of perceived exertion provide a more effective way to regulate intensity in these cases."
+  },
+  {
+    "id": "both-071",
+    "source": "both",
+    "type": "tf",
+    "topic": "Blood pressure measurement",
+    "question": "An unexpectedly high blood pressure reading should be repeated, and a significant discrepancy between arms warrants physician referral.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Abnormal readings should be repeated on the opposite arm, since a significant discrepancy between arms may indicate a circulatory problem requiring medical evaluation. Single elevated readings are also not diagnostic, which is why hypertension criteria require confirmation across separate occasions. Blood pressure is measured at the brachial artery as the standard site."
+  },
+  {
+    "id": "both-074",
+    "source": "both",
+    "type": "tf",
+    "topic": "Muscle fiber types",
+    "question": "Each muscle in the body is composed exclusively of either type I or type II fibers.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "All muscles have varying combinations of both type I and type II fibers rather than being purely one type. Type I fibers are small, fatigue resistant, and rich in mitochondria and myoglobin, while type II fibers are larger, produce more force, and fatigue quickly. Stabilization-focused training targets type I characteristics while strength-focused training targets type II."
+  },
+  {
+    "id": "both-076",
+    "source": "both",
+    "type": "tf",
+    "topic": "Eccentric strength",
+    "question": "Eccentric muscle actions can resist more weight than concentric actions.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Eccentric actions, in which the muscle develops tension while lengthening, can resist more weight than concentric actions. This is why lowering an implement more slowly than it is lifted increases time under tension and can improve strength. Eccentric-only exercise, when appropriately loaded, has also been shown to stimulate anabolic hormones to a greater degree than concentric-only exercise."
+  },
+  {
+    "id": "both-084",
+    "source": "both",
+    "type": "tf",
+    "topic": "Plyometric quality",
+    "question": "The effectiveness of a plyometric session should be judged by how fatigued the client feels afterward.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Effectiveness should not be determined by the level of fatigue the client feels, because using fatigue as a guideline often produces overtraining, pain, and overuse injuries. It is the quality of the exercise rather than the quantity that produces the greatest increases in power. Each repetition requires a maximum, quality effort to be effective."
+  },
+  {
+    "id": "both-086",
+    "source": "both",
+    "type": "tf",
+    "topic": "Exercise mode and adherence",
+    "question": "A client's personal preference for exercise mode has a substantial influence on how well they adhere to a program.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Clients' personal preferences on exercise mode strongly influence adherence to the program. Choosing activities the client enjoys helps them complete the program as designed rather than shortening sessions or lowering intensity. Enjoyment is treated as a formal programming variable for exactly this reason."
+  },
+  {
+    "id": "both-087",
+    "source": "both",
+    "type": "tf",
+    "topic": "Weight belts",
+    "question": "A weight belt is appropriate for every resistance exercise regardless of load or whether the trunk is loaded.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "A belt is recommended only for ground-based structural exercises that load the trunk and stress the lower back, and only when maximal or near-maximal loads are used. It is not needed for exercises that do not directly load the trunk, and it is unnecessary for lighter loads even on a structural exercise. Wearing one for every exercise can leave the lower back and abdominal muscles unaccustomed to supporting the torso."
+  },
+  {
+    "id": "both-090",
+    "source": "both",
+    "type": "tf",
+    "topic": "Body composition methods",
+    "question": "Hydration status can compromise the accuracy of a bioelectrical impedance body composition measurement.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bioelectrical impedance estimates body fat from the resistance tissues offer to a weak electrical current, and because muscle holds far more water than fat, any state of water retention or loss compromises accuracy. A dehydrated client will not produce a result comparable to their baseline. Standardizing hydration and timing across retests is therefore essential."
+  },
+  {
+    "id": "both-091",
+    "source": "both",
+    "type": "tf",
+    "topic": "Skinfold timing",
+    "question": "Skinfolds are best measured immediately after exercise, while the tissue is warm and pliable.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Skinfolds should not be measured immediately after exercise, because thermoregulation produces peripheral vasodilation near the skin that can inflate the measured fold and the resulting body fat estimate. Body composition measures therefore belong before any exertion in an assessment sequence. Repeat readings at each site should also agree within 1 to 2 mm before being averaged."
+  },
+  {
+    "id": "both-093",
+    "source": "both",
+    "type": "tf",
+    "topic": "Weight-bearing exercise and bone",
+    "question": "Cycling and swimming strengthen bone as effectively as weight-bearing activity such as jogging.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Weight-bearing exercise such as walking, jogging, dancing, and jumping strengthens bone through the remodeling process, which occurs along the lines of stress placed on the bone. Non-weight-bearing modes support the cardiovascular system without loading the skeleton in the same way. Plyometric training has separately been shown to improve bone mineral content."
+  },
+  {
+    "id": "both-094",
+    "source": "both",
+    "type": "tf",
+    "topic": "Physical inactivity",
+    "question": "Physical inactivity is a recognized risk factor associated with the development of cardiovascular disease.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Physical inactivity is a major contributing positive risk factor associated with the development of coronary artery disease and features in formal risk factor thresholds. Poor cardiorespiratory fitness is related to a marked increase in premature death from all causes, particularly cardiovascular disease. Conversely, improvement in cardiorespiratory fitness is related to a reduction in premature death from all causes."
+  },
+  {
+    "id": "both-095",
+    "source": "both",
+    "type": "tf",
+    "topic": "Individualization",
+    "question": "Exercise programs should be individualized to the client's needs, goals, and abilities rather than applied as a generic template.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Programs must be designed around the client's needs, goals, and abilities, informed by their assessment results. No two individuals respond and adapt to exercise in exactly the same way, so all training recommendations must be individually determined. Individualization is also what drives adherence, arguably the most important factor in whether a program works."
+  },
+  {
+    "id": "both-096",
+    "source": "both",
+    "type": "tf",
+    "topic": "Conservative starting point",
+    "question": "When in doubt about a client's readiness, it is better to begin at a lower intensity than indicated.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "It is always best to err on the side of conservatism and, if in doubt, begin the program at a lower intensity than indicated. Doing so leaves the client, who may already be fearful of exercise, ample room for improvement without risking injury or exacerbating an underlying condition. Attainable early goals also support the psychological momentum that keeps clients training."
+  },
+  {
+    "id": "both-098",
+    "source": "both",
+    "type": "tf",
+    "topic": "Technique instruction",
+    "question": "Demonstrating a new exercise should begin with establishing a stable starting position.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Every demonstration of a new exercise should begin with how to establish a correct starting position. From that position the client can maintain proper body alignment throughout the movement, placing the stress only on the targeted muscles. Trainers must also be able to explain, demonstrate, correct, and cue each movement they program."
+  },
+  {
+    "id": "both-099",
+    "source": "both",
+    "type": "tf",
+    "topic": "Documentation",
+    "question": "A trainer should review a signed health history questionnaire before beginning to train a new client.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "A certified professional must not begin training a client before receiving and reviewing a current health-history questionnaire signed by that client. A record-keeping system to verify completion and receipt of forms and document client status supports this. Accurate, truthful progress notes should also be maintained for each client."
+  },
+  {
+    "id": "both-100",
+    "source": "both",
+    "type": "tf",
+    "topic": "Quality before quantity",
+    "question": "Improving movement quality should come before increasing load or repetitions.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Proper form and technique must be mastered to ensure correct muscle activation and avoid injury, so improving quality always precedes increasing quantity or weight. Monitoring the kinetic chain checkpoints at the feet, knees, hips, shoulders, and head is how that quality is tracked. Only one variable should be progressed at a time so the client can demonstrate mastery at each stage."
+  },
+  {
+    "id": "both-102",
+    "source": "both",
+    "type": "tf",
+    "topic": "Warm-up progression",
+    "question": "A warm-up should progress from small, simple movements toward the larger, more complex movements used in the upcoming session.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Proper warm-up involves a slow progression from small, simple movements to the larger, more complicated movements that mimic those used in the session. For a client who will be running, that means progressing from normal walking through slow jogging into running with full arm action. Enough time should be allowed in each activity for heart rate to rise and meet the metabolic demand before advancing."
+  },
+  {
+    "id": "both-103",
+    "source": "both",
+    "type": "tf",
+    "topic": "Fat and calorie balance",
+    "question": "One pound of body fat represents roughly 1,000 calories of stored energy.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "For conversion purposes, one pound of body fat equals around 3,500 calories of stored energy. Triglycerides, the chemical form in which most fat exists in food and in the body, are derived from dietary fat or made by the body to store excess energy. Because energy cannot be created or destroyed, stored energy always corresponds to an increase in body mass."
+  },
+  {
+    "id": "both-104",
+    "source": "both",
+    "type": "tf",
+    "topic": "Stabilization foundation",
+    "question": "Stabilization is the foundation on which hypertrophy, strength, and power are built.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Stabilization, the body's ability to provide optimal dynamic joint support and maintain correct posture during movement, is the foundation on which hypertrophy, strength, and power are built. Strength cannot be considered in isolation, since muscles, tendons, and ligaments must be prepared for the loads required to increase it beyond the initial stages. This is why resistance exercises progress from stabilization-focused, to strength-focused, to power-focused work."
+  }
+]

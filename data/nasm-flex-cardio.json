@@ -1,0 +1,1119 @@
+[
+  {
+    "id": "nasm-fc-001",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Flexibility",
+    "question": "How is flexibility defined?",
+    "choices": [
+      "The normal extensibility of all soft tissues that allows the complete range of motion of a joint",
+      "The ability to hold a stretch for 30 seconds",
+      "The maximum joint angle achievable with assistance",
+      "The strength of a muscle at its longest length"
+    ],
+    "answerIndex": 0,
+    "explanation": "Flexibility is the normal extensibility of all soft tissues, both contractile and noncontractile, that permits a joint's complete range of motion. Soft tissue only achieves efficient extensibility when optimal bodily control is maintained throughout that range, which is termed mobility. Adequate flexibility combined with joint range of motion produces proper mobility of the major bodily regions."
+  },
+  {
+    "id": "nasm-fc-002",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Relative flexibility",
+    "question": "What is relative flexibility?",
+    "choices": [
+      "The comparison of one client's flexibility to a normative table",
+      "The process in which the human movement system seeks the path of least resistance during functional movements",
+      "The difference in flexibility between the right and left side",
+      "The improvement in range of motion after a warm-up"
+    ],
+    "answerIndex": 1,
+    "explanation": "Relative flexibility is the altered movement pattern that results when the human movement system takes the path of least resistance during functional movement. It develops from poor flexibility and can prevent the nervous system from efficiently recruiting the correct muscle patterns and contractions. The result is compensation elsewhere in the kinetic chain."
+  },
+  {
+    "id": "nasm-fc-003",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Flexibility",
+    "question": "Which of the following influences a client's flexibility?",
+    "choices": [
+      "The client's occupation only",
+      "Blood type and eye color",
+      "Joint structure, myofascial tissue elasticity, strength of opposing muscle groups, and previous injuries",
+      "Time of year and weather"
+    ],
+    "answerIndex": 2,
+    "explanation": "Flexibility is influenced by genetics, myofascial tissue elasticity, the composition of tendons and skin around the joint, joint structure, the strength of opposing muscle groups, body composition, sex, age, activity level, previous injuries or medical issues, and repetitive movements. Many of these are not modifiable, which is why flexibility programming must be individualized. Repetitive movement in particular is a modifiable contributor a trainer can address."
+  },
+  {
+    "id": "nasm-fc-004",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Muscle imbalance",
+    "question": "Which mechanisms can cause a muscle imbalance?",
+    "choices": [
+      "Only an inadequate dietary protein intake sustained over a long period of training",
+      "Only genetics and age",
+      "Only acute traumatic injury",
+      "Postural distortions, repetitive movement, cumulative trauma, and poor training"
+    ],
+    "answerIndex": 3,
+    "explanation": "Muscle imbalance can arise from postural distortions, repetitive movement, cumulative trauma, emotional duress, poor training technique, poor bodily control, and biased training patterns. The resulting imbalance can produce altered reciprocal inhibition, synergistic dominance, and osteokinematic and arthrokinematic dysfunction. Most of these causes are addressable through better programming and coaching."
+  },
+  {
+    "id": "nasm-fc-005",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Synergistic dominance",
+    "question": "What is synergistic dominance?",
+    "choices": [
+      "Synergists taking over for a weak prime mover",
+      "The prime mover overpowering its synergists and producing all of the joint force",
+      "The antagonist contracting simultaneously with the agonist",
+      "A stabilizer producing more force than the agonist by design"
+    ],
+    "answerIndex": 0,
+    "explanation": "Synergistic dominance is a neuromuscular phenomenon in which synergists take over the function of a weak or inhibited prime mover. It produces faulty movement patterns that lead to soft tissue and joint dysfunction and eventual injury. It also leads to altered reciprocal inhibition of the antagonist muscle."
+  },
+  {
+    "id": "nasm-fc-006",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Neuromuscular efficiency",
+    "question": "What is neuromuscular efficiency?",
+    "choices": [
+      "The speed at which a nerve impulse travels along a myelinated motor axon",
+      "Recruiting the right muscles to produce and stabilize movement",
+      "The number of motor units in a given muscle",
+      "The percentage of type I fibers in a muscle"
+    ],
+    "answerIndex": 1,
+    "explanation": "Neuromuscular efficiency is the nervous system's ability to recruit the correct muscles to produce force, reduce force, and dynamically stabilize the body's structure in all three planes of motion. Achieving it requires proper flexibility in all three planes. The nervous system is the controlling factor behind this principle."
+  },
+  {
+    "id": "nasm-fc-007",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Autogenic inhibition",
+    "question": "What is autogenic inhibition?",
+    "choices": [
+      "The muscle spindle causing a reflexive contraction whenever the muscle is lengthened",
+      "The agonist inhibiting its antagonist during movement",
+      "Prolonged Golgi tendon organ stimulation inhibiting the muscle",
+      "The loss of muscle tone following prolonged bed rest"
+    ],
+    "answerIndex": 2,
+    "explanation": "Autogenic inhibition occurs when prolonged Golgi tendon organ stimulation inhibits the muscle spindles located within the same muscle. It happens when the neural impulses sensing tension exceed the impulses causing contraction. This mechanism prevents the muscle from being placed under excessive stress that could cause injury."
+  },
+  {
+    "id": "nasm-fc-008",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Lengthening reaction",
+    "question": "Which sequence describes the lengthening reaction during a sustained stretch?",
+    "choices": [
+      "The muscle relaxes immediately because the spindle stops firing as soon as tension rises",
+      "Blood flow increases, then the tendon lengthens, then the muscle spindle is destroyed",
+      "The Golgi tendon organ fires first, then the muscle contracts and stays contracted",
+      "The spindle senses lengthening, then the tendon organ overrides it"
+    ],
+    "answerIndex": 3,
+    "explanation": "In the lengthening reaction the muscle is stretched and the muscle spindle senses the change in length. The stretch reflex is activated, causing the muscle to contract. If the position is held for a prolonged period, the spindle's firing frequency decreases and a relaxation response follows, which is why static stretches require a sustained hold."
+  },
+  {
+    "id": "nasm-fc-009",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Range of motion",
+    "question": "Which three categories of factors account for improvements in joint range of motion?",
+    "choices": [
+      "Mechanical, neural, and psycho-physiological",
+      "Genetic, hormonal, and nutritional",
+      "Aerobic, anaerobic, and metabolic",
+      "Structural, functional, compensatory, and postural factors"
+    ],
+    "answerIndex": 0,
+    "explanation": "Improvements in joint range of motion are always attributable to mechanical factors affecting muscle and tendon compliance or stiffness, neural factors involving central nervous system inhibition that lets the muscle relax, and psycho-physiological factors, namely stretch tolerance. Stretch tolerance is the ability to experience the sensations of stretching with less discomfort at end range. No single mechanism explains a flexibility gain on its own."
+  },
+  {
+    "id": "nasm-fc-010",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Pattern overload",
+    "question": "What is pattern overload?",
+    "choices": [
+      "Performing too many different movement patterns within one single training session",
+      "Repeating the same movement pattern over long periods",
+      "Exceeding the recommended weekly training volume",
+      "Loading a joint beyond its anatomical limit in a single repetition"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pattern overload is consistently repeating the same pattern of motion over long periods, which can lead to dysfunction or injury. Assembly line work, construction work, and prolonged computer use are common examples. Along with the cumulative injury cycle, pattern overload is one of the two factors supporting the need for flexibility training."
+  },
+  {
+    "id": "nasm-fc-011",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Cumulative injury cycle",
+    "question": "Which sequence describes the cumulative injury cycle?",
+    "choices": [
+      "Fatigue leading to increased strength and then to a plateau in performance",
+      "Muscle growth leading to increased strength and reduced injury risk",
+      "Trauma, inflammation, spasm, adhesions, imbalance, and dysfunction",
+      "Stretching leading to permanent tissue lengthening"
+    ],
+    "answerIndex": 2,
+    "explanation": "The cumulative injury cycle describes tissue trauma inducing inflammation, muscle spasm, adhesions, altered neuromuscular control, and muscle imbalances. Repetitive movement and long periods of poor posture are believed to initiate the trauma and inflammation. Heightened activity of the central nervous system and local mechanoreceptors and nociceptors creates microspasm, after which adhesions can form in the myofascial tissue."
+  },
+  {
+    "id": "nasm-fc-012",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Davis's law",
+    "question": "What does Davis's law state?",
+    "choices": [
+      "Bone remodels along the lines of stress placed on it",
+      "Energy cannot be created or destroyed",
+      "Force equals mass times acceleration",
+      "Soft tissue will model along the lines of stress"
+    ],
+    "answerIndex": 3,
+    "explanation": "Davis's law states that soft tissue will model along the lines of stress. Left unchecked, adhesions can produce structural changes in soft tissue consistent with this principle. Wolff's law is the analogous statement for bone remodeling."
+  },
+  {
+    "id": "nasm-fc-013",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Flexibility programming",
+    "question": "Which tissues should be the focus of flexibility training?",
+    "choices": [
+      "Tissues found to be overactive during the assessment process",
+      "Tissues that were found to be underactive during the movement assessment",
+      "All tissues equally, regardless of assessment findings",
+      "Only tissues the client reports as painful"
+    ],
+    "answerIndex": 0,
+    "explanation": "Flexibility training aims to enhance tissue extensibility and joint range of motion in the tissues identified as overactive during assessment. Underactive muscles instead need strengthening. Applying stretching indiscriminately can worsen an existing imbalance."
+  },
+  {
+    "id": "nasm-fc-014",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Types of flexibility training",
+    "question": "Which four types of flexibility training are described?",
+    "choices": [
+      "Ballistic, proprioceptive neuromuscular facilitation, and partner-assisted stretching methods",
+      "Self-myofascial, static, active, and dynamic techniques",
+      "Foam rolling, massage, cupping, and dry needling",
+      "Yoga, Pilates, tai chi, and barre"
+    ],
+    "answerIndex": 1,
+    "explanation": "The described types of flexibility training are self-myofascial techniques, static stretching, active stretching, and dynamic stretching. All of them can be integrated into an exercise program. Which are appropriate depends on the client's assessment findings and the phase of training."
+  },
+  {
+    "id": "nasm-fc-015",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Self-myofascial rolling",
+    "question": "What are the two proposed effects of self-myofascial rolling?",
+    "choices": [
+      "Hormonal and immunological effects",
+      "Aerobic and anaerobic",
+      "Mechanical and neurophysiological",
+      "Structural and skeletal"
+    ],
+    "answerIndex": 2,
+    "explanation": "Self-myofascial rolling is thought to produce both mechanical and neurophysiological effects on myofascial tissue. Mechanically, direct roller compression may relax local myofascia by increasing local blood flow and reducing restriction and adhesions. Neurophysiologically, that compression may influence tissue relaxation and pain by stimulating local mechanoreceptors and pain receptors."
+  },
+  {
+    "id": "nasm-fc-016",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Self-myofascial rolling",
+    "question": "How long should pressure be sustained on a tender spot when foam rolling?",
+    "choices": [
+      "5 seconds",
+      "10 seconds",
+      "A minimum of five whole minutes",
+      "A minimum of 30 seconds"
+    ],
+    "answerIndex": 3,
+    "explanation": "The client should find a tender spot and sustain pressure there for a minimum of 30 seconds to increase the relaxation response. Applying gentle force to an adhesion alters the bundled elastic fibers into a straighter alignment with the muscle or fascia. The pressure should feel similar to a massage rather than sharp or intolerable."
+  },
+  {
+    "id": "nasm-fc-017",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Delayed-onset muscle soreness",
+    "question": "When does delayed-onset muscle soreness typically occur, and what movement type most provokes it?",
+    "choices": [
+      "24 to 72 hours after strenuous eccentric work",
+      "Immediately after exercise, and worst in movements with a large concentric component",
+      "5 to 7 days after exercise; concentric-only lifting",
+      "During exercise itself; aerobic activity"
+    ],
+    "answerIndex": 0,
+    "explanation": "Delayed-onset muscle soreness typically appears 24 to 72 hours after strenuous exercise. It is especially associated with movements involving a great deal of eccentric deceleration. Short bouts of self-myofascial rolling have been found to decrease post-exercise soreness and fatigue."
+  },
+  {
+    "id": "nasm-fc-018",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Self-myofascial rolling technique",
+    "question": "A client is foam rolling along the thoracic spine and asks how far down to roll. Which region should they avoid?",
+    "choices": [
+      "The mid-back between the shoulder blades",
+      "The low back and neck",
+      "The upper back near the scapulae",
+      "The area between the ribs"
+    ],
+    "answerIndex": 1,
+    "explanation": "When rolling the thoracic spine the client should avoid rolling over the lumbar spine and cervical spine. The technique is useful for gaining thoracic extension, with the client in a bridge position and hands supporting the head or arms crossed on the chest. Similarly, rolling over the knee joint and hip bone should be avoided when working the lower extremity."
+  },
+  {
+    "id": "nasm-fc-019",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Self-myofascial rolling technique",
+    "question": "A client finds foam rolling the lateral thigh unbearably painful. What is the suggested adjustment?",
+    "choices": [
+      "Increase the pressure until the pain subsides",
+      "Skip all self-myofascial work permanently",
+      "Opt for a handheld roller instead",
+      "Roll directly over the hip bone to redistribute pressure"
+    ],
+    "answerIndex": 2,
+    "explanation": "Rolling the lateral thigh can be too painful for some individuals, and the suggested alternative is a handheld roller. The client should also avoid rolling over the hip or knee joint. Increasing pressure on an already intolerable area risks tissue irritation rather than relaxation."
+  },
+  {
+    "id": "nasm-fc-020",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Medical precautions",
+    "question": "How does a medical precaution differ from a medical contraindication for flexibility exercise?",
+    "choices": [
+      "A precaution applies only to aerobic work while a contraindication applies to lifting",
+      "A precaution means the exercise is prohibited; a contraindication means it may be modified",
+      "The two terms mean the same thing",
+      "A precaution allows modification; a contraindication means avoid"
+    ],
+    "answerIndex": 3,
+    "explanation": "A medical precaution is a condition that could be unsafe, but the trainer may be able to modify the exercise so the client can perform it safely. A medical contraindication makes the flexibility exercise unsafe, so self-myofascial techniques should not be conducted and a medical professional should be consulted first. Distinguishing them determines whether to modify or to refrain entirely."
+  },
+  {
+    "id": "nasm-fc-021",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Contraindications",
+    "question": "Which condition is listed as a medical contraindication to self-myofascial techniques?",
+    "choices": [
+      "Osteoporosis",
+      "Pregnancy",
+      "Controlled hypertension",
+      "Varicose veins"
+    ],
+    "answerIndex": 0,
+    "explanation": "Osteoporosis is listed as a contraindication, along with open wounds, skin rash, blisters, local tissue inflammation, bruises, tumors, deep vein thrombosis, osteomyelitis, bone fracture, myositis ossificans, and cancer or malignancy. Controlled hypertension, pregnancy, and varicose veins are precautions, meaning the exercise may be modified rather than avoided outright. Osteopenia is also a precaution rather than a contraindication."
+  },
+  {
+    "id": "nasm-fc-022",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Contraindications",
+    "question": "A client mentions they were recently diagnosed with deep vein thrombosis in the calf. What should the trainer do about foam rolling that leg?",
+    "choices": [
+      "Roll gently and briefly over the area to see whether the symptoms change",
+      "Refrain from rolling and have the client consult a physician",
+      "Roll only above the knee at full pressure",
+      "Substitute a massage ball for the foam roller and proceed"
+    ],
+    "answerIndex": 1,
+    "explanation": "Deep vein thrombosis is a listed medical contraindication to self-myofascial techniques. In the presence of a contraindication the technique should not be conducted and a medical professional should be consulted before proceeding. Substituting a different implement does not change the underlying medical risk."
+  },
+  {
+    "id": "nasm-fc-023",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Static stretching",
+    "question": "What defines static stretching, and how does it produce a relaxation response?",
+    "choices": [
+      "High force applied for a short duration at the very end of range",
+      "Rapid bouncing at end range; it desensitizes the Golgi tendon organ",
+      "Low force held for a longer duration",
+      "Momentum-driven movement through full range; it uses reciprocal inhibition"
+    ],
+    "answerIndex": 2,
+    "explanation": "Static stretching combines low force with longer duration hold times. Holding the muscle in a stretched position for a prolonged period inhibits the muscle spindle, producing a relaxation response. Momentum-driven movement through the full range describes dynamic stretching instead."
+  },
+  {
+    "id": "nasm-fc-024",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Static stretching",
+    "question": "What are the recommended parameters for static stretching?",
+    "choices": [
+      "Hold for 10 seconds on all muscle groups, repeating the sequence three times",
+      "Perform 10 to 15 repetitions held 1 to 2 seconds each",
+      "Hold for 2 minutes with no follow-up activity",
+      "Hold 30 seconds on overactive muscles, one to two sets"
+    ],
+    "answerIndex": 3,
+    "explanation": "Static stretches should be held for 30 seconds and applied only to muscles identified as overactive during the assessment process. They should be followed by additional warm-up protocols such as low-intensity core and balance exercises or dynamic stretching to regain motor neuron excitability. Ten to fifteen repetitions held 1 to 2 seconds each describes active stretching."
+  },
+  {
+    "id": "nasm-fc-025",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Static stretching",
+    "question": "What is the effect of acute static stretching performed in isolation immediately before power activity?",
+    "choices": [
+      "It can temporarily impair muscular power output",
+      "It reliably increases muscular power when performed immediately before explosive activity",
+      "It has no measurable effect on any performance variable",
+      "It permanently reduces force production"
+    ],
+    "answerIndex": 0,
+    "explanation": "Static stretching performed acutely and in isolation can temporarily impair muscular power because of the relaxation response it produces. However, static stretches held for 30 seconds or less, applied consistently before every workout and followed by dynamic activities, do not impair athletic performance. This is why the recommendation pairs static stretching with follow-up dynamic warm-up work."
+  },
+  {
+    "id": "nasm-fc-026",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Stretch tolerance",
+    "question": "What is stretch tolerance?",
+    "choices": [
+      "The maximum joint angle a client can reach before the muscle physically tears",
+      "The ability to tolerate the sensations of stretching",
+      "The number of repetitions a client can stretch before fatigue",
+      "The rate at which flexibility gains are lost after detraining"
+    ],
+    "answerIndex": 1,
+    "explanation": "Stretch tolerance is the ability to experience the physical sensations of stretching with reduced discomfort felt at end range of motion. Static stretching may influence many sensory mechanisms in the nervous system that facilitate greater tolerance. It is one of the three factor categories, alongside mechanical and neural, that account for range of motion improvement."
+  },
+  {
+    "id": "nasm-fc-027",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Static stretching",
+    "question": "How can contracting the antagonist during a static stretch improve its effect?",
+    "choices": [
+      "It increases muscle spindle firing in the stretched muscle",
+      "It converts the stretch into a dynamic stretch",
+      "It reciprocally inhibits the muscle being stretched",
+      "It shortens the required hold time to 5 seconds"
+    ],
+    "answerIndex": 2,
+    "explanation": "Contracting the antagonistic musculature while holding a static stretch reciprocally inhibits the muscle being stretched. That inhibition allows the target muscle to relax and enhances the effectiveness of the stretch. It leverages the same reciprocal inhibition mechanism that active stretching exploits."
+  },
+  {
+    "id": "nasm-fc-028",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Active stretching",
+    "question": "How is active stretching performed?",
+    "choices": [
+      "One repetition held for a full 30 seconds at the end of the range",
+      "Sustained pressure on a tender spot for 30 seconds",
+      "One set of 10 to 15 repetitions using momentum",
+      "5 to 10 repetitions held 1 to 2 seconds each"
+    ],
+    "answerIndex": 3,
+    "explanation": "Active stretching typically uses 5 to 10 repetitions of each stretch, with the stretched position held only 1 to 2 seconds. It uses the agonists and synergists to dynamically move the joint into range, increasing motor neuron excitability and creating reciprocal inhibition of the muscle being stretched. It is considered a progression from static stretching."
+  },
+  {
+    "id": "nasm-fc-029",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Flexibility sequencing",
+    "question": "A client has identified muscle imbalances. In what order should flexibility techniques be applied?",
+    "choices": [
+      "Self-myofascial and static stretching for overactive tissue",
+      "Dynamic stretching first, followed by static stretching of the underactive muscle groups",
+      "Active stretching only, since it addresses imbalance directly",
+      "All techniques simultaneously in a circuit"
+    ],
+    "answerIndex": 0,
+    "explanation": "When muscle imbalances are present, self-myofascial techniques and static stretching for the identified overactive muscles should precede active and dynamic stretching. The client should have good tissue extensibility, core stability, and balance before undertaking an aggressive dynamic stretching program. Reversing the order fails to address the overactive tissue before demanding higher-velocity movement from it."
+  },
+  {
+    "id": "nasm-fc-030",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Dynamic stretching",
+    "question": "What defines dynamic stretching?",
+    "choices": [
+      "Holding an end-range position passively while the client breathes and consciously relaxes",
+      "Using muscle force and momentum to take joints through range",
+      "Applying sustained pressure with a roller",
+      "Contracting a muscle without joint movement"
+    ],
+    "answerIndex": 1,
+    "explanation": "Dynamic stretching uses a muscle's force production and the body's momentum to move a joint through its full available range. It relies on reciprocal inhibition to improve soft tissue extensibility. One set of 10 repetitions using 3 to 10 dynamic stretches is a typical prescription, and it is suggested as a warm-up before athletic activity."
+  },
+  {
+    "id": "nasm-fc-031",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Dynamic stretching",
+    "question": "What is the key programming consideration when implementing dynamic stretching as a warm-up?",
+    "choices": [
+      "Maximize fatigue so the working muscles are fully primed before the session begins",
+      "Use only stretches that are unrelated to the upcoming session",
+      "Prepare the client without inducing undue fatigue",
+      "Perform each stretch for a single repetition"
+    ],
+    "answerIndex": 2,
+    "explanation": "Dynamic stretching should prepare the client for activity while simultaneously avoiding undue fatigue. The stretches selected tend to mimic the movements used in the coming exercise session or sport. Jumping jacks and jump rope, for example, should be kept low to moderate in intensity when used as a warm-up."
+  },
+  {
+    "id": "nasm-fc-032",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Dynamic stretching",
+    "question": "Which dynamic exercise primarily targets the hip abductors such as the gluteus medius?",
+    "choices": [
+      "Prisoner squat",
+      "Arm circles",
+      "The Frankenstein walking warm-up drill exercise",
+      "Tube walking side to side"
+    ],
+    "answerIndex": 3,
+    "explanation": "Tube walking side to side, with elastic tubing around the knees and the client sidestepping in a quarter squat, primarily targets the hip abductors including the gluteus medius. The knees should track in line with the second and third toes without caving inward. Placing the band around the ankles is a progression."
+  },
+  {
+    "id": "nasm-fc-033",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Overstretching",
+    "question": "Which sign suggests a client has been overstretched?",
+    "choices": [
+      "Joint pain or soreness lasting more than 24 hours",
+      "Mild tension felt during the stretch that eases within a few short seconds",
+      "A temporary increase in range of motion",
+      "Warmth in the stretched tissue"
+    ],
+    "answerIndex": 0,
+    "explanation": "Signs of overstretching include prolonged joint pain or muscle soreness lasting more than 24 hours, swelling or inflammation of the involved area, and excessive muscle or joint pain during the stretch. Overstretching occurs when the muscle and joint are taken beyond their physiological limits, and aggressive stretching can cause tissue and joint trauma. Extra caution is needed with clients who have a current or preexisting joint or muscle injury."
+  },
+  {
+    "id": "nasm-fc-034",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Controversial stretches",
+    "question": "Why is the inverted hurdler's stretch considered controversial?",
+    "choices": [
+      "It places high stress on the anterior cruciate ligament and the patellar tendon",
+      "It stresses the medial collateral ligament and the meniscus",
+      "It elevates blood pressure excessively",
+      "It requires equipment most facilities lack"
+    ],
+    "answerIndex": 1,
+    "explanation": "The inverted hurdler's stretch is thought to place high stress on the inside of the knee at the medial collateral ligament and may cause pain and stress on the patella. It should not be performed by anyone with a history of knee or low-back pain or injury. Health professionals believe most patients and general wellness clients should avoid it."
+  },
+  {
+    "id": "nasm-fc-035",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Controversial stretches",
+    "question": "A client with hypertension asks to include the yoga plow in their cool-down. What is the concern?",
+    "choices": [
+      "The plow overstretches the hamstrings complex and should be held only briefly",
+      "The plow is only appropriate for competitive athletes",
+      "It stresses the neck and spine and should be avoided",
+      "The plow cannot be performed on a mat"
+    ],
+    "answerIndex": 2,
+    "explanation": "The plow places high stress on the neck and spine, and without exact technique it may put the spine at risk of injury. Clients with a history of neck or back injury should not perform it, and it should also be avoided by individuals with high blood pressure. The shoulder stand is another inverted posture with similar concerns for the neck and shoulders."
+  },
+  {
+    "id": "nasm-fc-036",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Flexibility research",
+    "question": "Research indicates that static and dynamic stretching should never be combined within the same program.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Researchers have found that combining static and dynamic stretching reduces the risk for muscle injury and increases flexibility. Short bouts of self-myofascial rolling have separately been shown to increase flexibility, enhance pre-exercise muscle performance, and decrease post-exercise soreness and fatigue. A combination of techniques therefore often provides the best results."
+  },
+  {
+    "id": "nasm-fc-037",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Static stretch technique",
+    "question": "Which postural cues apply when performing static and active stretches?",
+    "choices": [
+      "Allow the head to jut forward so the posterior neck tissue lengthens fully",
+      "Round the spine to relax the erector spinae",
+      "Shrug the shoulders to protect the neck",
+      "Chin tuck with the head over the shoulders"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ideal posture during static and active stretching requires a chin tuck with the head positioned directly over the shoulders, so the cervical spine stays neutral and the head does not jut forward. The drawing-in maneuver, slightly pulling the navel inward, helps maintain ideal stabilization of the spine. These cues prevent the stretch from reinforcing a faulty position."
+  },
+  {
+    "id": "nasm-fc-038",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Cardiorespiratory fitness",
+    "question": "What does cardiorespiratory fitness reflect?",
+    "choices": [
+      "Sustaining activity by delivering oxygen to working tissue",
+      "The maximum weight a client can lift for a single controlled repetition",
+      "The range of motion available at the hip and shoulder",
+      "The percentage of body weight that is fat mass"
+    ],
+    "answerIndex": 0,
+    "explanation": "Cardiorespiratory fitness reflects how well the cardiovascular and respiratory systems supply oxygen-rich blood to skeletal muscle during sustained physical activity. It supports both health and the ability to complete activities of daily living without excessive fatigue. Poor cardiorespiratory fitness is linked to a marked increase in premature death from all causes, particularly cardiovascular disease."
+  },
+  {
+    "id": "nasm-fc-039",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Components of fitness",
+    "question": "Which five components make up health-related physical fitness?",
+    "choices": [
+      "Speed, agility, power, balance, coordination, and overall total reaction time",
+      "Cardiorespiratory, strength, endurance, flexibility, body composition",
+      "Strength, hypertrophy, power, endurance, and stabilization",
+      "Frequency, intensity, time, type, and enjoyment"
+    ],
+    "answerIndex": 1,
+    "explanation": "The five components of health-related physical fitness are cardiorespiratory or aerobic fitness, muscular strength, muscular endurance, flexibility, and body composition. Speed, agility, power, balance, and coordination are skill-related qualities. A complete program addresses all five health-related components."
+  },
+  {
+    "id": "nasm-fc-040",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "FITTE-VP",
+    "question": "What does the acronym FITTE-VP stand for?",
+    "choices": [
+      "Frequency, intensity, tempo, technique, effort, volume, and progression",
+      "Flexibility, intensity, training, time, endurance, velocity, and power",
+      "Frequency, intensity, type, time, enjoyment, volume",
+      "Frequency, isolation, type, tempo, exertion, variety, and periodization"
+    ],
+    "answerIndex": 2,
+    "explanation": "FITTE-VP stands for frequency, intensity, type, time, enjoyment, volume, and progression. All cardiorespiratory exercise recommendations must be individually determined using this framework. No two individuals respond and adapt to cardiorespiratory exercise in exactly the same way."
+  },
+  {
+    "id": "nasm-fc-041",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Frequency",
+    "question": "How often should moderate-intensity and vigorous-intensity aerobic exercise be performed?",
+    "choices": [
+      "Moderate at least three times per week and vigorous at least five times weekly",
+      "Both twice per week",
+      "Both at least seven times per week",
+      "Moderate five times weekly; vigorous three times weekly"
+    ],
+    "answerIndex": 3,
+    "explanation": "Moderate-intensity exercise such as brisk walking should be performed at least five times per week, while vigorous-intensity exercise such as jogging or running should be performed at least three times per week. A combination of moderate and vigorous intensity is also acceptable. Frequency is expressed as the number of sessions in a given period, usually a week."
+  },
+  {
+    "id": "nasm-fc-043",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Volume",
+    "question": "How much weekly aerobic exercise is suggested for clients specifically seeking weight loss?",
+    "choices": [
+      "Fewer than 100 minutes in a week",
+      "More than 250 minutes per week",
+      "About 150 minutes per week",
+      "Exactly 200 minutes per week"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clients seeking to lose weight will likely achieve greater benefits from more than 250 minutes of aerobic exercise per week. Because expending 1,200 calories or more per week through structured exercise alone is difficult, experts suggest also adding nonstructured activity to the daily routine. That shift emphasizes nonexercise activity thermogenesis alongside planned workouts."
+  },
+  {
+    "id": "nasm-fc-044",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Progression",
+    "question": "What rate of increase in exercise volume appears safe for most apparently healthy adults?",
+    "choices": [
+      "50% per week",
+      "About 25% per week",
+      "Less than 10% per week",
+      "Doubling the weekly volume each week"
+    ],
+    "answerIndex": 2,
+    "explanation": "A gradual increase in exercise volume of less than 10% per week appears to be a safe protocol for most apparently healthy adults. Progressing intensity too quickly raises the risk of musculoskeletal injury such as sprains and strains. Failing to consider rate of progression is described as one of the most common errors in cardiorespiratory program design."
+  },
+  {
+    "id": "nasm-fc-045",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Aerobic exercise criteria",
+    "question": "Which three criteria must an activity meet to be considered aerobic exercise?",
+    "choices": [
+      "Be explosive, unilateral, and performed for very short maximal efforts only",
+      "Be maximal, brief, and interval based",
+      "Be performed indoors, timed, and supervised",
+      "Rhythmic, using large muscle groups, and continuous"
+    ],
+    "answerIndex": 3,
+    "explanation": "To be considered aerobic, an activity must be rhythmic, use large muscle groups, and be continuous in nature. Jogging, walking, cardio equipment, swimming, and cycling all meet these criteria. Interval formats and high-intensity interval training stress both aerobic and anaerobic pathways rather than being purely aerobic."
+  },
+  {
+    "id": "nasm-fc-046",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Maximal heart rate",
+    "question": "What is the Tanaka formula for estimating maximal heart rate?",
+    "choices": [
+      "200 minus 0.5 times age",
+      "206 minus 0.88 times the age",
+      "208 minus 0.7 times age",
+      "220 minus age"
+    ],
+    "answerIndex": 2,
+    "explanation": "The Tanaka formula estimates maximal heart rate as 208 minus 0.7 multiplied by age. It was developed as a more appropriate regression than the widely used 220 minus age, which was never intended as an absolute guide. No mathematical formula should be treated as an absolute for an individual client."
+  },
+  {
+    "id": "nasm-fc-047",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Karvonen method",
+    "question": "What is the heart rate reserve formula for target heart rate?",
+    "choices": [
+      "Maximal heart rate multiplied by the intensity percentage with no resting value added",
+      "Maximal minus resting heart rate, times intensity, plus resting",
+      "Resting heart rate multiplied by the desired intensity",
+      "220 minus age, minus resting heart rate"
+    ],
+    "answerIndex": 1,
+    "explanation": "The heart rate reserve method, also known as the Karvonen method, subtracts resting heart rate from estimated maximal heart rate, multiplies by the desired intensity, and then adds resting heart rate back. This accounts for the individual's own resting baseline rather than assuming a population average. It generally produces a more individualized target than a straight percentage of maximal heart rate."
+  },
+  {
+    "id": "nasm-fc-048",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Karvonen method",
+    "question": "A 40-year-old client has a resting heart rate of 60 beats per minute. Using 220 minus age and the heart rate reserve method at 60% intensity, what is the target heart rate?",
+    "choices": [
+      "About 108 beats per minute",
+      "120 beats per minute",
+      "132 beats per minute",
+      "144 beats per minute"
+    ],
+    "answerIndex": 2,
+    "explanation": "Estimated maximal heart rate is 220 minus 40, which is 180 beats per minute, and heart rate reserve is 180 minus 60, which is 120. Multiplying 120 by 0.60 gives 72, and adding the resting heart rate of 60 yields a target of 132 beats per minute. Using a straight 60% of maximal heart rate would instead give 108, which shows how much the method matters."
+  },
+  {
+    "id": "nasm-fc-049",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Metabolic equivalents",
+    "question": "What does one metabolic equivalent represent?",
+    "choices": [
+      "The heart rate recorded at ventilatory threshold one during a graded exercise test",
+      "One kilocalorie burned per minute",
+      "The oxygen cost of walking one mile",
+      "3.5 milliliters of oxygen per kilogram per minute at rest"
+    ],
+    "answerIndex": 3,
+    "explanation": "One metabolic equivalent equals 3.5 milliliters of oxygen consumed per kilogram of body weight per minute, which approximates the average resting metabolic rate for adults. It represents the oxygen used at true rest and lets exercise intensity be related to energy expenditure. Using metabolic equivalents is an uncommon practice inside a fitness facility."
+  },
+  {
+    "id": "nasm-fc-050",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Ratings of perceived exertion",
+    "question": "Why does the original 6 to 20 exertion scale use that unusual range?",
+    "choices": [
+      "Each value corresponds to a heart rate",
+      "It corresponds to the number of minutes exercised",
+      "It reflects the number of metabolic equivalents",
+      "It matches the percentage of maximal oxygen consumption"
+    ],
+    "answerIndex": 0,
+    "explanation": "Each value on the 6 to 20 scale corresponds to a heart rate, because most adult heart rates fall between roughly 60 and 200 beats per minute. NASM nonetheless recommends the simpler 1 to 10 scale unless the client is already familiar with the 6 to 20 Borg scale. Clients should rate their overall sense of effort and fatigue rather than isolated areas of the body."
+  },
+  {
+    "id": "nasm-fc-051",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Talk test",
+    "question": "What intensity does it approximate when a client first can no longer speak comfortably during continuous speech?",
+    "choices": [
+      "Well below ventilatory threshold 1",
+      "Ventilatory threshold 1",
+      "Ventilatory threshold 2",
+      "Maximal oxygen consumption"
+    ],
+    "answerIndex": 1,
+    "explanation": "When clients can speak comfortably they are typically working below ventilatory threshold 1, and the first point at which continuous talking becomes challenging approximates that threshold. This relationship has been demonstrated as valid in populations ranging from well-trained athletes to sedentary individuals and patients with cardiovascular disease. The talk test correlates with oxygen consumption, ventilatory threshold, and heart rate on both cycle and treadmill."
+  },
+  {
+    "id": "nasm-fc-052",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Interval training",
+    "question": "What defines the Tabata protocol?",
+    "choices": [
+      "Thirty seconds of work with a full two minutes of passive rest between bouts",
+      "One minute of work followed by three minutes of recovery, repeated for 20 minutes",
+      "Twenty seconds of maximal effort with 10 seconds of rest",
+      "Continuous effort at a fixed intensity for 4 minutes"
+    ],
+    "answerIndex": 2,
+    "explanation": "Tabata training is a form of high-intensity interval training using a 20-second maximal effort interval followed by only 10 seconds of rest, repeated for eight intervals to total 4 minutes. A true Tabata format is rarely taught in health clubs. Trainers must select interval intensities appropriate to the client's fitness level and tolerance for intense exercise."
+  },
+  {
+    "id": "nasm-fc-053",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Interval training",
+    "question": "What characterizes fartlek training?",
+    "choices": [
+      "Strictly timed intervals in which every work and rest bout is preplanned exactly",
+      "Continuous steady-state work at ventilatory threshold 1",
+      "Maximal sprints only, with full recovery between each",
+      "Unstructured training mixing low, moderate, and high intensity"
+    ],
+    "answerIndex": 3,
+    "explanation": "Fartlek is a Swedish term meaning speed play, and the format is unstructured, blending low-, moderate-, and high-intensity efforts within a single workout. Because it targets both aerobic and anaerobic systems it addresses many physiological systems at once. It also helps break the monotony of a single training format and can be done running, cycling, or swimming."
+  },
+  {
+    "id": "nasm-fc-054",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Enjoyment",
+    "question": "Why is enjoyment included in the FITTE-VP framework?",
+    "choices": [
+      "An unenjoyable activity will not be adhered to",
+      "It determines the client's maximal oxygen uptake and therefore their aerobic ceiling",
+      "It is required for insurance purposes",
+      "It replaces the need to measure intensity"
+    ],
+    "answerIndex": 0,
+    "explanation": "Enjoyment is the amount of pleasure a client derives from a specific activity, and it is often overlooked in program design. If the mode of exercise is not enjoyable, adherence is unlikely and the client will not achieve their goals. Clients continue with programs that are fun, challenging, and supported far more readily than with dull ones."
+  },
+  {
+    "id": "nasm-fc-055",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Cool-down",
+    "question": "Which benefit is attributed to a proper cool-down?",
+    "choices": [
+      "Increased heart rate and breathing rate, which speeds the removal of metabolic waste",
+      "Lower heart and breathing rates and gradual cooling",
+      "Immediate replenishment of muscle glycogen",
+      "Permanent increase in joint range of motion"
+    ],
+    "answerIndex": 1,
+    "explanation": "A cool-down reduces heart and breathing rates, restores physiologic systems toward baseline, gradually cools body temperature, returns muscles toward their optimal resting lengths, and prevents blood pooling in the lower extremities. It functions as the opposite of the warm-up. Flexibility work including self-myofascial techniques and static stretching should be part of it."
+  },
+  {
+    "id": "nasm-fc-056",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Training zones",
+    "question": "Which description matches training zone 1?",
+    "choices": [
+      "Vigorous to very hard, with the client unable to speak more than a word",
+      "Challenging to hard; continual talking is becoming challenging",
+      "Light to moderate; sweating but able to converse",
+      "Very hard to maximum; speaking impossible or limited to single words"
+    ],
+    "answerIndex": 2,
+    "explanation": "Zone 1 sits below ventilatory threshold 1 and is described as light to moderate, with the client starting to sweat but still able to carry a conversation effortlessly. Zone 2 spans ventilatory threshold 1 to the midpoint and is challenging to hard, with continual talking becoming difficult. Zones 3 and 4 progress to vigorous and maximal intensities where speech becomes fragmented or impossible."
+  },
+  {
+    "id": "nasm-fc-057",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Training zones",
+    "question": "Which training zone lies above ventilatory threshold 2?",
+    "choices": [
+      "Zone 1, the recovery zone",
+      "Zone 2",
+      "Zone 3",
+      "Zone 4"
+    ],
+    "answerIndex": 3,
+    "explanation": "Zone 4 is defined as intensity above ventilatory threshold 2, described as very hard to maximum effort with breathing as hard as possible. Zone 3 spans the midpoint up to ventilatory threshold 2, and zone 2 spans ventilatory threshold 1 to the midpoint. Zone 1 sits below ventilatory threshold 1."
+  },
+  {
+    "id": "nasm-fc-058",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Stage training",
+    "question": "What is the purpose of stage training?",
+    "choices": [
+      "To progress programs in an organized, systematic way",
+      "To ensure every client eventually reaches the same absolute level of aerobic fitness",
+      "To standardize workouts across all clients regardless of ability",
+      "To eliminate the need to measure ventilatory thresholds"
+    ],
+    "answerIndex": 0,
+    "explanation": "Stage training exists to ensure cardiorespiratory programs progress in an organized way that produces continual adaptation while minimizing the risk of overtraining and injury. It applies the principle of specificity, since the body adapts to the stress placed on it and then needs more or varied stress. It is appropriate for new exercisers, fitness enthusiasts, and performance athletes alike."
+  },
+  {
+    "id": "nasm-fc-059",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Stage 1",
+    "question": "What is the goal of stage 1 cardiorespiratory training?",
+    "choices": [
+      "Alternating zone 3 and zone 4 intervals for the full duration of the session",
+      "Building to 30 minutes of continuous zone 1 work",
+      "Sport-specific conditioning drills",
+      "Sustaining zone 2 for 60 minutes"
+    ],
+    "answerIndex": 1,
+    "explanation": "In stage 1 clients start slowly and gradually work up to 30 minutes of continuous zone 1 activity. It represents the lowest exercise intensities and benefits people new to exercise who want to improve health markers such as cardiovascular disease and diabetes risk. Higher zones and interval structures belong to later stages."
+  },
+  {
+    "id": "nasm-fc-060",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Stage 2",
+    "question": "What does a stage 2 workout consist of?",
+    "choices": [
+      "Continuous zone 1 exercise held for the whole of the session without variation",
+      "Intervals moving through all four training zones",
+      "Recovery intervals just below threshold with zone 2 bouts",
+      "Sport-specific agility drills and small-sided games"
+    ],
+    "answerIndex": 2,
+    "explanation": "Stage 2 introduces aerobic interval training, mixing recovery intervals just below ventilatory threshold 1 with work intervals just above it. A representative session warms up 5 to 10 minutes, uses 1-minute zone 2 intervals separated by 3 minutes in zone 1, then cools down 5 to 10 minutes. Once clients adapt, they can perform continuous zone 2 work for the session without intervals."
+  },
+  {
+    "id": "nasm-fc-061",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Stage 3",
+    "question": "Which zones does a stage 3 workout move through?",
+    "choices": [
+      "Zone 1 only",
+      "Zones 1 and 2 only",
+      "All four of the training zones",
+      "Zones 1, 2, and 3"
+    ],
+    "answerIndex": 3,
+    "explanation": "A stage 3 workout has the client moving in and out of zones 1, 2, and 3. A modest mix of zone 1 time with brief intervals in zones 2 and 3 minimizes overtraining while providing enough overload for performance adaptation. Zone 2 intervals are typically longer than zone 3 intervals because zone 3 is more physically demanding."
+  },
+  {
+    "id": "nasm-fc-062",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Stage 3",
+    "question": "What measurement is required to program stage 3 intervals accurately?",
+    "choices": [
+      "Recorded ventilatory threshold 1 and threshold 2 values",
+      "Body fat percentage and the client's current waist to hip circumference ratio",
+      "One-rep maximum on the squat",
+      "Resting metabolic rate"
+    ],
+    "answerIndex": 0,
+    "explanation": "Programming stage 3 intervals accurately requires that both ventilatory threshold 1 and ventilatory threshold 2 be measured and recorded. Without those markers the zone boundaries cannot be set for the individual. Stage 3 also is not appropriate for all clients, even though high-intensity interval training is a time-efficient way to raise fitness."
+  },
+  {
+    "id": "nasm-fc-063",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Stage 4",
+    "question": "How long should zone 4 intervals within a stage 4 workout last?",
+    "choices": [
+      "Between 1 and 2 minutes",
+      "5 to 10 seconds",
+      "5 minutes",
+      "10 minutes"
+    ],
+    "answerIndex": 1,
+    "explanation": "Zone 4 intervals within a stage 4 workout should be brief, lasting 5 to 10 seconds. Most of the session is spent in zone 1, with short intervals in zones 2, 3, and 4 to challenge the anaerobic system without overtraining. Stage 4 suits advanced clients and athletes seeking anaerobic capacity and power."
+  },
+  {
+    "id": "nasm-fc-064",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Stage 4",
+    "question": "During a stage 4 session, a client's heart rate fails to drop appropriately during the 1-minute recovery. What should the trainer do?",
+    "choices": [
+      "Push through another zone 3 interval to build the client's mental resilience",
+      "End the session immediately and refer to a physician",
+      "Assume fatigue and near overtraining, staying in zone 1",
+      "Increase the workload to raise heart rate further"
+    ],
+    "answerIndex": 2,
+    "explanation": "The 1-minute recovery is used to gauge training status, and a heart rate that does not fall appropriately suggests the client is tired and about to overtrain. The solution is to remain in zone 1 for the rest of the workout. Inadequate recovery may reflect a hard session the previous day, insufficient sleep, or poor nutrition."
+  },
+  {
+    "id": "nasm-fc-065",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Stage 4",
+    "question": "Which signs of overtraining should prompt reducing stage 4 volume and intensity?",
+    "choices": [
+      "Improved sleep and increased enthusiasm for each of the scheduled training sessions",
+      "Increased enjoyment of training",
+      "A falling resting heart rate over several weeks",
+      "Disturbed sleep, fatigue, impaired performance, and lost motivation"
+    ],
+    "answerIndex": 3,
+    "explanation": "Disturbed sleep, excessive fatigue, impaired performance, loss of appetite, and mood swings all signal overtraining and should prompt reducing stage 4 volume and intensity. When training at this level it is imperative to rotate all four stages, providing low-, medium-, high-, and maximal-intensity days. A falling resting heart rate is instead a sign of improving fitness."
+  },
+  {
+    "id": "nasm-fc-066",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Stage 5",
+    "question": "What does stage 5 training consist of?",
+    "choices": [
+      "Sport-specific conditioning using linear and multidirectional work",
+      "Continuous steady-state aerobic work held below the first ventilatory threshold throughout",
+      "Static stretching and self-myofascial release only",
+      "Maximal strength testing on the squat and bench press"
+    ],
+    "answerIndex": 0,
+    "explanation": "Stage 5 is sport-specific conditioning applicable to all types of athletes. It focuses on linear, multidirectional, and sport-specific drills performed as conditioning, often combining high-intensity interval training with small-sided games and agility drills. It sits at the top of the stage progression and is not necessary for most general clients."
+  },
+  {
+    "id": "nasm-fc-067",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Stage training application",
+    "question": "A sedentary client's primary goal is weight loss and general health. Which cardiorespiratory stages should the trainer use?",
+    "choices": [
+      "Stages 4 and 5, to maximize calorie burn",
+      "Stages 1 and 2",
+      "Stage 3 only",
+      "All five stages must be used in sequence"
+    ],
+    "answerIndex": 1,
+    "explanation": "For most weight-loss clients and those new to exercise, stages 1 and 2 are described as the most appropriate and effective for improving health and wellness and promoting a healthy body weight. It is not necessary to implement all five stages with every client. Cardiorespiratory exercise should be individualized to needs, goals, abilities, and preferences."
+  },
+  {
+    "id": "nasm-fc-068",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Effort versus intensity",
+    "question": "How do effort and intensity differ when designing high-intensity interval programs?",
+    "choices": [
+      "Effort is objective and measurable while intensity is the client's subjective impression",
+      "They are interchangeable terms",
+      "Effort is subjective; intensity is an objective workload",
+      "Effort applies only to aerobic work and intensity only to resistance work"
+    ],
+    "answerIndex": 2,
+    "explanation": "Effort is a subjective measure describing how hard the client feels they are pushing themselves, while intensity is an objective measure such as sprint time or load lifted. The two are not the same and should not be substituted for one another. Similarly, maximal performance means performing at absolute peak ability, whereas maximal effort means giving 100% even as performance declines from fatigue."
+  },
+  {
+    "id": "nasm-fc-069",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "High-intensity interval training",
+    "question": "High-intensity interval training is required for a client to achieve most health and wellness goals.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "High-intensity interval training aids weight loss and reduces cholesterol and blood pressure in a manner similar to steady-state aerobic exercise, and it achieves fitness improvements in a compressed timeframe. However, not all clients will adhere to its strenuous demands, and it is not required to achieve most health or wellness goals. Intensity selection should match the client's fitness level and tolerance."
+  },
+  {
+    "id": "nasm-fc-070",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Postural considerations",
+    "question": "Which postural deviations should be monitored during cardiorespiratory exercise?",
+    "choices": [
+      "Only lateral trunk flexion",
+      "Excessive scapular retraction with a flattened lumbar spine and posterior pelvic tilt",
+      "Only knee hyperextension",
+      "Rounded shoulders, forward head, and anterior pelvic tilt"
+    ],
+    "answerIndex": 3,
+    "explanation": "Common deviations to watch during cardiorespiratory training include round shoulders with a forward head, an anterior pelvic tilt, and adducted and internally rotated knees with pronated feet. Care should be taken to monitor posture throughout the session. Repetitive movement in a compensated pattern is a route to the cumulative injury cycle."
+  },
+  {
+    "id": "nasm-fc-071",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Warm-up",
+    "question": "A cardiorespiratory training session should include a warm-up phase, a conditioning phase, and a cool-down phase.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Each exercise training session should include a warm-up phase, a conditioning phase, and a cool-down phase. The warm-up raises heart and respiration rates and tissue temperature while preparing the client psychologically. The cool-down returns physiologic systems toward baseline and should include flexibility work."
+  },
+  {
+    "id": "nasm-fc-072",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Intensity monitoring",
+    "question": "A trainer has no heart rate monitor and wants a practical way to keep an apparently healthy beginner at moderate intensity. What is the simplest appropriate method?",
+    "choices": [
+      "Use the talk test to gauge conversational intensity",
+      "Estimate maximal oxygen uptake from the client's age and resting heart rate",
+      "Assume 220 minus age is the client's working heart rate",
+      "Use metabolic equivalents calculated by hand"
+    ],
+    "answerIndex": 0,
+    "explanation": "Moderate intensity is described as enough demand to raise heart and respiratory rates without causing exhaustion or breathlessness, such that the client can still talk comfortably. The talk test requires no equipment and reflects the client's own metabolic markers. Direct oxygen consumption testing and metabolic equivalent calculations are impractical in this setting."
+  },
+  {
+    "id": "nasm-fc-073",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Hydration status",
+    "question": "A trainer wants a simple field indicator of a healthy client's hydration before a session. Which practical marker applies?",
+    "choices": [
+      "Urine colour, with very light to pale yellow indicating adequate hydration",
+      "Resting heart rate compared against the client's own recorded morning baseline value",
+      "Body mass measured on arrival and compared with the client's last recorded session weight",
+      "The client's own reported thirst level, which tracks hydration closely in healthy adults"
+    ],
+    "answerIndex": 0,
+    "explanation": "In most healthy adults, hydration status can be judged from the colour of the urine. Very light to pale yellow indicates adequate hydration, while darker shades signify inadequate hydration or another medical issue. It is a practical marker that requires no equipment."
+  },
+  {
+    "id": "nasm-fc-074",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Fluid loss and heat illness",
+    "question": "A client loses more than 4% of their body weight through fluid during a hot outdoor session. Why does this matter?",
+    "choices": [
+      "Losses of this size can lead to heat exhaustion, heatstroke, and even death",
+      "Losses of this size reduce measurable performance slightly but carry no real medical risk",
+      "Losses of this size are normal for endurance work and resolve without any fluid replacement",
+      "Losses of this size only matter if the client also reports muscle cramping during the session"
+    ],
+    "answerIndex": 0,
+    "explanation": "During exercise, a weight loss of more than 4% from fluid losses can lead to heat exhaustion, heatstroke, and death in severe cases. It also reduces the rate of perspiration and impairs temperature regulation, which compounds the problem. Sessions in the heat should be planned with a deliberate hydration strategy."
+  },
+  {
+    "id": "nasm-fc-075",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Rehydration",
+    "question": "A client finishes an event having lost two pounds of body weight. What does current sports nutrition guidance suggest for replacement?",
+    "choices": [
+      "Replace about 125% of the weight lost during the session",
+      "Replace exactly the weight lost, since any additional fluid is simply excreted in the urine",
+      "Replace roughly half the weight lost and let the remainder be recovered through normal meals",
+      "Replace nothing until the client reports feeling thirsty again later on in the same evening"
+    ],
+    "answerIndex": 0,
+    "explanation": "Guidelines recommend post-training or post-event fluid replenishment in the range of 125%, or 1.25 times, the weight lost during a session or game. Replacing only the exact deficit leaves the client short because fluid continues to be lost after exercise stops. The extra margin accounts for ongoing urine and sweat losses during recovery."
+  },
+  {
+    "id": "nasm-fc-076",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Hydration",
+    "question": "Clients doing intense training or endurance sport can rely on thirst alone to judge their hydration needs.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clients engaged in intense training or endurance sport should not rely on thirst as an indicator of hydration status. They should instead follow a recommended hydration protocol built around planned intake. Thirst lags behind actual fluid deficit, so it arrives too late to guide replacement during hard or prolonged work."
+  }
+]

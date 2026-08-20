@@ -1,0 +1,849 @@
+[
+  {
+    "id": "nasm-sp-001",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Youth training",
+    "question": "What age range does the term youth refer to?",
+    "choices": [
+      "4 to 12 years",
+      "6 to 20 years",
+      "10 to 18 years",
+      "12 to 25 years"
+    ],
+    "answerIndex": 1,
+    "explanation": "Youth refers to children and adolescents between the ages of 6 and 20 years. Even within the same chronological age, responses to exercise vary considerably because of individual differences in growth, development, and physical maturation. Programming must therefore be based on the individual rather than the age alone."
+  },
+  {
+    "id": "nasm-sp-002",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Youth training",
+    "question": "How much daily physical activity is currently recommended for children and adolescents?",
+    "choices": [
+      "60 minutes or more of moderate to vigorous physical activity",
+      "30 minutes of light activity",
+      "150 minutes per week only",
+      "At least 20 minutes of vigorous activity on three or more days each week"
+    ],
+    "answerIndex": 0,
+    "explanation": "Current recommendations call for children and adolescents to accumulate 60 minutes or more of moderate to vigorous physical activity daily. In the United States only about 25% of youth meet the minimum guidelines necessary for improving and maintaining overall health. Youth as a whole are becoming more sedentary."
+  },
+  {
+    "id": "nasm-sp-003",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Youth physiology",
+    "question": "Why is peak oxygen uptake a more appropriate term than maximal oxygen uptake in children?",
+    "choices": [
+      "Children cannot perform aerobic exercise",
+      "Children do not typically exhibit a plateau in oxygen uptake at maximal exercise",
+      "Children have no measurable oxygen consumption",
+      "Children reach an oxygen uptake plateau far earlier in a graded test than adults do"
+    ],
+    "answerIndex": 1,
+    "explanation": "Children do not typically show a plateau in oxygen uptake at maximal exercise, so peak oxygen uptake is the more appropriate term. Adjusted for body weight, peak oxygen consumption is similar between young and adult males and slightly higher in young females compared with adult females. This means youth can perform endurance tasks relatively well."
+  },
+  {
+    "id": "nasm-sp-004",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Youth physiology",
+    "question": "Why do children have a decreased ability to perform longer-duration high-intensity tasks lasting roughly 10 to 90 seconds?",
+    "choices": [
+      "They lack sufficient type I muscle fibers",
+      "Their peak oxygen uptake, adjusted for body weight, is far lower than that of adults",
+      "They do not produce sufficient levels of glycolytic enzymes",
+      "Their bones cannot tolerate the load"
+    ],
+    "answerIndex": 2,
+    "explanation": "Children do not produce sufficient levels of glycolytic enzymes to sustain bouts of high-intensity exercise. This reduces their capacity for high-intensity tasks lasting roughly 10 to 90 seconds. For safety and training purposes, children should have planned rest intervals when training at high intensity."
+  },
+  {
+    "id": "nasm-sp-005",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Youth physiology",
+    "question": "A trainer is planning an outdoor session for a group of 9-year-olds on a hot, humid afternoon. What guideline applies?",
+    "choices": [
+      "Only resistance training should be performed in heat",
+      "Children tolerate heat better than adults, so no modification is needed",
+      "Sessions should last at least 60 minutes so the child gradually builds tolerance to heat and humidity",
+      "Vigorous exercise should be restricted to less than 30 minutes with frequent rest periods"
+    ],
+    "answerIndex": 3,
+    "explanation": "Children have immature thermoregulatory systems, with both a delayed response and a limited ability to sweat in hot, humid conditions. This gives them decreased tolerance to environmental extremes. Vigorous exercise in hot, humid environments should therefore be restricted to less than 30 minutes, including frequent rest periods."
+  },
+  {
+    "id": "nasm-sp-006",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Youth physiology",
+    "question": "Compared with adults, how efficient are children during submaximal exercise?",
+    "choices": [
+      "Less efficient, tending to exercise at a higher percentage of their peak oxygen uptake",
+      "More efficient, exercising at a lower percentage of peak oxygen uptake than adults at the same workload",
+      "Identical in economy of movement",
+      "Efficiency cannot be measured in children"
+    ],
+    "answerIndex": 0,
+    "explanation": "Children are less efficient than adults and tend to exercise at a higher percentage of their peak oxygen uptake during submaximal work. This poorer economy of movement gives them a greater chance of fatigue and heat production during sustained higher-intensity tasks. It is one reason planned rest intervals matter for this population."
+  },
+  {
+    "id": "nasm-sp-007",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Youth resistance training",
+    "question": "Which resistance training parameters are recommended for youth?",
+    "choices": [
+      "1 to 2 sets of 8 to 12 repetitions at 40% to 70% intensity, 2 to 3 days per week",
+      "1 set of 20 to 30 repetitions at 20% intensity, 7 days per week",
+      "3 to 5 sets of 1 to 5 repetitions at 85% to 100% intensity, performed on 5 or 6 days per week",
+      "4 to 6 sets of 6 to 12 repetitions at 75% to 85% intensity, 4 days per week"
+    ],
+    "answerIndex": 0,
+    "explanation": "Youth resistance training guidelines call for 1 to 2 sets of 8 to 12 repetitions at 40% to 70% intensity, performed 2 to 3 days per week. Progression should be reserved for mature adolescents and based on dynamic postural control and physical capabilities. Progression should be driven by postural control rather than by the amount of weight used."
+  },
+  {
+    "id": "nasm-sp-008",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Youth resistance training",
+    "question": "What are the most common injuries associated with resistance training in youth, and what usually causes them?",
+    "choices": [
+      "Growth plate fractures, which are caused by external loading of any kind performed before the skeleton has reached full maturity",
+      "Cardiac events, caused by intensity above 70%",
+      "Sprains and strains, usually attributable to lack of qualified supervision, poor technique, and improper progression",
+      "Stress fractures, caused by insufficient calcium intake"
+    ],
+    "answerIndex": 2,
+    "explanation": "The most common resistance training injuries in youth are ligament sprains and tendon or muscle strains. These are usually attributable to a lack of qualified supervision, poor technique, and improper progression rather than to resistance training itself. Resistance training for health and fitness in youth actually carries lower injury risk than many popular sports including soccer, football, and basketball."
+  },
+  {
+    "id": "nasm-sp-009",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Youth resistance training",
+    "question": "Research has shown resistance training to be unsafe and ineffective for children and adolescents.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Research has clearly demonstrated that resistance training is both safe and effective for children and adolescents. Most published research reports that youth gain significant strength beyond what growth and development alone would produce. Resistance training in youth also improves motor skills such as sprinting and jumping, body composition, and bone mineral density."
+  },
+  {
+    "id": "nasm-sp-010",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Youth training guidelines",
+    "question": "What cardiorespiratory frequency and duration are recommended for youth?",
+    "choices": [
+      "2 to 3 days per week for 20 minutes of continuous activity",
+      "Every other day for 15 minutes",
+      "3 days per week for 90 minutes",
+      "5 to 7 days per week for 60 minutes per day"
+    ],
+    "answerIndex": 3,
+    "explanation": "Youth guidelines call for training 5 to 7 days per week at moderate to vigorous cardiorespiratory intensity for 60 minutes per day. Appropriate modes include walking, jogging, running, games, activities, sports, water activity, and resistance training. Making the experience safe and fun is described as one of the most important design considerations."
+  },
+  {
+    "id": "nasm-sp-011",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Aging",
+    "question": "Which physiologic changes are considered normal with aging?",
+    "choices": [
+      "Reductions in maximal heart rate, cardiac output, muscle mass, balance, bone density, and anabolic hormones",
+      "Increases in maximum attainable heart rate, cardiac output, muscle mass, bone mineral density, connective tissue elasticity, and circulating anabolic hormones",
+      "Increases in cardiac output and connective tissue elasticity",
+      "No measurable physiologic change until age 80"
+    ],
+    "answerIndex": 0,
+    "explanation": "Normal aging brings reductions in maximum attainable heart rate, cardiac output, muscle mass, balance, coordination or neuromuscular efficiency, connective tissue elasticity, bone mineral density, and anabolic hormones. Typical forms of degeneration include osteoporosis, arthritis, degenerative low-back pain, and obesity. Research shows musculoskeletal degeneration may not be entirely age-related and that measures can prevent loss of strength and mobility."
+  },
+  {
+    "id": "nasm-sp-012",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Aging",
+    "question": "How does arteriosclerosis differ from atherosclerosis?",
+    "choices": [
+      "Arteriosclerosis is caused largely by smoking and poor diet, while atherosclerosis is the normal loss of arterial elasticity that accompanies aging in every adult",
+      "Arteriosclerosis is a normal aging process that stiffens arteries; atherosclerosis results largely from lifestyle and narrows them with plaque",
+      "Both are entirely lifestyle driven",
+      "Both refer only to the coronary arteries"
+    ],
+    "answerIndex": 1,
+    "explanation": "Arteriosclerosis is a normal physiologic process of aging in which arteries become less elastic and pliable, raising resistance to blood flow and therefore blood pressure. Atherosclerosis is caused largely by poor lifestyle choices and restricts flow through plaque buildup within arterial walls. Both increase resistance and blood pressure, but only one is a normal part of aging."
+  },
+  {
+    "id": "nasm-sp-013",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Older adult guidelines",
+    "question": "Which cardiorespiratory modes are recommended for older adults?",
+    "choices": [
+      "Plyometric circuits and sprint intervals",
+      "Outdoor trail running over uneven terrain, with hill repeats added for weekly progression",
+      "Stationary or recumbent cycling, aquatic exercise, or treadmill with handrail support",
+      "Olympic weightlifting complexes"
+    ],
+    "answerIndex": 2,
+    "explanation": "Recommended modes for older adults include stationary or recumbent cycling, aquatic exercise, or treadmill work with handrail support. Frequency is 3 to 5 days per week of moderate-intensity activity or 3 days per week of vigorous-intensity activity, at 40% to 85% of peak oxygen consumption. Duration is 30 to 60 minutes per day, which may be accumulated in 8- to 10-minute bouts."
+  },
+  {
+    "id": "nasm-sp-014",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Older adult guidelines",
+    "question": "Which resistance training parameters are recommended for older adults?",
+    "choices": [
+      "1 set of 5 repetitions at 90% intensity, 6 days per week",
+      "1 to 3 sets of 8 to 20 repetitions at 40% to 80% intensity, 3 to 5 days per week",
+      "3 to 6 sets of 6 to 12 repetitions at 75% to 85% intensity, performed on 5 or 6 days per week",
+      "4 to 6 sets of 1 to 5 repetitions at 85% to 100% intensity, 2 days per week"
+    ],
+    "answerIndex": 1,
+    "explanation": "Older adults are recommended 1 to 3 sets of 8 to 20 repetitions at 40% to 80% intensity, 3 to 5 days per week. Training should progress slowly with emphasis on ideal movement patterns and stabilization through core, balance, and resistance work before advancing. Progression should be slow, well monitored, and based on postural control."
+  },
+  {
+    "id": "nasm-sp-015",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Older adult training",
+    "question": "An 80-year-old client cannot tolerate foam rolling or static stretching comfortably. What is the suggested alternative?",
+    "choices": [
+      "Use slow and controlled active and dynamic stretches instead",
+      "Eliminate flexibility work from the program until the client's tolerance improves",
+      "Increase the pressure until they adapt",
+      "Substitute maximal loaded stretching"
+    ],
+    "answerIndex": 0,
+    "explanation": "If an older adult client cannot tolerate self-myofascial techniques or static stretches, they can opt for slow and controlled active and dynamic stretches. Flexibility assessment and training remain important for this population because connective tissue elasticity declines with age. A handheld roller may also be used for self-myofascial work if tolerated."
+  },
+  {
+    "id": "nasm-sp-016",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Older adult training",
+    "question": "Which screening step must be completed before an older adult begins exercise training?",
+    "choices": [
+      "A maximal treadmill test",
+      "The Physical Activity Readiness Questionnaire Plus and a health history questionnaire",
+      "A body composition scan by hydrostatic underwater weighing, followed by a submaximal treadmill exercise test",
+      "A one-rep max strength test"
+    ],
+    "answerIndex": 1,
+    "explanation": "Older adults must complete the Physical Activity Readiness Questionnaire Plus before initiating any exercise training. Completing a health history questionnaire and appropriate fitness and movement assessments is also recommended. Trainers are encouraged to consult a licensed physician whenever questions arise about an older adult client."
+  },
+  {
+    "id": "nasm-sp-017",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Obesity classification",
+    "question": "Which body mass index range corresponds to the overweight classification?",
+    "choices": [
+      "18.5 to 24.9",
+      "25.0 to 29.9",
+      "30 to 34.9",
+      "35.0 to 39.9"
+    ],
+    "answerIndex": 1,
+    "explanation": "A body mass index of 25.0 to 29.9 is classified as overweight. Below 18.5 is underweight and 18.5 to 24.9 is healthy weight. Obesity classes run 30 to 34.9, then 35.0 to 39.9 for obesity II, and 40 or above for obesity III."
+  },
+  {
+    "id": "nasm-sp-018",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Obesity",
+    "question": "What proportion of Americans older than 20 years is either overweight or obese?",
+    "choices": [
+      "About 40%",
+      "About 55%",
+      "About 90%",
+      "About 72%"
+    ],
+    "answerIndex": 3,
+    "explanation": "About 72% of Americans older than 20 years are either overweight or obese, and roughly 40% of those aged 20 and older are obese. Obesity is a complex disease associated with a range of chronic health conditions as well as emotional and social problems. The primary physiological problem is energy balance, with too many calories consumed and too few expended."
+  },
+  {
+    "id": "nasm-sp-019",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Obesity guidelines",
+    "question": "Which exercise parameters are recommended for clients who are overweight or obese?",
+    "choices": [
+      "Low-impact activity at least 5 days per week at 60% to 80% of maximum heart rate",
+      "High-impact activity at least 3 days per week, 85% to 95% of maximum heart rate, for 20 minutes per session",
+      "Plyometric circuits 6 days per week",
+      "Maximal strength training 2 days per week"
+    ],
+    "answerIndex": 0,
+    "explanation": "Recommended modes are low impact such as treadmill walking, rowing, stationary cycling, and water activity, performed at least 5 days per week at 60% to 80% of maximum heart rate. Intensity may be reduced to 40% to 70% of maximum heart rate if needed, and the talk test can help gauge intensity. Duration is 40 to 60 minutes per day or two sessions of 20 to 30 minutes."
+  },
+  {
+    "id": "nasm-sp-020",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Obesity guidelines",
+    "question": "Which resistance training approach is recommended for clients who are overweight or obese?",
+    "choices": [
+      "4 to 6 sets of 1 to 5 repetitions performed supine on 4 days per week, progressing to maximal loads",
+      "1 to 3 sets of 10 to 15 repetitions on 2 to 3 days per week, standing or seated",
+      "Floor-based circuits with frequent transitions to lying positions",
+      "Single sets to failure on 6 days per week"
+    ],
+    "answerIndex": 1,
+    "explanation": "Recommended resistance training is 1 to 3 sets of 10 to 15 repetitions on 2 to 3 days per week, and circuit training with higher repetitions such as 20 may be used if tolerated. Exercises should be performed in a standing or seated position. Trainers should ensure the client is comfortable and be mindful of positions and locations within the facility."
+  },
+  {
+    "id": "nasm-sp-021",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Obesity and scope",
+    "question": "A client with obesity asks the trainer to design a calorie-controlled meal plan to accompany their program. What is the appropriate action?",
+    "choices": [
+      "Write the meal plan, since weight loss ultimately requires a measured calorie deficit the trainer can calculate",
+      "Decline to address nutrition in any form",
+      "Work with a registered dietitian and refer the nutrition planning to them",
+      "Recommend a commercial meal replacement product"
+    ],
+    "answerIndex": 2,
+    "explanation": "Because obesity is a complex medical problem, fitness professionals should work closely with a registered dietitian or other qualified licensed professional. Providing medical nutrition therapy or individualized meal plans falls outside the fitness professional's scope. The trainer can still offer general nutrition guidelines, credible resources, and accountability."
+  },
+  {
+    "id": "nasm-sp-022",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Diabetes",
+    "question": "How do type 1 and type 2 diabetes differ?",
+    "choices": [
+      "Type 1 occurs only in adults and type 2 only in children",
+      "Type 1 involves insulin resistance in peripheral tissue; type 2 involves autoimmune destruction of the pancreatic beta cells",
+      "Both involve identical mechanisms",
+      "Type 1 involves inadequate insulin production; type 2 involves an inability to respond to insulin"
+    ],
+    "answerIndex": 3,
+    "explanation": "Diabetes is a metabolic disorder in which the body either does not produce enough insulin, as in type 1, or cannot respond normally to the insulin that is made, as in type 2. In type 1, beta cells in the pancreas stop producing insulin, causing blood sugar to rise into hyperglycemia, so insulin must be injected. Type 2 is strongly associated with obesity, particularly abdominal obesity."
+  },
+  {
+    "id": "nasm-sp-023",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Diabetes",
+    "question": "Which symptoms indicate early hypoglycemia during exercise?",
+    "choices": [
+      "Fatigue, pale clammy skin, irregular heart rate, sweating, a shaky unstable feeling, and extreme hunger",
+      "Excessive thirst, frequent urination, increased appetite, deep rapid breathing, and a fruity odor on the breath",
+      "Slow heart rate and dry warm skin",
+      "Improved coordination and heightened alertness"
+    ],
+    "answerIndex": 0,
+    "explanation": "Early hypoglycemia symptoms include fatigue, pale clammy skin, irregular heart rate, sweating, a shaky or unstable feeling, and extreme hunger. If symptoms worsen they can progress to confusion, blurred vision, possible seizures, and extreme irritability. This is why clients with diabetes should keep a quick carbohydrate source available during exercise."
+  },
+  {
+    "id": "nasm-sp-024",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Diabetes guidelines",
+    "question": "Which special considerations apply when training a client with diabetes?",
+    "choices": [
+      "Encourage high-intensity interval training and extensive plyometric work in order to maximize gains in insulin sensitivity and glucose control",
+      "Ensure appropriate footwear and foot checks, keep a carbohydrate source available, and avoid excessive plyometric work",
+      "Avoid all resistance training",
+      "Train only in a supine position"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clients with diabetes need appropriate footwear, with the client or physician checking the feet for blisters or abnormal wear patterns. A quick carbohydrate snack should be available during exercise to avoid sudden hypoglycemia. Excessive plyometric training should be avoided, higher-intensity training is not recommended, and self-myofascial techniques may be contraindicated, so physician approval is recommended."
+  },
+  {
+    "id": "nasm-sp-025",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Diabetes and neuropathy",
+    "question": "A client with long-standing diabetes reports numbness in both feet. What consideration applies to self-myofascial techniques?",
+    "choices": [
+      "Rolling is especially beneficial for restoring sensation",
+      "Rolling should be performed at maximal pressure in order to stimulate the affected nerves and restore lost sensation",
+      "Special care is required and self-myofascial techniques may be contraindicated for anyone with neuropathy",
+      "There is no relevant consideration"
+    ],
+    "answerIndex": 2,
+    "explanation": "Special care should be given to self-myofascial techniques, and they may be contraindicated for anyone with neuropathy. Loss of sensation means the client cannot reliably report excessive pressure or tissue damage. Abnormal sensations such as numbness are themselves listed as a precaution for flexibility exercise."
+  },
+  {
+    "id": "nasm-sp-026",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Diabetes guidelines",
+    "question": "Which frequency and resistance training volume are recommended for clients with diabetes?",
+    "choices": [
+      "1 day per week of any activity; single sets to failure",
+      "2 days per week of high-impact cardio; 5 sets of 3 repetitions",
+      "4 to 7 days per week of low-impact cardio; 1 to 3 sets of 10 to 15 repetitions",
+      "7 days per week of maximal-intensity interval training; 6 sets of 1 repetition on 5 or 6 days per week"
+    ],
+    "answerIndex": 2,
+    "explanation": "Guidelines recommend low-impact activities such as cycling, treadmill walking, or swimming 4 to 7 days per week at 50% to 90% of maximum heart rate, adjustable to 40% to 70% if needed, for 20 to 60 minutes. Resistance training is 1 to 3 sets of 10 to 15 repetitions on 2 to 3 days per week, and higher repetitions such as 20 may be used. Exercise has a substantial positive effect on the treatment and prevention of type 2 diabetes."
+  },
+  {
+    "id": "nasm-sp-027",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Hypertension",
+    "question": "Which resistance training modification is specified for clients with hypertension?",
+    "choices": [
+      "Tempo should not exceed 1 second for the isometric and concentric portions of the lift",
+      "Maximize isometric holds to build tolerance",
+      "Use maximal loads with deliberate breath holding in order to provide internal support for the vertebral column",
+      "Perform all exercises in a supine position"
+    ],
+    "answerIndex": 0,
+    "explanation": "For clients with hypertension, tempo should not exceed 1 second for the isometric and concentric portions of a lift, modifying tempo to avoid extended isometric and concentric muscle actions. Heavy lifting and the Valsalva maneuver should be avoided, and clients should breathe normally. Circuit or peripheral heart action training with appropriate rest intervals is a good option."
+  },
+  {
+    "id": "nasm-sp-028",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Hypertension",
+    "question": "A client with hypertension habitually clenches the dumbbells as tightly as possible during pressing. Why should the trainer correct this?",
+    "choices": [
+      "Overgripping reduces the effectiveness of the exercise only",
+      "Overgripping, like the Valsalva maneuver, can dramatically increase blood pressure",
+      "Overgripping causes wrist tendonitis over time but has no measurable cardiovascular effect",
+      "Overgripping has no meaningful effect"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clients with hypertension should breathe normally and avoid both the Valsalva maneuver and overgripping equipment, because either can dramatically increase blood pressure. Trainers should also monitor these clients carefully when rising from a seated or lying position, since dizziness can occur. Exercises are best performed in a standing or seated position with slow progression."
+  },
+  {
+    "id": "nasm-sp-029",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Hypertension",
+    "question": "Which core exercise approach is preferred for clients with hypertension?",
+    "choices": [
+      "Supine core exercises, which support the spine and keep blood pressure lower than standing work does",
+      "Prone core exercises only",
+      "Standing core exercises such as standing cable iso-rotations or cobras in a standing position",
+      "Loaded spinal flexion with breath holding"
+    ],
+    "answerIndex": 2,
+    "explanation": "Core exercises in the standing position are preferred over supine core exercises for clients with hypertension, with examples including standing cable iso-rotations and standing cobras. Resistance training should likewise be performed primarily seated or standing. Plyometric training should be used with care for this population."
+  },
+  {
+    "id": "nasm-sp-030",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Coronary heart disease",
+    "question": "What causes coronary heart disease, and what is its primary driver?",
+    "choices": [
+      "Excessive resistance training volume",
+      "Arteriosclerosis alone, driven purely by the normal stiffening of the arteries that occurs with advancing age",
+      "Viral infection of the heart muscle",
+      "Atherosclerosis narrowing the coronary arteries, driven mainly by smoking, poor diet, and inactivity"
+    ],
+    "answerIndex": 3,
+    "explanation": "Coronary heart disease is caused by atherosclerosis, or plaque formation, which narrows the coronary arteries and ultimately produces angina pectoris, myocardial infarction, or both. The primary cause is poor lifestyle choices, chiefly cigarette smoking, poor diet, and physical inactivity. It remains the leading cause of death and disability for both men and women."
+  },
+  {
+    "id": "nasm-sp-031",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Coronary heart disease guidelines",
+    "question": "Which intensity guidance applies to clients with coronary heart disease?",
+    "choices": [
+      "Moderate intensity, 40% to 75% of maximum heart rate, progressing only with the physician's advice",
+      "Vigorous intensity at 85% to 100% of maximum heart rate, progressed further at every training session",
+      "Maximal effort intervals from the first session",
+      "Intensity is irrelevant if duration is short"
+    ],
+    "answerIndex": 0,
+    "explanation": "Clients with coronary heart disease should train at moderate intensity, 40% to 75% of maximum heart rate, and progress only on a physician's advice. The talk test may be more appropriate for gauging intensity because medications can affect heart rate. Sessions run a 5- to 10-minute warm-up, 20 to 40 minutes of exercise, and a 5- to 10-minute cool-down, 3 to 5 days per week."
+  },
+  {
+    "id": "nasm-sp-032",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Coronary heart disease",
+    "question": "A client with stable coronary artery disease who completed cardiac rehabilitation asks whether exercise is worth the risk. Which benefits should the trainer cite?",
+    "choices": [
+      "Exercise offers no benefit once coronary artery disease is established and may only accelerate its progression",
+      "Lower mortality risk, greater exercise tolerance and strength, and reduced angina symptoms",
+      "Only improved body composition",
+      "Only reduced blood pressure"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clients with stable coronary artery disease, especially those who completed cardiac rehabilitation, should understand exercise's benefits. Those include a lower risk of mortality, increased exercise tolerance and muscle strength, reduction in angina and heart failure symptoms, and improved psychological status and social adjustment. Trainers should also remember these clients may have coexisting diabetes, hypertension, peripheral vascular disease, or obesity."
+  },
+  {
+    "id": "nasm-sp-033",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Osteoporosis",
+    "question": "How do osteopenia and osteoporosis differ?",
+    "choices": [
+      "Osteopenia affects only the lumbar spine, whereas osteoporosis affects only the neck of the femur and the hip joint itself",
+      "Osteopenia is more severe than osteoporosis",
+      "Osteopenia is below-normal bone density and a precursor; osteoporosis also disrupts microstructure and bone proteins",
+      "They are two names for the same condition"
+    ],
+    "answerIndex": 2,
+    "explanation": "Osteopenia is a condition of lower than normal bone mineral density and is considered a precursor to osteoporosis. Osteoporosis is a disease in which bone mineral density is reduced, bone microstructure is disrupted, and the proteins within bone are altered. It commonly affects the neck of the femur and the lumbar vertebrae."
+  },
+  {
+    "id": "nasm-sp-034",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Osteoporosis",
+    "question": "What distinguishes primary from secondary osteoporosis?",
+    "choices": [
+      "Primary is reversible and secondary is not",
+      "Primary is caused by medications that disrupt bone remodeling; secondary is caused by the normal process of aging itself",
+      "Primary affects men only; secondary affects women only",
+      "Primary follows normal aging and lower estrogen and progesterone; secondary follows specific conditions or medications"
+    ],
+    "answerIndex": 3,
+    "explanation": "Primary, or type 1, osteoporosis is associated with normal aging and attributable to lower production of estrogen and progesterone, which regulate the rate of bone loss. It is most prevalent in postmenopausal women because of estrogen deficiency secondary to menopause. Secondary, or type 2, osteoporosis stems from specific medical conditions or medications, including alcohol abuse, smoking, particular diseases, or drugs that disrupt bone reformation."
+  },
+  {
+    "id": "nasm-sp-035",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Osteoporosis guidelines",
+    "question": "Which resistance training consideration is specified for clients with osteoporosis?",
+    "choices": [
+      "Focus on hips, thighs, back, and arms while avoiding excessive spinal loading in squats and leg presses",
+      "Maximize spinal loading in squats and leg presses in order to stimulate bone remodeling in the vertebrae themselves",
+      "Restrict all resistance training",
+      "Train only in a supine position"
+    ],
+    "answerIndex": 0,
+    "explanation": "Exercises for clients with osteoporosis should focus on the hips, thighs, back, and arms while avoiding excessive spinal loading on squat and leg press exercises. Resistance training is 1 to 3 sets of 8 to 20 repetitions on 2 to 3 days per week. Clients should breathe normally and avoid holding the breath, and progression should be slow, well monitored, and based on postural control."
+  },
+  {
+    "id": "nasm-sp-036",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Osteoporosis",
+    "question": "Roughly how long does consistent exercise at relatively high intensities take before an effect on bone mass is realized?",
+    "choices": [
+      "2 weeks",
+      "About 6 months",
+      "6 weeks",
+      "About 3 years"
+    ],
+    "answerIndex": 1,
+    "explanation": "It generally takes about 6 months of consistent exercise at relatively high intensities before any effect on bone mass is realized. Progressing exercises toward the standing position increases stress to the hips, thighs, and back while raising balance demand, both of which help counter osteoporosis. If clients are not progressed appropriately they may be injured and set back."
+  },
+  {
+    "id": "nasm-sp-037",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Osteoporosis",
+    "question": "A client with osteoporosis has a fixed thoracic kyphosis that cannot be corrected. How should the trainer approach the kinetic chain checkpoints?",
+    "choices": [
+      "Insist on textbook postural alignment on every single exercise until the degenerative changes have been fully corrected over time",
+      "Abandon the checkpoints entirely",
+      "Follow them as closely as possible, aiming for the client's own ideal position rather than a general one",
+      "Load the spine heavily to force realignment"
+    ],
+    "answerIndex": 2,
+    "explanation": "Trainers should follow the kinetic chain checkpoints as closely as possible with this population while recognizing that degenerative postural changes may not be correctable. The goal is the client's own ideal position rather than a general ideal position. Exercises should be performed seated or standing, and self-myofascial techniques may be contraindicated for this group."
+  },
+  {
+    "id": "nasm-sp-038",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Arthritis",
+    "question": "Which resistance training guidance applies to clients with arthritis?",
+    "choices": [
+      "Heavy lifting with maximal repetitions",
+      "Single sets to failure daily",
+      "Plyometric circuits performed three times per week, progressing on to depth jumps as the client's joint tolerance gradually improves",
+      "1 to 3 sets of 10 to 12 repetitions, 2 to 3 days per week"
+    ],
+    "answerIndex": 3,
+    "explanation": "Clients with arthritis should perform 1 to 3 sets of 10 to 12 repetitions on 2 to 3 days per week, and a circuit or peripheral heart action system may be used. Heavy lifting and high repetitions should be avoided, although high repetitions with low load may be appropriate. All work should stay within pain-free ranges of motion, and plyometric training is not recommended for this population."
+  },
+  {
+    "id": "nasm-sp-039",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Arthritis",
+    "question": "Why should a trainer be aware of oral corticosteroid use in a client with arthritis?",
+    "choices": [
+      "Long-term use is associated with osteoporosis, increased body mass, anemia, and higher fracture risk",
+      "Corticosteroids improve bone mineral density and therefore reduce the client's overall risk of bone fracture",
+      "Corticosteroids eliminate joint pain entirely",
+      "Corticosteroids prevent muscle atrophy"
+    ],
+    "answerIndex": 0,
+    "explanation": "Clients taking oral corticosteroids, particularly over time, may have osteoporosis and increased body mass, and anemia if there is a history of gastrointestinal bleeding. Corticosteroids also increase fracture risk. Knowing a client's medications changes both exercise selection and loading decisions."
+  },
+  {
+    "id": "nasm-sp-040",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Arthritis",
+    "question": "Which finding is typical in individuals with osteoarthritis?",
+    "choices": [
+      "Increased knee-extensor strength, improved standing balance, and greater overall joint proprioception in the limb",
+      "Decreased strength, proprioception, and mobility, with increased muscle inhibition of the knee extensors",
+      "No change in balance or strength",
+      "Improved proprioception from joint inflammation"
+    ],
+    "answerIndex": 1,
+    "explanation": "People with osteoarthritis show decreases in strength, proprioception, and mobility, and a decreased ability to balance while standing. Patients exhibit increased muscle inhibition of the knee extensors and cannot activate that musculature optimally, and loss of knee-extensor strength is a strong predictor of osteoarthritis. Symptoms such as joint pain and stiffness are heightened by inactivity through muscle atrophy and loss of tissue flexibility."
+  },
+  {
+    "id": "nasm-sp-041",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Cancer",
+    "question": "Which special consideration applies to self-myofascial techniques for clients undergoing cancer treatment?",
+    "choices": [
+      "They are recommended daily in order to manage treatment-related fatigue and muscle soreness",
+      "They should be performed at maximal pressure",
+      "They are not recommended for clients receiving chemotherapy or radiation treatments",
+      "They replace the need for core and balance work"
+    ],
+    "answerIndex": 2,
+    "explanation": "Self-myofascial techniques are not recommended for clients receiving chemotherapy or radiation treatments. Cancer and malignancy are also listed as contraindications for flexibility exercise more broadly. Core and balance exercises, by contrast, are essential for this population to regain the stabilization needed for activities of daily living."
+  },
+  {
+    "id": "nasm-sp-042",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Cancer guidelines",
+    "question": "Which duration and progression guidance applies to clients recovering from cancer?",
+    "choices": [
+      "45 to 60 minutes per session from the outset",
+      "Maximal effort intervals for 10 minutes",
+      "90 minutes per session, 6 days per week",
+      "15 to 30 minutes per session, possibly starting with only 5 minutes and progressing slowly with adequate rest intervals"
+    ],
+    "answerIndex": 3,
+    "explanation": "Sessions run 15 to 30 minutes and may need to begin with only 5 minutes, increasing progressively depending on the severity of the condition and fatigue. Cardiorespiratory training starts at a moderate level of 40% to 70% of maximum heart rate, 3 to 5 days per week, progressing as tolerated. Heavy lifting should be avoided in the initial stages and adequate rest intervals allowed."
+  },
+  {
+    "id": "nasm-sp-043",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Pregnancy",
+    "question": "Which conditions are listed as contraindications to exercise during pregnancy?",
+    "choices": [
+      "Persistent bleeding in the second or third trimester, pregnancy-induced hypertension, or preterm labor",
+      "Mild nausea, ordinary fatigue, and any weight gain exceeding ten pounds during the second trimester of pregnancy",
+      "Any weight gain above 10 pounds",
+      "A desire to continue resistance training"
+    ],
+    "answerIndex": 0,
+    "explanation": "Contraindications include, but are not limited to, persistent bleeding during the second to third trimester, medical documentation of pregnancy-induced hypertension, or preterm labor during the current or a prior pregnancy. Careful screening for potential contraindications is required. High-risk considerations include age over 35, history of miscarriage, diabetes, thyroid disorder, anemia, obesity, and a sedentary lifestyle."
+  },
+  {
+    "id": "nasm-sp-044",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Pregnancy",
+    "question": "After how many weeks of pregnancy should prone and supine exercises be avoided?",
+    "choices": [
+      "4 weeks",
+      "12 weeks",
+      "24 weeks",
+      "36 weeks"
+    ],
+    "answerIndex": 1,
+    "explanation": "Exercises in a prone or supine position should be avoided after 12 weeks of pregnancy, that is, particularly after the first trimester. An alternate position is lying on the back with head and trunk raised to between 15 and 45 degrees. Posture can affect blood flow to the uterus during vigorous exercise."
+  },
+  {
+    "id": "nasm-sp-045",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Pregnancy guidelines",
+    "question": "Which resistance training guidance is given for pregnancy?",
+    "choices": [
+      "Heavy loads maintained throughout all three trimesters, with intensity progressed as the client's tolerance allows",
+      "No resistance training at any point",
+      "Light loads at 12 to 15 repetitions on 2 to 3 days per week",
+      "Maximal strength testing at the start of each trimester"
+    ],
+    "answerIndex": 2,
+    "explanation": "Resistance training is recommended 2 to 3 days per week using light loads at 12 to 15 repetitions. Moderate- to high-intensity resistance exercise may be used in the first trimester if the client is accustomed to exercise, but lower-intensity programs are advised in the second and third trimesters. Plyometric training is not advised in the second and third trimesters."
+  },
+  {
+    "id": "nasm-sp-046",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Pregnancy",
+    "question": "A pregnant client with visible varicose veins asks about foam rolling her legs. What guidance applies?",
+    "choices": [
+      "Roll directly over the veins to improve circulation",
+      "Use maximal pressure but only for 10 seconds",
+      "Foam rolling is contraindicated everywhere on the body throughout the whole of pregnancy",
+      "Avoid self-myofascial techniques on varicose veins and areas of swelling"
+    ],
+    "answerIndex": 3,
+    "explanation": "Self-myofascial techniques should be avoided on varicose veins and areas of swelling. Both pregnancy and varicose veins are listed as precautions for flexibility exercise, meaning the exercise can often be modified rather than eliminated. Self-myofascial techniques and static and active stretching remain part of the recommended flexibility approach in pregnancy."
+  },
+  {
+    "id": "nasm-sp-047",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Pregnancy",
+    "question": "By roughly how much may pregnancy increase daily metabolic demand even without exercise?",
+    "choices": [
+      "50 kcal per day",
+      "150 kcal per day",
+      "300 kcal per day",
+      "800 kcal per day"
+    ],
+    "answerIndex": 2,
+    "explanation": "Even without exercise, pregnancy may increase metabolic demand by roughly 300 kcal per day to maintain energy balance. Clients should be advised to ensure adequate caloric intake to offset the additional demand of exercise. Aerobic work is recommended at low to moderate intensity, around 40% to 50% of peak work capacity, 3 to 5 days per week with an emphasis on non-weight-bearing modes."
+  },
+  {
+    "id": "nasm-sp-048",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Lung disease",
+    "question": "How do restrictive and obstructive lung diseases differ?",
+    "choices": [
+      "In restrictive disease airflow is restricted; in obstructive disease the lungs cannot expand",
+      "In restrictive disease the lung tissue or chest expansion is limited; in obstructive disease airflow is restricted",
+      "Both refer to identical mechanisms",
+      "Restrictive disease is always caused by smoking, whereas obstructive disease never is and stems only from environmental irritants"
+    ],
+    "answerIndex": 1,
+    "explanation": "In restrictive lung disease the lung tissue may be fibrotic and dysfunctional, as in pulmonary fibrosis or asbestosis, or expansion may be limited by fractured ribs, neuromuscular disease, or obesity. In chronic obstructive lung disease the tissue may be normal but airflow is restricted, as in asthma, chronic bronchitis, and emphysema. Those obstructive diseases are characterized by chronic inflammation and airway obstruction from mucus production."
+  },
+  {
+    "id": "nasm-sp-049",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Lung disease guidelines",
+    "question": "Which special consideration applies when training a client with lung disease?",
+    "choices": [
+      "No rest should be given between exercises",
+      "Upper-body exercise reduces breathlessness and should therefore be maximized in every training session for these clients",
+      "Upper-body exercises cause increased dyspnea and must be monitored, with sufficient rest allowed between exercises",
+      "High-intensity intervals are the preferred starting point"
+    ],
+    "answerIndex": 2,
+    "explanation": "Upper-body exercises cause increased dyspnea in clients with lung disease and must be monitored, with sufficient rest allowed between exercises. These clients experience fatigue at low levels of exercise and often experience shortness of breath. Recommended parameters are 40% to 60% of peak work capacity, 3 to 5 days per week, working up to 20 to 45 minutes, with 1 set of 8 to 15 repetitions using a peripheral heart action system."
+  },
+  {
+    "id": "nasm-sp-050",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Intermittent claudication",
+    "question": "What is intermittent claudication, and what is the primary limiting factor for exercise?",
+    "choices": [
+      "Shortness of breath caused by chronic airway obstruction; the limiting factor is dyspnea rather than muscular fatigue or leg discomfort",
+      "Joint stiffness on waking; the limiting factor is range of motion",
+      "Chest pain during exertion; the limiting factor is heart rate",
+      "Limping or lower leg pain during mild exercise from reduced blood supply; leg pain is the limiting factor"
+    ],
+    "answerIndex": 3,
+    "explanation": "Intermittent claudication is the symptomatic manifestation of peripheral arterial disease, characterized by limping, lameness, or lower leg pain during mild exercise caused by decreased blood supply to the lower extremities. Peripheral arterial disease narrows the major arteries supplying the legs. Leg pain is the primary limiting factor for exercise in these clients."
+  },
+  {
+    "id": "nasm-sp-051",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Intermittent claudication",
+    "question": "A client with peripheral arterial disease who smokes wants to begin a walking program. What guidance applies to the smoking?",
+    "choices": [
+      "Strongly recommend cessation, and allow no smoking for at least 1 hour before exercise",
+      "Smoking has no measurable effect on peripheral arterial disease or on the client's exercise tolerance",
+      "Encourage smoking before exercise to open the airways",
+      "Refuse to train the client under any circumstances"
+    ],
+    "answerIndex": 0,
+    "explanation": "Smoking significantly worsens peripheral arterial disease and exercise tolerance, so cessation should be strongly recommended. If the client continues to smoke, smoking should not be allowed for at least 1 hour before exercise. Programming focuses on aerobic activity with an emphasis on walking, aiming for 20 to 30 total minutes with continuous bouts of 10 minutes or greater, 3 to 5 days per week working up to daily."
+  },
+  {
+    "id": "nasm-sp-052",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Referral",
+    "question": "If leg pain continues during exercise in a client with peripheral arterial disease, the trainer must refer them to a licensed physician immediately.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "The client's physician should be consulted about the condition, and if pain continues during exercise the trainer must refer the client to a licensed physician immediately. An intermittent format may be necessary, with intensity guided by pain tolerance, exercising into moderate to severe discomfort, resting until it subsides, and repeating until total exercise time is reached. For clients with coexisting coronary artery disease, the established heart rate upper limit must not be exceeded."
+  },
+  {
+    "id": "nasm-sp-054",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Older adult positioning",
+    "question": "An older adult client currently performs all core work lying on the floor. What progression goal is described for this population?",
+    "choices": [
+      "Remaining on the floor indefinitely for safety",
+      "Moving immediately to standing work on an unstable surface such as a foam pad or balance disc",
+      "Progressing exercises where possible toward free sitting without support or standing",
+      "Adding maximal load to floor-based work"
+    ],
+    "answerIndex": 2,
+    "explanation": "For older adults, exercises should be progressed if possible toward free sitting with no support or toward standing. Progression should nonetheless be slow, well monitored, and based on postural control. The trainer should also confirm the client is breathing normally rather than holding the breath, as in a Valsalva maneuver."
+  },
+  {
+    "id": "nasm-sp-055",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Obesity and comorbidity",
+    "question": "A client with obesity also reports a second diagnosed chronic disease. What additional step is specified?",
+    "choices": [
+      "Proceed with the standard obesity guidelines only, since those guidelines already account for any comorbid disease present",
+      "Postpone all exercise indefinitely",
+      "Reduce the program to stretching only",
+      "Obtain a medical release from the individual's physician, since these clients may have other chronic diseases"
+    ],
+    "answerIndex": 3,
+    "explanation": "Clients who are overweight or obese may have other chronic diseases, and in such cases a medical release should be obtained from the individual's physician. A thorough preparticipation health screening must be completed before working with this population regardless. Trainers should also keep the client comfortable, be mindful of their position and location within the facility, and use standing or seated exercises."
+  },
+  {
+    "id": "nasm-sp-056",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Cancer recovery programming",
+    "question": "A client recovering from cancer treatment has lost function in daily activities. Which training components are essential?",
+    "choices": [
+      "Core and balance exercises, which restore stabilization for activities of daily living",
+      "Maximal strength work in order to rebuild the lost muscle mass as quickly as the client tolerates",
+      "High-volume plyometric training",
+      "Aerobic training exclusively"
+    ],
+    "answerIndex": 0,
+    "explanation": "Core and balance exercises are described as essential for clients recovering from cancer, because they help regain the stabilization needed for activities of daily living that may have been lost due to inactivity during treatment. Heavy lifting should be avoided in the initial stages, with adequate rest intervals and slow progression. Sessions may need to begin with only 5 minutes and build toward 15 to 30 minutes depending on severity and fatigue."
+  },
+  {
+    "id": "nasm-sp-057",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Older adults and exercise response",
+    "question": "Because of age-related physiologic decline, older adults cannot respond to exercise in the same manner as apparently healthy younger adults.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Despite the normal decline in physiologic functioning associated with aging, older adults with and without other chronic health conditions can and do respond to exercise much in the same manner as apparently healthy younger adults. By adhering to a systematic process, fitness professionals can make a dramatic impact on their overall health and well-being. Research also shows that musculoskeletal degeneration may not be entirely age-related and that measures can prevent loss of strength and functional mobility."
+  },
+  {
+    "id": "nasm-sp-058",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Weight loss maintenance",
+    "question": "Regular physical activity and exercise is one of the most important factors related to long-term successful weight loss.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Regular physical activity and exercise is described as one of the most important factors related to long-term successful weight loss. The majority of participants who reported consistently exercising an average of one hour per day maintained significant weight loss over a period of several years. Overweight and obesity also represent the one area of public health where fitness professionals can make a significant positive impact."
+  }
+]

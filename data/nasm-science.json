@@ -1,0 +1,1419 @@
+[
+  {
+    "id": "nasm-sci-001",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Human movement system",
+    "question": "Which three systems make up the human movement system?",
+    "choices": [
+      "Digestive, endocrine, and lymphatic",
+      "Cardiovascular, respiratory, and endocrine systems",
+      "Nervous, skeletal, and muscular",
+      "Muscular, respiratory, and integumentary"
+    ],
+    "answerIndex": 2,
+    "explanation": "The human movement system is the collective integration of the nervous, skeletal, and muscular systems. These three are interdependent and must work together to produce movement. The term is synonymous with kinetic chain."
+  },
+  {
+    "id": "nasm-sci-002",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Kinetic chain",
+    "question": "What does the term kinetic chain describe?",
+    "choices": [
+      "A sequence of exercises arranged so that each one loads the next muscle group",
+      "The path blood follows through the heart",
+      "The order in which energy systems are recruited",
+      "The body as interdependent links working as a unit"
+    ],
+    "answerIndex": 3,
+    "explanation": "Kinetic chain describes the body as a chain of interdependent links that cooperate to produce movement. Because the links are connected, a problem at one area can have a domino effect and create problems elsewhere. The term is used interchangeably with human movement system."
+  },
+  {
+    "id": "nasm-sci-003",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Nervous system",
+    "question": "What is the functional unit of the nervous system?",
+    "choices": [
+      "The neuron",
+      "The sarcomere",
+      "The motor unit",
+      "The synapse"
+    ],
+    "answerIndex": 0,
+    "explanation": "The neuron is the specialized cell that serves as the functional unit of the nervous system. Neurons process and transmit information through electrical and chemical signals and collectively form the nerves of the body. The sarcomere is the functional unit of muscle contraction."
+  },
+  {
+    "id": "nasm-sci-004",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Nervous system",
+    "question": "Which three parts make up a neuron?",
+    "choices": [
+      "Actin, myosin, and titin",
+      "Cell body, axon, and dendrites",
+      "Nucleus, sarcolemma, and sarcoplasm",
+      "Afferent, efferent, and interneuron conducting pathways"
+    ],
+    "answerIndex": 1,
+    "explanation": "A neuron consists of a cell body, an axon, and dendrites. The axon is a cylindrical projection that transmits impulses to other neurons or to effector sites such as muscles and organs. Dendrites gather information from other structures and transmit it back into the neuron."
+  },
+  {
+    "id": "nasm-sci-005",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Nervous system",
+    "question": "Which structures make up the central nervous system?",
+    "choices": [
+      "The cranial nerves and the spinal nerves",
+      "The somatic and autonomic divisions",
+      "The brain and spinal cord",
+      "The sensory receptors and interneurons"
+    ],
+    "answerIndex": 2,
+    "explanation": "The central nervous system consists of the brain and spinal cord. The peripheral nervous system comprises the nerves that connect the rest of the body to the central nervous system, including 12 cranial nerves and 31 pairs of spinal nerves plus sensory receptors. The somatic and autonomic divisions are subdivisions of the peripheral nervous system."
+  },
+  {
+    "id": "nasm-sci-006",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Nervous system",
+    "question": "Which pathway carries sensory information from the body to the central nervous system?",
+    "choices": [
+      "The efferent motor pathway",
+      "The sympathetic pathway",
+      "The autonomic pathway",
+      "The afferent pathway"
+    ],
+    "answerIndex": 3,
+    "explanation": "Sensory information travels from the body to the central nervous system along the afferent pathway. Motor commands travel back out from the central nervous system along the efferent pathway. Interneurons within the brain and spinal cord transmit impulses between afferent and efferent neurons."
+  },
+  {
+    "id": "nasm-sci-007",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Sensory receptors",
+    "question": "Which type of sensory receptor is most relevant to the science of human movement?",
+    "choices": [
+      "Mechanoreceptors",
+      "Chemoreceptors in the vessels",
+      "Nociceptors",
+      "Photoreceptors"
+    ],
+    "answerIndex": 0,
+    "explanation": "Mechanoreceptors respond to mechanical forces such as touch, pressure, stretch, and motion, which makes them the most important receptor type for fitness professionals to understand. Nociceptors respond to pain, chemoreceptors to chemical interaction such as smell and taste, and photoreceptors to light. Mechanoreceptors are found in muscles, tendons, ligaments, and joint capsules."
+  },
+  {
+    "id": "nasm-sci-008",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Muscle spindles",
+    "question": "What are muscle spindles sensitive to?",
+    "choices": [
+      "Changes in muscular tension and the rate of tension change",
+      "Changes in muscle length and the rate of that change",
+      "Joint pressure together with acceleration and deceleration forces at the joint",
+      "Blood pH and carbon dioxide concentration"
+    ],
+    "answerIndex": 1,
+    "explanation": "Muscle spindles are sensitive to change in the length of a muscle and to the rate of that change. When the signal reaches the brain it helps determine the position of body parts. Sensitivity to muscular tension and its rate of change describes the Golgi tendon organ instead."
+  },
+  {
+    "id": "nasm-sci-009",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Golgi tendon organ",
+    "question": "Where is the Golgi tendon organ located?",
+    "choices": [
+      "Within the belly of the muscle, running parallel to the contractile fibers",
+      "Inside the joint capsule",
+      "Where muscle fibers insert into the tendon",
+      "In the walls of the arteries"
+    ],
+    "answerIndex": 2,
+    "explanation": "The Golgi tendon organ sits at the junction where skeletal muscle fibers insert into the tendon. It is sensitive to changes in muscular tension and the rate of that change. Joint receptors, by contrast, are located in and around the joint capsule and respond to pressure, acceleration, and deceleration."
+  },
+  {
+    "id": "nasm-sci-010",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Stretch reflex",
+    "question": "What is the stretch reflex?",
+    "choices": [
+      "A hormonal response to prolonged static stretching",
+      "A signal from the Golgi tendon organ that causes the muscle to relax reflexively",
+      "A conscious decision to stop a stretch when it becomes painful",
+      "A muscle spindle signal causing reflexive contraction"
+    ],
+    "answerIndex": 3,
+    "explanation": "The stretch reflex is a neurological signal originating from the muscle spindle that triggers muscular contraction to prevent excessive lengthening. It is a protective mechanism against rapid or extreme changes in muscle length. Relaxation responses to sustained tension involve the Golgi tendon organ."
+  },
+  {
+    "id": "nasm-sci-011",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Autonomic nervous system",
+    "question": "Which subdivision of the autonomic nervous system produces the fight-or-flight response?",
+    "choices": [
+      "Sympathetic",
+      "The parasympathetic division",
+      "Somatic",
+      "Afferent"
+    ],
+    "answerIndex": 0,
+    "explanation": "The sympathetic nervous system increases neural activity and places the body in a heightened, excited state in anticipation of increased activity, commonly called fight or flight. The parasympathetic system decreases neural activity and creates the rest-and-digest state by suspending the release of excitatory hormones. The somatic system governs voluntary control of skeletal muscle."
+  },
+  {
+    "id": "nasm-sci-012",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Nervous system",
+    "question": "Which four primary electrolytes support nerve impulse transmission?",
+    "choices": [
+      "Calcium, iron, zinc, selenium, and copper",
+      "Sodium, potassium, magnesium, and water",
+      "Sodium, chloride, iodine, and copper",
+      "Potassium, phosphorus, manganese, and fluoride"
+    ],
+    "answerIndex": 1,
+    "explanation": "Sodium, potassium, magnesium, and water are the four primary electrolytes involved in transmitting nerve impulses. These minerals carry an electrical charge that supports signal conduction. An electrolyte or water imbalance may also contribute to exercise-associated muscle cramps."
+  },
+  {
+    "id": "nasm-sci-013",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Nervous system functions",
+    "question": "Which of the nervous system's three primary functions involves analyzing and interpreting sensory information to allow proper decision-making?",
+    "choices": [
+      "The sensory input function",
+      "Motor function",
+      "Integrative function",
+      "Reflexive function"
+    ],
+    "answerIndex": 2,
+    "explanation": "The integrative function is the nervous system's ability to analyze and interpret sensory information so an appropriate response can be selected. The sensory function is the ability to detect changes in the internal or external environment, and the motor function is the neuromuscular response to that integrated information. Proprioception is one example of a sensory function."
+  },
+  {
+    "id": "nasm-sci-014",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Motor skill development",
+    "question": "Which three stages describe the development of a motor skill?",
+    "choices": [
+      "Alarm, resistance, and exhaustion stages",
+      "Precontemplation, action, and maintenance",
+      "Eccentric, isometric, and concentric",
+      "Cognitive, associative, and autonomous"
+    ],
+    "answerIndex": 3,
+    "explanation": "Motor skill development progresses through cognitive, associative, and autonomous stages. In the cognitive stage the client understands the goal but performs inconsistently, in the associative stage practice reduces error, and in the autonomous stage the skill is consistent and can be self-modified. Alarm, resistance, and exhaustion describe the general adaptation syndrome instead."
+  },
+  {
+    "id": "nasm-sci-015",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Motor skill development",
+    "question": "A client is learning a hip hinge for the first time and produces inconsistent repetitions despite understanding the goal. Which coaching approach fits their stage?",
+    "choices": [
+      "Use simple instructions and break the skill into steps",
+      "Teach advanced variations early so the client is not bored by simple drills",
+      "Withdraw all feedback so they can self-correct",
+      "Add maximal external load to force the correct pattern"
+    ],
+    "answerIndex": 0,
+    "explanation": "Inconsistent performance while understanding the goal places the client in the cognitive stage. At this stage the trainer should use simple instructions and break the skill into smaller steps so the client can grasp the objective. Advanced variations are appropriate later, once the skill becomes autonomous."
+  },
+  {
+    "id": "nasm-sci-016",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Neuroplasticity",
+    "question": "What does neuroplasticity describe?",
+    "choices": [
+      "The permanent fixing of neural pathways once a movement skill has been learned",
+      "The brain's ability to change and reform neural connections",
+      "The loss of nerve conduction velocity with age",
+      "The insulation of axons by myelin"
+    ],
+    "answerIndex": 1,
+    "explanation": "Neuroplasticity is the concept that the brain continually changes and reforms neural pathways throughout an individual's entire life span. Related changes in neurocircuitry describe altered interconnections among neurons in the brain and spinal cord. Staying physically fit is one of the best ways to counter the cognitive decline associated with aging."
+  },
+  {
+    "id": "nasm-sci-017",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Skeletal system",
+    "question": "Which bones make up the axial skeleton?",
+    "choices": [
+      "The arms, the legs, and the pelvic girdle",
+      "The vertebral column and pelvic girdle only",
+      "The skull, rib cage, and vertebral column",
+      "The skull and the appendicular limbs"
+    ],
+    "answerIndex": 2,
+    "explanation": "The axial skeleton consists of the skull, rib cage, and vertebral column, with approximately 80 bones. The appendicular skeleton comprises the arms, legs, and pelvic girdle, encompassing approximately 126 bones. Together the skeleton contains 206 bones forming more than 300 joints."
+  },
+  {
+    "id": "nasm-sci-018",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Skeletal system",
+    "question": "Which two functions do bones serve in movement?",
+    "choices": [
+      "They generate force and shorten actively to produce movement at the joint",
+      "They absorb nutrients and filter waste",
+      "They transmit nerve impulses and secrete hormones",
+      "They act as levers and provide structural support"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bones act as levers, or rigid rods, to which muscles attach, and they provide the support that becomes posture. Muscles connect to bones by tendons and create movement by pulling on those levers. Bones also protect internal organs and give the body shape and form."
+  },
+  {
+    "id": "nasm-sci-019",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Bone remodeling",
+    "question": "Which cells break down and remove old bone tissue?",
+    "choices": [
+      "Osteoclasts",
+      "Osteoblasts that build bone",
+      "Osteocytes",
+      "Chondrocytes"
+    ],
+    "answerIndex": 0,
+    "explanation": "Osteoclasts break down and remove old bone tissue, while osteoblasts form and lay down new bone tissue. Together they carry out remodeling, the lifelong process of bone resorption and formation. During childhood and adolescence new bone is added faster than old bone is removed, so bones become larger, heavier, and denser."
+  },
+  {
+    "id": "nasm-sci-020",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Wolff's law",
+    "question": "What does Wolff's law state?",
+    "choices": [
+      "Bone density is fixed at maturity and cannot be altered by mechanical loading",
+      "Bone remodels along the lines of stress placed on it",
+      "Muscle grows in proportion to the load lifted",
+      "Energy cannot be created or destroyed"
+    ],
+    "answerIndex": 1,
+    "explanation": "Wolff's law explains that new bone growth occurs along the lines of stress placed on the bone. This continues until bone mass peaks, usually by the time an individual reaches their thirties. It also means that poor technique combined with poor postural alignment can reinforce an existing bad posture through remodeling."
+  },
+  {
+    "id": "nasm-sci-021",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Bone health",
+    "question": "A client wants to improve bone strength but currently only swims and cycles. What is the most useful recommendation?",
+    "choices": [
+      "Continue as is, since all aerobic exercise loads the skeleton equally well",
+      "Replace all cardio with static stretching",
+      "Add weight-bearing activity such as walking or dancing",
+      "Increase swimming volume to build bone through resistance of the water"
+    ],
+    "answerIndex": 2,
+    "explanation": "Weight-bearing exercise such as walking, jogging, dancing, and jumping strengthens bone through the remodeling process. Cycling and swimming improve endurance and cardiovascular health but do not stimulate bone as effectively because they are not weight bearing. Current recommendations pair regular weight-bearing activity with muscle-strengthening exercise."
+  },
+  {
+    "id": "nasm-sci-022",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Bone types",
+    "question": "Which bone type is small and round, embedded in a joint capsule or where a tendon passes over a joint?",
+    "choices": [
+      "Long",
+      "Short",
+      "Irregular bones of the spine",
+      "Sesamoid"
+    ],
+    "answerIndex": 3,
+    "explanation": "Sesamoid bones are small and often round, embedded within a joint capsule or found where a tendon crosses a joint. They improve leverage and protect the joint from damage. The five bone categories are long, short, flat, irregular, and sesamoid."
+  },
+  {
+    "id": "nasm-sci-023",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Bone types",
+    "question": "Which bone type consists predominantly of spongy bone tissue to maximize shock absorption and appears roughly cubical?",
+    "choices": [
+      "Short",
+      "Long",
+      "Flat",
+      "A sesamoid bone"
+    ],
+    "answerIndex": 0,
+    "explanation": "Short bones are similar in length and width, appear somewhat cubical, and are made up predominantly of spongy bone tissue that maximizes shock absorption. Long bones are mostly compact bone for strength and stiffness with some spongy tissue at the ends. Flat bones provide thin protective surfaces and broad areas for muscle attachment."
+  },
+  {
+    "id": "nasm-sci-024",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Vertebral column",
+    "question": "How many vertebrae are in each of the cervical, thoracic, and lumbar regions?",
+    "choices": [
+      "5 cervical, 12 thoracic, and 7 lumbar",
+      "7 cervical, 12 thoracic, 5 lumbar",
+      "7 cervical, 5 thoracic, 12 lumbar",
+      "12 cervical, 7 thoracic, 5 lumbar"
+    ],
+    "answerIndex": 1,
+    "explanation": "The spine contains 7 cervical vertebrae in the neck, 12 thoracic vertebrae in the mid-back, and 5 lumbar vertebrae in the low back. A common memory aid is breakfast at 7, lunch at 12, and dinner at 5. The sacrum and coccyx complete the five regions of the column."
+  },
+  {
+    "id": "nasm-sci-025",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Vertebral column",
+    "question": "Which spinal segment contains the largest vertebrae and supports most of the body's weight?",
+    "choices": [
+      "The cervical region",
+      "Thoracic",
+      "Lumbar",
+      "Coccyx"
+    ],
+    "answerIndex": 2,
+    "explanation": "The lumbar vertebrae are the largest segments in the spinal column and support most of the body's weight while serving as attachment sites for many back muscles. Thoracic vertebrae each articulate with a rib and increase in size from top to bottom. Cervical vertebrae form a flexible framework supporting the head."
+  },
+  {
+    "id": "nasm-sci-026",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Vertebral column",
+    "question": "What is the function of the intervertebral discs?",
+    "choices": [
+      "They secrete synovial fluid that lubricates the facet joints of the spine",
+      "They generate the force that extends the spine",
+      "They anchor the ribs to the sternum",
+      "They absorb shock and allow intervertebral movement"
+    ],
+    "answerIndex": 3,
+    "explanation": "Intervertebral discs sit between the vertebrae, are made of fibrous cartilage, and act as shock absorbers while permitting spinal movement. The vertebral column also protects the spinal cord, supports the head and arms, and provides attachment sites for muscles, ribs, and connective tissue. A neutral spine places these structures under the least load."
+  },
+  {
+    "id": "nasm-sci-027",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Joints",
+    "question": "What distinguishes osteokinematics from arthrokinematics?",
+    "choices": [
+      "Osteokinematics is visible limb motion; arthrokinematics is joint surface motion",
+      "Osteokinematics describes the roll, slide, and spin occurring at the joint surfaces",
+      "Both terms describe the same phenomenon",
+      "Osteokinematics applies only to the spine and arthrokinematics only to the limbs"
+    ],
+    "answerIndex": 0,
+    "explanation": "Osteokinematics refers to the observable movement of a limb, while arthrokinematics refers to the movement occurring at the joint surfaces themselves. Arthrokinematic motion consists of roll, slide, and spin. Both must be normal for a joint to move through its full range."
+  },
+  {
+    "id": "nasm-sci-028",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Joints",
+    "question": "Which arthrokinematic motion is compared to twisting the lid off a jar?",
+    "choices": [
+      "Roll of the joint surface",
+      "Spin",
+      "Slide",
+      "Glide"
+    ],
+    "answerIndex": 1,
+    "explanation": "Spin describes one joint surface rotating on another, comparable to twisting a lid off a jar. Roll is likened to a bicycle tire rolling along the street, and slide to that tire skidding across the street. All three are forms of arthrokinematic motion."
+  },
+  {
+    "id": "nasm-sci-029",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Synovial joints",
+    "question": "Roughly what proportion of the body's joints are synovial, and what makes them distinctive?",
+    "choices": [
+      "About 20%, and they have no capsule or membrane but are held by ligaments",
+      "About 50%; they are fused and immobile",
+      "About 80%, with a capsule, membrane, and cartilage",
+      "About 95%; they contain only fibrous connective tissue"
+    ],
+    "answerIndex": 2,
+    "explanation": "Synovial joints comprise approximately 80% of the joints in the body and have the greatest capacity for motion. They possess a synovial capsule and membrane along with cartilage that pads the ends of the articulating bones. The synovial membrane secretes synovial fluid, which lubricates the joint surfaces."
+  },
+  {
+    "id": "nasm-sci-030",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Synovial joints",
+    "question": "Which synovial joint classification allows movement in all three directions and is the most mobile?",
+    "choices": [
+      "A hinge joint of the elbow",
+      "Pivot",
+      "Saddle",
+      "Ball-and-socket"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ball-and-socket joints are the most mobile, permitting movement in all three planes. Hinge and pivot joints are uniaxial, allowing motion predominantly in one direction. Saddle joints allow movement predominantly in two directions and are found only at the carpometacarpal joint of the thumb."
+  },
+  {
+    "id": "nasm-sci-031",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Connective tissue",
+    "question": "What is the difference between a strain and a sprain?",
+    "choices": [
+      "A strain injures a tendon; a sprain injures a ligament",
+      "A strain is an overstretched or torn ligament while a sprain injures the tendon",
+      "Both terms describe muscle bruising",
+      "A strain affects bone and a sprain affects cartilage"
+    ],
+    "answerIndex": 0,
+    "explanation": "Tendons connect muscle to bone, and injury to a tendon from overstretching or tearing is a strain. Ligaments connect bone to bone, and the corresponding injury is a sprain. Distinguishing them matters when documenting injury history during intake."
+  },
+  {
+    "id": "nasm-sci-032",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Connective tissue",
+    "question": "Why do ligaments tend to heal slowly?",
+    "choices": [
+      "They contain no collagen fibers of any kind whatsoever within them",
+      "They have poor vascularity, meaning a limited blood supply",
+      "They are made entirely of elastin",
+      "They are not innervated by the nervous system"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ligaments are characterized by poor vascularity, so they do not heal or repair well and may adapt slowly to imposed stress. They are made primarily of collagen with varying amounts of elastin, giving them both tensile strength and some elastic recoil. Ligaments also supply sensory input that aids proprioception."
+  },
+  {
+    "id": "nasm-sci-033",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Range of motion",
+    "question": "A client with hypomobility at a joint most likely has which underlying issue?",
+    "choices": [
+      "A lack of firm ligamentous support around the affected joint capsule",
+      "Excess synovial fluid production",
+      "Restricted length of the muscular structures crossing the joint",
+      "An absence of joint receptors"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hypomobility means limited range of motion at a joint and generally reflects restricted length in the muscles crossing that joint. Hypermobility, or excessive range of motion, generally reflects a lack of firm ligamentous support. Full range of motion requires normal capsule and ligament elasticity, normal muscle length, and normally functioning neurological and muscular systems."
+  },
+  {
+    "id": "nasm-sci-034",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Muscle structure",
+    "question": "What is the sarcomere?",
+    "choices": [
+      "The connective tissue sheath surrounding each individual bundle of muscle fibers",
+      "The gap between a motor neuron and a muscle cell",
+      "The plasma membrane encasing a muscle fiber",
+      "The repeating unit of overlapping actin and myosin"
+    ],
+    "answerIndex": 3,
+    "explanation": "The sarcomere is the repeating section of overlapping actin and myosin within a myofibril and is the specific physical site where muscle contraction occurs. The meeting point of each sarcomere is the Z-line. Perimysium surrounds a fascicle, the sarcolemma encases the fiber, and the synapse is the gap at the neuromuscular junction."
+  },
+  {
+    "id": "nasm-sci-035",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Muscle structure",
+    "question": "Which connective tissue wraps around individual muscle fibers within a fascicle?",
+    "choices": [
+      "Endomysium",
+      "The perimysium layer",
+      "Epimysium",
+      "Sarcolemma"
+    ],
+    "answerIndex": 0,
+    "explanation": "The endomysium wraps around individual muscle fibers inside a fascicle. Perimysium surrounds the fascicle itself, which is the largest bundle of fibers within a muscle. Within the endomysium, each fiber is encased by a plasma membrane called the sarcolemma."
+  },
+  {
+    "id": "nasm-sci-036",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Muscle contraction",
+    "question": "What are actin and myosin?",
+    "choices": [
+      "Two neurotransmitters released at the neuromuscular junction during contraction",
+      "The thin and thick contractile myofilaments",
+      "Two types of connective tissue sheath",
+      "Two electrolytes required for nerve conduction"
+    ],
+    "answerIndex": 1,
+    "explanation": "Actin is the thin, stringlike myofilament and myosin the thick one, and together they are the actual contractile components of muscle tissue. The sliding filament theory describes how they slide past one another to shorten the sarcomere and the muscle as a whole. Adenosine triphosphate supplies the energy for this process."
+  },
+  {
+    "id": "nasm-sci-037",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Muscle contraction",
+    "question": "Which neurotransmitter helps the action potential cross the synapse into the muscle?",
+    "choices": [
+      "Cortisol from the adrenal cortex",
+      "Epinephrine",
+      "Acetylcholine",
+      "Insulin"
+    ],
+    "answerIndex": 2,
+    "explanation": "Acetylcholine is the neurotransmitter released into the neuromuscular junction to help the nerve impulse cross the synapse into the muscle, initiating contraction. It binds to receptor sites on the muscle fiber designed for its attachment. Epinephrine, cortisol, and insulin are hormones rather than neuromuscular junction transmitters."
+  },
+  {
+    "id": "nasm-sci-038",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Muscle contraction",
+    "question": "Which electrolyte is released by the sarcoplasmic reticulum to trigger myosin binding to actin?",
+    "choices": [
+      "Sodium ions",
+      "Potassium",
+      "Magnesium",
+      "Calcium"
+    ],
+    "answerIndex": 3,
+    "explanation": "The nerve impulse stimulates the sarcoplasmic reticulum to release calcium into the muscle, which sets off the chain of events resulting in myosin heads binding to actin. Sodium and potassium facilitate the impulse traveling down the motor neuron. This whole sequence is called excitation-contraction coupling."
+  },
+  {
+    "id": "nasm-sci-039",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Muscle contraction",
+    "question": "What is the power stroke in muscle contraction?",
+    "choices": [
+      "The overlapping action of actin and myosin filaments",
+      "The release of acetylcholine into the synapse",
+      "The relaxation of the muscle after exercise",
+      "The conduction of the impulse from brain to spinal cord"
+    ],
+    "answerIndex": 0,
+    "explanation": "The power stroke is the overlapping action of actin and myosin filaments, powered by adenosine triphosphate supplied to the myosin heads. After the stroke ends the myosin heads detach and return to their resting length. Repeating this cycle progressively shortens the sarcomere."
+  },
+  {
+    "id": "nasm-sci-040",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Motor unit",
+    "question": "What constitutes a motor unit?",
+    "choices": [
+      "One muscle fiber and all of the motor neurons that connect to it",
+      "A motor neuron and the fibers it innervates",
+      "One sarcomere and its surrounding sarcoplasm",
+      "One tendon and its attached bone"
+    ],
+    "answerIndex": 1,
+    "explanation": "A motor unit is one motor neuron together with all the muscle fibers it innervates. Communication occurs at the neuromuscular junction, a small gap called a synapse. Muscles involved in fine motor skills have motor units with fewer innervated fibers, while those handling gross motor control have more."
+  },
+  {
+    "id": "nasm-sci-041",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "All-or-nothing principle",
+    "question": "What does the all-or-nothing principle state about motor units?",
+    "choices": [
+      "Motor units grade their contraction force smoothly in proportion to the load",
+      "Motor units always recruit type II fibers first",
+      "Motor units contract maximally or not at all",
+      "Motor units can only fire once per exercise session"
+    ],
+    "answerIndex": 2,
+    "explanation": "A motor unit cannot vary the force it generates; it either contracts maximally or not at all. As a consequence, the overall strength of a skeletal muscle contraction depends on which types of motor units are recruited and how many are activated at once. This is why recruitment, not partial contraction, governs force output."
+  },
+  {
+    "id": "nasm-sci-043",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Muscle fiber types",
+    "question": "Why are type II muscle fibers often referred to as white fibers?",
+    "choices": [
+      "Limited myoglobin, so low oxidative capacity",
+      "They contain no actin or myosin and rely on stored creatine phosphate instead",
+      "They are not innervated by motor neurons",
+      "They are found only in cardiac muscle"
+    ],
+    "answerIndex": 0,
+    "explanation": "Type II fibers contain fewer capillaries, mitochondria, and myoglobin than type I fibers. The limited myoglobin gives them low oxidative capacity, makes them quick to fatigue, and accounts for the white fiber nickname. They are larger and produce higher force, making them fast-twitch fibers."
+  },
+  {
+    "id": "nasm-sci-044",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Muscle development",
+    "question": "Between which ages do peak muscle mass, power, and strength typically occur?",
+    "choices": [
+      "Between 10 and 20 years",
+      "20 and 30 years",
+      "35 and 45 years",
+      "50 and 60 years"
+    ],
+    "answerIndex": 1,
+    "explanation": "Peak muscle mass, power, and strength typically occur between 20 and 30 years of age. Changes are small from ages 30 to 50, after which decline becomes more pronounced. Resistance training is highly beneficial for combating age-related loss of muscle mass, power, and strength."
+  },
+  {
+    "id": "nasm-sci-045",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Muscle types",
+    "question": "Which type of muscle tissue makes up the heart, and how is it controlled?",
+    "choices": [
+      "Skeletal muscle, which is under voluntary conscious control at all times",
+      "Smooth muscle, under voluntary control",
+      "Cardiac muscle, which is involuntary",
+      "Cardiac muscle, under voluntary control"
+    ],
+    "answerIndex": 2,
+    "explanation": "Cardiac muscle makes up the heart and is involuntary, meaning it typically cannot be consciously controlled. It resembles skeletal muscle in containing myofibrils and side-by-side sarcomeres, but its fibers are shorter and more tightly connected. Intercalated discs help hold the cardiac muscle cells together."
+  },
+  {
+    "id": "nasm-sci-046",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Heart anatomy",
+    "question": "Why is the right side of the heart called the pulmonic side?",
+    "choices": [
+      "It pumps oxygenated blood out to the whole of the systemic circulation",
+      "It holds a larger volume than the left side",
+      "It contains the sinoatrial node only",
+      "It receives deoxygenated blood and pumps it to the lungs"
+    ],
+    "answerIndex": 3,
+    "explanation": "The right side receives blood that is low in oxygen and high in carbon dioxide from the body, then pumps it to the lungs, which is why it is termed the pulmonic side. The left side is called the systemic side because it receives oxygenated blood from the lungs and pumps it to the rest of the body. Blood always flows from atrium to ventricle on each side."
+  },
+  {
+    "id": "nasm-sci-047",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Heart anatomy",
+    "question": "Which vessel carries deoxygenated blood from the right ventricle to the lungs?",
+    "choices": [
+      "Pulmonary artery",
+      "Pulmonary vein",
+      "Aorta",
+      "Superior vena cava"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pulmonary artery transports deoxygenated blood from the right ventricle to the lungs. The pulmonary vein returns oxygenated blood from the lungs to the left atrium. This is the notable case where an artery carries deoxygenated blood and a vein carries oxygenated blood."
+  },
+  {
+    "id": "nasm-sci-048",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Cardiac conduction",
+    "question": "Which structure is known as the pacemaker of the heart, and where is it located?",
+    "choices": [
+      "The atrioventricular node, located between the atria and ventricles",
+      "The sinoatrial node, located in the right atrium",
+      "The sinoatrial node, located in the left ventricle",
+      "The bundle of His, located in the septum"
+    ],
+    "answerIndex": 1,
+    "explanation": "The sinoatrial node sits in the right atrium and initiates the electrical signal that causes the heart to beat, earning it the pacemaker label. The signal then passes to the atrioventricular node, located between the atria and ventricles, which delays the impulse before allowing it into the ventricles. If the conduction system fails, an artificial pacemaker may be implanted."
+  },
+  {
+    "id": "nasm-sci-049",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Stroke volume",
+    "question": "How is stroke volume determined?",
+    "choices": [
+      "End-systolic volume minus end-diastolic volume",
+      "Heart rate multiplied by cardiac output",
+      "End-diastolic volume minus end-systolic volume",
+      "Cardiac output divided by peripheral resistance"
+    ],
+    "answerIndex": 2,
+    "explanation": "Stroke volume is the amount of blood ejected with each contraction and equals end-diastolic volume minus end-systolic volume. End-diastolic volume is the filled volume in the ventricle before contraction, and end-systolic volume is the residual volume left after ejection. Cardiac output is then heart rate multiplied by stroke volume."
+  },
+  {
+    "id": "nasm-sci-050",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Cardiac output",
+    "question": "How is cardiac output calculated?",
+    "choices": [
+      "Heart rate multiplied by the systolic blood pressure",
+      "Stroke volume divided by heart rate",
+      "Systolic pressure minus diastolic pressure",
+      "Heart rate multiplied by stroke volume"
+    ],
+    "answerIndex": 3,
+    "explanation": "Cardiac output is the volume of blood pumped from the heart in a minute and equals heart rate multiplied by stroke volume. It can rise from an increase in either variable, and during exercise both typically increase. Trained clients tend to raise cardiac output more through stroke volume than through heart rate at a given workload."
+  },
+  {
+    "id": "nasm-sci-051",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Heart rate",
+    "question": "What is the normal resting heart rate range, and what terms describe values outside it?",
+    "choices": [
+      "40 to 80 beats per minute, with bradycardia below 40 and tachycardia above 80",
+      "50 to 90 beats per minute; arrhythmia in either direction",
+      "60 to 100; bradycardia below 60, tachycardia above 100",
+      "80 to 120 beats per minute; bradypnea below and tachypnea above"
+    ],
+    "answerIndex": 2,
+    "explanation": "Resting heart rates for most of the population fall between 60 and 100 beats per minute. Bradycardia describes a heart rate below 60 beats per minute and tachycardia a rate above 100. Bradypnea and tachypnea refer to breathing rates rather than heart rate."
+  },
+  {
+    "id": "nasm-sci-052",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Blood pressure classification",
+    "question": "Which criteria define stage 1 hypertension?",
+    "choices": [
+      "Systolic of 120 to 129 with a diastolic under 80",
+      "Systolic 130 to 139 or diastolic 80 to 89",
+      "Systolic 140 or higher, or diastolic 90 or higher",
+      "Systolic above 180 and/or diastolic above 120"
+    ],
+    "answerIndex": 1,
+    "explanation": "Stage 1 is defined as a systolic pressure of 130 to 139 or a diastolic of 80 to 89. Elevated blood pressure is systolic 120 to 129 with diastolic below 80, and stage 2 is systolic 140 or higher or diastolic 90 or higher. A hypertensive crisis is systolic above 180 and/or diastolic above 120."
+  },
+  {
+    "id": "nasm-sci-053",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Blood pressure",
+    "question": "Blood pressure is a product of which two factors?",
+    "choices": [
+      "Stroke volume and the resting respiratory rate",
+      "Heart rate and tidal volume",
+      "Cardiac output and peripheral resistance",
+      "Blood volume and body temperature"
+    ],
+    "answerIndex": 2,
+    "explanation": "Blood pressure results from cardiac output combined with peripheral resistance, the resistance in the arteries that must be overcome for blood to flow. Constricted arteries increase peripheral resistance while dilated arteries decrease it. Pressure is reported as systolic over diastolic in millimeters of mercury."
+  },
+  {
+    "id": "nasm-sci-054",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Venous pooling",
+    "question": "A client feels light-headed when standing up quickly from a supine exercise and has visibly prominent leg veins. Which mechanism best explains this?",
+    "choices": [
+      "Excessive peripheral resistance, which raises afterload and reduces the stroke volume",
+      "Elevated stroke volume from improved conditioning",
+      "Tachypnea caused by secondary respiratory muscle use",
+      "Venous pooling, which reduces cardiac output"
+    ],
+    "answerIndex": 3,
+    "explanation": "Venous pooling is the accumulation of blood in the extremities due to slow venous return or backflow, and it makes leg veins more visible. Reduced venous return lowers cardiac output, which can produce light-headedness. Clients with venous pooling are especially likely to feel this when rising quickly from lying to standing."
+  },
+  {
+    "id": "nasm-sci-055",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Blood vessels",
+    "question": "Which vessels serve as the exchange channel between the vascular system and bodily tissues?",
+    "choices": [
+      "Capillaries",
+      "The veins returning blood",
+      "Arteries",
+      "Venules"
+    ],
+    "answerIndex": 0,
+    "explanation": "Capillaries function as the exchange channel between the blood vessels and bodily tissues. Arteries carry blood away from the heart and veins return it, with capillaries merging into venules that progressively merge into larger veins. Special valves in the extremity veins prevent backflow as blood travels toward the heart."
+  },
+  {
+    "id": "nasm-sci-056",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Respiratory system",
+    "question": "What is a normal respiratory rate, and which muscles are the primary drivers?",
+    "choices": [
+      "6 to 10 breaths per minute; the scalenes and upper trapezius",
+      "12 to 16 breaths per minute; the diaphragm and intercostals",
+      "20 to 30 breaths per minute; the sternocleidomastoid",
+      "30 to 40 breaths per minute; the abdominals"
+    ],
+    "answerIndex": 1,
+    "explanation": "A normal respiratory rate is 12 to 16 breaths per minute and relies on the primary respiratory muscles, the diaphragm and intercostals. The sternocleidomastoid, upper trapezius, and scalenes are secondary respiratory muscles recruited during forced or heavy breathing. Habitual reliance on them often accompanies shallow breathing patterns."
+  },
+  {
+    "id": "nasm-sci-057",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Respiratory system",
+    "question": "Which breathing rates define bradypnea and tachypnea?",
+    "choices": [
+      "Below 4 breaths per minute is bradypnea and above 30 breaths is tachypnea",
+      "Below 12 breaths per minute is bradypnea; above 16 breaths per minute is tachypnea",
+      "Below 8 is bradypnea; above 24 is tachypnea",
+      "Below 20 breaths per minute is bradypnea; above 30 breaths per minute is tachypnea"
+    ],
+    "answerIndex": 2,
+    "explanation": "A respiratory rate below 8 breaths per minute is considered too slow and is termed bradypnea. A rate above 24 breaths per minute is considered too high and is termed tachypnea. Both fall outside the normal 12 to 16 breaths per minute range."
+  },
+  {
+    "id": "nasm-sci-058",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Respiratory system",
+    "question": "During normal breathing, expiration involves active muscle contraction while inspiration occurs through relaxation.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Normal inspiration requires active contraction of the respiratory muscles, whereas normal expiration occurs passively as those muscles relax. During forced or heavy breathing, expiration recruits secondary muscles to compress the thoracic cavity and drive air out. Diffusion then moves oxygen from the environment into the body's tissues."
+  },
+  {
+    "id": "nasm-sci-059",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Endocrine system",
+    "question": "Which hormones are the catecholamines released from the adrenal medulla in response to exercise?",
+    "choices": [
+      "Insulin and glucagon",
+      "Cortisol and calcitonin",
+      "Testosterone and growth hormone",
+      "Epinephrine and norepinephrine"
+    ],
+    "answerIndex": 3,
+    "explanation": "The catecholamines are epinephrine and norepinephrine, released immediately from the adrenal medulla in response to exercise. Insulin and glucagon are pancreatic hormones controlling blood glucose. Cortisol comes from the adrenal cortex, and calcitonin is secreted as part of thyroid function."
+  },
+  {
+    "id": "nasm-sci-060",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Endocrine system",
+    "question": "How do insulin and glucagon relate to one another?",
+    "choices": [
+      "They oppose each other in regulating blood glucose",
+      "Both increase cellular glucose uptake, with insulin acting more slowly than glucagon",
+      "Both are secreted by the adrenal cortex",
+      "Insulin is catabolic and glucagon is unrelated to glucose"
+    ],
+    "answerIndex": 0,
+    "explanation": "Insulin and glucagon both regulate blood glucose but act in opposition. Glucagon aids the metabolism of glucose, while insulin promotes cellular uptake and storage of glucose. Together they keep blood glucose within a functional range."
+  },
+  {
+    "id": "nasm-sci-061",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Endocrine system",
+    "question": "Which catabolic hormone is produced by the adrenal cortex and rises with stress?",
+    "choices": [
+      "Growth hormone",
+      "Cortisol",
+      "Insulin-like growth factor",
+      "Testosterone"
+    ],
+    "answerIndex": 1,
+    "explanation": "Cortisol is a catabolic hormone produced by the adrenal cortex and is sensitive to blood sugar and sleep. It can be used to help gauge recovery from exercise and serves as a marker of overtraining. Growth hormone, insulin-like growth factor, and testosterone are anabolic in nature."
+  },
+  {
+    "id": "nasm-sci-062",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Endocrine system",
+    "question": "Which potent anabolic hormone is produced by the liver in response to growth hormone?",
+    "choices": [
+      "Norepinephrine from the medulla",
+      "Calcitonin",
+      "Insulin-like growth factor",
+      "Glucagon"
+    ],
+    "answerIndex": 2,
+    "explanation": "Insulin-like growth factor is among the most potent anabolic hormones and is produced by the liver in response to growth hormone binding to liver receptors. Growth hormone itself comes from the pituitary gland and drives growth, development, and lipolysis. Testosterone, growth hormone, and insulin-like growth factor are all stimulated by anaerobic resistance training and vigorous aerobic activity."
+  },
+  {
+    "id": "nasm-sci-063",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Endocrine system",
+    "question": "Which glands control the majority of endocrine system functions?",
+    "choices": [
+      "The thyroid and the parathyroid glands",
+      "The liver and gall bladder",
+      "The adrenal medulla and pancreas",
+      "The hypothalamus and pituitary gland"
+    ],
+    "answerIndex": 3,
+    "explanation": "The hypothalamus and pituitary gland control the majority of endocrine functions. Hormones released into the bloodstream are protected by transporters that carry them to a target organ, where they bind a receptor to stimulate a function. Adequate sleep is necessary for glucose metabolism, hormone function, and muscle recovery."
+  },
+  {
+    "id": "nasm-sci-064",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Digestive system",
+    "question": "Which part of the digestive tract is chiefly responsible for absorbing carbohydrates, lipids, calcium, amino acids, and iron?",
+    "choices": [
+      "The small intestine",
+      "The stomach and duodenum",
+      "The large intestine",
+      "The oral cavity"
+    ],
+    "answerIndex": 0,
+    "explanation": "The small intestine handles the key absorption of carbohydrates, lipids, calcium, amino acids, and iron, along with electrolytes and water. The large intestine absorbs electrolytes and vitamins and uses water to help pass waste into the rectum. Digestion begins in the oral cavity with mastication, and the stomach turns food into chyme."
+  },
+  {
+    "id": "nasm-sci-065",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Planes of motion",
+    "question": "Which movements occur predominantly in the sagittal plane?",
+    "choices": [
+      "Abduction, adduction, and lateral flexion",
+      "Flexion, extension, dorsiflexion, and plantar flexion",
+      "Internal rotation, external rotation, and horizontal abduction",
+      "Eversion, inversion, and radioulnar pronation"
+    ],
+    "answerIndex": 1,
+    "explanation": "The sagittal plane bisects the body into right and left halves, and its movements are flexion and extension, expressed at the ankle as dorsiflexion and plantar flexion. Abduction, adduction, lateral flexion, eversion, and inversion occur in the frontal plane. Rotation and horizontal abduction and adduction occur in the transverse plane."
+  },
+  {
+    "id": "nasm-sci-066",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Planes of motion",
+    "question": "Which exercise is predominantly a frontal plane movement?",
+    "choices": [
+      "Biceps curl",
+      "Cable trunk rotation",
+      "Side lunge",
+      "Calf raise"
+    ],
+    "answerIndex": 2,
+    "explanation": "The side lunge moves the body away from and back toward the midline, making it a predominantly frontal plane exercise, along with jumping jacks, lateral shoulder raises, and side shuffling. Biceps curls and calf raises are sagittal plane movements. Cable trunk rotation is a transverse plane movement."
+  },
+  {
+    "id": "nasm-sci-067",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Planes of motion",
+    "question": "Which exercise is predominantly a transverse plane movement?",
+    "choices": [
+      "A front lunge step forward",
+      "Jumping jack",
+      "Triceps pushdown",
+      "Dumbbell chest fly"
+    ],
+    "answerIndex": 3,
+    "explanation": "The dumbbell chest fly involves horizontal adduction of the limbs, placing it in the transverse plane along with cable trunk rotation and swinging a bat or golf club. The front lunge and triceps pushdown are sagittal plane movements. The jumping jack is a frontal plane movement."
+  },
+  {
+    "id": "nasm-sci-068",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Foot and ankle",
+    "question": "Which combination of motions makes up pronation of the foot?",
+    "choices": [
+      "Eversion, dorsiflexion, and ankle abduction",
+      "Inversion, plantar flexion, and ankle adduction",
+      "Eversion, plantar flexion, and ankle adduction",
+      "Inversion, dorsiflexion, and ankle abduction"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pronation of the foot is a multiplanar motion consisting of eversion, dorsiflexion, and ankle abduction, and it is associated with force reduction. Supination is inversion, plantar flexion, and ankle adduction, associated with force production. During gait the foot moves between pronation on landing and supination at push-off."
+  },
+  {
+    "id": "nasm-sci-069",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Scapular motion",
+    "question": "What does scapular retraction describe?",
+    "choices": [
+      "The shoulder blades moving further away from each other",
+      "The shoulder blades coming closer together",
+      "The shoulder blades moving upward toward the ears",
+      "The shoulder blades moving downward"
+    ],
+    "answerIndex": 1,
+    "explanation": "Retraction occurs when the shoulder blades come closer together, while protraction moves them further apart. Elevation moves them upward toward the ears and depression moves them downward. These isolated scapular movements are termed translations because they do not rotate around a fixed axis."
+  },
+  {
+    "id": "nasm-sci-070",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Muscle actions",
+    "question": "Which type of muscle action develops tension while the muscle lengthens?",
+    "choices": [
+      "A concentric action",
+      "Isometric",
+      "Eccentric",
+      "Isokinetic"
+    ],
+    "answerIndex": 2,
+    "explanation": "An eccentric muscle action develops tension while the muscle lengthens and corresponds to the lowering phase of a resistance exercise. It is sometimes called negative work because work is done on the muscle rather than by it. Eccentric actions can resist more weight than concentric actions, so lowering more slowly than lifting increases time under tension."
+  },
+  {
+    "id": "nasm-sci-071",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Muscle actions",
+    "question": "Which muscle action is synonymous with acceleration and expends the most energy?",
+    "choices": [
+      "An eccentric action",
+      "Isokinetic",
+      "Isometric",
+      "Concentric"
+    ],
+    "answerIndex": 3,
+    "explanation": "The concentric action represents the lifting phase of an exercise and is synonymous with acceleration. Positive work is performed as the joint moves through its range against gravity. Concentric actions expend the highest amount of energy compared with isometric and eccentric actions."
+  },
+  {
+    "id": "nasm-sci-072",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Muscle actions",
+    "question": "Which muscle action is illustrated by holding a plank?",
+    "choices": [
+      "Isometric",
+      "An eccentric action",
+      "Concentric",
+      "Isokinetic"
+    ],
+    "answerIndex": 0,
+    "explanation": "A plank requires an isometric contraction of the lumbo-pelvic-hip complex, in which tension develops without a change in muscle length or visible joint movement. Isometric actions also occur when a client pauses between the lifting and lowering phases of a lift. Any time the body is in motion, numerous muscles produce isometric actions to dynamically stabilize joints and the spine."
+  },
+  {
+    "id": "nasm-sci-073",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Muscle actions",
+    "question": "What defines an isokinetic muscle action?",
+    "choices": [
+      "Muscle length does not change while tension is developed against a fixed object",
+      "Movement speed is fixed and resistance varies",
+      "The load is fixed and speed varies",
+      "The muscle lengthens under load"
+    ],
+    "answerIndex": 1,
+    "explanation": "In an isokinetic action the speed of movement is held constant while resistance varies with the force the client produces. The muscle shortens at a constant speed over the full range, and the harder the client pushes the more resistance they feel. This requires expensive, sophisticated equipment that measures force and adjusts load accordingly."
+  },
+  {
+    "id": "nasm-sci-074",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Functional anatomy",
+    "question": "Which muscle role describes a muscle contracting isometrically to stabilize the trunk and joints as the body moves?",
+    "choices": [
+      "The agonist prime mover",
+      "Synergist",
+      "Stabilizer",
+      "Antagonist"
+    ],
+    "answerIndex": 2,
+    "explanation": "A stabilizer contracts isometrically to steady the trunk and joints while movement occurs elsewhere. The agonist is the primary muscle providing force, the synergist assists the agonist, and the antagonist sits on the opposite side of the joint in direct opposition. A single muscle can take on different roles depending on the joint motion being performed."
+  },
+  {
+    "id": "nasm-sci-075",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Functional anatomy",
+    "question": "What is feed-forward activation?",
+    "choices": [
+      "The delay between a stimulus arriving and the muscle beginning to produce force",
+      "The transfer of force from one subsystem to another",
+      "The conscious decision to brace before lifting",
+      "Certain muscles stabilizing a joint by co-contracting"
+    ],
+    "answerIndex": 3,
+    "explanation": "Feed-forward activation describes certain muscles contracting automatically in anticipation of movement to stabilize a joint. It occurs before the movement itself rather than as a reaction to it. This anticipatory stabilization is part of what core training aims to improve."
+  },
+  {
+    "id": "nasm-sci-076",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Open and closed chain",
+    "question": "Which statement describes closed-chain exercise?",
+    "choices": [
+      "The distal segments are fixed against a stationary surface",
+      "The distal segments move freely through space with no fixed point of contact",
+      "Only single-joint movement is possible",
+      "The exercise is always non-weight bearing"
+    ],
+    "answerIndex": 0,
+    "explanation": "In closed-chain exercise the hands or feet remain fixed in contact with a stationary surface, and multiple joints move in a predictable pattern with several muscle groups contracting together. Most closed-chain activities are weight bearing. Open-chain exercise leaves the distal segments free to move in space, is largely non-weight bearing, and tends to isolate the prime movers."
+  },
+  {
+    "id": "nasm-sci-077",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Length-tension relationship",
+    "question": "What does the length-tension relationship describe?",
+    "choices": [
+      "The inverse relationship between the load lifted and the velocity of the movement",
+      "The link between a muscle's resting length and its force",
+      "The transfer of tension from muscle to bone through the tendon",
+      "The time it takes to transition from eccentric to concentric action"
+    ],
+    "answerIndex": 1,
+    "explanation": "The length-tension relationship is the association between a muscle's resting length and the amount of internal tension it can produce at that length. Each muscle has an optimal length where myosin can make maximal connections with actin, allowing peak force. At either extreme of shortening or lengthening, force production diminishes."
+  },
+  {
+    "id": "nasm-sci-078",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Length-tension relationship",
+    "question": "A client's hip flexors are chronically shortened and their glutes chronically lengthened. What does this create at the hip joint?",
+    "choices": [
+      "Optimal muscle balance around the joint, which improves the efficiency of movement",
+      "Improved force production on both sides of the joint",
+      "An altered length-tension relationship placing the joint poorly",
+      "A permanent structural change to the bone"
+    ],
+    "answerIndex": 2,
+    "explanation": "Muscle balance exists when all muscles surrounding a joint have optimal length-tension relationships and the joint rests in neutral. When a muscle's resting length is too long or too short on one side, the relationship is altered and the joint is held in a suboptimal position, which is the basis for poor posture. Postural assessment identifies these imbalances so flexibility and strengthening techniques can address them."
+  },
+  {
+    "id": "nasm-sci-079",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Reciprocal inhibition",
+    "question": "What is reciprocal inhibition?",
+    "choices": [
+      "The simultaneous maximal contraction of both the agonist and the antagonist muscles",
+      "The reduction in force output at extreme muscle lengths",
+      "The shutdown of a muscle following injury",
+      "One muscle relaxes to allow its functional antagonist to contract"
+    ],
+    "answerIndex": 3,
+    "explanation": "Reciprocal inhibition is the nervous system's role in the contract-relax relationship between agonists and antagonists. When the agonist receives a signal to contract, the central nervous system simultaneously inhibits the antagonist so it relaxes. Altered reciprocal inhibition occurs when an agonist chronically receives an activation signal and its functional antagonist chronically receives the inhibitory signal."
+  },
+  {
+    "id": "nasm-sci-080",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Stretch-shortening cycle",
+    "question": "Which three phases make up the stretch-shortening cycle?",
+    "choices": [
+      "Eccentric loading, amortization, and concentric unloading",
+      "Concentric loading, amortization, then the eccentric phase",
+      "Alarm, resistance, exhaustion",
+      "Cognitive, associative, autonomous"
+    ],
+    "answerIndex": 0,
+    "explanation": "The stretch-shortening cycle consists of an eccentric loading phase, an amortization or transition phase, and a concentric unloading phase. A loaded eccentric action stores elastic energy in the series elastic component of muscle and tendon, preparing a rapid concentric contraction. Use of this cycle in exercise is the basis for plyometric training."
+  },
+  {
+    "id": "nasm-sci-081",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Amortization phase",
+    "question": "Why does the duration of the amortization phase matter for power output?",
+    "choices": [
+      "A longer amortization phase stores more energy and increases force",
+      "The more rapidly the client moves through amortization, the more powerful the concentric contraction, a concept called the integrated performance paradigm",
+      "Amortization determines how much oxygen the muscle can use",
+      "Amortization length has no measurable effect on force production"
+    ],
+    "answerIndex": 1,
+    "explanation": "A rapid amortization phase preserves the stored elastic energy and the neurological stretch reflex, so force production and performance improve. The faster the transition, the more powerful the resulting concentric contraction, which is the integrated performance paradigm. Powerlifters exploit this when they lower the bar quickly toward the chest before pressing it back up."
+  },
+  {
+    "id": "nasm-sci-082",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Force-velocity curve",
+    "question": "According to the force-velocity curve, what happens as the velocity of a concentric muscle action increases?",
+    "choices": [
+      "The ability to produce force increases",
+      "Force output remains constant",
+      "The ability to produce force decreases",
+      "The muscle switches to eccentric action"
+    ],
+    "answerIndex": 2,
+    "explanation": "The force-velocity curve describes an inverse relationship for concentric actions: as contraction velocity rises, force production falls, and slowing the contraction raises force capability. Eccentric actions behave differently, with force development increasing as contraction velocity increases. This is one reason heavy loads must be moved relatively slowly."
+  },
+  {
+    "id": "nasm-sci-083",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Force-couple relationship",
+    "question": "What is a force-couple relationship?",
+    "choices": [
+      "The pairing of a strength exercise with a stabilization exercise",
+      "The opposing pull of gravity and muscular tension",
+      "The transfer of load between two adjacent joints",
+      "The synergistic action of multiple muscles producing movement around a joint"
+    ],
+    "answerIndex": 3,
+    "explanation": "Because muscles are recruited in groups, several muscles transmit force to their respective bones and create motion at a joint, and this synergistic action is a force-couple relationship. The resulting motion depends on the structure of the joint and the collective pull of each muscle. Muscles can only pull on bones; they cannot actively push."
+  },
+  {
+    "id": "nasm-sci-084",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Muscular subsystems",
+    "question": "Which muscles make up the posterior oblique subsystem?",
+    "choices": [
+      "Latissimus dorsi, thoracolumbar fascia, and contralateral gluteus maximus",
+      "Obliques, adductors, and hip external rotators",
+      "Gluteus medius, adductors, and contralateral quadratus lumborum",
+      "Lower leg muscles, hamstrings, and lower back"
+    ],
+    "answerIndex": 0,
+    "explanation": "The posterior oblique subsystem consists of the latissimus dorsi, thoracolumbar fascia, and contralateral gluteus maximus. Its contraction produces a pulling force across the thoracolumbar fascia and a stabilizing force at the sacroiliac joint, working with the deep longitudinal subsystem around heel strike. The other options describe the anterior oblique, lateral, and deep longitudinal subsystems."
+  },
+  {
+    "id": "nasm-sci-085",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Muscular subsystems",
+    "question": "Which subsystem is responsible for frontal plane stabilization of the lumbo-pelvic-hip complex?",
+    "choices": [
+      "Deep longitudinal subsystem",
+      "Lateral subsystem",
+      "Anterior oblique subsystem",
+      "Posterior oblique subsystem"
+    ],
+    "answerIndex": 1,
+    "explanation": "The lateral subsystem is made up of the gluteus medius, the medial thigh adductors, and the contralateral quadratus lumborum. Together these muscles create and maintain side-to-side, frontal plane stabilization of the lumbo-pelvic-hip complex during movement. The anterior and posterior oblique subsystems combine as a global force-couple for transverse plane rotational force."
+  },
+  {
+    "id": "nasm-sci-086",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Muscular systems",
+    "question": "How do the local and global muscular systems differ?",
+    "choices": [
+      "The local system is voluntary and the global system involuntary",
+      "The local system initiates movement while the global system stabilizes the spine",
+      "The local system attaches on or near the vertebrae and stabilizes the trunk; the global system is larger, crosses one or more joints, and initiates movement",
+      "The local system contains only type II fibers"
+    ],
+    "answerIndex": 2,
+    "explanation": "The local muscular system attaches on or near the vertebrae and provides segmental stabilization of the trunk, which is why it is often called the stabilization system of the core. The global muscular system consists of larger muscles that cross one or more joints and act as prime movers, earning it the name movement system. The global system is divided into the deep longitudinal, posterior oblique, anterior oblique, and lateral subsystems."
+  },
+  {
+    "id": "nasm-sci-087",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Lever systems",
+    "question": "Which lever class predominates in the human body, and what defines it?",
+    "choices": [
+      "First class, with the fulcrum in the middle",
+      "Second class, with the resistance in the middle",
+      "Fourth class, with two fulcrums",
+      "Third class, with the effort between the resistance and the fulcrum"
+    ],
+    "answerIndex": 3,
+    "explanation": "Most limbs of the human body operate as third-class levers, in which the effort is applied between the resistance and the fulcrum. Because the effort travels a shorter distance, it must be greater than the resistance. A useful memory aid is F-R-E for 1-2-3: fulcrum in the middle for first class, resistance for second, effort for third."
+  },
+  {
+    "id": "nasm-sci-088",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Torque",
+    "question": "A client struggles with a lateral raise. Which adjustment most reduces the torque demand at the shoulder?",
+    "choices": [
+      "Bend the elbows so the weight sits closer to the shoulder joint",
+      "Increase the dumbbell weight and shorten the range",
+      "Extend the arms fully and raise them faster",
+      "Change to a heavier implement held at arm's length"
+    ],
+    "answerIndex": 0,
+    "explanation": "Torque depends on force, the length of the lever arm, and the angle between the force application and the lever arm. Because muscle attachment sites and lines of pull cannot be changed, the practical way to alter torque is to move the resistance. The closer the weight is to the point of rotation, the less torque it creates."
+  },
+  {
+    "id": "nasm-sci-089",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Motor behavior",
+    "question": "Which three areas of study make up motor behavior?",
+    "choices": [
+      "Sensory, integrative, and motor function",
+      "Motor control, motor learning, and motor development",
+      "Proprioception, balance, and coordination",
+      "Agility, quickness, and speed"
+    ],
+    "answerIndex": 1,
+    "explanation": "Motor behavior is the human movement system's response to internal and external stimuli, and its collective study covers motor control, motor learning, and motor development. Motor control is the ability to initiate and correct purposeful movement, motor learning is the relatively permanent change in capacity that comes from practice, and motor development spans cumulative change across the lifespan. Sensory, integrative, and motor function are the three primary functions of the nervous system."
+  },
+  {
+    "id": "nasm-sci-090",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Feedback",
+    "question": "Which form of external feedback informs a client about the outcome of a completed movement?",
+    "choices": [
+      "Internal feedback",
+      "Knowledge of performance",
+      "Knowledge of results",
+      "Sensorimotor integration"
+    ],
+    "answerIndex": 2,
+    "explanation": "Knowledge of results is external feedback delivered after a movement is completed to inform the client about the outcome. Knowledge of performance instead addresses the quality of the movement during the exercise. Both should be offered less frequently as the client becomes more proficient, so they do not become dependent on external feedback."
+  },
+  {
+    "id": "nasm-sci-091",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Proprioception",
+    "question": "A client has a history of two ankle sprains. Why does this support including core and balance training?",
+    "choices": [
+      "Past injury has no effect on sensory function",
+      "Core training replaces the need for ankle mobility work",
+      "Balance training is only indicated for older adults",
+      "Proprioception is altered after injury, so core and balance training help restore proprioceptive capability"
+    ],
+    "answerIndex": 3,
+    "explanation": "Proprioception may help prevent injury, but it is altered after injury occurs. Because many gym members carry a history of past injury, they may have compromised proprioception, which provides the rationale for including core and balance training. Mechanoreceptors collectively feed the nervous system this proprioceptive information."
+  },
+  {
+    "id": "nasm-sci-092",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Sleep and health",
+    "question": "Adults between 18 and 64 years of age are recommended to get between 7 and 9 hours of sleep per night.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "The recommendation for adults in this age range is 7 to 9 hours of sleep nightly, and many adults fall short of it. Adequate sleep is required for normal brain function, memory, recovery and repair, and appropriate hormone levels. Inadequate sleep raises the risk of a number of chronic diseases."
+  },
+  {
+    "id": "nasm-sci-093",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Sleep and appetite",
+    "question": "A client reports several nights of poor sleep and unusually strong hunger the following days. Which hormonal explanation fits?",
+    "choices": [
+      "Peptide YY falls and ghrelin rises after inadequate sleep",
+      "Ghrelin falls and peptide YY rises, which normally suppresses appetite for the whole day",
+      "Both hunger and satiety hormones stay unchanged, so the reported hunger must be behavioral",
+      "Insulin sensitivity improves overnight, which is what drives the increase in reported appetite"
+    ],
+    "answerIndex": 0,
+    "explanation": "After several nights of inadequate sleep, levels of the satiety hormone peptide YY are lower while levels of the hunger hormone ghrelin are higher. Impaired sleep can therefore contribute to greater caloric intake the following day. This is one reason chronic sleep deprivation is associated with an increased risk of obesity."
+  },
+  {
+    "id": "nasm-sci-094",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Sleep and hormones",
+    "question": "A good night's sleep is associated with lower cortisol levels through the following day.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Sleeping well is linked to lower cortisol levels across the day. Adequate sleep also supports glucose metabolism, hormone function, and tissue recovery and repair. Because cortisol is catabolic, this is one of the routes by which sleep influences training outcomes."
+  },
+  {
+    "id": "nasm-sci-095",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Time under tension",
+    "question": "Longer muscle contraction times, and so greater time under tension, are associated with a larger acute rise in growth hormone and testosterone.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Increasing contraction time raises time under tension, which is associated with greater increases in growth hormone, testosterone, and epinephrine. Shorter contraction times reduce time under tension and produce a smaller hormonal response. This is part of the rationale for the slower prescribed tempos in stabilization-focused training."
+  },
+  {
+    "id": "nasm-sci-096",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Sleep and recovery",
+    "question": "A client trains consistently but averages five hours of sleep and asks why their recovery feels poor. What should the trainer explain?",
+    "choices": [
+      "Sleep is when recovery, repair, and hormone regulation largely occur",
+      "Recovery depends only on the number of rest days scheduled between the training sessions",
+      "Sleep duration has no bearing on recovery provided total protein intake is adequate daily",
+      "Poor recovery at this sleep duration indicates an underlying medical condition needing testing"
+    ],
+    "answerIndex": 0,
+    "explanation": "Adequate sleep is a requirement for normal brain function, memory, recovery and repair, and appropriate hormone levels. Most adults sleep well below what they actually need, and the shortfall affects glucose metabolism and hormone function. The trainer can raise sleep as a general lifestyle factor while referring any suspected medical problem onward."
+  }
+]

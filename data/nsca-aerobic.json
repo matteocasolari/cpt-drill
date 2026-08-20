@@ -1,0 +1,838 @@
+[
+  {
+    "id": "nsca-aer-001",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Exercise mode selection",
+    "question": "Which factors determine which aerobic exercise mode to use?",
+    "choices": [
+      "Only the equipment available in the facility",
+      "Equipment availability, personal preference, the client's ability to perform the exercise, and the client's goals",
+      "Only the client's maximal oxygen uptake",
+      "Only the trainer's certification level"
+    ],
+    "answerIndex": 1,
+    "explanation": "Mode selection depends on equipment availability, the client's personal preference, their ability to perform the exercise, and their goals. Personal preference matters greatly because it strongly influences adherence, and clients who enjoy the activity are less likely to cut sessions short or reduce intensity. The mode must also match the client's physical abilities and current capacity."
+  },
+  {
+    "id": "nsca-aer-002",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Machine versus nonmachine modes",
+    "question": "Why might running on a treadmill not elicit the same response as running on a track?",
+    "choices": [
+      "Treadmills cannot reach sufficient speeds",
+      "Treadmill running uses no lower body muscles at all",
+      "The moving belt provides propulsion, so treadmill running does not require the leg and hip muscles to push the client forward in the same way",
+      "Track running does not raise heart rate"
+    ],
+    "answerIndex": 2,
+    "explanation": "Machine modes that appear similar to nonmachine modes may not produce the same cardiorespiratory response or serve the client's goals equally. On a treadmill the moving belt provides propulsion, so the leg and hip muscles are not required to push the client forward the way they are on a track or trail. Similarly, a stationary bike uses the same muscles to turn the crank as a regular bike but does not demand balance and involves no headwind or ground friction."
+  },
+  {
+    "id": "nsca-aer-003",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Nonmachine modes",
+    "question": "Which activities are given as examples of nonmachine aerobic exercise modes?",
+    "choices": [
+      "Treadmill, elliptical, and stair climber",
+      "Stationary cycling only",
+      "Rowing ergometer and upper body ergometer only",
+      "Walking, jogging, running, swimming, water-resisted walking or running, skating, cycling, cardio kickboxing, and aerobic dance or step classes"
+    ],
+    "answerIndex": 3,
+    "explanation": "Nonmachine exercises comprise anything that allows the person to move freely and independently of equipment, including walking, jogging, running, swimming, water-resisted walking or running, skating, cycling, cardio kickboxing, and aerobic dance or step classes. They provide a wide variety of options when machines are not available. Whether machine or nonmachine, the mode should match the client's needs and goals."
+  },
+  {
+    "id": "nsca-aer-004",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Mode selection",
+    "question": "A client with lower body orthopedic concerns finds walking on a treadmill painful at the foot and knee. What mode adjustment is appropriate?",
+    "choices": [
+      "Select a nonimpact form of exercise that works within their capacity",
+      "Increase treadmill speed to shorten the session",
+      "Add running intervals to strengthen the joints",
+      "Discontinue all aerobic exercise"
+    ],
+    "answerIndex": 0,
+    "explanation": "Clients with lower body orthopedic concerns may be limited in certain exercises because of impact strain on the foot, knee, or hip, and are better served by a nonimpact form of exercise. Clients with limited joint range of motion likewise need an exercise that works within their capacity, as when a client with shoulder impingement cannot use an upper body ergometer. The mode must be matched to the client's physical abilities."
+  },
+  {
+    "id": "nsca-aer-005",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Mode selection",
+    "question": "A trainer has no graded exercise test data for a new, deconditioned client. What is the prudent approach to selecting a mode?",
+    "choices": [
+      "Assign a running program to establish a fitness baseline",
+      "Begin with an enjoyable exercise mode the client can sustain, such as resuming walking or cycling they previously did",
+      "Assign the highest-intensity machine available",
+      "Wait until laboratory testing can be arranged"
+    ],
+    "answerIndex": 1,
+    "explanation": "The initial exercise mode must be within the client's current oxygen uptake capacity, and without test data it is prudent to begin with an enjoyable mode the client can manage, such as returning to walking or cycling. Assigning a running program to a client who lacks the capacity for a brisk walk means they cannot sustain a session long enough to produce improvement. A less demanding mode is needed instead."
+  },
+  {
+    "id": "nsca-aer-006",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Exercise intensity",
+    "question": "Why is exercise intensity described as the main determinant of both exercise frequency and duration?",
+    "choices": [
+      "Because intensity is the easiest variable to measure",
+      "Because intensity has no effect on recovery",
+      "Because the intensity level required to reach the client's goal must be established before frequency and duration can be determined",
+      "Because frequency and duration are fixed by public health guidelines"
+    ],
+    "answerIndex": 2,
+    "explanation": "The intensity level required to reach the client's goal must be ascertained before the frequency and duration of sessions are set. Regulating and monitoring intensity is key to prescribing the right program and preventing overtraining and undertraining. Longer or higher-intensity sessions require more recovery and are therefore performed less frequently."
+  },
+  {
+    "id": "nsca-aer-007",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Heart rate reserve",
+    "question": "What is heart rate reserve?",
+    "choices": [
+      "The heart rate at the lactate threshold",
+      "The difference between maximal heart rate and target heart rate",
+      "The sum of maximal and resting heart rate",
+      "The difference between maximal heart rate and resting heart rate"
+    ],
+    "answerIndex": 3,
+    "explanation": "Heart rate reserve is the difference between a client's maximal heart rate and their resting heart rate. It represents the available increase in heart rate from rest up to maximum. Oxygen uptake reserve, the difference between maximal and resting oxygen consumption, has been shown to equate fairly evenly to heart rate reserve."
+  },
+  {
+    "id": "nsca-aer-008",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Intensity threshold",
+    "question": "What heart rate reserve range is generally considered the aerobic training threshold for an apparently healthy adult?",
+    "choices": [
+      "20% to 40%",
+      "30% to 50%",
+      "50% to 85%",
+      "85% to 100%"
+    ],
+    "answerIndex": 2,
+    "explanation": "For the apparently healthy adult, the necessary aerobic exercise threshold is generally considered approximately 50% to 85% of heart rate reserve. Extremely deconditioned clients may need to begin at 30% of heart rate reserve, while advanced clients may find 85% insufficient to drive further improvement. The right starting point comes from the client's exercise and medical history and any recent testing."
+  },
+  {
+    "id": "nsca-aer-009",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Intensity errors",
+    "question": "What happens if aerobic exercise intensity is set too low?",
+    "choices": [
+      "Overtraining and injury result",
+      "The physiological stimulus to improve is insufficient and it takes longer to reach the goals set",
+      "The client's heart rate reserve decreases permanently",
+      "Adherence always improves with no downside"
+    ],
+    "answerIndex": 1,
+    "explanation": "If intensity is too low, the physiological stimulus to improve is insufficient and it will take longer to reach the goals that have been set. If intensity is too high, overtraining and injury may result. It is always smart to begin conservatively and increase intensity as needed rather than starting too high and risking overtraining and poor adherence."
+  },
+  {
+    "id": "nsca-aer-010",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Maximal heart rate",
+    "question": "How can a client's true maximal heart rate be determined?",
+    "choices": [
+      "By subtracting age from 220",
+      "By measuring resting heart rate upon waking",
+      "By performing a graded exercise test to the point where heart rate no longer increases with an increase in workload",
+      "By taking the highest heart rate recorded during any workout"
+    ],
+    "answerIndex": 2,
+    "explanation": "The only way to determine a client's true maximal heart rate is a graded exercise test taken to the point where heart rate stops rising despite an increase in workload. At that point the heart has reached its maximal beats per minute capacity. For safety, it may be recommended that a physician be present during a maximal graded exercise test."
+  },
+  {
+    "id": "nsca-aer-011",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Age-predicted maximal heart rate",
+    "question": "What is the most commonly used age-predicted maximal heart rate equation, and what error range accompanies it?",
+    "choices": [
+      "208 minus 0.7 times age, with no error range",
+      "Resting heart rate times three, with an error of 25 beats per minute",
+      "200 minus half the client's age, with an error of 5 beats per minute",
+      "220 minus age, with an error range of about 15 beats per minute"
+    ],
+    "answerIndex": 3,
+    "explanation": "The most commonly used equation is 220 minus age, and it carries an error range of roughly 15 beats per minute. A 20-year-old with a predicted value of 200 might actually have a maximum as low as 185 or as high as 215. That means the estimate will be maximal for some clients, unattainable for others, and submaximal for the rest."
+  },
+  {
+    "id": "nsca-aer-012",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Age-predicted maximal heart rate",
+    "question": "Why is the age-predicted estimate still considered acceptable for designing submaximal aerobic programs?",
+    "choices": [
+      "Because a client should never reach their maximal heart rate during submaximal aerobic endurance training, so the estimate provides a close enough approximation",
+      "Because it is exactly accurate for every client",
+      "Because heart rate is irrelevant to program design",
+      "Because the error range is under one beat per minute"
+    ],
+    "answerIndex": 0,
+    "explanation": "A client should never reach their maximal heart rate during submaximal aerobic endurance training, so the age-predicted estimate provides a close approximation acceptable for program design. Its inaccuracy matters more when a true maximum is needed. The important exception is clients on heart rate–altering medications."
+  },
+  {
+    "id": "nsca-aer-013",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Heart rate–altering medications",
+    "question": "A client takes a beta blocker for high blood pressure. What does this mean for intensity prescription?",
+    "choices": [
+      "Age-predicted maximal heart rate should be used with a higher target range",
+      "Because the medication prevents heart rate from rising above a certain point regardless of workload, alternative intensity prescriptions not based on heart rate are necessary",
+      "Heart rate will be artificially elevated, so targets should be lowered",
+      "No adjustment is needed"
+    ],
+    "answerIndex": 1,
+    "explanation": "Beta blockers blunt the heart rate response to exercise, so the medication prevents heart rate from rising above a certain point independent of intensity or workload. Before using age-predicted maximal heart rate to prescribe intensity, the trainer must confirm the client is not taking heart rate–altering medications. If they are, intensity prescriptions not based on heart rate must be used instead."
+  },
+  {
+    "id": "nsca-aer-014",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Percent of maximal heart rate method",
+    "question": "Which percentage of age-predicted maximal heart rate range is recommended for an apparently healthy adult, and what oxygen uptake range does it approximate?",
+    "choices": [
+      "40% to 50% of maximal heart rate, approximating 20% of maximal oxygen uptake",
+      "50% to 60% of maximal heart rate, approximating 30% to 40% of maximal oxygen uptake",
+      "70% to 85% of maximal heart rate, approximating 55% to 75% of maximal oxygen uptake",
+      "85% to 95% of maximal heart rate, approximating 90% of maximal oxygen uptake"
+    ],
+    "answerIndex": 2,
+    "explanation": "For the apparently healthy adult, 55% to 75% of maximal oxygen uptake approximates 70% to 85% of age-predicted maximal heart rate, which provides the appropriate stimulus to improve aerobic function. Target heart rate is calculated by multiplying age-predicted maximal heart rate by the exercise intensity, done twice to obtain lower and upper limits. For very deconditioned clients a lower range of 55% to 65% of age-predicted maximal heart rate may be more appropriate."
+  },
+  {
+    "id": "nsca-aer-015",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Karvonen formula",
+    "question": "How does the Karvonen formula calculate target heart rate?",
+    "choices": [
+      "Age-predicted maximal heart rate multiplied by the exercise intensity",
+      "Age-predicted maximal heart rate minus resting heart rate",
+      "Resting heart rate multiplied by the exercise intensity",
+      "Heart rate reserve multiplied by the exercise intensity"
+    ],
+    "answerIndex": 3,
+    "explanation": "The Karvonen formula multiplies heart rate reserve by the exercise intensity and then adds resting heart rate back to the result. This is done twice, for the lower and upper intensity values, to produce a target heart rate range. Failing to add resting heart rate back underestimates the training zone and will not produce the desired improvements."
+  },
+  {
+    "id": "nsca-aer-016",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Karvonen formula",
+    "question": "A 40-year-old client has a resting heart rate of 70 beats per minute. Using 220 minus age and 50% to 85% of heart rate reserve, what is the target heart rate range?",
+    "choices": [
+      "55 to 94 beats per minute",
+      "90 to 153 beats per minute",
+      "125 to 164 beats per minute",
+      "140 to 180 beats per minute"
+    ],
+    "answerIndex": 2,
+    "explanation": "Age-predicted maximal heart rate is 220 minus 40, or 180, and heart rate reserve is 180 minus 70, which equals 110 beats per minute. Multiplying 110 by 0.50 gives 55 and by 0.85 gives 94. Adding the resting heart rate of 70 back to each yields a target range of 125 to 164 beats per minute."
+  },
+  {
+    "id": "nsca-aer-017",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Resting heart rate measurement",
+    "question": "When and how should a client measure resting heart rate for use in the Karvonen formula?",
+    "choices": [
+      "After arriving at the gym, using the carotid pulse for 15 seconds",
+      "First thing in the morning upon waking but before getting out of bed, using radial pulse palpation with the index and forefinger for 1 minute",
+      "Immediately after a warm-up, using a chest strap",
+      "At any point during the day, counting for 10 seconds"
+    ],
+    "answerIndex": 1,
+    "explanation": "The best time to measure resting heart rate is first thing in the morning upon waking but before getting out of bed. Clients should be taught to use radial pulse palpation, placing the index and forefinger over the radial pulse, and to count for a full minute. Accurate resting heart rate matters because the Karvonen calculation is built on it."
+  },
+  {
+    "id": "nsca-aer-018",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Heart rate reserve",
+    "question": "What is the benefit of using heart rate reserve rather than a straight percentage of maximal heart rate?",
+    "choices": [
+      "It requires no resting heart rate measurement",
+      "It always produces a lower training zone",
+      "It is specific to the client because it is based on their own baseline resting heart rate, and as fitness improves and resting heart rate falls the reserve grows",
+      "It is unaffected by medications"
+    ],
+    "answerIndex": 2,
+    "explanation": "Heart rate reserve is specific to the client because it is anchored to their own baseline resting heart rate. As the client becomes fitter and resting heart rate decreases, heart rate reserve increases, representing a greater reserve to draw from. In most situations the Karvonen formula yields slightly larger training ranges than the percent of age-predicted maximal heart rate formula."
+  },
+  {
+    "id": "nsca-aer-019",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Intensity ranges by training status",
+    "question": "Which intensity guidance is given for untrained versus more trained clients?",
+    "choices": [
+      "Trained clients should train below 50% of heart rate reserve",
+      "Untrained clients should train at 85% to 100% of heart rate reserve",
+      "Both groups should use identical target ranges",
+      "Untrained clients should begin in the lower half of the age-predicted maximal heart rate range, such as 70% to 80%, while more trained clients can typically tolerate the upper half of the heart rate reserve range, such as 70% to 85%"
+    ],
+    "answerIndex": 3,
+    "explanation": "Untrained or beginning clients probably should begin with a target heart rate based on the lower half of the age-predicted maximal heart rate intensity range, for example 70% to 80%. More trained clients can typically tolerate intensities in the upper half of the heart rate reserve range, for example 70% to 85%. Either 70% to 85% of age-predicted maximal heart rate or 50% to 85% of heart rate reserve will produce an appropriate stimulus."
+  },
+  {
+    "id": "nsca-aer-020",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Measured maximal heart rate",
+    "question": "If a client's functional capacity has been determined through a physician-supervised graded exercise test, what should be used for intensity prescription?",
+    "choices": [
+      "The measured maximal heart rate, used in either intensity formula",
+      "The age-predicted estimate, retained for consistency across all clients in the facility",
+      "Only ratings of perceived exertion",
+      "Only metabolic equivalents"
+    ],
+    "answerIndex": 0,
+    "explanation": "When a graded exercise test has established the true maximal heart rate, it is best to use that measured value rather than an estimate. Either the Karvonen formula or the percent of maximal heart rate formula can be used with the actual maximum substituted for the age-predicted value. This removes the roughly 15 beat per minute error inherent in the age-based estimate."
+  },
+  {
+    "id": "nsca-aer-021",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Ratings of perceived exertion",
+    "question": "What factors should a client account for when reporting a rating of perceived exertion?",
+    "choices": [
+      "Heart rate alone, measured continuously with a chest strap monitor during the session",
+      "Exercise mode, environment, intensity of effort, and extent of strain or fatigue",
+      "The trainer's expectations for the session",
+      "Only breathing rate"
+    ],
+    "answerIndex": 1,
+    "explanation": "A rating of perceived exertion accounts for all the body's responses to a given intensity, based on the exercise mode, the environment including temperature and humidity, the intensity of effort, and the extent of strain, discomfort, or fatigue. It is not just a measure of how fast the heart is beating. Clients may be factoring in fatigue, respiratory effort, pain, and mental effort or stress."
+  },
+  {
+    "id": "nsca-aer-022",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Ratings of perceived exertion",
+    "question": "Why does perceived exertion carry more subjectivity in clients who have never completed a maximal stress test?",
+    "choices": [
+      "They cannot count reliably",
+      "They are unable to feel fatigue",
+      "They have never reached the top of the scale and cannot judge it",
+      "Their heart rate response during submaximal exercise is abnormal and is therefore entirely unreliable"
+    ],
+    "answerIndex": 2,
+    "explanation": "Very few clients have actually reached the upper levels of effort, so they cannot perceive what the top of the scale really feels like. To an untrained, deconditioned client an intensity producing 60% of heart rate reserve may feel maximal because they are unaccustomed to exercise and do not know what maximal effort is. Only through training does the rating become more calibrated."
+  },
+  {
+    "id": "nsca-aer-023",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Combining heart rate and perceived exertion",
+    "question": "An advanced client exercising at 80% of heart rate reserve reports a 4 on a 1 to 10 exertion scale. What does this suggest?",
+    "choices": [
+      "The exercise intensity should be reduced immediately for the remainder of the session",
+      "The client should stop exercising",
+      "The heart rate reading must be wrong",
+      "An increase in exercise intensity is appropriate"
+    ],
+    "answerIndex": 3,
+    "explanation": "When combined with heart rate, perceived exertion helps judge whether the intensity provides enough stimulus for a particular client. An advanced client at 80% of heart rate reserve reporting only a 4 out of 10 warrants an increase in intensity. Conversely, a new client reporting a 9 while at only 70% of heart rate reserve should have their intensity reduced until they become better trained."
+  },
+  {
+    "id": "nsca-aer-024",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Perceived exertion across modes",
+    "question": "A client reports a 7 on a stationary bike but a 9 while running at the same 80% of target heart rate. What explains this?",
+    "choices": [
+      "Different modes use different muscle mass and energy cost, changing perceived exertion",
+      "The client is misreporting one of the two values and needs retraining on the exertion scale",
+      "Perceived exertion is unrelated to exercise mode",
+      "The treadmill must be miscalibrated"
+    ],
+    "answerIndex": 0,
+    "explanation": "Different modes of exercise involve different amounts of muscle use and energy expenditure, which will change percent target heart rate, perceived exertion, or both. Combining target heart rate range with perceived exertion lets the trainer see how each mode affects a specific client. This is why general exercise prescriptions based simply on a rating of perceived exertion should be avoided."
+  },
+  {
+    "id": "nsca-aer-025",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Perceived exertion utility",
+    "question": "When are perceived exertion scales especially valuable?",
+    "choices": [
+      "When the client is a competitive athlete preparing for a specific endurance competition",
+      "When medication or illness makes heart rate an inaccurate intensity marker",
+      "Only during resistance training",
+      "Only when a heart rate monitor is available"
+    ],
+    "answerIndex": 1,
+    "explanation": "The strength of perceived exertion scales is that they capture more than heart rate alone, so they can be used when traditional heart rate prescriptions are inaccurate because of medications or illness. They also complement heart rate by indicating whether the stimulus is adequate for a particular client. They remain an indicator of overall effort rather than of heart rate specifically."
+  },
+  {
+    "id": "nsca-aer-026",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Metabolic equivalents",
+    "question": "What does one metabolic equivalent represent, and how is a MET rating interpreted?",
+    "choices": [
+      "One liter of oxygen per minute; MET ratings are unrelated to rest",
+      "One kilocalorie per kilogram per hour, so a 4-MET activity burns four calories every minute worked",
+      "3.5 milliliters per kilogram per minute at rest; 4 METs is four times resting demand",
+      "The heart rate at the lactate threshold divided by 3.5"
+    ],
+    "answerIndex": 2,
+    "explanation": "One metabolic equivalent equals 3.5 milliliters per kilogram per minute of oxygen consumption, considered the oxygen required by the body at rest. Any MET level therefore indicates how much harder than rest an activity is, so a 4-MET activity requires the body to work four times harder than at rest. Prescribing intensity as a percentage of maximal METs requires a maximal graded exercise test to establish the client's maximal MET level, calculated as maximal oxygen uptake divided by 3.5."
+  },
+  {
+    "id": "nsca-aer-027",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Metabolic equivalents",
+    "question": "Which activity is listed at approximately 5 METs?",
+    "choices": [
+      "Walking under 2 miles per hour on a level surface",
+      "Lying quietly listening to music",
+      "Running 8.5 miles per hour",
+      "Walking 4 miles per hour on a level surface"
+    ],
+    "answerIndex": 3,
+    "explanation": "Walking 4 miles per hour, or 6.4 kilometers per hour, on a level surface is listed at approximately 5 METs, as are low-impact aerobic dance and doubles tennis. Walking under 2 miles per hour is roughly 2 METs and lying quietly is 1 MET. Running 8.5 miles per hour, about a 7-minute mile, is listed at roughly 14 METs."
+  },
+  {
+    "id": "nsca-aer-028",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Metabolic equivalents",
+    "question": "How can published MET approximations be used in program design?",
+    "choices": [
+      "To prescribe varied activities and compare the energy cost of one activity with another",
+      "To replace all heart rate monitoring during both submaximal and maximal exercise test protocols entirely",
+      "To calculate the client's one-repetition maximum",
+      "To determine the client's resting heart rate"
+    ],
+    "answerIndex": 0,
+    "explanation": "Published MET approximations can be used to prescribe a variety of activities within the client's overall program and to compare the energy requirements of different activities. They allow relative intensity comparisons without laboratory testing. Assigning a true percentage of maximal METs, however, still requires a maximal graded exercise test."
+  },
+  {
+    "id": "nsca-aer-029",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Training frequency",
+    "question": "What weekly aerobic frequency range is suggested for general fitness goals?",
+    "choices": [
+      "One day per week",
+      "A minimum of two days up to five days per week",
+      "Seven days per week for all clients regardless of their current training status",
+      "Exactly three days per week for everyone"
+    ],
+    "answerIndex": 1,
+    "explanation": "A minimum of two days per week up to five days per week is suggested for general fitness goals, since training fewer than two days per week is generally not a sufficient stimulus for developing and maintaining fitness. Some advanced clients may tolerate more than five days per week if rest between sessions prevents overuse injury. Frequency depends on the client's goals, current fitness, duration, intensity, and required recovery."
+  },
+  {
+    "id": "nsca-aer-030",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Training frequency",
+    "question": "How should rest days be arranged for a beginning client?",
+    "choices": [
+      "Clustered together at the end of the week after several consecutive training days",
+      "All exercise sessions on consecutive days",
+      "Spaced evenly, with rest days placed between exercise days throughout the week",
+      "Rest days are unnecessary for beginners"
+    ],
+    "answerIndex": 2,
+    "explanation": "Beginning clients, meaning those with no regular aerobic program in the past six months, should start with the minimum number of sessions spaced out evenly. Most desirably the rest days should be placed between exercise days so they are distributed through the week. Frequency should never exceed what the client is willing to adopt and maintain, and scheduling must accommodate their actual availability."
+  },
+  {
+    "id": "nsca-aer-031",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Frequency and recovery",
+    "question": "How do session duration and intensity relate to how often sessions can be performed?",
+    "choices": [
+      "Recovery need is entirely unrelated to either the duration or the intensity of the session performed",
+      "Long, high-intensity sessions require no recovery",
+      "Short sessions require the most recovery time",
+      "Longer, harder sessions need more recovery; shorter, easier sessions can be repeated more often"
+    ],
+    "answerIndex": 3,
+    "explanation": "Exercise sessions of long duration and high intensity require longer recovery times and therefore cannot be performed very often. Short-duration exercise at low intensity does not require as much recovery and can be performed more frequently. Ultimately frequency must be balanced against duration and intensity."
+  },
+  {
+    "id": "nsca-aer-032",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Exercise duration",
+    "question": "Which duration recommendations are cited for aerobic endurance training?",
+    "choices": [
+      "At least 30 minutes, with 20 to 60 minutes cited across guidelines",
+      "Exactly 15 minutes per session, accumulated across three separate five-minute exercise bouts each day",
+      "At least 90 minutes per session",
+      "5 to 10 minutes per session"
+    ],
+    "answerIndex": 0,
+    "explanation": "Duration should be at least 30 minutes according to one consensus panel, while another organization recommends 30 to 60 minutes for health promotion and cardiovascular disease prevention, and a third recommends 20 to 60 minutes of continuous or intermittent bouts accumulated throughout the day. Duration depends on the client's goals, current fitness, and the intensity of the exercise. Exercise duration is inversely related to intensity."
+  },
+  {
+    "id": "nsca-aer-033",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Intermittent bouts",
+    "question": "What is described about intermittent exercise bouts of at least 10 minutes?",
+    "choices": [
+      "They provide no aerobic benefit at all unless combined into one continuous thirty-minute bout",
+      "They can improve aerobic fitness and also improve adherence in unaccustomed exercisers",
+      "They are appropriate only for advanced athletes",
+      "They must always exceed 30 minutes to count"
+    ],
+    "answerIndex": 1,
+    "explanation": "If intensity is moderate to high, intermittent bouts of at least 10 minutes each can improve the aerobic fitness of all but the most advanced clients. Intermittent bouts have also been shown to improve exercise adherence in people unaccustomed to exercise. Clients too deconditioned to complete even a 10-minute bout can use several shorter bouts with rest in between to build toward a continuous effort."
+  },
+  {
+    "id": "nsca-aer-034",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Progression",
+    "question": "What general rule governs increases in aerobic frequency, intensity, or duration?",
+    "choices": [
+      "Only intensity may be increased, never frequency or duration",
+      "Increases of 25% per week are appropriate for all clients regardless of training status",
+      "Increases should be limited to about 10% once the body has adjusted",
+      "Increases should double every two weeks"
+    ],
+    "answerIndex": 2,
+    "explanation": "As a general rule, increases in frequency, intensity, or duration should be limited to 10%, and increases should be made only after the body has adjusted to the new program. Progression requires making periodic, progressive increases in one of these variables. Because a client's available time is finite, frequency and duration often reach their upper limits before intensity does, after which further aerobic improvement must come from intensity."
+  },
+  {
+    "id": "nsca-aer-035",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Program types",
+    "question": "How are aerobic endurance programs for the general population divided?",
+    "choices": [
+      "Beginner and advanced",
+      "Aerobic and anaerobic",
+      "Continuous training and intermittent training",
+      "Improvement and maintenance"
+    ],
+    "answerIndex": 3,
+    "explanation": "For general population training, aerobic endurance programs are divided into improvement and maintenance types. The untrained beginner always starts with an improvement program, as does a client already exercising who wants to progress. A client who simply wishes to maintain their current aerobic endurance uses a maintenance program."
+  },
+  {
+    "id": "nsca-aer-036",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Maintenance program",
+    "question": "What does maintaining aerobic capacity require over the long term?",
+    "choices": [
+      "Reducing frequency to no fewer than two sessions while maintaining intensity",
+      "Increasing frequency to five sessions per week while reducing the duration of each",
+      "Reducing intensity while raising frequency",
+      "Training only once per month"
+    ],
+    "answerIndex": 0,
+    "explanation": "Clients can maintain improvements if they reduce training frequency to no fewer than two sessions per week but preserve duration and especially intensity in the sessions they do perform. Maintaining aerobic capacity requires significantly less effort than continuing to improve it. Using a variety of exercise modes helps keep clients motivated and supports adherence during a maintenance program."
+  },
+  {
+    "id": "nsca-aer-037",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Maintenance program",
+    "question": "A client needs several weeks off training for a business trip. What does the guidance say about the effect on aerobic fitness?",
+    "choices": [
+      "Any interruption in training causes a rapid and largely irreversible loss of the client's maximal oxygen uptake",
+      "Volume can drop by as much as 70% for a few weeks without harming aerobic capacity",
+      "The client must maintain full volume or lose all adaptations",
+      "Maximal oxygen uptake improves during complete rest"
+    ],
+    "answerIndex": 1,
+    "explanation": "A maintenance program can also serve a client who wants or needs time off from training, such as for a business trip or vacation. In that situation the total volume of aerobic exercise can be decreased for a few weeks by as much as 70% without negatively affecting maximal oxygen uptake. Preserving intensity is what protects the adaptation."
+  },
+  {
+    "id": "nsca-aer-038",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Warm-up",
+    "question": "What are the purposes of an aerobic warm-up?",
+    "choices": [
+      "To fatigue the muscles before the main session so they are fully recruited afterwards",
+      "To reduce heart rate before exercise",
+      "To raise muscle blood flow and tissue temperature and prepare the nervous system",
+      "To test the client's maximal capacity"
+    ],
+    "answerIndex": 2,
+    "explanation": "A warm-up increases blood flow to the muscles that will be used, slowly raises heart rate so oxygen debt is minimized, prepares the nervous system for action, and raises muscle core temperature to allow more complete unloading of oxygen from the blood to the muscles. It should progress slowly from small, simple movements to the larger, more complicated movements used in the session. Enough time should be allowed in each activity for heart rate to rise and meet metabolic demands before progressing."
+  },
+  {
+    "id": "nsca-aer-039",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Cool-down",
+    "question": "How should a cool-down be structured?",
+    "choices": [
+      "Stop abruptly to allow rapid heart rate recovery",
+      "Begin with static stretching before reducing the movement intensity in any way at all",
+      "Perform maximal-intensity intervals at the end",
+      "Reverse the warm-up progression so heart rate falls to a lower steady state"
+    ],
+    "answerIndex": 3,
+    "explanation": "The cool-down uses the same progression as the warm-up in reverse, so the client moves from running to jogging to walking. This allows heart rate to decrease and reach a lower steady state before slowing down further. Additional flexibility exercises can be performed after the cool-down."
+  },
+  {
+    "id": "nsca-aer-040",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Long slow distance",
+    "question": "What defines long slow distance training and what are its goals?",
+    "choices": [
+      "Lower intensity for longer duration, improving anaerobic threshold and fat utilization",
+      "Maximal-intensity intervals with full recovery between them, aiming to raise peak power output",
+      "Short bouts at lactate threshold; the goal is raising maximal oxygen uptake",
+      "Resistance work combined with aerobic stations"
+    ],
+    "answerIndex": 0,
+    "explanation": "Long slow distance training uses an intensity lower than normal so the duration of the workout can be extended, such as running an 8-minute mile pace instead of a 6-minute pace, or cycling an hour at 100 watts instead of 30 minutes at 150 watts. Its goals are improvements in the anaerobic threshold, development of endurance in supporting musculature, and fat utilization with corresponding glycogen sparing. Typical sessions last 30 minutes to 2 hours and should not occur more than twice a week to prevent overtraining."
+  },
+  {
+    "id": "nsca-aer-041",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Long slow distance",
+    "question": "Besides percent heart rate reserve, what is a good indicator of proper long slow distance intensity?",
+    "choices": [
+      "Whether the client can still sprint at the very end of the training session",
+      "Whether the client can talk without becoming short of breath",
+      "Whether the client's rating of perceived exertion is above 8",
+      "Whether the client sweats within 5 minutes"
+    ],
+    "answerIndex": 1,
+    "explanation": "A good indicator of proper long slow distance intensity, apart from percent heart rate reserve, is whether the client can carry on a conversation. The idea is not to speak at length but to be able to talk without becoming short of breath. If heart rate rises beyond the training zone, anaerobic systems begin supplying energy at the expense of carbohydrate and glycogen stores and volitional fatigue follows quickly."
+  },
+  {
+    "id": "nsca-aer-042",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Pace/tempo training",
+    "question": "What are the parameters of pace/tempo training?",
+    "choices": [
+      "Maximal sprints with 5 minutes of rest, daily",
+      "Sessions lasting two hours at conversational intensity, performed five or six times every week of training",
+      "Sessions of 20 to 30 minutes at the lactate threshold, one or two weekly",
+      "Circuit resistance work with minimal rest, three times per week"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pace/tempo sessions typically last 20 to 30 minutes and require the client to exercise at their lactate threshold, and they should be performed only one or two times a week. The workout can be intermittent, using work bouts of 3 to 5 minutes with 30 to 90 second rest periods repeated until the pace can no longer be held, or steady, using one continuous 20- to 30-minute bout. Because the intensity is higher, the duration of the workout is reduced."
+  },
+  {
+    "id": "nsca-aer-043",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Pace/tempo training",
+    "question": "A client cannot hold their lactate threshold intensity for long. Which pace/tempo format suits them, and what should they do during rest?",
+    "choices": [
+      "Steady format, with the client resting completely seated between the work intervals",
+      "Neither format is appropriate at any point",
+      "Steady format, with maximal sprints during rest",
+      "Intermittent format, with light slow walking during the rest periods"
+    ],
+    "answerIndex": 3,
+    "explanation": "Intermittent pace/tempo training is best suited for clients who do not tolerate lactate threshold intensity for very long. During the 30 to 90 second rest periods, clients may engage in very light slow walking to prevent blood pooling in the legs. Over time these clients build tolerance and can progress to steady pace/tempo work."
+  },
+  {
+    "id": "nsca-aer-044",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Interval training",
+    "question": "What work-to-rest ratios are recommended for aerobic interval training, and why not extend rest further?",
+    "choices": [
+      "1:1 to 1:3, since longer rest reduces total high-intensity work",
+      "1:5 to 1:10, in order to maximize recovery between each work interval",
+      "3:1 to 5:1, to maximize work",
+      "Rest ratios are irrelevant to interval design"
+    ],
+    "answerIndex": 0,
+    "explanation": "High-intensity intervals should last 3 to 5 minutes with work-to-rest ratios of 1:1 to 1:3 depending on the client's ability to perform successive intervals. Extending rest beyond 1:3 reduces the time available for high-intensity work within a fixed-length session, which lowers total work done and the improvement made. These ratios improve cardiorespiratory endurance mainly by raising the lactate threshold and enhancing lactate clearance from the bloodstream."
+  },
+  {
+    "id": "nsca-aer-045",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Interval training readiness",
+    "question": "A client can maintain a steady-state heart rate reserve training zone for 60 minutes. What does this imply for interval training?",
+    "choices": [
+      "They should not perform interval training at all until they can sustain a full ninety minutes",
+      "Up to 60 minutes of combined work and rest, matching their steady-state tolerance",
+      "They can perform unlimited interval training",
+      "They should first complete a maximal graded exercise test"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clients should use interval training only after establishing a firm aerobic base and being able to hold their heart rate reserve training zone for a period roughly equal to the total time to be spent on interval training. A client able to sustain a steady-state zone for 60 minutes could therefore perform interval training for up to 60 minutes of exercise and rest combined. Long slow distance, interval, and pace/tempo programs are all advanced formats that follow an initial aerobic endurance program."
+  },
+  {
+    "id": "nsca-aer-046",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Deconditioned starting intensity",
+    "question": "An extremely deconditioned client finds 50% of heart rate reserve strenuous. What starting intensity does the guidance permit?",
+    "choices": [
+      "They must still begin at 50% of heart rate reserve in order to gain any adaptation",
+      "They should begin at 85% of heart rate reserve",
+      "They may begin at 30% of heart rate reserve, or a lower predicted range",
+      "They should not perform aerobic exercise at all"
+    ],
+    "answerIndex": 2,
+    "explanation": "The threshold for improvement depends on initial fitness level, and extremely deconditioned clients may need to begin at 30% of heart rate reserve. For very deconditioned clients a lower age-predicted range of 55% to 65% of maximal heart rate may also be more appropriate than the usual 70% to 85%. Starting conservatively and progressing is preferable to beginning too high and risking overtraining and poor adherence."
+  },
+  {
+    "id": "nsca-aer-047",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Mode specificity",
+    "question": "A client training for a road 10K spends all their sessions on a stationary bike. What specificity concern applies?",
+    "choices": [
+      "None; all aerobic modes transfer equally",
+      "Only swimming would be appropriate",
+      "Cycling is superior preparation for a running event because it spares the weight-bearing joints",
+      "Mode should match the goal, so a running event calls for running"
+    ],
+    "answerIndex": 3,
+    "explanation": "Exercise mode should match the client's ultimate goals for specificity of training, so a client preparing for a 10K should spend substantial time running on an outdoor track or trail, or indoors on a treadmill during poor weather. By contrast, a client whose goal is fat loss needs to expend calories and can use several different modes for variety. Machine modes that resemble nonmachine ones do not necessarily produce the same response."
+  },
+  {
+    "id": "nsca-aer-048",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Progression limits",
+    "question": "A client has reached the maximum number of days and minutes per week they can commit to training but wants continued aerobic improvement. What must change?",
+    "choices": [
+      "Improvements must now come from gradual increases in exercise intensity",
+      "Nothing further is possible",
+      "They must train twice daily",
+      "They should reduce the intensity in order to allow a greater weekly training volume"
+    ],
+    "answerIndex": 0,
+    "explanation": "Constraints on available training time and the fact that a week has only seven days mean frequency and duration often reach their upper limits before intensity does. After that point, improvements in aerobic capacity must come from increases in intensity. A client has only so much time available but can continually, if gradually, raise intensity."
+  },
+  {
+    "id": "nsca-aer-050",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Interval variety",
+    "question": "A trainer wants to add variety to a client's interval session using available machines. What arrangement is described?",
+    "choices": [
+      "All of the work and all of the rest must occur on one single machine throughout",
+      "Interval training cannot be performed on machines",
+      "Work bouts on one machine and rest bouts on another machine",
+      "Machines must be avoided because intensity cannot be adjusted"
+    ],
+    "answerIndex": 2,
+    "explanation": "Almost any aerobic endurance exercise can be used for interval training, and machines work well when intensity can be adjusted quickly and easily. For variety, the high-intensity bouts can be performed on one machine and the rest bouts on another, for instance a stair climber for the work period and a treadmill for recovery. The essential requirement remains an appropriate work-to-rest ratio."
+  },
+  {
+    "id": "nsca-aer-052",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Heart rate and oxygen consumption",
+    "question": "As heart rate approaches a client's maximal heart rate, a smaller percentage of maximal oxygen uptake is being used.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Heart rate and oxygen consumption are closely related, since heart rate rises with workload and increased workload requires more oxygen. As heart rate approaches the client's maximum, a greater percentage of maximal oxygen uptake is being used. This relationship has been shown to be consistent across age, sex, coronary artery disease status, fitness level, training status, muscle groups exercised, and testing mode."
+  },
+  {
+    "id": "nsca-aer-053",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Fick equation",
+    "question": "Which variables make up the Fick equation for oxygen uptake?",
+    "choices": [
+      "Heart rate, stroke volume, and the arteriovenous oxygen difference",
+      "Heart rate, respiratory rate, and the total volume of air moved each minute",
+      "Stroke volume, systolic pressure, and the resistance of the peripheral vessels",
+      "Tidal volume, breathing frequency, and the oxygen content of the inspired air"
+    ],
+    "answerIndex": 0,
+    "explanation": "Oxygen uptake equals cardiac output multiplied by the arteriovenous oxygen difference. Because cardiac output is itself heart rate times stroke volume, the full expression is heart rate times stroke volume times the a-vO2 difference. The first two terms describe how much blood reaches the tissue and the third describes how much oxygen is pulled out of it."
+  },
+  {
+    "id": "nsca-aer-054",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Oxygen extraction",
+    "question": "What does the arteriovenous oxygen difference actually tell you?",
+    "choices": [
+      "How much oxygen the tissues extracted from the blood delivered to them",
+      "How much air the client moved into and out of the lungs over one full minute",
+      "How much oxygen was carried in the arterial blood before it reached the muscle",
+      "How much blood the left ventricle ejected with each individual heart contraction"
+    ],
+    "answerIndex": 0,
+    "explanation": "The a-vO2 difference is the gap between the oxygen content of arterial blood and that of mixed venous blood. That gap represents the oxygen removed from the transported blood and used by the working tissue. It is the extraction term of the Fick equation, distinct from the delivery term supplied by cardiac output."
+  },
+  {
+    "id": "nsca-aer-055",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Oxygen extraction",
+    "question": "How does the arteriovenous oxygen difference respond as exercise intensity rises?",
+    "choices": [
+      "It increases, because working muscle extracts more of the oxygen delivered",
+      "It falls steadily, because blood moves through the capillary bed far too quickly",
+      "It stays fixed, because the oxygen content of arterial blood does not change much",
+      "It rises only once the client has passed the second ventilatory threshold marker"
+    ],
+    "answerIndex": 0,
+    "explanation": "Oxygen extraction climbs with exercise intensity as active muscle takes a progressively larger share of the oxygen passing through it. The venous oxygen content therefore falls while arterial content stays relatively stable, widening the difference. This widening is one of the two ways the body raises oxygen uptake during exercise, alongside a rising cardiac output."
+  },
+  {
+    "id": "nsca-aer-056",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Oxygen uptake calculation",
+    "question": "A client has a heart rate of 80 beats per minute, a stroke volume of 65 millilitres per beat, and extracts 6 millilitres of oxygen per 100 millilitres of blood. What is their absolute oxygen uptake?",
+    "choices": [
+      "About 312 millilitres of oxygen per minute",
+      "About 520 millilitres of oxygen consumed over the course of each single minute",
+      "About 5,200 millilitres of oxygen per minute at this particular workload",
+      "About 4.16 millilitres of oxygen per kilogram of body weight every minute"
+    ],
+    "answerIndex": 0,
+    "explanation": "Cardiac output is 80 times 65, which gives 5,200 millilitres of blood per minute. Multiplying that by an extraction of 6 millilitres of oxygen per 100 millilitres of blood yields roughly 312 millilitres of oxygen per minute. That figure is absolute; dividing by body mass would convert it to relative terms."
+  },
+  {
+    "id": "nsca-aer-057",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Oxygen uptake calculation",
+    "question": "A trainer calculates a client's absolute oxygen uptake as 312 millilitres per minute and wants to compare it against published norms for a 75-kilogram adult. What must the trainer do with the value?",
+    "choices": [
+      "Divide it by body mass to express it in millilitres per kilogram per minute",
+      "Multiply it by the client's body mass so the figure reflects their overall size",
+      "Leave it unchanged, since published aerobic norms are all reported in absolute terms",
+      "Divide it by the client's resting heart rate to correct for individual cardiac efficiency"
+    ],
+    "answerIndex": 0,
+    "explanation": "Published aerobic fitness norms are expressed relative to body mass, so an absolute value must be scaled before comparison. Dividing 312 millilitres per minute by 75 kilograms gives about 4.16 millilitres per kilogram per minute. Without this step a larger client would appear fitter simply because they carry more tissue."
+  },
+  {
+    "id": "nsca-aer-058",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Oxygen extraction adaptations",
+    "question": "Chronic aerobic training leaves the arteriovenous oxygen difference unchanged, so improvements in maximal oxygen uptake come from cardiac output alone.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "The a-vO2 difference increases with chronic aerobic training, particularly at maximal exercise. This happens both through skeletal muscle adaptations that improve oxygen extraction and through more effective distribution of blood to active tissue. Extraction is therefore a genuine contributor to a rising maximal oxygen uptake, not a fixed term."
+  }
+]

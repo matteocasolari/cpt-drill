@@ -1,0 +1,1417 @@
+[
+  {
+    "id": "nasm-opt-001",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "OPT model structure",
+    "question": "How is the OPT model organized?",
+    "choices": [
+      "Two separate levels subdivided into four distinct phases of progressive training work",
+      "Three levels subdivided into five phases",
+      "Five levels with one phase each",
+      "Four levels subdivided into eight phases"
+    ],
+    "answerIndex": 1,
+    "explanation": "The OPT model is built on three levels of training: stabilization, strength, and power. Those levels are subdivided into five phases, with one phase in stabilization, three in strength, and one in power. The model is often described as a staircase that guides clients through progressive levels of physical adaptation."
+  },
+  {
+    "id": "nasm-opt-002",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "OPT model structure",
+    "question": "Which phases belong to the strength level of the OPT model?",
+    "choices": [
+      "Phase 1 and Phase 2 only",
+      "Phases 3 and 5",
+      "Phases 2, 3, and 4",
+      "Phases 4 and 5"
+    ],
+    "answerIndex": 2,
+    "explanation": "The strength level contains Phase 2 Strength Endurance Training, Phase 3 Muscular Development Training, and Phase 4 Maximal Strength Training. Phase 1 Stabilization Endurance Training is the sole phase of the stabilization level, and Phase 5 Power Training is the sole phase of the power level. The strength level maintains stabilization while increasing muscle size, strength, and work capacity."
+  },
+  {
+    "id": "nasm-opt-003",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "OPT Phase 1",
+    "question": "What is the primary focus of Phase 1 Stabilization Endurance Training?",
+    "choices": [
+      "Maximal prime mover strength developed through heavy near-maximal external loading only",
+      "Maximal muscle growth through high training volume",
+      "Rate of force production and explosive power",
+      "Muscular endurance, joint and core stability, and optimal movement patterns"
+    ],
+    "answerIndex": 3,
+    "explanation": "Phase 1 teaches optimal movement patterns such as pushing, pulling, pressing, squatting, and hip hinging while building muscular endurance, joint range of motion, and core and joint stability. It requires slow, controlled movement with relatively light loads and close attention to posture and technique. The aim is biomechanically correct movement that reduces injury risk."
+  },
+  {
+    "id": "nasm-opt-004",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "OPT Phase 1",
+    "question": "Which acute variables are recommended for resistance training in Phase 1?",
+    "choices": [
+      "1 to 3 sets of 12 to 20 repetitions with a slow 4-2-1-1 tempo",
+      "2 to 4 sets of 8 to 12 repetitions as a superset",
+      "3 to 6 sets of 6 to 12 repetitions with a 2-0-2-0 tempo",
+      "4 to 6 sets of 1 to 5 repetitions using an explosive repetition tempo throughout"
+    ],
+    "answerIndex": 0,
+    "explanation": "Phase 1 resistance training uses 1 to 3 sets of 12 to 20 repetitions with a slow 4-2-1-1 repetition tempo. Exercises are performed in a controlled but progressively less stable environment, often in a standing or single-leg stance. The other options describe the acute variables of Phases 4, 3, and 2 respectively."
+  },
+  {
+    "id": "nasm-opt-005",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "OPT Phase 1",
+    "question": "Once a Phase 1 client demonstrates adequate movement patterns, how should the program be progressed?",
+    "choices": [
+      "By immediately jumping to maximal loads once the movement patterns look acceptable",
+      "By emphasizing proprioception, balance, and postural control",
+      "By reducing repetitions to 1 to 5",
+      "By eliminating the warm-up to save time"
+    ],
+    "answerIndex": 1,
+    "explanation": "After movement patterns are addressed, Phase 1 progresses by introducing a greater challenge to the body's balance and stabilization systems instead of simply increasing external load. That means emphasizing proprioception, balance, and postural control. Load progression comes later, in the strength level of the model."
+  },
+  {
+    "id": "nasm-opt-006",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "OPT Phase 2",
+    "question": "How is resistance training structured in Phase 2 Strength Endurance Training?",
+    "choices": [
+      "Single heavy sets of 1 to 5 repetitions performed for each separate exercise",
+      "Continuous circuits of 20 or more repetitions with no rest",
+      "A strength exercise immediately followed by a stabilization exercise",
+      "A heavy lift paired with an explosive power exercise"
+    ],
+    "answerIndex": 2,
+    "explanation": "Phase 2 uses supersets in which a traditional strength exercise performed in a stable environment is followed immediately by a stabilization-focused exercise in a less stable but controllable environment. The two exercises share similar joint dynamics. Pairing a heavy lift with an explosive movement instead describes Phase 5."
+  },
+  {
+    "id": "nasm-opt-007",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "OPT Phase 2",
+    "question": "Which tempos are prescribed for the two exercises in a Phase 2 superset?",
+    "choices": [
+      "Both exercises use a slow 4-2-1-1 tempo throughout the entire superset",
+      "Both exercises use an explosive X-X-X-X tempo",
+      "The strength exercise uses 4-2-1-1 and the stabilization exercise uses 2-0-2-0",
+      "The strength exercise uses 2-0-2-0 and the stabilization exercise 4-2-1-1"
+    ],
+    "answerIndex": 3,
+    "explanation": "The first exercise in a Phase 2 superset uses a moderate 2-0-2-0 tempo, and the second, stabilization-focused exercise uses a slow 4-2-1-1 tempo. The slower tempo on the second movement reinforces control in the less stable environment. Repetitions run 8 to 12 for 2 to 4 sets."
+  },
+  {
+    "id": "nasm-opt-008",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "OPT Phase 2",
+    "question": "A client in Phase 2 has just finished a barbell squat. Which exercise best completes the superset?",
+    "choices": [
+      "Single-leg squat",
+      "Barbell bench press",
+      "Seated leg extension machine",
+      "Medicine ball chest pass"
+    ],
+    "answerIndex": 0,
+    "explanation": "A Phase 2 superset pairs a strength exercise in a stable environment with a stabilization-focused exercise of similar biomechanical motion. A single-leg squat matches the squat pattern while adding a stability demand. A bench press works a different body part, the leg extension is more stable rather than less, and the medicine ball chest pass belongs to power training."
+  },
+  {
+    "id": "nasm-opt-009",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "OPT Phase 3",
+    "question": "What adaptation is Phase 3 Muscular Development Training designed to produce?",
+    "choices": [
+      "Maximal rate of force production developed through explosive contrast training",
+      "Maximal muscle growth through high training volume",
+      "Joint stability and movement competency",
+      "Maximal prime mover strength with near-maximal loads"
+    ],
+    "answerIndex": 1,
+    "explanation": "Phase 3 targets maximal muscle growth by driving high volumes of strength-focused work to force cellular changes that increase muscle size. It also benefits clients trying to lose body fat while preserving lean mass. Because not every client wants substantial hypertrophy, the phase is optional."
+  },
+  {
+    "id": "nasm-opt-010",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "OPT Phase 3",
+    "question": "Which acute variables are recommended for Phase 3 resistance training?",
+    "choices": [
+      "1 to 3 sets of 12 to 20 repetitions with a 4-2-1-1 tempo",
+      "1 to 2 supersets per body part with 8 to 12 repetitions",
+      "3 to 6 sets of 6 to 12 repetitions at a 2-0-2-0 tempo",
+      "4 to 6 sets of 1 to 5 repetitions with an explosive tempo and long rests"
+    ],
+    "answerIndex": 2,
+    "explanation": "Phase 3 prescribes 3 to 6 sets of 6 to 12 repetitions at a moderate 2-0-2-0 tempo, using 2 to 4 exercises per body part. A repetition scheme above 12, such as 12 to 20, may be chosen if additional muscular endurance is desired. The remaining options describe Phases 1, 4, and 2."
+  },
+  {
+    "id": "nasm-opt-011",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "OPT Phase 4",
+    "question": "Which acute variables define Phase 4 Maximal Strength Training?",
+    "choices": [
+      "1 to 3 sets of 12 to 20 repetitions using a slow tempo",
+      "2 to 4 sets of 8 to 12 repetitions using a moderate tempo",
+      "3 to 6 sets of 6 to 12 repetitions with a moderate tempo and short rests",
+      "4 to 6 sets of 1 to 5 repetitions with an explosive tempo"
+    ],
+    "answerIndex": 3,
+    "explanation": "Phase 4 uses 4 to 6 sets of 1 to 5 repetitions with an explosive tempo, notated X-X-X-X, across 2 to 4 exercises per body part. More than six sets can be programmed for advanced clients who need additional volume. The heavy loads improve motor unit recruitment and rate of force production."
+  },
+  {
+    "id": "nasm-opt-012",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "OPT Phase 4",
+    "question": "Why do rest periods generally lengthen as a client moves into Phase 4?",
+    "choices": [
+      "To help ensure full restoration of adenosine triphosphate between heavy sets",
+      "To allow more time for static stretching of the working muscles between each set",
+      "Because heavier loads require less recovery",
+      "To reduce total session duration"
+    ],
+    "answerIndex": 0,
+    "explanation": "As loads increase and repetition ranges fall, rest periods need to lengthen so that adenosine triphosphate can be fully restored. Maximal strength adaptations are best achieved with relatively long rest, and 3- to 5-minute rests are considered more effective and safer, especially with multijoint lifts. Inadequate rest compromises the load that can be handled on subsequent sets."
+  },
+  {
+    "id": "nasm-opt-013",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "OPT Phase 5",
+    "question": "How is resistance training structured in Phase 5 Power Training?",
+    "choices": [
+      "A strength exercise supersetted with a stabilization exercise of similar joint dynamics",
+      "A heavy strength exercise superset with an explosive power exercise",
+      "Three to six sets of moderate-load isolation work",
+      "Circuit training at 50% of one-rep max"
+    ],
+    "answerIndex": 1,
+    "explanation": "Phase 5 supersets a heavy strength-focused exercise with a power-focused, high-velocity exercise for the same body part. This approach is also called complex or contrast training and has been shown to improve sprint and vertical jump performance. Pairing strength with a stabilization exercise instead describes Phase 2."
+  },
+  {
+    "id": "nasm-opt-014",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "OPT Phase 5",
+    "question": "What loads are used for the two halves of a Phase 5 superset?",
+    "choices": [
+      "50% to 70% of one-rep max for both halves of the superset performed",
+      "A light load first, then a heavy load",
+      "A heavy 1 to 5 RM load, then a light fast movement",
+      "Body weight only for both exercises"
+    ],
+    "answerIndex": 2,
+    "explanation": "The first exercise uses a heavy 1 to 5 RM load, approximately 85% to 100% of one-rep max, to develop the force side of the power equation. The second uses light loads at roughly 30% to 45% intensity, or 8 to 10 RM, moved at high speed to develop velocity. When a medicine ball is used, it should weigh no more than about 10% of the client's body weight."
+  },
+  {
+    "id": "nasm-opt-015",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "OPT Phase 5",
+    "question": "Why is cardiorespiratory exercise not required during a Phase 5 warm-up?",
+    "choices": [
+      "Power training does not raise heart rate enough to require any preparatory cardio",
+      "The activation section replaces the warm-up entirely",
+      "Cardio is contraindicated before explosive work",
+      "Dynamic stretching already serves as a specific warm-up"
+    ],
+    "answerIndex": 3,
+    "explanation": "The Phase 5 warm-up uses self-myofascial techniques followed by dynamic stretching, choosing 3 to 10 dynamic stretches for 10 to 15 repetitions. Dynamic stretching acts as a specific warm-up that raises tissue temperature and readiness for explosive work. Additional cardiorespiratory exercise is therefore unnecessary in this phase."
+  },
+  {
+    "id": "nasm-opt-016",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "OPT workout template",
+    "question": "Which six parts make up the OPT workout template?",
+    "choices": [
+      "Warm-Up, Activation, Skill Development, Resistance Training, Client's Choice, Cool-Down",
+      "Warm-Up, then Cardio, then Core, then Resistance Training, then Stretching, then Cool-Down",
+      "Assessment, Warm-Up, Strength, Power, Conditioning, Cool-Down",
+      "Mobility, Activation, Plyometrics, SAQ, Resistance Training, Cool-Down"
+    ],
+    "answerIndex": 0,
+    "explanation": "The template runs Warm-Up, Activation, Skill Development, Resistance Training, Client's Choice, and Cool-Down. The same six parts are used regardless of which of the five phases is being trained; only the acute variables and exercise selections change. Cardiorespiratory training can be integrated into any section."
+  },
+  {
+    "id": "nasm-opt-017",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "OPT workout template",
+    "question": "Which forms of exercise make up the Activation section of the OPT template?",
+    "choices": [
+      "Plyometric and speed, agility, and quickness drills",
+      "Core and balance exercises",
+      "Flexibility and cardiorespiratory exercise",
+      "Free-weight compound lifts"
+    ],
+    "answerIndex": 1,
+    "explanation": "Activation consists of core and balance exercises and functions as a continuation of the warm-up. Its purpose is to strengthen the underactive muscles identified during assessment, helping restore joint alignment, stability, and control. Plyometric and speed, agility, and quickness work belongs in the Skill Development section."
+  },
+  {
+    "id": "nasm-opt-018",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "OPT workout template",
+    "question": "What is the purpose of the Client's Choice section of the OPT template?",
+    "choices": [
+      "To let clients skip any programmed exercises that they happen to dislike",
+      "To replace the resistance training block on busy days",
+      "To let clients choose their own safe, appropriate exercises",
+      "To perform maximal strength testing"
+    ],
+    "answerIndex": 2,
+    "explanation": "In the Client's Choice section clients pick their own exercises, usually one or two, as long as the selection is safe and appropriate. Giving the client agency adds a fun element and is intended to improve exercise adherence and self-efficacy. It is not a substitute for the programmed resistance training block."
+  },
+  {
+    "id": "nasm-opt-019",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "OPT workout template",
+    "question": "In what order should the cool-down be performed, and how long should it last?",
+    "choices": [
+      "Static stretching, then self-myofascial techniques, and finally optional cardiorespiratory exercise",
+      "Dynamic stretching, then plyometrics; 10 to 15 minutes",
+      "Self-myofascial techniques only; 2 to 3 minutes",
+      "Optional cardio, then self-myofascial techniques, then static stretching"
+    ],
+    "answerIndex": 3,
+    "explanation": "The cool-down is identical in all five phases and lasts 5 to 10 minutes. It runs optional cardiorespiratory exercise, then self-myofascial techniques, then static stretching. Foam rolling targets one to three muscle groups, held on each tender area for a minimum of 30 seconds, followed by static stretching of those same groups."
+  },
+  {
+    "id": "nasm-opt-020",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Warm-up",
+    "question": "What is the purpose of the cardiorespiratory portion of an OPT warm-up, and how long does it typically last?",
+    "choices": [
+      "To raise heart rate and tissue temperature and prepare the client",
+      "To burn a target number of calories before the resistance training block begins",
+      "To reach ventilatory threshold 2; 20 minutes",
+      "To test aerobic capacity; 12 minutes"
+    ],
+    "answerIndex": 0,
+    "explanation": "The cardiorespiratory component of the warm-up typically lasts 5 to 10 minutes at a relatively low intensity. Its purpose is to increase heart and respiration rates and tissue temperature while psychologically preparing the client for higher training intensities. It is an optional component of the warm-up in most phases."
+  },
+  {
+    "id": "nasm-opt-021",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Warm-up",
+    "question": "Which tissues should be targeted with static stretching during the warm-up?",
+    "choices": [
+      "Every major muscle group in the body, regardless of the assessment findings",
+      "Only the tissues identified as overactive during the assessment process",
+      "Only the tissues identified as underactive",
+      "Whichever tissues the client finds most comfortable to stretch"
+    ],
+    "answerIndex": 1,
+    "explanation": "Static stretching should be applied to tissues identified as overactive during the assessment process. Self-myofascial techniques should target the same areas. Underactive muscles are addressed with strengthening work in the Activation section instead."
+  },
+  {
+    "id": "nasm-opt-022",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Self-myofascial techniques",
+    "question": "How many muscle groups and how much hold time are recommended for self-myofascial techniques within an OPT warm-up?",
+    "choices": [
+      "One muscle group only, holding each tender area for a full five minutes",
+      "Five to eight muscle groups, holding each area 5 seconds",
+      "One to three muscle groups, held a minimum of 30 seconds",
+      "All major muscle groups, rolling continuously without pausing"
+    ],
+    "answerIndex": 2,
+    "explanation": "One to three muscle groups are selected, and each tender area is held for a minimum of 30 seconds to elicit an optimal relaxation response. The same guideline applies in the cool-down. Static stretching then typically targets the same muscle groups."
+  },
+  {
+    "id": "nasm-opt-023",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Phase 1 activation",
+    "question": "Which acute variables apply to core exercises in Phase 1?",
+    "choices": [
+      "3 to 6 exercises, 6 to 12 repetitions, 3 to 6 sets, at a moderate tempo",
+      "1 to 4 exercises, 8 to 12 repetitions, 2 to 4 sets, moderate tempo",
+      "1 to 2 exercises, 8 to 12 repetitions, explosive tempo",
+      "1 to 4 exercises, 12 to 20 repetitions, 1 to 3 sets, slow tempo"
+    ],
+    "answerIndex": 3,
+    "explanation": "Phase 1 core training uses one to four exercises for 12 to 20 repetitions across one to three sets at a slow tempo such as 4-2-1-1. Exercises emphasize core stabilization and intervertebral stability, so they involve isometric contractions or little motion of the spine. The moderate-tempo, 8 to 12 repetition scheme belongs to Phases 2 through 4."
+  },
+  {
+    "id": "nasm-opt-024",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Phase 1 activation",
+    "question": "How are balance repetitions counted in a Phase 1 program?",
+    "choices": [
+      "12 to 20 total, or 6 to 10 on each leg",
+      "12 to 20 repetitions on each leg, for a total of up to 40",
+      "5 to 8 total for both legs combined",
+      "1 to 5 on each leg"
+    ],
+    "answerIndex": 0,
+    "explanation": "Phase 1 balance training prescribes one to four exercises for 12 to 20 repetitions, which corresponds to 6 to 10 repetitions on each leg, across one to three sets at a slow tempo. Exercises chosen for this phase involve little joint motion of the balance leg. Progression to dynamic movement of the balance leg comes in later phases."
+  },
+  {
+    "id": "nasm-opt-025",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Skill development",
+    "question": "Which plyometric acute variables are recommended in Phase 1?",
+    "choices": [
+      "1 to 4 exercises, 8 to 12 repetitions, and 2 to 4 sets",
+      "1 to 3 exercises, 5 to 8 repetitions, 1 to 3 sets",
+      "3 to 6 exercises, 12 to 20 repetitions, 3 to 6 sets",
+      "4 to 6 exercises, 2 to 3 repetitions, 1 to 2 sets"
+    ],
+    "answerIndex": 1,
+    "explanation": "Phase 1 plyometric work uses one to three exercises for five to eight repetitions across one to three sets. Plyometric and speed, agility, and quickness exercises are optional in Phase 1 and may be replaced by instruction in basic movement patterns and equipment use. The 8 to 12 repetition scheme applies to Phases 2 through 4."
+  },
+  {
+    "id": "nasm-opt-026",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Skill development",
+    "question": "Which acute variables are suggested for speed, agility, and quickness drills in a Phase 1 program?",
+    "choices": [
+      "1 to 2 drills, 12 to 20 repetitions, and 3 sets of each",
+      "1 drill, 30 repetitions, 1 set",
+      "4 to 6 drills, 2 to 3 repetitions, 1 to 2 sets",
+      "8 to 10 drills, 5 to 8 repetitions, 4 sets"
+    ],
+    "answerIndex": 2,
+    "explanation": "Phase 1 speed, agility, and quickness programming selects four to six drills such as ladder and cone drills, with a repetition range of two to three for one to two sets. Keeping repetitions low preserves movement quality on unfamiliar patterns. These drills are optional at this stage of the model."
+  },
+  {
+    "id": "nasm-opt-027",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Active stretching",
+    "question": "Which flexibility technique is prescribed in the warm-up for Phases 2 through 4, and how is it performed?",
+    "choices": [
+      "Static stretching, holding each stretched position for a minimum of 30 seconds each",
+      "Proprioceptive neuromuscular facilitation with a partner",
+      "Dynamic stretching, using 10 to 15 repetitions of 3 to 10 movements",
+      "Active stretching, 5 to 10 repetitions held 1 to 2 seconds"
+    ],
+    "answerIndex": 3,
+    "explanation": "Phases 2 through 4 pair self-myofascial techniques with active stretching, performed for 5 to 10 repetitions while holding each stretched position only 1 to 2 seconds. Static stretching with a 30-second hold is the Phase 1 technique. Dynamic stretching with 10 to 15 repetitions is the Phase 5 technique."
+  },
+  {
+    "id": "nasm-opt-028",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Dynamic stretching",
+    "question": "How is dynamic stretching prescribed when it is included in an OPT warm-up?",
+    "choices": [
+      "One set of 3 to 10 stretches for 10 to 15 reps",
+      "Three separate sets of 20 stretches using only 2 repetitions of each movement",
+      "One stretch held for 60 seconds",
+      "Five stretches for 1 to 5 repetitions"
+    ],
+    "answerIndex": 0,
+    "explanation": "Dynamic stretching is programmed as one set of 3 to 10 stretches using a repetition range of 10 to 15. It is optional in Phase 1 but is the primary stretching technique in the Phase 5 warm-up. Its repetitive, full-range movement makes it a specific preparation for higher-velocity work."
+  },
+  {
+    "id": "nasm-opt-029",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Acute variables",
+    "question": "Which of the following is a complete list of the acute variables used in exercise programming?",
+    "choices": [
+      "Sets, repetitions, and the external load lifted, which together determine all adaptation",
+      "Repetitions, sets, intensity, tempo, rest, volume, frequency, duration, and order",
+      "Frequency, intensity, type, and time only",
+      "Warm-up, activation, resistance training, and cool-down"
+    ],
+    "answerIndex": 1,
+    "explanation": "The acute variables comprise repetitions, sets, training intensity, repetition tempo, rest intervals, training volume, training frequency, training duration, exercise selection, and exercise order. Together they determine how much stress is placed on the body and therefore which adaptations occur. Frequency, intensity, type, and time belong to the cardiorespiratory FITTE framework."
+  },
+  {
+    "id": "nasm-opt-030",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Acute variables",
+    "question": "How are repetition ranges categorized?",
+    "choices": [
+      "Low is 1 to 3, moderate is 4 to 8, and high is 9 or more",
+      "Low is 1 to 10, moderate is 11 to 20, and high is more than 20",
+      "Low is 1 to 5, moderate 6 to 12, high above 12",
+      "Low is 5 to 8, moderate is 9 to 15, and high is 16 to 25"
+    ],
+    "answerIndex": 2,
+    "explanation": "Repetitions are categorized as low at 1 to 5, moderate at 6 to 12, and high above 12. Repetitions are inversely related to the load lifted, so heavier loads permit fewer repetitions. This categorization underpins the acute variable recommendations for each adaptation."
+  },
+  {
+    "id": "nasm-opt-031",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Acute variables",
+    "question": "What relationship exists between sets, repetitions, and training intensity?",
+    "choices": [
+      "All three variables increase together as the client becomes progressively better trained",
+      "Sets always equal repetitions divided by intensity",
+      "Sets and repetitions are unrelated to intensity",
+      "An inverse relationship between sets, repetitions, and intensity"
+    ],
+    "answerIndex": 3,
+    "explanation": "Sets, repetitions, and intensity share an inverse relationship. Clients usually perform fewer sets when doing higher repetitions with lighter loads, and more sets when doing lower repetitions with heavier loads. Recognizing this keeps total workload manageable as any single variable is increased."
+  },
+  {
+    "id": "nasm-opt-032",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Acute variables",
+    "question": "Which suggested acute variables match the adaptation of stabilization and muscular endurance?",
+    "choices": [
+      "12 to 20 repetitions, 1 to 3 sets, 50% to 70% intensity",
+      "6 to 12 repetitions, 3 to 6 sets, and 75% to 85% of one-rep max",
+      "1 to 5 repetitions, 4 to 6 sets, 85% to 100% of one-rep max",
+      "1 to 10 repetitions, 3 to 6 sets, 30% to 45% of one-rep max"
+    ],
+    "answerIndex": 0,
+    "explanation": "Stabilization and muscular endurance work uses moderate to high repetitions of roughly 12 to 20 or more, low to moderate sets of about 1 to 3, and low to moderate intensities of roughly 50% to 70% of one-rep max. The other options describe hypertrophy, maximal strength, and power. Higher repetition protocols have been shown to be the most effective means of improving muscular endurance."
+  },
+  {
+    "id": "nasm-opt-033",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Acute variables",
+    "question": "Which suggested intensity range corresponds to muscular hypertrophy?",
+    "choices": [
+      "Roughly 50% to 70% of one-rep max",
+      "75% to 85% of one-rep max",
+      "85% to 100% of one-rep max",
+      "30% to 45% of one-rep max"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hypertrophy-focused training uses moderate to high intensities of roughly 75% to 85% of one-rep max, with low to moderate repetitions of about 6 to 12 or higher and moderate to high sets of about 3 to 6. Training intensity is often argued to be the single most important variable for stimulating muscle mass. The other ranges correspond to endurance, maximal strength, and power work."
+  },
+  {
+    "id": "nasm-opt-035",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Acute variables",
+    "question": "Which intensity guideline applies to power-focused training?",
+    "choices": [
+      "85% to 100% of one-rep max for every power-focused exercise that is programmed",
+      "Body weight only, with no external load",
+      "50% to 70% of one-rep max regardless of implement",
+      "About 30% to 45% with weights, or 10% of body weight"
+    ],
+    "answerIndex": 3,
+    "explanation": "Power-focused exercises use low intensities of roughly 30% to 45% when weights are used, or about 10% of the client's body weight when a medicine ball is used. Repetitions run 1 to 10 with moderate to high sets of about 3 to 6. Light loads moved at high velocity develop the velocity side of the power equation."
+  },
+  {
+    "id": "nasm-opt-036",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Repetition tempo",
+    "question": "What do the four numbers in a repetition tempo represent, and in what order?",
+    "choices": [
+      "Eccentric, isometric, concentric, isometric",
+      "Concentric, then isometric, then eccentric, then isometric again",
+      "Sets, repetitions, rest, load",
+      "Warm-up, work, rest, cool-down"
+    ],
+    "answerIndex": 0,
+    "explanation": "Each number is a duration in seconds and the sequence is always listed as eccentric, isometric, concentric, isometric. The same order is used whether the exercise begins with an eccentric action, such as a squat, or a concentric action, such as a biceps curl. Slower tempos favor stabilization, endurance, and hypertrophy, while faster tempos are used for strength and power."
+  },
+  {
+    "id": "nasm-opt-037",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Repetition tempo",
+    "question": "A trainer prescribes a 4-2-1-1 tempo for a dumbbell chest press. How long should the lowering portion take?",
+    "choices": [
+      "1 second",
+      "4 seconds",
+      "2 seconds",
+      "A total of 8 seconds"
+    ],
+    "answerIndex": 1,
+    "explanation": "The first number in the sequence is always the eccentric action, so the lowering phase of the chest press takes 4 seconds. The client then holds 2 seconds at the bottom, presses up in 1 second, and pauses 1 second at the top. This slow tempo is characteristic of Phase 1 stabilization work."
+  },
+  {
+    "id": "nasm-opt-038",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Rest intervals",
+    "question": "What is the general rest recommendation between sets when training for muscular endurance?",
+    "choices": [
+      "0 to 10 seconds",
+      "Between 3 and 5 full minutes",
+      "30 to 60 seconds",
+      "About 4 minutes"
+    ],
+    "answerIndex": 2,
+    "explanation": "Muscular endurance work generally uses rest intervals of approximately 30 to 60 seconds between sets. Short rest maintains metabolic stress and supports the endurance adaptation. Longer intervals of 3 to 5 minutes and about 4 minutes correspond to maximal strength and power training respectively."
+  },
+  {
+    "id": "nasm-opt-039",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Rest intervals",
+    "question": "Which rest interval range applies to hypertrophy training?",
+    "choices": [
+      "Exactly 60 seconds",
+      "10 to 15 seconds",
+      "Between 5 and 8 minutes of rest",
+      "Approximately 0 to 180 seconds"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hypertrophy training pairs moderate to high loads with a wide range of rest periods, approximately 0 to 180 seconds between sets. That breadth reflects the variety of protocols that successfully drive muscle growth. Programming within the range should account for the load used and the client's recovery."
+  },
+  {
+    "id": "nasm-opt-040",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Rest intervals",
+    "question": "Roughly how long should the rest interval be when training for power performance, and why?",
+    "choices": [
+      "About 4 minutes, matching adenosine triphosphate replenishment",
+      "30 seconds, in order to maintain metabolic stress throughout the whole set",
+      "10 minutes, to allow full glycogen resynthesis",
+      "No rest, to maximize velocity"
+    ],
+    "answerIndex": 0,
+    "explanation": "Power adaptations require relatively long rest, and the interval between sets should match the time needed for adenosine triphosphate replenishment, which research places at approximately 4 minutes. Insufficient rest reduces the velocity the client can generate, which defeats the purpose of the set. Maximal strength training similarly benefits from 3- to 5-minute rests."
+  },
+  {
+    "id": "nasm-opt-041",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Training volume",
+    "question": "How is training volume commonly calculated?",
+    "choices": [
+      "Sets divided by repetitions and then multiplied by load",
+      "Repetitions multiplied by sets multiplied by weight",
+      "Load divided by time",
+      "Repetitions plus sets plus rest"
+    ],
+    "answerIndex": 1,
+    "explanation": "Training volume is the sum of repetitions performed in each set multiplied by the resistance used, commonly expressed as repetitions times sets times weight. Higher-volume, multiple-set protocols have consistently outperformed single-set protocols for hypertrophy and strength. Volume must be increased strategically over time to avoid plateaus."
+  },
+  {
+    "id": "nasm-opt-042",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Training volume",
+    "question": "Training volume and training intensity have a direct relationship, so both typically rise together.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "As intensity increases, volume generally decreases, and as volume increases, intensity is often reduced. This trade-off is visible in most periodization models, including linear progressions that raise load while lowering total repetitions. Managing the balance prevents excessive fatigue."
+  },
+  {
+    "id": "nasm-opt-043",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Training frequency",
+    "question": "Which weekly frequency is recommended for a beginning or novice client?",
+    "choices": [
+      "1 session",
+      "Between 4 and 6 sessions",
+      "2 to 3 sessions",
+      "6 to 7 sessions"
+    ],
+    "answerIndex": 2,
+    "explanation": "Beginning or novice clients are recommended 2 to 3 resistance training sessions per week. Intermediate clients train 3 times per week using total-body sessions or 4 times per week using a split regimen. Advanced clients train 4 to 6 times per week and may perform multiple sessions in a day."
+  },
+  {
+    "id": "nasm-opt-044",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Training frequency",
+    "question": "What is the general recommendation for rest between resistance training sessions that stress the same muscle groups?",
+    "choices": [
+      "No rest is needed if intensity is low",
+      "At least 4 hours",
+      "At least 1 week of rest",
+      "At least 1 day of rest"
+    ],
+    "answerIndex": 3,
+    "explanation": "A general recommendation is to allow at least 1 day of rest between resistance training sessions that stress identical muscle groups. Frequency should also account for exercise type, muscle groups involved, the client's training status, and program intensity and volume. Split routines are one way to train more frequently while still resting each muscle group."
+  },
+  {
+    "id": "nasm-opt-045",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Training duration",
+    "question": "How long do exercise sessions typically last in most fitness settings, and how does duration relate to intensity?",
+    "choices": [
+      "5 to 15 minutes; duration determines intensity",
+      "10 to 20 minutes, with duration and intensity rising together as fitness improves",
+      "30 to 90 minutes, with duration and intensity inversely related",
+      "90 to 150 minutes; duration is independent of intensity"
+    ],
+    "answerIndex": 2,
+    "explanation": "Most fitness sessions run roughly 30 to 90 minutes. Duration and intensity are inversely related, so as session intensity rises the session length tends to fall. Client health status, training level, program goals, and volume all influence the appropriate duration."
+  },
+  {
+    "id": "nasm-opt-047",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Exercise order",
+    "question": "What is the main method for arranging exercise order in a session?",
+    "choices": [
+      "Alphabetically by exercise name",
+      "By the order equipment happens to be available",
+      "By priority, placing goal-specific exercises earliest",
+      "Isolation exercises first, followed later by the larger compound movements selected"
+    ],
+    "answerIndex": 2,
+    "explanation": "The primary method is to arrange exercises by priority, so the movements that most directly serve the client's goals come first and less specific work comes later. Reducing the influence of fatigue on the priority exercise is the main justification. A secondary method arranges exercises by type, multijoint before single-joint."
+  },
+  {
+    "id": "nasm-opt-048",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Periodization",
+    "question": "What is periodization?",
+    "choices": [
+      "Repeating the same workout until a performance plateau is finally reached by the client",
+      "Alternating between cardio and resistance days",
+      "Assessing a client every four weeks",
+      "Systematically varying training stress to drive adaptation and limit overtraining"
+    ],
+    "answerIndex": 3,
+    "explanation": "Periodization systematically varies the focus, amount, and type of training stress at planned intervals to encourage optimal adaptation. It exploits the general adaptation syndrome and the principle of specificity. Its two primary objectives are dividing the program into distinct periods and training different forms of strength in each to control volume and prevent injury."
+  },
+  {
+    "id": "nasm-opt-049",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Periodization",
+    "question": "Which training cycle represents an annual plan?",
+    "choices": [
+      "Macrocycle",
+      "The mesocycle, or monthly plan",
+      "Microcycle",
+      "Metacycle"
+    ],
+    "answerIndex": 0,
+    "explanation": "The macrocycle is the annual training plan and shows how the program progresses month to month toward the goal. The mesocycle is the monthly plan and details the specific days and styles of training. The microcycle is the weekly or daily plan describing individual workouts."
+  },
+  {
+    "id": "nasm-opt-050",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Periodization",
+    "question": "What does a mesocycle typically outline?",
+    "choices": [
+      "A single workout session",
+      "A monthly plan detailing workout days and training style",
+      "A full year of training including projected evaluation sessions and planned recovery periods",
+      "A four-year competitive cycle"
+    ],
+    "answerIndex": 1,
+    "explanation": "A mesocycle divides the training plan into monthly cycles and details the specific days of each workout and the training style used. The macrocycle spans the year and includes projected fitness evaluations and planned recovery periods. The microcycle covers a single week."
+  },
+  {
+    "id": "nasm-opt-051",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Periodization",
+    "question": "Why can weekly plans lack purpose if they are written in isolation?",
+    "choices": [
+      "Weekly plans are not part of periodization",
+      "Weekly plans cannot include resistance training",
+      "Without an annual or monthly plan, the microcycle lacks direction",
+      "Microcycles must always be identical to one another across the whole training year"
+    ],
+    "answerIndex": 2,
+    "explanation": "A microcycle details the specific workouts for one week, but it only makes sense within a larger structure. Without first developing the annual macrocycle and monthly mesocycle, weekly plans can lack purpose, focus, and direction. The larger plan establishes what adaptation each week is meant to serve."
+  },
+  {
+    "id": "nasm-opt-052",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Linear periodization",
+    "question": "How does linear periodization manipulate load and volume over time?",
+    "choices": [
+      "Keeps intensity fixed while adding exercises",
+      "Gradually increases both the training intensity and the total training volume together",
+      "Varies intensity and volume on a daily basis",
+      "Gradually increases intensity while simultaneously decreasing volume"
+    ],
+    "answerIndex": 3,
+    "explanation": "Linear periodization gradually raises the intensity of the training load while simultaneously lowering volume over a set period. A representative progression moves from 60% to 70% of one-rep max in weeks 1 to 4, to 70% to 85% in weeks 5 to 8, and 85% to 100% in weeks 9 to 12. Linear schemes can also manipulate exercise selection, rest periods, sets, and repetitions."
+  },
+  {
+    "id": "nasm-opt-053",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Undulating periodization",
+    "question": "What defines undulating, or nonlinear, periodization?",
+    "choices": [
+      "Volume, intensity, and exercise selection vary daily or weekly",
+      "A single adaptation is trained continuously for twelve weeks at a time before changing",
+      "Volume rises steadily while intensity falls",
+      "Training only occurs during a competitive season"
+    ],
+    "answerIndex": 0,
+    "explanation": "Undulating periodization varies volume, intensity, and exercise selection on a daily or weekly basis. The constantly changing stress limits plateaus and keeps workouts from becoming stale. A trainer might program a muscular endurance workout Monday, a power workout Wednesday, and a hypertrophy workout Friday."
+  },
+  {
+    "id": "nasm-opt-054",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Periodization",
+    "question": "In sports conditioning, which three periods typically divide a macrocycle?",
+    "choices": [
+      "Stabilization, strength, and power",
+      "Preparatory, competitive, and transition",
+      "Warm-up, conditioning, and cool-down",
+      "Alarm reaction, resistance development, and exhaustion"
+    ],
+    "answerIndex": 1,
+    "explanation": "Sport macrocycles are typically divided into preparatory, competitive, and transition periods, roughly corresponding to preseason, in-season, and off-season. The preparatory phase builds volume and intensity toward a peak, the competitive phase maintains condition while avoiding overtraining, and the transition phase tapers intensity and incorporates active rest. Alarm, resistance, and exhaustion are the stages of the general adaptation syndrome."
+  },
+  {
+    "id": "nasm-opt-055",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "OPT periodization",
+    "question": "Which forms of periodization does the OPT model use?",
+    "choices": [
+      "Linear periodization only, applied across the whole year",
+      "Undulating periodization only",
+      "Both linear and undulating periodization",
+      "Neither; the OPT model is not periodized"
+    ],
+    "answerIndex": 2,
+    "explanation": "The OPT model uses both linear and undulating periodization, which is what allows it to serve clients of all levels and a wide range of goals. A client might progress through phases linearly early on and later train several phases concurrently within one week. This flexibility supports goals from fat loss to athletic performance."
+  },
+  {
+    "id": "nasm-opt-056",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Phase duration",
+    "question": "How long does a client typically spend in Phase 2, 3, 4, or 5 before cycling back or progressing?",
+    "choices": [
+      "1 week",
+      "6 months",
+      "Somewhere between 8 and 12 weeks",
+      "2 to 6 weeks"
+    ],
+    "answerIndex": 3,
+    "explanation": "Clients generally spend 2 to 6 weeks in a given phase of the strength or power levels before cycling back through earlier phases or progressing forward. The exact duration depends on the client's goals, fitness level, training schedule, and, for athletes, their competitive calendar. Cycling back through stabilization work helps maintain core and joint stability."
+  },
+  {
+    "id": "nasm-opt-057",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Program design",
+    "question": "A new client's assessment shows poor movement quality and no resistance training history but they ask to start with heavy barbell work. What is the best programming decision?",
+    "choices": [
+      "Begin with Phase 1 to build competency and tissue tolerance",
+      "Begin with Phase 4 because the client is highly motivated and eager to train",
+      "Skip all resistance training and program only cardio",
+      "Begin with Phase 5 to develop power immediately"
+    ],
+    "answerIndex": 0,
+    "explanation": "The stabilization level is described as crucial for all beginners because it prepares muscles, tendons, ligaments, and joints for upcoming demands. Recommending exercise that is too advanced is illogical and potentially dangerous, and it can frustrate the client and reduce self-efficacy. Building the foundation first supports both safety and long-term progress."
+  },
+  {
+    "id": "nasm-opt-058",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Program design",
+    "question": "A client who has completed several months of Phase 4 training returns from a two-week vacation. Why might cycling back through Phase 1 be appropriate?",
+    "choices": [
+      "Phase 1 is the only phase of the model that meaningfully burns calories",
+      "Cycling back through stabilization maintains core and joint stability",
+      "Phase 4 can only be performed once per year",
+      "Phase 1 requires no assessment"
+    ],
+    "answerIndex": 1,
+    "explanation": "The stabilization level is not only for beginners; it is also necessary to cycle back through it after periods of strength and power training. Doing so maintains core and joint stability, mobility, and postural control that heavy or explosive training can erode. It also provides a lower-stress reintroduction after a layoff."
+  },
+  {
+    "id": "nasm-opt-059",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Progressive overload",
+    "question": "Which benefit is associated with a progressive, systematic overload approach?",
+    "choices": [
+      "Guaranteed elimination of all muscle soreness following every training session performed",
+      "Removal of the need for assessment",
+      "Lower injury and overtraining risk, and better adherence",
+      "Faster results without any recovery"
+    ],
+    "answerIndex": 2,
+    "explanation": "Progressive overload applied systematically reduces the risk of injury and overtraining and improves adherence to the program. It also makes clients more likely to reach their goals and gives the trainer a way to track successes and setbacks. Adaptation occurs because the body responds to demands that increase gradually rather than abruptly."
+  },
+  {
+    "id": "nasm-opt-060",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Fundamental movement patterns",
+    "question": "Which movement patterns are the fundamental patterns that most exercises involve?",
+    "choices": [
+      "Isometric, concentric, and eccentric",
+      "Jumping, sprinting, throwing, and catching",
+      "Flexion, extension, abduction, adduction, and internal rotation",
+      "Squatting, hip hinge, pulling, pushing, pressing"
+    ],
+    "answerIndex": 3,
+    "explanation": "The fundamental movement patterns are squatting, hip hinging, pulling, pushing, and pressing. Most exercises involve at least one of these, and they mirror common movements from daily life. Designing around movement patterns can enhance neuromuscular coordination and athleticism relative to isolated resistance training."
+  },
+  {
+    "id": "nasm-opt-061",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Fundamental movement patterns",
+    "question": "How is pressing distinguished from pushing?",
+    "choices": [
+      "Pressing is more vertically oriented, such as lifting overhead",
+      "Pressing uses only body weight while pushing always involves an external load",
+      "Pressing is always performed seated",
+      "There is no distinction between the two"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pressing is sometimes grouped with pushing but typically refers to more vertically oriented movements such as lifting or reaching overhead. It places heavy emphasis on the deltoids and trapezius, with the rotator cuff stabilizing the glenohumeral joint. Trainers must confirm the client can press overhead through a full, pain-free range of motion."
+  },
+  {
+    "id": "nasm-opt-062",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Fundamental movement patterns",
+    "question": "Which muscles act as the prime mover and synergists for most upper-body pushing exercises?",
+    "choices": [
+      "Latissimus dorsi as the prime mover, with the biceps brachii acting as synergist",
+      "Chest as prime mover, with triceps and anterior deltoid assisting",
+      "Deltoids as prime mover with trapezius as synergist",
+      "Gluteus maximus as prime mover with hamstrings as synergist"
+    ],
+    "answerIndex": 1,
+    "explanation": "The chest musculature, primarily the pectoralis major, is the prime mover in most upper-body pushing exercises. The triceps brachii and anterior deltoid act as synergists throughout the pattern. Concentric joint actions include scapular protraction, shoulder flexion and horizontal adduction, and elbow extension."
+  },
+  {
+    "id": "nasm-opt-063",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Program design",
+    "question": "Pushing and pulling exercises must always be performed on separate training days.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pushing and pulling exercises can be seamlessly integrated into a single workout. Alternating them within one session provides a different training stimulus than splitting them across separate days. Either arrangement can be appropriate depending on the client's goals and schedule."
+  },
+  {
+    "id": "nasm-opt-064",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Program design",
+    "question": "Why should programs require movement in all three planes of motion?",
+    "choices": [
+      "It shortens the workout",
+      "It eliminates the need for a warm-up",
+      "It enhances muscle recruitment across all three planes",
+      "It guarantees measurable hypertrophy in every muscle group that is trained"
+    ],
+    "answerIndex": 2,
+    "explanation": "Training across the sagittal, frontal, and transverse planes enhances muscle recruitment. Most traditional programs overemphasize sagittal-plane work with a primary focus on concentric force production. Limiting a client to one plane diminishes ideal movement and athleticism and may raise injury risk."
+  },
+  {
+    "id": "nasm-opt-065",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Program design",
+    "question": "What should exercise programming be based on above all else?",
+    "choices": [
+      "The trainer's own favorite training style",
+      "Whatever equipment is nearest the front desk",
+      "The most popular training program currently circulating on social media platforms",
+      "The client's needs, goals, and abilities from assessment"
+    ],
+    "answerIndex": 3,
+    "explanation": "Programs must be individualized to the client's needs, goals, and abilities, with programming efforts focused on the assessments conducted before the first workout. A lack of assessment leads to ineffective exercise selection and programming. Individuality is also what separates systematic programming from generic physical activity and drives adherence."
+  },
+  {
+    "id": "nasm-opt-066",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Integrated training",
+    "question": "Which components make up integrated training?",
+    "choices": [
+      "Flexibility, cardio, core, balance, plyometric, SAQ, and resistance",
+      "Resistance and cardiorespiratory training alone, performed on alternating days each week",
+      "Core, balance, and plyometric training only",
+      "Flexibility and core training only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Integrated training combines flexibility, cardiorespiratory, core, balance, plyometric, speed-agility-quickness, and resistance training into one system. Programs built this way tend to be better balanced, reduce boredom, and maximize results. Multiplanar integrated programs are considered more optimal than isolated resistance training alone."
+  },
+  {
+    "id": "nasm-opt-067",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Integrated training",
+    "question": "Which benefits are attributed to the cardiorespiratory component of integrated training?",
+    "choices": [
+      "Increased resting heart rate and blood pressure with a reduced total blood volume",
+      "Lower resting heart rate and blood pressure, higher stroke volume",
+      "Reduced stroke volume with increased airway resistance",
+      "Decreased blood volume and worsened lipid profile"
+    ],
+    "answerIndex": 1,
+    "explanation": "Cardiorespiratory training lowers resting heart rate and blood pressure while raising stroke volume and cardiac output. It also improves gas exchange, decreases airway resistance, improves oxygen uptake, and improves the blood lipid profile. Blood volume rises and resistance to blood flow falls."
+  },
+  {
+    "id": "nasm-opt-068",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Integrated training",
+    "question": "Which benefits are attributed to balance training?",
+    "choices": [
+      "Improved top speed, change of direction, and rate of acceleration and deceleration",
+      "Increased bone mineral density only",
+      "Fewer falls and ankle sprains, better landing and proprioception",
+      "Increased maximal one-rep max strength only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Balance training reduces the risk of falls and ankle sprains, improves landing mechanics in ways that may reduce anterior cruciate ligament injury risk, and improves proprioception and body awareness. It also strengthens the hip musculature and lower extremities and improves agility outcomes in athletes. Improved top speed and change of direction are attributed to speed, agility, and quickness training."
+  },
+  {
+    "id": "nasm-opt-069",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Integrated training",
+    "question": "Which benefits are associated with plyometric, or reactive, training?",
+    "choices": [
+      "Decreased bone mineral density and reduced strength in ligaments, tendons, and cartilage",
+      "Reduced resting metabolic rate",
+      "Improved flexibility only",
+      "Greater bone density, soft tissue strength, power, and expenditure"
+    ],
+    "answerIndex": 3,
+    "explanation": "Plyometric training increases bone mineral density, improves the strength of ligaments, tendons, and cartilage, and enhances power and explosiveness. It also raises metabolic expenditure, which supports weight management. By improving the stretch-shortening cycle it enhances the client's ability to move explosively."
+  },
+  {
+    "id": "nasm-opt-070",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Integrated training",
+    "question": "Which statement about core training is accurate?",
+    "choices": [
+      "Better posture, daily function, balance, and reduced low-back pain",
+      "Core training targets only the rectus abdominis in the anterior abdominal wall",
+      "Core training should be avoided in clients with low-back pain under all circumstances",
+      "Core training only benefits athletes"
+    ],
+    "answerIndex": 0,
+    "explanation": "Core training enhances posture and spinal health, improves function for daily living and work tasks, and increases balance, stabilization, and coordination of the kinetic chain. It may minimize or resolve low-back pain symptoms and can improve skill-related movements such as swinging a racket. Restricting core training to the rectus abdominis is a common misconception, since the obliques, low-back, and gluteal complex are all involved."
+  },
+  {
+    "id": "nasm-opt-071",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Power",
+    "question": "How is power expressed as an equation?",
+    "choices": [
+      "Force divided by velocity",
+      "Force multiplied by velocity",
+      "Velocity divided by mass",
+      "Work multiplied by the total time taken"
+    ],
+    "answerIndex": 1,
+    "explanation": "Power is the ability of the neuromuscular system to produce the greatest possible force in the shortest possible time, represented as force multiplied by velocity. It is also described as the rate at which work is performed, or work divided by time. An increase in either force or velocity raises power."
+  },
+  {
+    "id": "nasm-opt-072",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Power",
+    "question": "Why does Phase 5 pair a heavy load with a light, fast movement?",
+    "choices": [
+      "To reduce total session volume",
+      "Because heavy loads alone cannot build any meaningful strength in trained clients",
+      "Heavy and light loads must both be moved fast",
+      "To avoid using the stretch-shortening cycle"
+    ],
+    "answerIndex": 2,
+    "explanation": "Power can be increased by raising force or by raising velocity, so the phase trains both sides of the equation. The general adaptation syndrome and the principle of specificity together indicate that heavy and light loads should both be moved as quickly as can be done safely. The heavy lift develops force while the explosive movement develops velocity."
+  },
+  {
+    "id": "nasm-opt-073",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Adaptations",
+    "question": "Roughly how long may it take before visible signs of hypertrophy appear in an untrained client?",
+    "choices": [
+      "1 to 2 weeks",
+      "2 years",
+      "Somewhere between 6 and 12 months",
+      "4 to 8 weeks"
+    ],
+    "answerIndex": 3,
+    "explanation": "Visible signs of hypertrophy may not be apparent for 4 to 8 weeks in an untrained client, even though the underlying process begins in the early stages of training regardless of intensity. Hypertrophy reflects an increase in the cross-sectional area of individual fibers driven by added myofibril proteins. Setting this expectation early helps sustain adherence."
+  },
+  {
+    "id": "nasm-opt-075",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Adaptations",
+    "question": "Which muscle fiber characteristics does stabilization-focused resistance training target?",
+    "choices": [
+      "Type II fibers, which are quick-contracting, high-tension, and prone to early fatigue",
+      "Type I: slow-contracting, low tension, fatigue resistant",
+      "Both fiber types equally, at maximal intensity",
+      "Neither; stabilization training does not recruit muscle fibers"
+    ],
+    "answerIndex": 1,
+    "explanation": "Stabilization-focused training is designed around type I slow-twitch fiber characteristics, which are slow-contracting, produce lower tension, and resist fatigue. Strength-focused training instead matches type II fibers, which contract quickly, produce high tension, and fatigue rapidly. Core endurance work similarly emphasizes the type I fibers responsible for postural stability."
+  },
+  {
+    "id": "nasm-opt-076",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Adaptations",
+    "question": "Which sequence describes the main adaptations that resistance training can produce?",
+    "choices": [
+      "Power, then strength, then hypertrophy, then endurance, and finally stabilization",
+      "Flexibility, balance, coordination, agility, speed",
+      "Stabilization, endurance, hypertrophy, strength, and power",
+      "Endurance, flexibility, hypertrophy, balance, power"
+    ],
+    "answerIndex": 2,
+    "explanation": "The main adaptations from resistance training are stabilization, muscular endurance, hypertrophy, strength, and power. Stabilization is the foundation on which hypertrophy, strength, and power are built. This progression is what the levels and phases of the OPT model formalize."
+  },
+  {
+    "id": "nasm-opt-077",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Applying the OPT model",
+    "question": "A client's primary goal is body fat reduction. How should the trainer apply the OPT model over the year?",
+    "choices": [
+      "Phase 4 exclusively, maintained year round to maximize total calorie expenditure",
+      "Phase 5 exclusively to maximize calorie burn",
+      "Cardio only, with no resistance training",
+      "Progress through the phases, then train all three concurrently"
+    ],
+    "answerIndex": 3,
+    "explanation": "For fat loss the sample plan progresses through phases and then shifts to undulating periodization in which stabilization, strength endurance, and muscular development are trained concurrently each month. This minimizes boredom while continuing to improve all three adaptations. Resistance training is emphasized because maintaining or increasing lean tissue raises calorie expenditure, and cardiorespiratory training is used alongside it."
+  },
+  {
+    "id": "nasm-opt-078",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Applying the OPT model",
+    "question": "A recreational athlete wants to improve general sports performance. Which phases should the trainer emphasize?",
+    "choices": [
+      "Phases 1, 2, and 5, with Phase 4 in moderation",
+      "Phases 3 and 4",
+      "Phase 3 only",
+      "Phases 4 and 5 only, skipping the stabilization level of the model entirely"
+    ],
+    "answerIndex": 0,
+    "explanation": "For general sports performance, Phases 1, 2, and 5 are the most relevant. Phase 3 is dedicated to maximal hypertrophy and may not be necessary, while Phase 4 can be used in moderation to build the strength base that optimizes Phase 5. Undulating periodization then allows several intensities within one week once a level of fitness is reached."
+  },
+  {
+    "id": "nasm-opt-079",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Applying the OPT model",
+    "question": "A client is scheduled for a Phase 5 power workout today. How should cardiorespiratory training be paired?",
+    "choices": [
+      "With a high-intensity interval cardio session performed on the very same day",
+      "With a low-intensity cardio session on the same day",
+      "With a maximal cardiorespiratory assessment",
+      "Cardio should be removed from the program entirely during Phase 5"
+    ],
+    "answerIndex": 1,
+    "explanation": "High-intensity cardiorespiratory exercise should not be performed on the same day as a high-intensity OPT workout. A Phase 5 session should be paired with a low-intensity cardio program, and conversely a high-intensity cardio program should be paired with a low-intensity Phase 1 workout. This keeps total daily stress manageable."
+  },
+  {
+    "id": "nasm-opt-080",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Applying the OPT model",
+    "question": "A client's goal is to increase lean body mass. Why is Phase 1 still described as vital before Phase 3?",
+    "choices": [
+      "Phase 1 produces the greatest hypertrophy of any phase in the entire model",
+      "Phase 1 is required by law before any resistance training",
+      "Phase 1 prepares connective tissue for higher training demands",
+      "Phase 1 replaces the need for Phase 4"
+    ],
+    "answerIndex": 2,
+    "explanation": "For a lean mass goal, Phase 1 prepares the connective tissues and muscles for the substantially higher training demands that hypertrophy work imposes. Phase 3 then applies the large volumes needed to force cellular change, and Phase 4 raises strength capacity so heavier loads can be used later. Cardiorespiratory training runs each month to support efficiency and tissue recovery."
+  },
+  {
+    "id": "nasm-opt-081",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Phase 2 duration and volume",
+    "question": "Which statement best characterizes Phase 2 Strength Endurance Training?",
+    "choices": [
+      "It generates very low training volume and typically lasts only a single week",
+      "It is only appropriate for competitive powerlifters",
+      "It focuses exclusively on maximal strength with no stability component",
+      "A hybrid promoting stabilization endurance, hypertrophy, and strength"
+    ],
+    "answerIndex": 3,
+    "explanation": "Phase 2 is a hybrid that promotes increased stabilization endurance along with hypertrophy and strength, and it can generate high training volume through its superset structure. Clients typically spend 2 to 6 weeks in the phase depending on goals, fitness level, and schedule. It bridges the stability work of Phase 1 and the hypertrophy work of Phase 3."
+  },
+  {
+    "id": "nasm-opt-082",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Phase 2 programming",
+    "question": "How many supersets per body part are recommended in Phase 2 resistance training?",
+    "choices": [
+      "One to two",
+      "Three to four",
+      "Five to six",
+      "As many as time allows"
+    ],
+    "answerIndex": 0,
+    "explanation": "Phase 2 prescribes one to two supersets for each body part, with a repetition range of 8 to 12 across two to four sets. Each superset pairs a strength exercise with a stabilization exercise for the same body part. Keeping the count modest keeps volume and session length manageable given the paired structure."
+  },
+  {
+    "id": "nasm-opt-083",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Phases 2 to 4 activation",
+    "question": "How do core exercises change in Phases 2 through 4 compared with Phase 1?",
+    "choices": [
+      "They become purely isometric, involving no motion of the spine whatsoever",
+      "They add dynamic spinal movement through a fuller range",
+      "They are eliminated from the program",
+      "They are performed with maximal loads for 1 to 3 repetitions"
+    ],
+    "answerIndex": 1,
+    "explanation": "In Phases 2 through 4 core exercises progress to more dynamic eccentric and concentric spinal movement through a full range, including flexion, extension, and rotation of the trunk at slightly faster tempos. The prescription is one to four exercises for 8 to 12 repetitions across two to four sets at a 2-0-2-0 tempo. The trainer may still include Phase 1 core exercises when appropriate."
+  },
+  {
+    "id": "nasm-opt-084",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Phases 2 to 4 activation",
+    "question": "How do balance exercises progress in Phases 2 through 4?",
+    "choices": [
+      "The balance leg remains completely still throughout every repetition performed",
+      "They are performed only while seated",
+      "Dynamic movement of the balance leg through full range",
+      "They use maximal external load"
+    ],
+    "answerIndex": 2,
+    "explanation": "The next progression for balance work is dynamic eccentric and concentric movement of the balance leg through a full range of motion, with stabilization emphasized at the end range. One to four exercises are performed for 8 to 12 repetitions across two to four sets at a moderate tempo. Little joint motion of the balance leg is the Phase 1 characteristic."
+  },
+  {
+    "id": "nasm-opt-085",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Phases 2 to 4 skill development",
+    "question": "How do plyometric exercises progress in Phases 2 through 4?",
+    "choices": [
+      "They are performed only with maximal external load",
+      "They are limited to holding the stabilized landing position for 3 to 5 seconds",
+      "They are removed from the program",
+      "Jumps with more amplitude, performed at a repeating tempo"
+    ],
+    "answerIndex": 3,
+    "explanation": "Plyometric work in Phases 2 through 4 progresses to jumps with greater amplitude and more dynamic motion, performed repetitively with relatively short time on the ground. One to four exercises are selected for 8 to 12 repetitions across two to four sets. Holding a stabilized landing position is the earlier, Phase 1 progression."
+  },
+  {
+    "id": "nasm-opt-086",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Phase 5 activation",
+    "question": "How are core exercises programmed in the Phase 5 activation section?",
+    "choices": [
+      "Optional; if used, 1 to 2 exercises of 8 to 12",
+      "Mandatory, with 12 to 20 repetitions performed at a slow controlled tempo",
+      "Mandatory, with 1 to 5 repetitions at maximal load",
+      "Never programmed in Phase 5"
+    ],
+    "answerIndex": 0,
+    "explanation": "Core and balance exercises are optional in the Phase 5 activation section because much of that work can be programmed within the resistance training block. If core exercises are included, they use one to two exercises for 8 to 12 repetitions with an explosive tempo across one to three sets. The goal is to increase rate of force production of the core musculature through a full range of motion."
+  },
+  {
+    "id": "nasm-opt-087",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Phase 5 activation",
+    "question": "What is the purpose of Phase 5 balance exercises?",
+    "choices": [
+      "To improve static single-leg holds performed on an unstable balance modality",
+      "To develop deceleration from a dynamic to a stationary position",
+      "To replace all plyometric training",
+      "To reduce core involvement"
+    ],
+    "answerIndex": 1,
+    "explanation": "Phase 5 balance exercises are a progression from earlier phases and are designed to develop proper deceleration ability. The client learns to take the body from a dynamic state into a controlled stationary position. That capacity underpins safe landing and change of direction in power and sport contexts."
+  },
+  {
+    "id": "nasm-opt-088",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Stabilization level goals",
+    "question": "Which goal belongs to the stabilization level of the OPT model?",
+    "choices": [
+      "Maximizing motor unit recruitment through the use of near-maximal external loads",
+      "Maximizing rate of force production",
+      "Preparing muscles, tendons, and joints for upcoming demands",
+      "Producing maximal muscle cross-sectional area"
+    ],
+    "answerIndex": 2,
+    "explanation": "The stabilization level aims to improve movement patterns and technique, address muscle imbalances, improve joint range of motion and flexibility, and stabilize the core and peripheral joints. It also explicitly aims to prevent tissue overload by preparing muscles, tendons, ligaments, and joints for the demands ahead, and to improve overall cardiorespiratory conditioning. Maximal recruitment, force production, and hypertrophy belong to later levels."
+  },
+  {
+    "id": "nasm-opt-089",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Strength level goals",
+    "question": "Which outcome is a stated focus of the strength level of the OPT model?",
+    "choices": [
+      "Reducing training volume to an absolute minimum while intensity is increased sharply",
+      "Training exclusively in the sagittal plane",
+      "Eliminating flexibility training",
+      "Greater core stabilization of the pelvis and spine under load"
+    ],
+    "answerIndex": 3,
+    "explanation": "The strength level focuses on increasing the core's capacity to stabilize the pelvis and spine under heavier loads and through greater ranges of motion. It also increases the load-bearing capability of muscles, tendons, ligaments, and joints, raises training volume, taxes the phosphocreatine and glycolytic energy systems, and improves motor unit recruitment. Flexibility and multiplanar training remain part of the integrated program throughout."
+  },
+  {
+    "id": "nasm-opt-090",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "OPT model",
+    "question": "The power level of the OPT model may be entered before the stabilization and strength levels have been completed.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "The power level emphasizes speed and power and should only be entered after successful completion of the stabilization and strength levels. Power training applies the stability and strength built earlier at realistic speeds and forces. Attempting it without that foundation increases injury risk."
+  },
+  {
+    "id": "nasm-opt-091",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "OPT model",
+    "question": "Every section of the OPT workout template must be included in every client session.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Not all sections must be included in a given workout, particularly when time is limited. The trainer uses discretion to decide which sections matter most based on the client's goals, needs, and abilities. Skill Development and Client's Choice are the sections most often treated as optional."
+  },
+  {
+    "id": "nasm-opt-092",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Program design",
+    "question": "What does the \"iceberg effect\" describe in the context of program design?",
+    "choices": [
+      "Programming involves far more than the visible outcomes",
+      "The tendency for clients to plateau after roughly twelve weeks of consistent training",
+      "The risk of overtraining in cold environments",
+      "The inverse relationship between volume and intensity"
+    ],
+    "answerIndex": 0,
+    "explanation": "The iceberg effect captures the idea that visible goals such as reduced body fat, added muscle, or increased strength sit above a much larger body of underlying considerations. Movement quality, mobility and stability, endurance, injury risk, and adherence all sit beneath the surface. A well-rounded program must be progressive and systematic and address all of it."
+  },
+  {
+    "id": "nasm-opt-093",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Phase 1 tempo",
+    "question": "A Phase 1 client rushes through a dumbbell row in about one second per repetition. What correction follows from the acute variables?",
+    "choices": [
+      "Add external load so that the movement naturally slows down on its own",
+      "Slow the repetition to the prescribed 4-2-1-1 tempo",
+      "Reduce the repetition range to 1 to 5",
+      "Switch to an explosive tempo for variety"
+    ],
+    "answerIndex": 1,
+    "explanation": "Stabilization work is prescribed at a deliberately slow 4-2-1-1 tempo, not at whatever speed the client chooses. The phase specifically requires slow and controlled movement with relatively light loads and meticulous attention to posture and technique. Rushing the repetition undermines the muscular endurance, joint stability, and coordination adaptations the phase is designed to produce."
+  },
+  {
+    "id": "nasm-opt-094",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Phase selection",
+    "question": "An endurance athlete wants a program that improves stability and strength but explicitly does not want substantial muscle growth. Which phase can be omitted?",
+    "choices": [
+      "Phase 1, the stabilization phase",
+      "Phase 2",
+      "Phase 3",
+      "Phase 5"
+    ],
+    "answerIndex": 2,
+    "explanation": "Phase 3 Muscular Development Training is designed for maximal muscle growth and is described as optional, since some clients such as endurance athletes do not wish to achieve high levels of muscular hypertrophy. Phase 4 is likewise optional depending on goals. Phase 1 remains the foundation for movement competency and stability, and the phases retained should serve the client's actual objectives."
+  },
+  {
+    "id": "nasm-opt-095",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Warm-up selection",
+    "question": "A client's assessment identified overactive hip flexors and underactive glutes. How should the warm-up and activation sections address this?",
+    "choices": [
+      "Statically stretch both the hip flexors and the gluteal muscles before training",
+      "Skip both sections and proceed to resistance training",
+      "Strengthen the hip flexors and stretch the glutes",
+      "Stretch the overactive hip flexors, then activate the glutes"
+    ],
+    "answerIndex": 3,
+    "explanation": "Self-myofascial techniques and static stretching in the warm-up should focus on the tissues determined to be overactive during assessment. The Activation section then strengthens the underactive muscles identified, which helps reestablish ideal joint alignment, stability, and control. Stretching both sides of the joint would fail to correct the imbalance."
+  },
+  {
+    "id": "nasm-opt-096",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Skill development options",
+    "question": "A Phase 1 client has modest fitness experience and the trainer is unsure about programming plyometric drills. What alternatives exist for the Skill Development section?",
+    "choices": [
+      "Instruction in basic movement patterns and equipment use",
+      "The section must be completed with plyometrics or else omitted from the model",
+      "Only maximal strength testing may substitute",
+      "The section should be filled with additional core work only"
+    ],
+    "answerIndex": 0,
+    "explanation": "During Skill Development the trainer can either program plyometric and speed, agility, and quickness exercises or provide instruction in basic movement patterns and equipment use. Clients with modest fitness experience can safely perform plyometric and speed drills, but those exercises remain optional in Phase 1. In later phases the alternative may instead be instruction in other forms of exercise such as Olympic weightlifting, powerlifting, or martial arts drills."
+  },
+  {
+    "id": "nasm-opt-097",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Phase 5 medicine ball loading",
+    "question": "A 180-pound client will perform an explosive medicine ball chest pass as the second half of a Phase 5 superset. What ball weight guideline applies?",
+    "choices": [
+      "About 30% to 45% of the client's one-rep max bench press",
+      "No more than roughly 10% of the client's body weight",
+      "At least 25% of body weight",
+      "The heaviest ball the client can throw once"
+    ],
+    "answerIndex": 1,
+    "explanation": "For power-focused exercises using a medicine ball, the ball should weigh no more than about 10% of the client's body weight, which is roughly 18 pounds for a 180-pound client. When weights rather than a medicine ball are used, the power exercise sits at roughly 30% to 45% intensity or an 8 to 10 RM load. The first exercise in the superset instead uses a heavy 1 to 5 RM load."
+  },
+  {
+    "id": "nasm-opt-100",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Assessment-driven programming",
+    "question": "A lack of assessment can lead to ineffective exercise selection and programming strategies.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Programming efforts should focus on the assessments conducted before the client's initial workout, and a lack of assessment can lead to ineffective exercise selection and programming. This process is what separates generic physical activity from systematic, progressive exercise programming. Individuality based on assessment results also increases the likelihood that the client adheres to the program."
+  }
+]

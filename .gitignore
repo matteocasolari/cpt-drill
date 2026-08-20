@@ -1,0 +1,5 @@
+.worktrees/
+*.pdf
+nasm-notes.txt
+nsca-notes.txt
+.DS_Store

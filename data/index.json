@@ -1,0 +1,18 @@
+{
+  "files": [
+    "nasm-pro.json",
+    "nasm-science.json",
+    "nasm-assess.json",
+    "nasm-flex-cardio.json",
+    "nasm-opt.json",
+    "nasm-programming.json",
+    "nasm-special.json",
+    "nsca-consult.json",
+    "nsca-resistance.json",
+    "nsca-aerobic.json",
+    "nsca-plyo-speed.json",
+    "nsca-nutrition.json",
+    "nsca-conditions.json",
+    "both.json"
+  ]
+}

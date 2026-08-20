@@ -1,0 +1,1160 @@
+[
+  {
+    "id": "nsca-res-001",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Handgrip types",
+    "question": "Which grip has the palms down and knuckles up?",
+    "choices": [
+      "Supinated, or underhand, grip",
+      "Neutral grip",
+      "Pronated grip",
+      "Alternated grip"
+    ],
+    "answerIndex": 2,
+    "explanation": "The pronated grip places the palms down with the knuckles up and is also called the overhand grip. The supinated or underhand grip places the palms up with knuckles down. The shoulder press typically uses a pronated grip while the wrist curl uses a supinated grip."
+  },
+  {
+    "id": "nsca-res-002",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Handgrip types",
+    "question": "Which grip is often recommended for spotting a barbell, and how is it configured?",
+    "choices": [
+      "Neutral grip, with both palms facing in",
+      "Wide pronated grip, with both palms down",
+      "Open or false grip, with both thumbs placed beside the index fingers rather than wrapped",
+      "Alternated grip, with one hand pronated and the other supinated"
+    ],
+    "answerIndex": 3,
+    "explanation": "The alternated grip, with one hand pronated and one supinated, is often recommended for spotting a barbell such as during the free weight bench press. It helps keep the bar from rolling out of the spotter's hands. The neutral grip, with palms facing in and knuckles pointing to the side as in a handshake, is used for exercises such as the dumbbell hammer curl."
+  },
+  {
+    "id": "nsca-res-003",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Handgrip safety",
+    "question": "What distinguishes a closed grip from an open or false grip?",
+    "choices": [
+      "A closed grip wraps the thumb around the bar; an open grip places it beside the index finger",
+      "A closed grip uses both hands and an open grip uses one",
+      "A closed grip is set wider than shoulder width, whereas an open grip is set narrower than the shoulders",
+      "A closed grip is used on machines and an open grip on free weights"
+    ],
+    "answerIndex": 0,
+    "explanation": "In a closed grip the thumb wraps around the barbell so that the bar is fully held by the hand. When the thumb does not wrap around and instead sits next to the index finger, the position is an open or false grip. The pronated, supinated, and alternated grips are all normally performed closed."
+  },
+  {
+    "id": "nsca-res-004",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Grip width",
+    "question": "What are the four standard grip widths, and which is used for most exercises?",
+    "choices": [
+      "Narrow, medium, broad, and maximal; medium is used for most exercises",
+      "Close, hip-width, shoulder-width, and wide; shoulder-width is used for most exercises",
+      "Thumbless, close, neutral, and wide; close is used for most exercises",
+      "Hip-width, shoulder-width, wide, and extra-wide, with the wide grip used for most barbell exercises"
+    ],
+    "answerIndex": 1,
+    "explanation": "The four standard grip widths are close, hip-width, shoulder-width, and wide, and for most exercises the hands are placed shoulder-width apart on the barbell. A client's body dimensions influence the actual hand placement decisions. Whatever width is used, the hand position should result in an evenly balanced barbell."
+  },
+  {
+    "id": "nsca-res-005",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Starting position",
+    "question": "Why should every demonstration of a new exercise begin with establishing a starting position?",
+    "choices": [
+      "It shortens the total session length",
+      "It allows the trainer to skip detailed technique cues later in the session once heavier loading begins in earnest",
+      "From a correct start the client can hold body alignment so stress falls only on the targeted muscles",
+      "It determines the client's one-repetition maximum"
+    ],
+    "answerIndex": 2,
+    "explanation": "Every demonstration of a new exercise should begin with how to establish a stable starting position. From that position the client can maintain correct body alignment throughout the movement, which places the stress only on the targeted muscles. Standing exercises typically require the feet at or between hip-width and shoulder-width apart and flat on the floor."
+  },
+  {
+    "id": "nsca-res-006",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Five-point body contact",
+    "question": "Which body parts make up the five-point body contact position for seated and supine exercises?",
+    "choices": [
+      "Head, shoulders, hips, knees, and feet",
+      "Both hands, both feet, and the sacrum",
+      "The chin or cheek, the chest and stomach, the hips and front of the thighs, the right hand, and the left hand",
+      "Back of the head, upper back and rear shoulders, lower back and buttocks, right foot, and left foot"
+    ],
+    "answerIndex": 3,
+    "explanation": "The five-point body contact position consists of the back of the head, the upper back and rear shoulders, the lower back and buttocks, the right foot, and the left foot. It applies to exercises performed on a chair-like seat or torso-length bench. The chin, chest and stomach, hips and front of thighs, and both hands are the five contact points for a prone exercise such as the leg curl."
+  },
+  {
+    "id": "nsca-res-007",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Machine setup",
+    "question": "What is the purpose of adjusting seat height and pad positions on a resistance machine?",
+    "choices": [
+      "To align the joint or joints involved in the exercise with the axis of the machine",
+      "To make the client comfortable enough to tolerate heavier loads for a greater number of repetitions per set",
+      "To increase the range of motion beyond anatomical limits",
+      "To reduce the number of repetitions needed"
+    ],
+    "answerIndex": 0,
+    "explanation": "Establishing a secure position in or on a machine typically requires adjusting the seat height, the position of adjustable body and limb pads, or both, so the joints involved align with the machine's axis. For a leg extension, for instance, the back pad, range limiter cam, and ankle pad are set so the knee joints line up with the machine axis. Proper alignment is what directs the resistance to the intended muscles."
+  },
+  {
+    "id": "nsca-res-008",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Breathing",
+    "question": "What is the best general breathing recommendation during a resistance exercise?",
+    "choices": [
+      "Hold the breath throughout every repetition",
+      "Exhale through the sticking point during the concentric phase and inhale during the easier eccentric phase",
+      "Inhale forcefully through the sticking point of the concentric phase and then exhale during the easier eccentric phase",
+      "Breathe only through the nose at all times"
+    ],
+    "answerIndex": 1,
+    "explanation": "The best general recommendation is to exhale through the sticking point, the most difficult part of the exercise, during the concentric or exertion phase, and to inhale during the easier eccentric phase. A simple client cue is to breathe out during the hardest part of the exercise and breathe in during the easier part. This strategy applies to nearly all resistance exercises."
+  },
+  {
+    "id": "nsca-res-009",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Valsalva maneuver",
+    "question": "What physically happens during the Valsalva maneuver?",
+    "choices": [
+      "The glottis opens and air escapes rapidly",
+      "The diaphragm relaxes completely while the chest expands and air is drawn passively into the lungs",
+      "The glottis closes so air cannot escape while the abdominal and rib cage muscles contract",
+      "Air is forcefully expelled through pursed lips"
+    ],
+    "answerIndex": 2,
+    "explanation": "In the Valsalva maneuver the glottis, the narrowest part of the larynx, closes to keep air from escaping the lungs while the abdominal and rib cage muscles contract. The result is the person trying to exhale against a closed throat. The diaphragm and deep torso muscles then generate intra-abdominal pressure that supports the vertebral column from the inside out."
+  },
+  {
+    "id": "nsca-res-010",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Valsalva maneuver",
+    "question": "Which undesirable effects can the Valsalva maneuver produce?",
+    "choices": [
+      "Reduced intra-abdominal pressure and spinal instability, which together raise the risk of a lumbar disc injury during the lift",
+      "Loss of grip strength only",
+      "A permanent reduction in blood pressure",
+      "Raised chest pressure that impairs venous return and can spike blood pressure, causing dizziness or blackout"
+    ],
+    "answerIndex": 3,
+    "explanation": "The Valsalva maneuver raises chest pressure, which can exert compressive forces on the heart and make venous return more difficult. It can also momentarily raise blood pressure to levels that may cause dizziness, rapid-onset fatigue, blood vessel rupture, disorientation, and blackouts. Even resistance-trained and technique-experienced clients should hold the breath only momentarily, on the order of 1 to 2 seconds."
+  },
+  {
+    "id": "nsca-res-011",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Valsalva maneuver",
+    "question": "A client with diagnosed hypertension wants to hold their breath through heavy squats for spinal support. What should the trainer do?",
+    "choices": [
+      "Not permit breath holding, since these clients should breathe normally during resistance exercise",
+      "Permit it, since the intra-abdominal pressure that is generated protects the vertebral column under a heavy load",
+      "Permit it only on the final repetition",
+      "Permit it but shorten the set"
+    ],
+    "answerIndex": 0,
+    "explanation": "A personal trainer should not permit clients with any known or suspected cardiovascular, metabolic, or respiratory condition to breath-hold during resistance exercise. Although the maneuver supports the vertebral column, the associated blood pressure spike and impaired venous return make it inappropriate for these clients. Standard exhale-through-the-sticking-point breathing should be used instead."
+  },
+  {
+    "id": "nsca-res-012",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Weight belts",
+    "question": "For which exercises is a weight belt recommended?",
+    "choices": [
+      "All resistance training exercises, at any load",
+      "Ground-based, structural exercises that load the trunk and stress the lower back, when lifting maximal or near-maximal loads",
+      "Only machine-based exercises",
+      "Only those exercises that place stress on the lower back without directly loading the trunk, regardless of the load being used in the session"
+    ],
+    "answerIndex": 1,
+    "explanation": "A weight belt is recommended for ground-based, structural exercises that load the trunk and place stress on the lower back, such as the back and front squat, standing shoulder press, and deadlift, and only when maximal or near-maximal loads are involved. Both conditions must exist, so a belt is unnecessary for lighter loads even on a structural exercise. A belt is not needed for exercises that do not directly load the trunk, such as the lat pulldown, bench press, biceps curl, or leg extension."
+  },
+  {
+    "id": "nsca-res-013",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Weight belts",
+    "question": "What is the drawback of using a weight belt for all resistance training exercises?",
+    "choices": [
+      "It decreases intra-abdominal pressure during lifting and therefore raises the compressive forces acting on the spine",
+      "It permanently weakens the vertebral column",
+      "The lower back and abdominal muscles may become unaccustomed to supporting the torso",
+      "It has no effect either way"
+    ],
+    "answerIndex": 2,
+    "explanation": "Weight belts increase intra-abdominal pressure and can decrease compressive forces on the vertebral column. However, if a client wears a belt for every exercise, the lower back and abdominal muscles may become unaccustomed to supporting the torso. When the client then trains without a belt, those weaker torso muscles may not generate enough intra-abdominal pressure to reduce injury risk."
+  },
+  {
+    "id": "nsca-res-014",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Spotting",
+    "question": "Which four free weight exercise conditions require a spotter?",
+    "choices": [
+      "Only exercises performed while standing",
+      "Any exercise that uses dumbbells, selectorized machines, elastic bands, or cable columns, regardless of the load lifted by the client",
+      "Exercises with fewer than five repetitions only",
+      "Overhead, over the face, with a bar on the upper back, or with a bar across the front shoulders"
+    ],
+    "answerIndex": 3,
+    "explanation": "A spotter is required for free weight exercises performed overhead, such as a standing shoulder press; over the face, such as a bench press or lying triceps extension; with a bar on the upper back and shoulders, such as a back squat; and with a bar on the front of the shoulders or clavicles, such as a front squat. The need for a spotter is typically associated with free weights because unrestricted bars, dumbbells, and plates raise the chance a client loses control. A spot can be given on a machine but is less necessary since a weight cannot fall on the client."
+  },
+  {
+    "id": "nsca-res-015",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Spotting",
+    "question": "How should a trainer spot an over-the-face barbell exercise?",
+    "choices": [
+      "Grasp the bar between the client's hands with an alternated grip, standing close in a staggered stance",
+      "Grasp the bar outside of the client's hands using a pronated grip, standing with both feet together and knees locked",
+      "Support the client's elbows from beneath",
+      "Stand several feet away to avoid interference"
+    ],
+    "answerIndex": 0,
+    "explanation": "For over-the-face barbell exercises the trainer grasps the bar between the client's hands with an alternated grip, which keeps the bar from rolling out of the hands onto the client's head, face, or neck. The trainer stands as close to the client as possible without creating a distraction so the bar can be grabbed quickly. A flat-back rather than rounded-back position with feet flat in a staggered stance creates a stable base of support."
+  },
+  {
+    "id": "nsca-res-016",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Spotting",
+    "question": "Where should a trainer spot an overhead or over-the-face dumbbell exercise?",
+    "choices": [
+      "At the upper arms, just above the client's elbow joint",
+      "At the client's wrists, very near the dumbbell",
+      "At the elbows",
+      "At the client's shoulders"
+    ],
+    "answerIndex": 1,
+    "explanation": "The trainer should spot at the client's wrists, very near the dumbbell, rather than at the upper arms or elbows. Spotting the upper arms or elbows can lead to injury if the elbows collapse quickly while the spotter is lifting them, since the spotter then cannot prevent the dumbbells from landing on the client. For a single dumbbell held with two hands, or a one-arm overhead exercise, the trainer spots the lowest half of the dumbbell itself, the end closest to the floor."
+  },
+  {
+    "id": "nsca-res-017",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Spotting",
+    "question": "What height requirement applies to spotting an overhead exercise?",
+    "choices": [
+      "The trainer must be shorter than the client",
+      "Height is irrelevant to spotting",
+      "The trainer must be at least as tall as the client, or should seat the client",
+      "The trainer must be at least a foot taller than the client in order to spot safely"
+    ],
+    "answerIndex": 2,
+    "explanation": "To provide enough assistance on an overhead exercise the trainer must be at least as tall as the client. If not, the trainer should modify the exercise so the client is in a seated position. Some bench press and shoulder press benches include a small platform that places the spotter in a better position."
+  },
+  {
+    "id": "nsca-res-018",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Spotting",
+    "question": "How should exercises with the bar on the back or front shoulders be spotted?",
+    "choices": [
+      "By holding the bar itself from the front of the client and lifting it clear of the shoulders",
+      "These exercises should never be spotted",
+      "By supporting the client's knees",
+      "Stand behind and close to the client, ready to hug and lift, ideally inside a squat rack"
+    ],
+    "answerIndex": 3,
+    "explanation": "For exercises with the bar across the upper back or front shoulders, the spotter can stand behind and very close to the client without impeding execution, prepared to hug and lift the client if they cannot complete the set. The spotter needs to be strong enough for the load and at least as tall as the client. These exercises should be performed inside a squat rack with crossbars placed just below the lowest position the bar will reach."
+  },
+  {
+    "id": "nsca-res-019",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Spotting power exercises",
+    "question": "How should power exercises such as the power clean or snatch be handled with respect to spotting?",
+    "choices": [
+      "They should not be spotted, and should be done in a segregated area or on a lifting platform",
+      "They require two spotters at all times",
+      "One spotter should stand behind the client",
+      "They should only ever be performed inside a squat rack with a dedicated spotter placed at each end of the bar"
+    ],
+    "answerIndex": 0,
+    "explanation": "As a rule, explosive or power exercises should not be spotted, because fast-moving bars are difficult to spot and catch and attempting it may injure either party. These lifts should be performed in a segregated area or on a lifting platform in case the client misses or loses control. The trainer should teach the client to push the bar away or drop it, and if the bar starts to fall behind the head, to release it while stepping or jumping forward."
+  },
+  {
+    "id": "nsca-res-020",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Number of spotters",
+    "question": "A client is attempting a back squat with a load beyond what one spotter can handle effectively. What is the appropriate response?",
+    "choices": [
+      "Proceed with a single spotter and reduce the number of prescribed repetitions in order to keep the set manageable for both",
+      "Use additional spotters, commonly one at each end of the bar, and three if the loads are excessively heavy",
+      "Remove the squat rack crossbars for freedom of movement",
+      "Have the client perform the lift unspotted"
+    ],
+    "answerIndex": 1,
+    "explanation": "If the load exceeds the trainer's ability to handle effectively, an additional spotter must be used, and it is common to place one spotter at each end of the bar for the front or back squat. When excessively heavy loads are involved, three spotters may be appropriate. This technique requires experienced spotters who can synchronize precisely when and how much they assist so the bar stays even and balanced."
+  },
+  {
+    "id": "nsca-res-021",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Spotting communication",
+    "question": "Which communication responsibilities apply between client and trainer during a spotted set?",
+    "choices": [
+      "The trainer should decide unilaterally when to intervene",
+      "Communication should be avoided during the set so that the client can concentrate fully on the lift",
+      "The client calls for the liftoff and signals for help; the trainer racks the bar afterward",
+      "The client should only speak after the set is finished"
+    ],
+    "answerIndex": 2,
+    "explanation": "Communication is the responsibility of both the client and the trainer. The client should say when they are ready to move the bar, dumbbells, or handles into the starting position, called a liftoff, quickly ask or signal if help is needed during the set, and the trainer should help rack the bar after the last repetition. Poor communication may cause the trainer to spot too soon, too late, or improperly, so all of this should be discussed before the set begins."
+  },
+  {
+    "id": "nsca-res-022",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Forced repetitions",
+    "question": "How do forced repetitions differ from spotting for safety?",
+    "choices": [
+      "They are essentially the same activity, simply described under two different names in the literature on spotting",
+      "Forced repetitions apply only to machine exercises",
+      "Forced repetitions require three spotters",
+      "They are repetitions completed with help, and must not be substituted for spotting for safety"
+    ],
+    "answerIndex": 3,
+    "explanation": "Forced repetitions are repetitions successfully completed with help from another person. Although a trainer may assist with them, this type of assistance should not be confused with or substituted for spotting for safety. The two serve different purposes, one for extending a set and one for protecting the client from injury."
+  },
+  {
+    "id": "nsca-res-023",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Core versus assistance exercises",
+    "question": "How is an assistance exercise characterized?",
+    "choices": [
+      "It involves a smaller amount of muscle mass and movement at only a single joint",
+      "It recruits a large amount of muscle mass and produces movement across two or more joints",
+      "It always uses body weight only",
+      "It always precedes core exercises in a session"
+    ],
+    "answerIndex": 0,
+    "explanation": "An assistance exercise involves a smaller amount of muscle mass and movement at only a single joint, such as an elbow curl recruiting the biceps brachii, brachialis, and brachioradialis. The pec deck and dumbbell fly are also assistance exercises because they involve movement only at the shoulder even though they emphasize the chest. Core exercises, by contrast, involve movement at multiple joints, as the bench press does at the shoulder and elbow."
+  },
+  {
+    "id": "nsca-res-024",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Exercise selection",
+    "question": "How many small-muscle, single-joint assistance exercises can one multijoint large-muscle exercise potentially replace in terms of muscle activation?",
+    "choices": [
+      "One to two",
+      "Four to eight",
+      "Two to three",
+      "Roughly ten to twelve"
+    ],
+    "answerIndex": 1,
+    "explanation": "One multijoint large-muscle exercise has the potential to activate as many muscles or muscle groups as four to eight small-muscle, single-joint assistance exercises. A program that uses core exercises appropriately is therefore more efficient than one built from many small-muscle exercises. Multijoint exercises also magnify the adaptive response and raise the overall metabolic cost of the program."
+  },
+  {
+    "id": "nsca-res-025",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Exercise selection",
+    "question": "A trainer is designing a first program for an untrained client. Which exercise selection strategy should they use?",
+    "choices": [
+      "Immediately prioritize the power clean and the power snatch in order to build athleticism from the very outset",
+      "Use only single-joint exercises indefinitely",
+      "Develop a base with assistance or basic core exercises, one per muscle group, then add multijoint work",
+      "Match every exercise to a specific sport skill"
+    ],
+    "answerIndex": 2,
+    "explanation": "For a novice or untrained individual the trainer should focus on developing a training base, probably with assistance exercises or basic core exercises. One strategy is to choose one exercise per muscle group covering chest, shoulders, upper back, hips and thighs, biceps, triceps, abdominal muscles, and calves. As the client becomes better trained, the number of exercises per muscle group can increase and the program should progressively add more multijoint large-muscle exercises."
+  },
+  {
+    "id": "nsca-res-026",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Exercise selection and referral",
+    "question": "A client was recently released from physical therapy for shoulder impingement, and the therapist prescribed the dumbbell lateral raise instead of the overhead press. How should the trainer handle exercise selection?",
+    "choices": [
+      "Substitute the overhead press once the client feels ready",
+      "Ignore the therapist's guidance since therapy is complete",
+      "Test the overhead press under a light load to see whether the impingement pain recurs during the movement itself",
+      "Select exercises with guidance from the appropriate medical professional and avoid contraindicated exercises"
+    ],
+    "answerIndex": 3,
+    "explanation": "For clients with special needs such as lower back problems or recent injuries, the program must be adapted to address those issues and exercises should be selected with guidance from the appropriate medical professional. It is essential that the program avoid exercises that are contraindicated or not recommended. The therapist's substitution of the lateral raise for the overhead press is exactly this kind of guidance."
+  },
+  {
+    "id": "nsca-res-027",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Exercise order",
+    "question": "Which factors most influence the order of exercises in a session?",
+    "choices": [
+      "The client's goals, the fatigue cost of the exercise, and whether it is core or assistance",
+      "The alphabetical order of the exercise names as they happen to appear in the written program template",
+      "The client's height and weight",
+      "The time of day"
+    ],
+    "answerIndex": 0,
+    "explanation": "Exercise order is influenced by the client's goals, the fatigue-generating potential of each exercise, and the exercise type, core or assistance. It is most strongly influenced by the type and characteristics of the exercises selected. In general the trainer arranges exercises to manage fatigue so the client can tolerate the loads and complete all exercises in one session."
+  },
+  {
+    "id": "nsca-res-028",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Exercise order",
+    "question": "Which exercise ordering is one of the most commonly used guidelines?",
+    "choices": [
+      "Assistance exercises first, then core exercises, and finally power exercises",
+      "Power exercises, then core exercises, then assistance exercises",
+      "Single-joint exercises, then multijoint exercises",
+      "Upper body exercises, then all core work, then power"
+    ],
+    "answerIndex": 1,
+    "explanation": "One of the most commonly used guidelines orders exercises as power exercises, then core exercises, then assistance exercises. Because power and core exercises are often multijoint while assistance exercises are typically single-joint, an equivalent framing is multijoint before single-joint. This arrangement lets the client perform the more complex movements under minimal fatigue."
+  },
+  {
+    "id": "nsca-res-029",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Exercise order",
+    "question": "How does the priority method of exercise ordering work?",
+    "choices": [
+      "The most enjoyable exercises are placed first",
+      "Exercises are placed in ascending order of technical difficulty across the whole of the session",
+      "Exercises are ordered by priority so goal-specific work comes first, when fatigue is lowest",
+      "The heaviest loaded exercises are placed last"
+    ],
+    "answerIndex": 2,
+    "explanation": "The priority method places exercises in descending order of priority or application to the client's goals, activity, or sport. The client performs the exercises that target their individual goals earlier in the workout when fatigue is lowest, leaving less goal-specific exercises toward the end. A second method arranges exercises by type, core before assistance."
+  },
+  {
+    "id": "nsca-res-030",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Push-pull arrangement",
+    "question": "What is the rationale for a push-pull exercise arrangement, and what caveat applies?",
+    "choices": [
+      "It removes the need for rest intervals entirely",
+      "It guarantees that no muscle group is ever repeated twice within the same training session",
+      "It only works with single-joint exercises",
+      "It allows rest between exercises, though core exercises can still overlap muscle groups"
+    ],
+    "answerIndex": 3,
+    "explanation": "The push-pull system alternates pushing exercises with pulling exercises, which is suggested to allow rest between exercises and prevent using the same muscle group twice in a row. The caveat is that core exercises activate a wide array of muscles, so overlap can still occur. For example, a back squat followed by a leg curl activates the hamstrings in both movements despite being classified as push then pull."
+  },
+  {
+    "id": "nsca-res-031",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Upper-lower arrangement",
+    "question": "With which type of program is alternating upper and lower body exercises typically used?",
+    "choices": [
+      "Circuit weight training programs with short rest intervals, and it may be best suited to machine-based training",
+      "Maximal strength programs that use rest intervals of roughly five full minutes between each of the heavy sets performed",
+      "Power development programs only",
+      "Programs for advanced Olympic weightlifters"
+    ],
+    "answerIndex": 0,
+    "explanation": "Alternating between upper and lower body exercises is a traditional ordering typically used with circuit weight training programs and short rest intervals. Like the push-pull system, this arrangement may be best suited for machine-based training. The intent is to allow one region to recover while another works."
+  },
+  {
+    "id": "nsca-res-032",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Load and repetition relationship",
+    "question": "Which loads and repetition ranges target muscular strength versus muscular endurance?",
+    "choices": [
+      "Loads below 50% of one-repetition maximum for 20 repetitions target strength, while loads above 90% for a single repetition improve endurance",
+      "Loads above 80% for three to five repetitions build strength; loads below 70% for over 10 build endurance",
+      "Both goals use identical loads and repetitions",
+      "Only machine exercises can develop strength"
+    ],
+    "answerIndex": 1,
+    "explanation": "Higher loads above 80% of one-repetition maximum performed for fewer repetitions, roughly three to five, target the development of muscular strength. Lighter loads below 70% of one-repetition maximum for more than 10 repetitions produce improvements in muscular endurance. Regardless of the client's goal, the training plan should include periods developing endurance, strength, and potentially power."
+  },
+  {
+    "id": "nsca-res-033",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Repetition maximum",
+    "question": "What does the term repetition maximum describe?",
+    "choices": [
+      "The total number of repetitions in a session",
+      "The total number of sets that a client can complete before reaching momentary muscular failure in a given exercise",
+      "The maximum load a client can handle in a specific exercise for a specific number of repetitions",
+      "The heaviest load ever lifted by the client"
+    ],
+    "answerIndex": 2,
+    "explanation": "The repetition maximum is the maximum load a client can handle in a specific exercise for a specific number of repetitions. As load becomes heavier the number of possible repetitions falls, until the load permits only one repetition, the one-repetition maximum. The association between percentage of one-repetition maximum and repetitions is termed the percent one-repetition maximum to repetitions relationship."
+  },
+  {
+    "id": "nsca-res-034",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Percent 1RM relationship",
+    "question": "A client's one-repetition maximum on an exercise is 200 pounds. Roughly what load would allow about eight repetitions?",
+    "choices": [
+      "120 pounds",
+      "140 pounds",
+      "About 190 pounds",
+      "160 pounds"
+    ],
+    "answerIndex": 3,
+    "explanation": "At roughly 80% of one-repetition maximum a client should be able to perform about eight repetitions, so about 160 pounds for a 200-pound maximum. The relationship also runs in reverse, so a 10-repetition maximum of 150 pounds would estimate a one-repetition maximum near 200 pounds. These figures are estimates that vary slightly, roughly 0.5% to 2%, with the client's training status."
+  },
+  {
+    "id": "nsca-res-035",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Percent 1RM limitations",
+    "question": "Which limitation of the percent one-repetition maximum to repetitions relationship is described?",
+    "choices": [
+      "The relationship rests mainly on bench press, back squat, and power clean research",
+      "It applies equally to every exercise and to every mode of resistance training available",
+      "It applies only to untrained clients",
+      "It is unaffected by exercise order"
+    ],
+    "answerIndex": 0,
+    "explanation": "The relationship is for the most part based on research on the bench press, back squat, and power clean, and it does not likely apply to all exercises. Other limitations include that training status affects the relationship, that the repetition count applies to a single set rather than multiple sets because fatigue reduces later-set performance, that more repetitions are generally possible at a given percentage on machine exercises than free weight ones and on core exercises than assistance exercises, and that placing an exercise late in the workout reduces achievable repetitions. Estimation tends to be most successful with loads at or above 75% of one-repetition maximum performed for fewer than 10 repetitions."
+  },
+  {
+    "id": "nsca-res-036",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Load assignment",
+    "question": "Why are the repetition maximum target and repetition maximum target zone methods considered problematic for assigning load?",
+    "choices": [
+      "They require expensive equipment",
+      "Both require training to muscular failure, which reduces adaptations and raises injury risk",
+      "They cannot be applied to machine-based exercises or to any of the single-joint assistance movements",
+      "They only work for advanced clients"
+    ],
+    "answerIndex": 1,
+    "explanation": "With the repetition maximum target method the client lifts the heaviest load possible for a set repetition scheme, and with the target zone method a range is assigned. Both require the client to train to muscular failure, and the literature shows clearly that training to failure reduces training adaptations and may raise the risk of overtraining and injury. It is therefore prudent to avoid both methods and instead use percentages of one-repetition maximum while varying intensity within the training week."
+  },
+  {
+    "id": "nsca-res-037",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "One-repetition maximum testing",
+    "question": "Which clients should not perform a one-repetition maximum test?",
+    "choices": [
+      "Advanced clients who have developed a strong technical base and several years of consistent lifting experience",
+      "Any client over the age of 30",
+      "Clients who have never lifted, are untrained, recently injured, or under medical supervision",
+      "Clients whose goal is muscular strength"
+    ],
+    "answerIndex": 2,
+    "explanation": "As a rule, clients who have never lifted, are classified as untrained, have been recently injured, or are under medical supervision should not perform a one-repetition maximum test. That testing is better reserved for more advanced clients who have developed the appropriate technical base and can perform the test exercise with correct technique across various loads. The biggest issue with the test is whether the client's technique holds up as loads increase."
+  },
+  {
+    "id": "nsca-res-038",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "One-repetition maximum testing",
+    "question": "What is a limitation of estimating a one-repetition maximum from submaximal loads?",
+    "choices": [
+      "It almost always underestimates the client's true one-repetition maximum by a considerable margin in everyday practice",
+      "It cannot be used on core exercises",
+      "It requires a physician's supervision",
+      "It may overestimate the one-repetition maximum, which could lead to problems prescribing training intensities"
+    ],
+    "answerIndex": 3,
+    "explanation": "While a directly tested one-repetition maximum is the most accurate way to determine loading, a submaximal load can be used to estimate it. Estimations from submaximal loads may overestimate the one-repetition maximum, which could create problems when prescribing training intensities. A directly assessed maximum is considered the gold standard of muscular strength assessment and poses minimal risk to both clinical and athletic clients."
+  },
+  {
+    "id": "nsca-res-039",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Load assessment methods",
+    "question": "Which methods can estimate a client's load capabilities before training loads are assigned?",
+    "choices": [
+      "Direct one-repetition maximum testing, percent body weight testing, and repetition testing",
+      "Measuring limb circumference and body fat only",
+      "Estimating from the client's height and age",
+      "Using only the client's own self-reported previous best lifts from their earlier training programs"
+    ],
+    "answerIndex": 0,
+    "explanation": "The described methods include directly assessing the one-repetition maximum, using a percentage of the client's body weight for testing, and repetition maximum testing. One or more can be used depending on the client's training status, technical proficiency, and the exercise being tested. Exercises selected for testing should be ones that can be performed safely, accurately, and consistently."
+  },
+  {
+    "id": "nsca-res-040",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Training volume",
+    "question": "How is training volume commonly expressed for repetitions and sets?",
+    "choices": [
+      "Total repetitions equals the number of sets divided by the repetitions performed",
+      "Total repetitions equals sets multiplied by repetitions",
+      "Total repetitions equals load divided by sets",
+      "Volume is unrelated to sets and repetitions"
+    ],
+    "answerIndex": 1,
+    "explanation": "Total repetitions equals sets multiplied by repetitions, so three sets of 10 and five sets of six both total 30 repetitions. Broader volume of training is described as repetitions times sets times resistance. The trainer can manipulate volume by changing either the repetition scheme or the number of sets for a given exercise."
+  },
+  {
+    "id": "nsca-res-041",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Sets",
+    "question": "How do single-set and multiple-set protocols compare?",
+    "choices": [
+      "Single-set protocols are superior in all populations",
+      "The two are equivalent for all clients",
+      "Single-set protocols are inferior to multiple-set protocols in both untrained and trained clients",
+      "Multiple sets are only ever appropriate for competitive athletes training under direct coaching supervision"
+    ],
+    "answerIndex": 2,
+    "explanation": "Single-set protocols have been shown to be inferior to multiple-set protocols in both untrained and trained populations. Single sets may still be effective for the novice or untrained client during the initial stages of a program. As the client becomes more trained, increasing training volume becomes essential, and that is probably best accomplished with a multiple-set plan."
+  },
+  {
+    "id": "nsca-res-042",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Training goals",
+    "question": "Which four goals must a resistance training plan address?",
+    "choices": [
+      "Flexibility, balance, agility, and speed",
+      "Frequency, intensity, time, and type",
+      "Body composition, blood pressure, blood cholesterol, and fasting glucose control",
+      "Muscular endurance, hypertrophy, muscular strength, or muscular power"
+    ],
+    "answerIndex": 3,
+    "explanation": "The design of a resistance training plan must address one of four goals: muscular endurance, hypertrophy, muscular strength, or muscular power. Inducing a specific adaptation depends on generating overload and manipulating volume and intensity toward that outcome. Progression and variation must also be built into the plan to support the adaptive response."
+  },
+  {
+    "id": "nsca-res-043",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Hypertrophy programming",
+    "question": "Which volume and load characterize a hypertrophy-focused plan?",
+    "choices": [
+      "Higher volume with 6 to 12 repetitions at roughly 67% to 85% of one-repetition maximum",
+      "One to three repetitions at 95% of one-repetition maximum with five minutes of rest between sets",
+      "20 or more repetitions at 40% of one-repetition maximum",
+      "Three repetitions with 5-minute rests"
+    ],
+    "answerIndex": 0,
+    "explanation": "A hypertrophy plan uses a higher training volume with 6 to 12 repetitions at moderate to high loads of roughly 67% to 85% of one-repetition maximum. Muscular endurance plans generally use 10 or more repetitions per set. Strength plans for core exercises use six or fewer repetitions with three or more sets per exercise."
+  },
+  {
+    "id": "nsca-res-044",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Strength programming",
+    "question": "How do strength programming recommendations differ between core and assistance exercises?",
+    "choices": [
+      "Both use identical repetition and set schemes",
+      "Core exercises use six or fewer repetitions; assistance exercises use eight or more",
+      "Core exercises use 15 repetitions per set while assistance exercises use only three repetitions",
+      "Assistance exercises should be omitted from strength programs"
+    ],
+    "answerIndex": 1,
+    "explanation": "For muscular strength, core exercises use six or fewer repetitions with multiple sets, three or more, per exercise. Assistance exercises use eight or more repetitions with one to three sets. Load recommendations expressed as repetition maximums apply to core exercises, with assistance exercises generally using loads lighter than an eight-repetition maximum."
+  },
+  {
+    "id": "nsca-res-045",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Power programming",
+    "question": "What guidance applies to power exercises across training statuses?",
+    "choices": [
+      "Power exercises are appropriate for untrained clients from the very first training session onwards, at any load",
+      "All clients should use six sets of 12 repetitions",
+      "Not for untrained clients; intermediates use one to three sets of three to six repetitions",
+      "Power exercises should be reserved for the end of every session"
+    ],
+    "answerIndex": 2,
+    "explanation": "Power exercises should not be used with untrained or novice clients, who should target strength development first. Intermediate clients following a power-focused program should use one to three sets of three to six repetitions. Advanced clients should use three to six sets of one to six repetitions."
+  },
+  {
+    "id": "nsca-res-046",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Sets and training status",
+    "question": "How does training status affect the number of sets a client performs?",
+    "choices": [
+      "Untrained clients should perform more sets than advanced clients",
+      "All clients should perform six sets regardless of status",
+      "Training status has no bearing on set number",
+      "Untrained or novice clients generally perform fewer sets than intermediate or advanced clients, and may initially use a single-set program before progressing to multiple sets"
+    ],
+    "answerIndex": 3,
+    "explanation": "Untrained or novice clients generally perform fewer sets than intermediate or advanced clients. It may initially be acceptable for novices to use a single-set program, but a multiple-set plan eventually becomes necessary for them to progress. Volume progression schemes exist to guide the move from novice through intermediate to advanced status."
+  },
+  {
+    "id": "nsca-res-047",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Rest intervals",
+    "question": "What relationship exists between load and rest interval length?",
+    "choices": [
+      "A direct relationship: the heavier the load, the longer the rest needed between sets or exercises",
+      "An inverse relationship: heavier loads require shorter rest",
+      "No relationship exists",
+      "Rest depends only on the client's age"
+    ],
+    "answerIndex": 0,
+    "explanation": "In general there is a direct relationship between load and the need for rest between sets, so the heavier the load, the longer the rest needed between sets or exercises. Training status is an additional consideration, since untrained or novice clients need more rest to maintain exercise technique. Rest interval length should also scale with the total amount of work in a set, since more work requires longer recovery."
+  },
+  {
+    "id": "nsca-res-048",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Rest intervals",
+    "question": "Which rest interval is recommended for muscular power and for muscular strength?",
+    "choices": [
+      "Under 30 seconds for both",
+      "2 to 5 minutes for both",
+      "30 seconds to 1.5 minutes for both",
+      "5 to 10 minutes for both"
+    ],
+    "answerIndex": 1,
+    "explanation": "Both muscular power and muscular strength warrant longer rest intervals on the order of 2 to 5 minutes. For power this applies between maximal-effort sets, and for strength it is especially true of lower body or whole-body exercises. Shorter intervals are used for endurance and hypertrophy goals."
+  },
+  {
+    "id": "nsca-res-049",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Rest intervals",
+    "question": "What rest interval is recommended for muscular hypertrophy?",
+    "choices": [
+      "Under 15 seconds",
+      "3 to 4 minutes",
+      "30 seconds to 1.5 minutes",
+      "5 minutes or more"
+    ],
+    "answerIndex": 2,
+    "explanation": "Rest intervals for hypertrophy should be short to moderate in duration, ranging from 30 seconds to 1.5 minutes. Longer intervals may be warranted with multijoint large-muscle exercises because of their high metabolic demands. Muscular endurance uses shorter rest still, typically under 30 seconds for circuit-based training with dissimilar muscle groups."
+  },
+  {
+    "id": "nsca-res-050",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Rest intervals",
+    "question": "What rest interval is recommended for circuit-based muscular endurance training, and when might it be longer?",
+    "choices": [
+      "No rest at any point",
+      "Always exactly 60 seconds",
+      "2 to 5 minutes in all cases",
+      "Typically under 30 seconds with dissimilar muscle groups, but up to 3 minutes between exercises using similar muscle groups"
+    ],
+    "answerIndex": 3,
+    "explanation": "A relatively short rest interval, typically under 30 seconds, is recommended for circuit-based training with exercises using dissimilar muscle groups. Up to 3 minutes of rest may be warranted between exercises that use similar muscle groups. The general principle is that recovery must be sufficient for the client to complete the prescribed work with sound technique."
+  },
+  {
+    "id": "nsca-res-051",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Rest intervals",
+    "question": "A novice client learning the back squat cannot maintain technique on later sets using the table's recommended rest interval. What should the trainer do?",
+    "choices": [
+      "Increase the rest interval, since maintenance of technique is of primary importance and novices may need roughly twice as much rest, often 2 to 5 minutes",
+      "Shorten the rest interval to build work capacity",
+      "Reduce the exercise to a single set permanently",
+      "Continue as prescribed since the table is definitive"
+    ],
+    "answerIndex": 0,
+    "explanation": "Rest interval tables are recommendations, not rules, and maintenance of technique is of primary importance. If the chosen rest interval reduces technical proficiency, the interval should be increased. Novice or untrained clients typically require about twice as much rest as more trained individuals, so 2 to 5 minutes may be appropriate, especially while learning new or technical exercises."
+  },
+  {
+    "id": "nsca-res-052",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Progressive overload",
+    "question": "Which methods can a personal trainer use to apply progressive overload?",
+    "choices": [
+      "Only increasing the weight lifted",
+      "Increasing the weight lifted, adding workouts in a week, including more or more difficult exercises, or adding sets to one or more exercises",
+      "Only extending rest intervals",
+      "Only changing the exercise order"
+    ],
+    "answerIndex": 1,
+    "explanation": "Overload can be applied by increasing the amount of weight lifted, incorporating more workouts in a week, including more or more difficult exercises, or adding sets to one or more exercises. Training stress or loads must be progressively increased for gains to occur. Which lever to pull depends on the client's goals and training status."
+  },
+  {
+    "id": "nsca-res-053",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Specificity",
+    "question": "What does the principle of specificity state about the transfer of training to sport?",
+    "choices": [
+      "Any resistance training transfers equally to all sports",
+      "Only aerobic training transfers to sport",
+      "The more similar the training activity is to the actual sport movement, the greater the likelihood of positive transfer",
+      "Transfer depends solely on total training volume"
+    ],
+    "answerIndex": 2,
+    "explanation": "Specificity means that specific methods of training produce specific changes, and the more similar the training activity is to the actual sport movement, the greater the likelihood of positive transfer. The most effective program matches the metabolic and biomechanical characteristics of training to the sport activity, including joint velocities and angular movements. The trainer should include at least one exercise mimicking the movement pattern of each primary skill in the athlete's sport."
+  },
+  {
+    "id": "nsca-res-054",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Velocity specificity",
+    "question": "Why does improving a one-repetition maximum through slow-velocity heavy training not guarantee better ballistic sport performance?",
+    "choices": [
+      "Maximal strength is irrelevant to sport",
+      "One-repetition maximum cannot be improved by heavy training",
+      "Ballistic movements do not require force",
+      "Improving force generation at very rapid speeds requires training at high velocities, so slow heavy training does not ensure improved force development in ballistic movements"
+    ],
+    "answerIndex": 3,
+    "explanation": "An increase in one-repetition maximum strength is a common outcome of any program lifting heavy loads, but improving the ability to generate force at very rapid speeds requires training at high velocities. Slow-velocity heavy resistance training therefore does not ensure improved force development in ballistic movements such as a basketball jump shot, baseball pitch, or volleyball spike. Power exercises should be selected and assigned for those qualities."
+  },
+  {
+    "id": "nsca-res-055",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Periodization",
+    "question": "How is periodization defined?",
+    "choices": [
+      "The systematic process of planned variations in a resistance training program over a training cycle",
+      "Training the same program until progress stops",
+      "Alternating resistance and aerobic days",
+      "Testing a client's one-repetition maximum monthly"
+    ],
+    "answerIndex": 0,
+    "explanation": "Periodization is the systematic process of planned variations in a resistance training program over a training cycle. Goals are met by appropriately manipulating volume and intensity and by effectively selecting exercises. A primary advantage is reduced risk of overtraining due to the purposeful time devoted to physical and mental recovery."
+  },
+  {
+    "id": "nsca-res-056",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Periodization cycles",
+    "question": "How are the three periodization cycles structured?",
+    "choices": [
+      "The microcycle is the largest division and the macrocycle the smallest",
+      "The macrocycle is typically an entire training year and may extend up to four years; mesocycles span several weeks to a few months; microcycles range from one to four weeks",
+      "All three cycles last exactly one month",
+      "Only macrocycles and microcycles exist"
+    ],
+    "answerIndex": 1,
+    "explanation": "The macrocycle is the largest division, typically constituting an entire training year but potentially extending up to four years, as for an Olympic athlete. Macrocycles comprise two or more mesocycles divided into several weeks to a few months, with the number depending on the athlete's goals and competition schedule. Each mesocycle is divided into microcycles ranging from one to four weeks that contain the daily and weekly training variations."
+  },
+  {
+    "id": "nsca-res-057",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Periodization phases",
+    "question": "Which five mesocycle phases make up the American model of periodization for strength and power sports?",
+    "choices": [
+      "Base, build, peak, taper, and recovery",
+      "Endurance, hypertrophy, power, speed, and agility",
+      "Hypertrophy, strength, strength/power, competition or peaking, and active rest",
+      "Preparatory, transition, competitive, off-season, and preseason"
+    ],
+    "answerIndex": 2,
+    "explanation": "The five mesocycles are hypertrophy, strength, strength/power, competition or peaking, and active rest. The hypertrophy phase builds a muscular and metabolic base at high volume and low intensity, the strength phase raises maximal force at moderate volume and intensity, and the strength/power phase increases rate of force development with low-volume high-intensity explosive work. The peaking phase uses very high intensity and very low volume, and active rest allows physiological and mental recovery."
+  },
+  {
+    "id": "nsca-res-058",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Periodization phases",
+    "question": "What is the purpose of the active rest phase?",
+    "choices": [
+      "To attain peak strength and power",
+      "To test one-repetition maximums",
+      "To develop maximal hypertrophy",
+      "To allow physiological and mental recovery through limited low-volume, low-intensity resistance training or activities unrelated to the sport"
+    ],
+    "answerIndex": 3,
+    "explanation": "The active rest phase allows physiological and mental recovery through limited low-volume, low-intensity resistance training or activities unrelated to the athlete's sport. It closes a set of mesocycles before the next cycle or an in-season period begins. Greater strength and power gains have been found by repeating the full set of five mesocycles more than once per year."
+  },
+  {
+    "id": "nsca-res-059",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Linear periodization",
+    "question": "What defines a linear periodization program?",
+    "choices": [
+      "Training intensity gradually and continually increases while training volume gradually and continually decreases from one mesocycle to the next, with no variation in assigned sets and repetitions within each mesocycle",
+      "Training intensity and volume both increase from one mesocycle to the next",
+      "Volume and intensity change daily with no long-term trend",
+      "Sets and repetitions change every session"
+    ],
+    "answerIndex": 0,
+    "explanation": "The classic linear periodization model gradually and continually increases training intensity while gradually and continually decreasing training volume from one mesocycle to the next. Within each mesocycle the assigned number of sets and repetitions does not vary across workouts. A variation on the model introduces within-week vacillations in both load and volume for most or all core exercises."
+  },
+  {
+    "id": "nsca-res-060",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Linear periodization",
+    "question": "In the linear model's weekly structure, how do light and moderate days compare with the heavy day?",
+    "choices": [
+      "Light and moderate days use heavier loads with fewer repetitions",
+      "Light days use 10% to 30% lighter loads and moderate days 5% to 10% lighter loads than the repetition maximum day, with the same set and repetition assignments",
+      "All days use identical loads",
+      "Light days use 50% lighter loads with double the repetitions"
+    ],
+    "answerIndex": 1,
+    "explanation": "In the linear model, repetition maximum level training at 100% of the assigned load occurs on the heavy day. Subsequent sessions for the same exercise that week are performed at a light level, 10% to 30% lighter than the repetition maximum day, or a moderate level, 5% to 10% lighter, or both depending on whether there are two or three workouts. All are performed with the same set and repetition assignments."
+  },
+  {
+    "id": "nsca-res-061",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Base training",
+    "question": "What is recommended before an athlete begins a periodized program?",
+    "choices": [
+      "A maximal strength test on all core lifts",
+      "Two weeks of complete rest",
+      "A lower-intensity four- to six-week base training program with very light loads such as 15- to 20-repetition maximums",
+      "A power-focused block to establish rate of force development"
+    ],
+    "answerIndex": 2,
+    "explanation": "A lower-intensity base training program of four to six weeks is recommended before starting a periodized program. It lets the athlete learn exercise technique, gain an initial adaptation to resistance exercise stress, and prepare for the first training cycle, with loads typically very light such as 15- to 20-repetition maximums. This base program is especially important for beginners and may or may not be used with experienced trained athletes."
+  },
+  {
+    "id": "nsca-res-062",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Variation",
+    "question": "Why must even an effective, individualized training program eventually be varied?",
+    "choices": [
+      "Clients become bored, which is the only concern",
+      "Programs expire after a fixed number of sessions",
+      "Variation reduces the total training volume required",
+      "Variation is needed to ensure continued adaptation, and purposeful sequencing means adaptations from one period can amplify the next, producing a summation of training effect"
+    ],
+    "answerIndex": 3,
+    "explanation": "No matter how effective or individualized a program is, it will eventually need variation to ensure continued adaptation. A key component of variation is purposeful sequencing of training factors, so that adaptations stimulated in one period exert a powerful effect on the next and produce a summation of training effect. A correctly sequenced plan with appropriate variation is incrementally more effective."
+  },
+  {
+    "id": "nsca-res-063",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Monotonous overtraining",
+    "question": "What is monotonous overtraining?",
+    "choices": [
+      "The result of maintaining the same training plan without variation, which over several months can decrease muscular strength and neuromuscular performance and produce overtraining symptoms even in trained clients",
+      "Overtraining caused by excessive variation in exercise selection",
+      "A condition unique to novice clients",
+      "Overtraining caused solely by inadequate protein intake"
+    ],
+    "answerIndex": 0,
+    "explanation": "Maintaining the same training plan without variation can induce what has been termed monotonous overtraining. If the training stimulus is unvaried for a long period, several months for example, even experienced or trained clients can show decreases in muscular strength and neuromuscular performance along with overtraining symptoms. Much less variation is needed with novice clients, since almost any reasonable plan produces results for them."
+  },
+  {
+    "id": "nsca-res-064",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Variation",
+    "question": "At which levels can a personal trainer alter the training stimulus to introduce variation?",
+    "choices": [
+      "Only exercise selection",
+      "Frequency, intensity, and volume of training, as well as the rest intervals between sets and exercises",
+      "Only the client's diet",
+      "Only the day of the week the session occurs"
+    ],
+    "answerIndex": 1,
+    "explanation": "The trainer can alter frequency, intensity, and volume of training as well as the rest intervals between sets and exercises. These changes can occur within a workout, during a week, or across several weeks. Purposeful variation of program design variables is described as the best way to avoid stagnation."
+  },
+  {
+    "id": "nsca-res-065",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Exercise variation",
+    "question": "How often can exercises be varied for the same muscle group, and what should remain stable?",
+    "choices": [
+      "Every session, with all exercises rotated out at once",
+      "Only once per year",
+      "Changes may be made every two or three weeks, or some exercises alternated between two somewhat different sessions, while certain core exercises are maintained so progress in the major lifts can continue",
+      "Exercises should never be varied"
+    ],
+    "answerIndex": 2,
+    "explanation": "Exercise changes may be made every two or three weeks, or some exercises can be varied on an alternating basis with two somewhat different training sessions. Not every session needs new exercises, and not all exercises must change when one does. Certain core exercises need to be maintained throughout the program so that progress in the major lifts can continue to be measured."
+  },
+  {
+    "id": "nsca-res-066",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Exercise variation",
+    "question": "Keeping exercise selection unchanged produces greater strength and power gains than varying the exercises used for a muscle group.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Empirical evidence suggests that variations in exercise selection for the same muscle group produce greater increases in strength and power than a program with no exercise variation. This does not require changing exercises every session or changing all of them at once. Certain core lifts should still be retained to track progress."
+  },
+  {
+    "id": "nsca-res-067",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Training to failure",
+    "question": "Training to muscular failure on every set is an effective way to assign training loads and maximize strength gains.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Training to muscular failure is described as a poor method for assigning training loads. The literature shows it mutes strength gains compared with not training to failure and may lead to overtraining and increased injury occurrence. Using percentages of one-repetition maximum and varying intensity within the training week is a far better approach."
+  },
+  {
+    "id": "nsca-res-068",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Multijoint exercises",
+    "question": "Employing multijoint large-muscle exercises can magnify the adaptive response and increase the overall metabolic cost of the training program.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Multijoint large-muscle exercises magnify the adaptive response and raise the overall metabolic cost of the program. The squat and press is an example of a complex exercise that engages a large amount of muscle mass and produces a substantial training effect. Power cleans, power snatches, and pulls train the entire body and are described as extremely effective for athletes and clinical populations."
+  },
+  {
+    "id": "nsca-res-069",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Exercise selection for sport",
+    "question": "A trainer works with a volleyball player. Which exercise selection rationale should guide the program?",
+    "choices": [
+      "Prioritize single-joint isolation work for the shoulders",
+      "Use only machine-based exercises for consistency",
+      "Avoid all multijoint exercises to reduce injury risk",
+      "Consider exercises such as the power clean or power snatch because they involve a jumping movement important to the sport"
+    ],
+    "answerIndex": 3,
+    "explanation": "With athletes, the more closely an exercise relates to the sporting movement pattern, the more likely the strength gains will transfer. For a volleyball or basketball player the trainer should consider the power clean or power snatch because they involve a jumping movement central to those sports. Jumping is also listed among the sport skills whose related exercises include the power clean, jerk, back squat, and power snatch."
+  },
+  {
+    "id": "nsca-res-070",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Within-week variation",
+    "question": "A client struggles to sustain high training loads across an entire week. Which variation strategy addresses this?",
+    "choices": [
+      "Vary the intensity of exercises across the week",
+      "Keep every session at the same high intensity to force adaptation",
+      "Eliminate all but one training session per week",
+      "Train only to muscular failure on the final day"
+    ],
+    "answerIndex": 0,
+    "explanation": "One of the best ways to incorporate variation is to vary the intensity of the exercises selected across the week. It is difficult for clients to undertake high training loads throughout an entire week because cumulative fatigue builds as the week progresses. Within-session variation, such as varying intensity across a set, offers another level of purposeful change."
+  },
+  {
+    "id": "nsca-res-072",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Percent 1RM limitations",
+    "question": "A client performs more repetitions at a given percentage of one-repetition maximum on a machine chest press than on a barbell bench press. What explains this?",
+    "choices": [
+      "The client's technique is worse on the machine",
+      "Machines always use lighter absolute loads",
+      "The mode of resistance training affects the number of repetitions possible, with more repetitions generally achievable on machine-based exercises than free weight exercises",
+      "The relationship is identical across all modes and equipment"
+    ],
+    "answerIndex": 2,
+    "explanation": "The mode of resistance training affects how many repetitions can be performed at any given percentage of one-repetition maximum, and generally more repetitions are possible on machine-based exercises than free weight exercises. More repetitions are also possible on core exercises than on assistance exercises at the same percentage. These are among the reasons the percentage-to-repetition relationship should be applied with care."
+  },
+  {
+    "id": "nsca-res-073",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Exercise order and fatigue",
+    "question": "A client completes fewer repetitions than prescribed on a lift placed at the end of the session. What is the likely explanation?",
+    "choices": [
+      "The prescribed load must have been miscalculated",
+      "The relationship between load and repetitions is unaffected by order",
+      "The client's one-repetition maximum has decreased permanently",
+      "Placing an exercise toward the end of the workout reduces the number of repetitions that can be performed at any given percentage of one-repetition maximum"
+    ],
+    "answerIndex": 3,
+    "explanation": "The order of exercises affects the number of repetitions possible at a given percentage of one-repetition maximum, and placing an exercise toward the end of a workout reduces achievable repetitions whether it is a core or assistance exercise. Repetition counts at a given percentage also apply to a single set rather than to multiple sets, since fatigue reduces later-set performance. This is why exercises should be arranged to manage fatigue against the client's priorities."
+  },
+  {
+    "id": "nsca-res-080",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Valsalva duration",
+    "question": "A resistance-trained client with good technique may safely hold the breath for the full duration of a heavy set.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Even resistance-trained and technique-experienced clients should be advised to hold the breath only momentarily, roughly 1 to 2 seconds. Internal support of the vertebral column matters during maximal or near-maximal efforts, but the client should not overextend the time the breath is held. The maneuver raises chest pressure enough to impair venous return and spike blood pressure."
+  },
+  {
+    "id": "nsca-res-081",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Detraining",
+    "question": "An experienced resistance-trained client will be away for two weeks and fears losing their strength. What does the evidence suggest?",
+    "choices": [
+      "Short-term detraining of about 14 days has little effect on strength or explosive power",
+      "Strength and explosive power both decline sharply within the first seven days away from lifting",
+      "All of the neural adaptations gained over the training block dissipate within roughly ten days",
+      "Muscle mass and maximal strength are lost at the same rate in trained and untrained people"
+    ],
+    "answerIndex": 0,
+    "explanation": "Short-term detraining of around 14 days appears to have little effect on muscle strength or explosive power in experienced resistance-trained athletes and recreational strength trainers. The effects of a break this short are relatively limited. Longer layoffs are a different matter, since the adaptations of training do progressively reverse."
+  },
+  {
+    "id": "nsca-res-082",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Detraining",
+    "question": "A client returns after a long layoff and finds their power output has fallen more than their general endurance. Which explanation fits?",
+    "choices": [
+      "Atrophy appears to occur faster in the fast-twitch fibers",
+      "Slow-twitch fibers atrophy first because they are recruited during almost every daily activity",
+      "Power depends only on body mass, so any loss of weight will reduce it proportionally as well",
+      "Neurological adaptations are permanent, so the change must come entirely from lost muscle mass"
+    ],
+    "answerIndex": 0,
+    "explanation": "With detraining, muscle tissue loses mass and the neurological changes from training dissipate, so the muscle becomes weaker and less powerful. Skeletal muscle atrophy appears to occur faster in the fast-twitch fibers. Because those fibers contribute most to rapid force production, power tends to fall away first."
+  },
+  {
+    "id": "nsca-res-083",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Detraining",
+    "question": "With detraining, the training-related changes in recruitment, rate coding, and cocontraction dissipate along with the loss of muscle mass.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Detraining reverses the adaptations of training, so the individual regresses toward their pre-program condition. Muscle tissue loses mass and the neurological changes in recruitment, rate coding, and cocontraction dissipate. The combined result is a muscle that is both weaker and less powerful."
+  },
+  {
+    "id": "nsca-res-084",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Overtraining",
+    "question": "A client who added several sessions and heavy loads at once now reports a strength plateau, disturbed sleep, and a lingering cold. What is the likely cause?",
+    "choices": [
+      "Overtraining driven by too rapid a rate of progression",
+      "An inadequate protein intake, which is the usual explanation for a plateau in strength gains",
+      "Insufficient training volume, which means the sessions are not yet demanding enough to adapt",
+      "A normal adaptation phase that will resolve on its own if the current program is maintained"
+    ],
+    "answerIndex": 0,
+    "explanation": "Many overtraining syndromes are a function of the rate of progression, meaning too much too soon before the body can cope with the stress. Recognized indicators include a plateau followed by a decrease in strength gains, sleep disturbances, reduced lean body mass, decreased appetite, and infections that linger. The appropriate response is to reduce the load and rebuild progression more gradually."
+  },
+  {
+    "id": "nsca-res-085",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Overtraining",
+    "question": "Overtraining is most often caused by progressing a program too quickly rather than by any single heavy session.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Overtraining syndromes are largely a function of the rate of progression, that is, attempting too much too soon. The body has not had time for its physiological adaptations to catch up with the imposed stress. The typical result is extreme soreness or injury rather than a productive adaptation."
+  }
+]

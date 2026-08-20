@@ -1,0 +1,1531 @@
+[
+  {
+    "id": "nasm-prg-001",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Core training",
+    "question": "What are the boundaries of the core, or lumbo-pelvic-hip complex?",
+    "choices": [
+      "The rib cage above, the obliques at the sides, and the hip adductors below it",
+      "The shoulders superiorly and the pelvis inferiorly",
+      "Diaphragm above, abdominals in front and to the sides, pelvic floor below",
+      "Only the rectus abdominis and the erector spinae"
+    ],
+    "answerIndex": 2,
+    "explanation": "The core is bounded by the diaphragm above, the abdominal muscles in front and to the sides, the lumbar spine and gluteal muscles behind, and the pelvic floor and hip musculature below. It sits at the body's center of gravity. Restricting the definition to the rectus abdominis is a common misconception."
+  },
+  {
+    "id": "nasm-prg-002",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Core training",
+    "question": "How is core stability distinguished from core strength?",
+    "choices": [
+      "The two terms are interchangeable and describe the same trainable physical quality",
+      "Core stability is explosive movement; core strength is isometric holding",
+      "Core stability applies only to athletes; core strength applies only to general clients",
+      "Stability holds posture under load; strength moves the trunk"
+    ],
+    "answerIndex": 3,
+    "explanation": "Core stability and core endurance describe maintaining proper spinal and hip posture while the arms and legs move. Core strength refers to contracting the torso in all directions, including flexion, extension, and rotation. Core power involves explosive movements of the core musculature."
+  },
+  {
+    "id": "nasm-prg-003",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Local core muscles",
+    "question": "Which characteristics describe the local core muscles?",
+    "choices": [
+      "Short attachments on or near the vertebrae, providing segmental stability",
+      "Superficial on the trunk with long attachments that cross several vertebral segments",
+      "Cross multiple joints and act as prime movers",
+      "Attach only to the pelvis and produce hip extension"
+    ],
+    "answerIndex": 0,
+    "explanation": "Local core muscles generally attach on or near the vertebrae with short attachments spanning one to two segments. They consist primarily of type I slow-twitch fibers with a high density of muscle spindles, which supports proprioception of the spine. Their proper function is important for maintaining vertebral posture during strengthening exercises and dynamic movement."
+  },
+  {
+    "id": "nasm-prg-004",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Local core muscles",
+    "question": "Which muscle's primary role is to increase intra-abdominal pressure?",
+    "choices": [
+      "Rectus abdominis",
+      "Transverse abdominis",
+      "The quadratus lumborum muscle",
+      "Erector spinae"
+    ],
+    "answerIndex": 1,
+    "explanation": "The transverse abdominis increases intra-abdominal pressure. When properly activated it creates tension in the thoracolumbar fascia, contributing to spinal stiffness, and compresses the sacroiliac joint. The rectus abdominis instead flexes, rotates, and laterally flexes the trunk."
+  },
+  {
+    "id": "nasm-prg-005",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Core anatomy",
+    "question": "Which action does the internal abdominal oblique perform that distinguishes it from the external oblique?",
+    "choices": [
+      "Contralateral rotation of the trunk",
+      "Trunk extension only",
+      "Ipsilateral trunk rotation",
+      "Pelvic elevation"
+    ],
+    "answerIndex": 2,
+    "explanation": "The internal abdominal obliques produce spinal flexion, lateral flexion, and ipsilateral rotation, meaning rotation toward the same side. The external abdominal obliques produce spinal flexion, lateral flexion, and contralateral rotation. The quadratus lumborum handles lateral flexion of the spine and elevation of the pelvis."
+  },
+  {
+    "id": "nasm-prg-006",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Global core muscles",
+    "question": "What role do the global core muscles play?",
+    "choices": [
+      "They provide segmental stability between two adjacent vertebrae without producing movement",
+      "They cannot produce force, only absorb it",
+      "They regulate inspiration",
+      "They move the trunk and transfer load between extremities"
+    ],
+    "answerIndex": 3,
+    "explanation": "Global core muscles are more superficial and act to move the trunk, transfer loads between the upper and lower extremities, and stabilize multiple spinal segments as functional units. They are primarily responsible for concentric force production and eccentric deceleration during dynamic activity. In isolation they do not effectively stabilize the lumbo-pelvic-hip complex; that requires cooperative function with the local musculature."
+  },
+  {
+    "id": "nasm-prg-007",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Core training",
+    "question": "An experienced client has strong global core muscles but weak local core muscles. What is the likely consequence?",
+    "choices": [
+      "Forces may not transfer efficiently along the kinetic chain",
+      "Improved force transfer results because the extremities compensate for the weak trunk",
+      "Guaranteed hypertrophy of the rectus abdominis",
+      "Immediate improvement in vertical jump"
+    ],
+    "answerIndex": 0,
+    "explanation": "Many active individuals develop global core strength, power, and endurance but few properly train the local muscles required for intervertebral stabilization. When the global muscles are strong and the local muscles are weak, forces along the kinetic chain may not be transferred or used properly, which leads to compensation and inefficiency. Programming should ensure the local stabilizers are strengthened before or alongside the global movers."
+  },
+  {
+    "id": "nasm-prg-008",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Core training",
+    "question": "Which functional outcome sequence should core training programs achieve?",
+    "choices": [
+      "Lumbopelvic stability first, then intervertebral stability",
+      "Intervertebral stability, then lumbopelvic stability",
+      "Core power, then core stability",
+      "Global strength, then local endurance"
+    ],
+    "answerIndex": 1,
+    "explanation": "Core programs must first achieve intervertebral stability, meaning stabilization of individual spinal segments, and then lumbopelvic stability of the whole complex. The sequence is described as critical for optimizing function. Reversing it risks loading the spine before the segmental stabilizers can control it."
+  },
+  {
+    "id": "nasm-prg-009",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Core training progressions",
+    "question": "Which exercise belongs to the first, stabilization-focused level of core progression?",
+    "choices": [
+      "Cable chop",
+      "Medicine ball soccer throw",
+      "Plank",
+      "Reverse crunch"
+    ],
+    "answerIndex": 2,
+    "explanation": "The first level of core progression focuses on stabilization through the spine and pelvis with little gross spinal motion, and includes marching, floor and ball bridges, floor and ball cobras, fire hydrant, plank, side plank, dead bug, bird dog, Pallof press, and farmer's carry. The cable chop and reverse crunch belong to the second, more dynamic level. Medicine ball throws belong to the final, power-focused level."
+  },
+  {
+    "id": "nasm-prg-010",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Core training progressions",
+    "question": "Which exercises characterize the final level of core training progression?",
+    "choices": [
+      "Floor bridge, plank, and prone iso-abdominal holds on the mat",
+      "Floor crunch, back extension, and cable rotation",
+      "Farmer's carry and Pallof press",
+      "Medicine ball chest pass, oblique throw, and woodchop throw"
+    ],
+    "answerIndex": 3,
+    "explanation": "The last progression is designed to improve rate of force production and movement efficiency of the core and extremities, using explosive medicine ball work such as the rotation chest pass, pullover throw, oblique throws, soccer throw, woodchop throw, and overhead throw. The first level is stabilization work like the plank and bridge. The middle level adds dynamic spinal motion such as crunches, back extensions, and cable rotation, lift, and chop."
+  },
+  {
+    "id": "nasm-prg-011",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Core training",
+    "question": "What should be emphasized first when developing a core training program?",
+    "choices": [
+      "Increasing proprioceptive demand in a multisensory environment",
+      "Increasing external resistance while keeping the support surface completely stable",
+      "Maximizing total repetitions per session",
+      "Achieving absolute strength gains"
+    ],
+    "answerIndex": 0,
+    "explanation": "Increasing proprioceptive demand using a multisensory environment and multiple modalities such as balls, bands, and balance equipment is more important than increasing external resistance. Quality of movement should be emphasized over quantity, with the focus on coordinated movement across the kinetic chain. Neural adaptations become the focus rather than absolute strength gains."
+  },
+  {
+    "id": "nasm-prg-012",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Drawing-in maneuver",
+    "question": "How is the abdominal drawing-in maneuver performed?",
+    "choices": [
+      "Consciously tightening the rectus abdominis as hard as possible for the whole set",
+      "Pulling in below the navel while maintaining a neutral spine",
+      "Holding a maximal breath and pushing outward",
+      "Contracting the gluteal muscles while flexing the spine"
+    ],
+    "answerIndex": 1,
+    "explanation": "The drawing-in maneuver involves pulling the region just below the navel toward the spine while maintaining a neutral cervical spine. It increases activation of the transverse abdominis. Abdominal bracing is the different technique of consciously co-contracting global muscles such as the rectus abdominis and external obliques."
+  },
+  {
+    "id": "nasm-prg-013",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Weight belts",
+    "question": "What guidance is given on weight belt use for apparently healthy adults in a moderately intense program?",
+    "choices": [
+      "Belts should be worn on every set of every exercise regardless of the load",
+      "Belts are mandatory above 50% of one-rep max",
+      "Not recommended; belts may raise heart rate and blood pressure",
+      "Belts should be worn only during aerobic exercise"
+    ],
+    "answerIndex": 2,
+    "explanation": "The use of weight belts is not recommended for apparently healthy adults in a moderately intense program. Belts may raise heart rate and systolic blood pressure and often give a false sense of security, encouraging clients to believe they can lift heavier loads. The better approach is to educate clients on technique and proper activation of the body's natural belt, the core musculature."
+  },
+  {
+    "id": "nasm-prg-014",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Scoliosis",
+    "question": "How does functional scoliosis differ from structural scoliosis?",
+    "choices": [
+      "Functional scoliosis results only from a fixed deformity of the vertebral bodies themselves",
+      "Functional scoliosis only occurs in athletes",
+      "Both result solely from altered bone shape",
+      "Functional scoliosis is influenced by imbalances; structural is not"
+    ],
+    "answerIndex": 3,
+    "explanation": "Structural scoliosis often results from altered bone shape through the spine, whereas functional or nonstructural scoliosis can be influenced by muscle imbalances, particularly between the right and left sides of the body. Small frontal plane deviations from midline can be normal, but large curvatures away from midline are considered abnormal. Proper core muscle function is critical for maintaining the natural spinal curvatures."
+  },
+  {
+    "id": "nasm-prg-015",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Core training and low-back pain",
+    "question": "A client with a history of low-back pain has been cleared for exercise. Which finding is commonly associated with low-back pain and worth addressing?",
+    "choices": [
+      "Gluteus medius weakness",
+      "Excessive gluteus medius strength",
+      "Excessive ankle dorsiflexion range",
+      "Elevated resting heart rate"
+    ],
+    "answerIndex": 0,
+    "explanation": "Gluteus medius weakness is common in individuals with low-back pain and should be addressed as a way to manage the link between abnormal posture and pain. The hip musculature functions to keep the pelvis level, and improper pelvic positioning can produce improper spinal posture. It remains unclear whether altered posture causes low-back pain or results from it."
+  },
+  {
+    "id": "nasm-prg-016",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Core training safety",
+    "question": "What risk is associated with hyperextension exercises performed without proper low-back stabilization?",
+    "choices": [
+      "They reduce spinal disc pressure and are therefore safe for every client",
+      "They raise disc pressure to dangerous levels",
+      "They can only cause muscle soreness",
+      "They eliminate the need for local core training"
+    ],
+    "answerIndex": 1,
+    "explanation": "Using hyperextension exercises without proper low-back stabilization has been shown to increase pressure on the discs to dangerous levels. This is why a systematic, progressive approach matters, ensuring the local core muscles that stabilize the spine are strengthened before or alongside the global muscles that move it. Trainers should also work closely with healthcare providers who diagnose and treat injuries."
+  },
+  {
+    "id": "nasm-prg-017",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Kinetic chain checkpoints",
+    "question": "Which five kinetic chain checkpoints should be monitored during exercise?",
+    "choices": [
+      "Feet, calves, thighs, chest, and neck",
+      "Ankles, knees, hips, elbows, wrists, and jaw",
+      "Feet, knees, hips, shoulders, and head",
+      "Toes, knees, pelvis, scapulae, and jaw"
+    ],
+    "answerIndex": 2,
+    "explanation": "The five kinetic chain checkpoints are the feet, knees, hips, shoulders, and head. The feet should be roughly shoulder-width apart and pointing straight ahead when appropriate, the knees in line with the second and third toes, the hips level and neutral, the shoulders neutral without protraction or elevation, and the cervical spine neutral with a chin tuck. Monitoring these is part of maintaining exercise technique safely."
+  },
+  {
+    "id": "nasm-prg-018",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Balance",
+    "question": "How is balance defined?",
+    "choices": [
+      "The ability to stand on one leg for at least thirty seconds unaided",
+      "The speed of the vestibular reflex",
+      "The strength of the hip abductors relative to the adductors",
+      "Maintaining the center of gravity over the base of support"
+    ],
+    "answerIndex": 3,
+    "explanation": "Balance is the ability to maintain the center of gravity within the base of support. The center of gravity is the approximate midpoint of the body, typically located in the mid-trunk. The base of support is the area beneath a person consisting of every point of contact between the body and the support surface."
+  },
+  {
+    "id": "nasm-prg-019",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Balance",
+    "question": "What do the limits of stability describe?",
+    "choices": [
+      "The area in which the center of gravity can move without changing support",
+      "The maximum load a client can hold while standing on an unstable balance modality",
+      "The time a client can hold a single-leg stance",
+      "The joint range of motion available at the ankle"
+    ],
+    "answerIndex": 0,
+    "explanation": "Limits of stability describe the area within which an individual can move their center of gravity without changing the base of support, meaning without moving the feet, and without falling. The main goal of balance training is to continually increase awareness of these limits by raising the proprioceptive demand. Sensing that the center of mass is approaching those limits depends on the visual, vestibular, and somatosensory systems."
+  },
+  {
+    "id": "nasm-prg-020",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Balance",
+    "question": "Which type of balance describes maintaining balance within a stationary limit of stability while the supporting base is moving?",
+    "choices": [
+      "Static balance on a stable surface",
+      "Semi-dynamic balance",
+      "Dynamic balance",
+      "Reactive balance"
+    ],
+    "answerIndex": 1,
+    "explanation": "Semi-dynamic balance refers to maintaining balance within a stationary limit of stability while the base supporting the body is in motion. Static balance is maintaining postural control in a stationary position, and dynamic balance is maintaining the center of mass over an ever-changing limit of stability, such as running on uneven ground. Manipulating which type is trained changes the difficulty of a balance program."
+  },
+  {
+    "id": "nasm-prg-021",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Balance",
+    "question": "Which sense is critically important for balancing on unstable surfaces and during dynamic movement?",
+    "choices": [
+      "Vision",
+      "Vestibular sense",
+      "Somatosensation",
+      "Audition"
+    ],
+    "answerIndex": 2,
+    "explanation": "Somatosensation, the ability to feel changes in pressure on the skin, muscle length, and joint angles, is critically important for balancing on unstable surfaces and for dynamic balance tasks. Vision informs the central nervous system about the body's location in space, and the vestibular system, controlled by receptors in the inner ear, reports spatial orientation and head movement. All three integrate with properly timed muscle contractions."
+  },
+  {
+    "id": "nasm-prg-022",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Balance progression",
+    "question": "Which sequence describes the lower-body balance progression?",
+    "choices": [
+      "Single-leg unstable, single-leg stable, two-legs unstable, then two-legs stable",
+      "Single-leg stable, two-legs stable, single-leg unstable, two-legs unstable",
+      "Two-legs unstable, two-legs stable, single-leg stable, single-leg unstable",
+      "Two-legs stable, single-leg stable, two-legs unstable, single-leg unstable"
+    ],
+    "answerIndex": 3,
+    "explanation": "The lower-body progression moves from two legs on a stable surface, through a stable single-leg stance, to two legs on an unstable modality, and finally a single leg on an unstable modality. Within the two-leg stable stage, stance progresses from wide to narrow to tandem heel-to-toe. Exercise selection should also progress easy to hard, simple to complex, static to dynamic, slow to fast, and eyes open to eyes closed."
+  },
+  {
+    "id": "nasm-prg-023",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Balance progression",
+    "question": "What characterizes entry-level balance exercises?",
+    "choices": [
+      "Little joint motion of the balance leg, to develop reflexive stability",
+      "They involve explosive hopping in several planes with a stabilized landing each time",
+      "They require maximal external load",
+      "They require the eyes closed from the outset"
+    ],
+    "answerIndex": 0,
+    "explanation": "Entry-level balance exercises involve little joint motion of the balance leg and aim to improve reflexive, automatic muscle contractions that increase joint stability. The body is placed in an unstable environment so it learns to contract the right muscles at the right time. Examples include tandem stance, single-leg balance, single-leg balance reach, and single-leg lift and chop."
+  },
+  {
+    "id": "nasm-prg-024",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Balance progression",
+    "question": "How long should the balance position be held in the final progression of balance training?",
+    "choices": [
+      "1 second",
+      "3 to 5 seconds",
+      "Roughly 10 to 15 seconds",
+      "30 seconds"
+    ],
+    "answerIndex": 1,
+    "explanation": "The last balance progression combines hopping motions with a single-leg stance landing, holding the balance position for 3 to 5 seconds. These exercises develop deceleration ability, taking the body from a dynamic state to a controlled stationary position. Examples include multiplanar hop with stabilization and multiplanar single-leg box hop-up and hop-down with stabilization."
+  },
+  {
+    "id": "nasm-prg-025",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Balance progression",
+    "question": "A client has mastered single-leg balance exercises on the floor. Which options are appropriate to increase difficulty?",
+    "choices": [
+      "Add maximal external load so the stabilizers are forced to work considerably harder",
+      "Move immediately to depth jumps",
+      "Add balance modalities, dual-task scenarios, and altered vision",
+      "Change every variable at once to maximize the stimulus"
+    ],
+    "answerIndex": 2,
+    "explanation": "Once a progression is mastered, difficulty can be raised with balance modalities such as a balance beam, half-foam roll, foam pad, balance disc, or wobble board, or with cognitive dual-task scenarios like naming the months while balancing, eye-closing tasks, and head or eye movement. Only one variable should be changed at a time. Balance modalities should not be used for maximal or near-maximal lifts."
+  },
+  {
+    "id": "nasm-prg-026",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Balance training",
+    "question": "Which systematic surface progression is recommended for balance training equipment?",
+    "choices": [
+      "Balance disc, wobble board, foam pad, half-foam roll, then the floor",
+      "Stability ball standing, then floor",
+      "Wobble board first, then floor",
+      "Floor, balance beam, half-foam roll, foam pad, balance disc"
+    ],
+    "answerIndex": 3,
+    "explanation": "Clients should start in an environment they can safely control and progress systematically from the floor to a balance beam, half-foam roll, foam pad, and balance disc. Starting on the least stable surface skips the control needed to benefit from it. Standing on a stability ball is never recommended."
+  },
+  {
+    "id": "nasm-prg-027",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Plyometric training",
+    "question": "What prerequisites must a client meet before performing explosive plyometric exercises?",
+    "choices": [
+      "Adequate core strength, joint stability, range of motion, and balance",
+      "A one-rep max squat of at least one and a half times the client's body weight",
+      "Six months of aerobic training only",
+      "Completion of maximal strength testing"
+    ],
+    "answerIndex": 0,
+    "explanation": "Clients must possess adequate core strength, joint stability, and range of motion and be able to balance efficiently before performing explosive plyometric exercises. Basic levels of total body strength, core strength, and balance are required before progressing into plyometric training. Assigning exercises that are too advanced leads to compensation, faulty patterns, and increased injury risk."
+  },
+  {
+    "id": "nasm-prg-028",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Plyometric training",
+    "question": "What does the integrated performance paradigm state?",
+    "choices": [
+      "Forces must be concentrically produced first and then absorbed slowly on the return",
+      "Force must be eccentrically loaded, then quickly redirected concentrically",
+      "Power equals work divided by distance",
+      "Volume must always precede intensity"
+    ],
+    "answerIndex": 1,
+    "explanation": "The integrated performance paradigm states that precise movement requires forces to be eccentrically loaded, isometrically stabilized, and then unloaded or concentrically accelerated. This mirrors the three phases of the stretch-shortening cycle used in plyometric exercise. The faster the client moves through the transition, the more powerful the concentric contraction."
+  },
+  {
+    "id": "nasm-prg-029",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Plyometric training",
+    "question": "On which three stretch variables does the eccentric loading phase depend?",
+    "choices": [
+      "Height, distance covered, and the client's body weight",
+      "Load, velocity, and rest interval",
+      "Magnitude, rate, and duration of the stretch",
+      "Tempo, sets, and repetitions"
+    ],
+    "answerIndex": 2,
+    "explanation": "The eccentric phase depends on the magnitude of the stretch, the rate of the stretch, and the duration of the stretch. Manipulating any of these can change how much energy is stored during the eccentric prestretch. During this phase elastic energy is stored and muscle spindles are stimulated, sending signals to the central nervous system."
+  },
+  {
+    "id": "nasm-prg-031",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Plyometric volume",
+    "question": "How is plyometric volume expressed?",
+    "choices": [
+      "As the number of foot contacts, throws, or catches",
+      "In total minutes of drill activity completed in each session",
+      "As percentage of one-rep max",
+      "As calories expended per session"
+    ],
+    "answerIndex": 0,
+    "explanation": "Plyometric volume is expressed as the number of foot contacts, throws, or catches. Three sets of five squat jumps, for instance, equals a volume of 15. Intensity, separately, describes the distance covered and the amount of effort or stress applied by muscles, connective tissue, and joints."
+  },
+  {
+    "id": "nasm-prg-032",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Plyometric recovery",
+    "question": "How much recovery is recommended between plyometric sessions for novice clients?",
+    "choices": [
+      "Between 8 and 12 hours",
+      "48 to 72 hours",
+      "24 hours",
+      "1 week"
+    ],
+    "answerIndex": 1,
+    "explanation": "At least 48 to 72 hours between sessions is the recommended guideline for novice individuals, whereas the general recommendation is at least 1 day between intense plyometric sessions. Most apparently healthy clients can perform one to three plyometric sessions per week. Frequency should reflect the client's fitness level, current program, training and injury history, and goals."
+  },
+  {
+    "id": "nasm-prg-033",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Plyometric recovery",
+    "question": "What recovery time between plyometric drills is generally described as sufficient for full recovery?",
+    "choices": [
+      "10 to 20 seconds",
+      "Between 3 and 5 full minutes",
+      "60 to 120 seconds",
+      "8 to 10 minutes"
+    ],
+    "answerIndex": 2,
+    "explanation": "As a general rule, 60 to 120 seconds of recovery between drills is sufficient for full recovery. The precise amount is strictly determined by the client's fitness level. Insufficient recovery degrades movement quality, which is the priority in plyometric work."
+  },
+  {
+    "id": "nasm-prg-034",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Plyometric progression",
+    "question": "How long should a client hold the landing position in the first level of plyometric progression?",
+    "choices": [
+      "1 second",
+      "They should not pause at all",
+      "10 seconds",
+      "3 to 5 seconds"
+    ],
+    "answerIndex": 3,
+    "explanation": "In the introductory plyometric progression the client holds or stabilizes the landing position for 3 to 5 seconds, making any adjustments needed to correct faulty posture before the next jump. Example exercises include squat jump with stabilization, box jump-up with stabilization, box jump-down with stabilization, and multiplanar jump with stabilization. Later progressions replace the hold with a repeating tempo."
+  },
+  {
+    "id": "nasm-prg-035",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Plyometric progression",
+    "question": "Which exercises belong to the final, most advanced plyometric progression?",
+    "choices": [
+      "Ice skaters, single-leg power step-up, and depth jump",
+      "Squat jump, tuck jump, and butt kick",
+      "Squat jump with stabilization and box jump-down with stabilization",
+      "Plank and side plank"
+    ],
+    "answerIndex": 0,
+    "explanation": "The final plyometric progression includes ice skaters, single-leg power step-up, proprioceptive plyometrics, and depth jumps, performed as fast and explosively as possible. The stabilization-hold exercises are the introductory level, and squat jumps, tuck jumps, butt kicks, and power step-ups make up the intermediate repeating-tempo level. Planks are core exercises rather than plyometrics."
+  },
+  {
+    "id": "nasm-prg-036",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Plyometric safety",
+    "question": "Which safety conditions apply to plyometric training?",
+    "choices": [
+      "Bare feet on a concrete floor, which improves proprioceptive feedback during landings",
+      "Supportive shoes, a proper surface, and a stable box",
+      "Any surface as long as the client is warmed up",
+      "Loaded implements from the first session"
+    ],
+    "answerIndex": 1,
+    "explanation": "Plyometric training should be performed only in supportive shoes and on a proper training surface such as a grass field, basketball court, or tartan or rubber track, with proper supervision. Progression should move easy to hard, low to high amplitude, simple to complex, known to unknown, and body weight to loaded. As a general rule clients should master dual-foot drills before progressing to single-foot drills."
+  },
+  {
+    "id": "nasm-prg-037",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Plyometric intensity",
+    "question": "During a set of tuck jumps, a client's landing mechanics deteriorate and their knees begin caving in. What should the trainer do?",
+    "choices": [
+      "Complete the prescribed repetitions and address it next session",
+      "Add external load to force better positioning",
+      "Drop the intensity until proper technique is restored",
+      "Increase the tempo so the client spends less time on the ground"
+    ],
+    "answerIndex": 2,
+    "explanation": "Plyometric intensity should be programmed based on the client's ability to execute the movement while maintaining adequate technique. If technique is lost, the intensity should drop until proper technique is achieved. Starting conservatively is preferable since intensity can always be raised once the client demonstrates competency."
+  },
+  {
+    "id": "nasm-prg-038",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Speed",
+    "question": "Speed is the product of which two variables?",
+    "choices": [
+      "Reaction time and rate of acceleration",
+      "Force and velocity",
+      "Distance and body weight",
+      "Stride rate and stride length"
+    ],
+    "answerIndex": 3,
+    "explanation": "Speed is the ability to move the body in one direction as fast as possible and is the product of stride rate and stride length. Stride rate is the number of strides taken in a given time or distance, and stride length is the distance covered in one stride. Speed is measured as distance divided by time."
+  },
+  {
+    "id": "nasm-prg-039",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Agility versus change of direction",
+    "question": "How does agility differ from change of direction?",
+    "choices": [
+      "Agility requires reacting to a stimulus; change of direction is preplanned",
+      "Change of direction requires reacting to an external stimulus while agility is preplanned",
+      "They are identical concepts",
+      "Agility applies only to straight-line sprinting"
+    ],
+    "answerIndex": 0,
+    "explanation": "Agility involves reacting to a signal or stimulus and then changing sprinting direction in response, while change of direction requires accelerating, decelerating, and changing direction without reacting to a signal. Both fit under the umbrella of agility training but are separate concepts. Agility also requires maintaining postural control throughout."
+  },
+  {
+    "id": "nasm-prg-040",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Quickness",
+    "question": "What is quickness?",
+    "choices": [
+      "The ability to sustain a maximal sprinting velocity over an extended total distance",
+      "Reacting to a stimulus and changing position quickly",
+      "The ability to decelerate over the longest possible distance",
+      "The maximum stride length attainable"
+    ],
+    "answerIndex": 1,
+    "explanation": "Quickness is the ability to react and change body position with maximal rate of force production, in all planes of motion and from all body positions, during dynamic activity. It requires assessing visual, auditory, or kinesthetic stimuli and delivering an appropriate physical response as fast as possible. Hitting a baseball is a common example."
+  },
+  {
+    "id": "nasm-prg-041",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Running mechanics",
+    "question": "What movements make up frontside running mechanics?",
+    "choices": [
+      "Triple extension: ankle plantar flexion, knee extension, and hip extension",
+      "Trunk rotation and arm swing only",
+      "Triple flexion: ankle dorsiflexion, knee flexion, and hip flexion",
+      "Lateral hip abduction and adduction"
+    ],
+    "answerIndex": 2,
+    "explanation": "Frontside mechanics involve triple flexion, the synchronized movement of ankle dorsiflexion, knee flexion, and hip flexion. Improved frontside mechanics are associated with better stability, less braking force, and increased forward driving force. Backside mechanics involve triple extension and are associated with a stronger push phase."
+  },
+  {
+    "id": "nasm-prg-042",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Running mechanics",
+    "question": "How should the lumbo-pelvic-hip complex be positioned during acceleration versus maximal velocity sprinting?",
+    "choices": [
+      "Fully extended during acceleration and flexed at maximal velocity",
+      "Rotated toward the lead leg during both the acceleration and maximal speed phases",
+      "Neutral during acceleration and extended at maximal velocity",
+      "A slight forward lean when accelerating, near neutral at top speed"
+    ],
+    "answerIndex": 3,
+    "explanation": "During acceleration the body should have a slight forward torso lean, while at maximal velocity the lumbo-pelvic-hip complex should be fairly neutral without excessive extension or flexion. The foot and ankle should point straight ahead in a dorsiflexed position at ground contact, and the knees must track straight ahead. The head should remain in line with the complex, which stays in line with the legs."
+  },
+  {
+    "id": "nasm-prg-043",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "SAQ programming",
+    "question": "Which speed, agility, and quickness parameters are recommended for a beginner?",
+    "choices": [
+      "4 to 6 drills, 1 to 2 sets, limited inertia and unpredictability",
+      "6 to 8 drills, 3 to 4 sets, with maximal inertia and full unpredictability throughout",
+      "6 to 10 drills with maximal unpredictability, 3 to 5 sets, 3 to 5 repetitions",
+      "10 to 12 drills, 5 sets, 8 repetitions, no rest"
+    ],
+    "answerIndex": 0,
+    "explanation": "Beginners perform 4 to 6 drills with limited inertia and unpredictability, such as cone shuffles and agility ladder drills, for 1 to 2 sets of 2 to 3 repetitions with 15 to 60 seconds of rest. Intermediate clients advance to 6 to 8 drills with greater horizontal inertia for 3 to 4 sets of 3 to 5 repetitions. Advanced clients use 6 to 10 drills with maximal inertia and unpredictability for 3 to 5 sets."
+  },
+  {
+    "id": "nasm-prg-044",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "SAQ programming",
+    "question": "Which drills suit the intermediate level of speed, agility, and quickness training?",
+    "choices": [
+      "Cone shuffles plus the agility ladder in-and-out footwork drill",
+      "5-10-5, T-drill, box drill, stand-up to figure 8",
+      "Modified box drill and partner mirror drill",
+      "Depth jumps and ice skaters"
+    ],
+    "answerIndex": 1,
+    "explanation": "Intermediate drills allow greater horizontal inertia but limited unpredictability and include the 5-10-5, T-drill, box drill, and stand-up to figure 8. Cone shuffles and agility ladder drills sit at the beginner level. The modified box drill, partner mirror drill, and timed drills are advanced because they allow maximal inertia and unpredictability."
+  },
+  {
+    "id": "nasm-prg-045",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "SAQ progression",
+    "question": "A client new to agility work asks to be timed on drills from the first session. What is the better approach?",
+    "choices": [
+      "Time every drill immediately so the client has an objective performance baseline",
+      "Skip agility work entirely for beginners",
+      "Focus on technique first, then progress toward speed",
+      "Introduce unpredictable partner reaction drills first"
+    ],
+    "answerIndex": 2,
+    "explanation": "Once introduced, speed, agility, and quickness drills should progress from slow and simple to fast and complex over an extended period. The initial focus should be technique rather than speed, so the client is properly prepared before speed-focused performance is emphasized. Because injury risk rises with movement speed and reactivity, timed and unpredictable drills belong at the advanced level."
+  },
+  {
+    "id": "nasm-prg-046",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "SAQ for general populations",
+    "question": "Which benefit is attributed to speed, agility, and quickness training for nonathletic populations?",
+    "choices": [
+      "It is only useful for competitive athletes preparing for a specific sporting season",
+      "It should be reserved for clients under age 25",
+      "It replaces the need for resistance training",
+      "It improves athleticism, aids injury prevention, and adds variety"
+    ],
+    "answerIndex": 3,
+    "explanation": "The increased physical demands of this training can improve athleticism and movement proficiency and aid injury prevention. Individuals from a variety of populations find it fun and invigorating, which increases exercise compliance, adherence, and effectiveness. Because of the elevated intensity, extensive client assessment of exercise experience is essential first."
+  },
+  {
+    "id": "nasm-prg-047",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Modified box drill",
+    "question": "How is the modified box drill performed?",
+    "choices": [
+      "Starting at the middle cone, moving to whichever cone is called",
+      "The client sprints a fixed preplanned route between four cones set in a square",
+      "The client shuffles laterally through an agility ladder",
+      "The client jumps onto and off a box repeatedly"
+    ],
+    "answerIndex": 0,
+    "explanation": "In the modified box drill the client begins at the middle cone, the trainer calls out a cone number, and the client moves to that cone and returns to the middle to wait for the next call. Because the client reacts to an external signal, the drill trains true agility rather than pre-planned change of direction. Its unpredictability places it at the advanced level."
+  },
+  {
+    "id": "nasm-prg-048",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Resistance training systems",
+    "question": "What defines a warm-up set?",
+    "choices": [
+      "A set taken to failure before the load is reduced and the set continued",
+      "One to two sets at low intensity, 10 to 15 repetitions",
+      "Four or more exercises in rotation with minimal rest",
+      "Two exercises for opposing muscle groups back to back"
+    ],
+    "answerIndex": 1,
+    "explanation": "A warm-up set is one to two sets at low intensity to prepare the client psychologically and physiologically, with 10 to 15 repetitions typically sufficient. The load must not cause undue fatigue that would compromise the remaining working sets. A set to failure followed by load reduction describes a drop set."
+  },
+  {
+    "id": "nasm-prg-049",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Resistance training systems",
+    "question": "Which training system involves performing four or more exercises in rotation with as little rest as possible?",
+    "choices": [
+      "Superset",
+      "Pyramid",
+      "Giant set",
+      "A rest-pause set"
+    ],
+    "answerIndex": 2,
+    "explanation": "A giant set involves four or more exercises performed in rotation with as little rest as possible between sets. It is best to focus on one muscle group at a time with three or more exercises at 8 to 12 repetitions. Giant sets have been shown to improve one-rep maximum load, peak and shuttle-run performance, and lean muscle mass."
+  },
+  {
+    "id": "nasm-prg-050",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Resistance training systems",
+    "question": "What are the two variations of the superset system?",
+    "choices": [
+      "Upper body followed immediately by lower body with no rest taken between them",
+      "One heavy set followed by one light set of the same exercise",
+      "A set with a pause between each repetition, or a set to failure",
+      "Two exercises back to back for the same or opposing muscle groups"
+    ],
+    "answerIndex": 3,
+    "explanation": "A superset performs two exercises in rapid succession with minimal rest. The first variation pairs two exercises for the same muscle group, improving muscular endurance and hypertrophy through relatively high volume. The second pairs opposing muscle groups, which allows a significant load to be placed on the target muscle during each set."
+  },
+  {
+    "id": "nasm-prg-051",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Complex training",
+    "question": "What mechanism is complex training primarily based on?",
+    "choices": [
+      "Post-activation potentiation",
+      "Reciprocal inhibition of the antagonist",
+      "Autogenic inhibition",
+      "Peripheral vasodilation"
+    ],
+    "answerIndex": 0,
+    "explanation": "Complex training pairs a heavy multijoint exercise with an immediately following explosive movement, such as a barbell squat then a vertical jump, and is primarily based on post-activation potentiation. Post-activation potentiation is the condition in which acute muscle-force generation increases as a result of the preceding contractions. Because of the high stress, the neuromuscular system needs about 72 hours for complete recovery, so implementation is generally limited to two to four sessions per week."
+  },
+  {
+    "id": "nasm-prg-052",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Resistance training systems",
+    "question": "Which training system alternates upper and lower body exercises throughout the set?",
+    "choices": [
+      "Vertical loading of the body",
+      "Peripheral heart action",
+      "Horizontal loading",
+      "Split routine"
+    ],
+    "answerIndex": 1,
+    "explanation": "Peripheral heart action is a variation of circuit training that alternates upper and lower body exercises throughout the set. It is beneficial for delivering an integrated, multidimensional program and for altering body composition and improving health outcomes. Vertical loading instead works down the body from total-body through chest, back, shoulders, biceps, triceps, and legs."
+  },
+  {
+    "id": "nasm-prg-053",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Vertical and horizontal loading",
+    "question": "How does horizontal loading differ from vertical loading?",
+    "choices": [
+      "Horizontal loading is only used with machines while vertical loading suits free weights",
+      "Horizontal loading alternates upper and lower body; vertical loading uses only machines",
+      "Horizontal completes all sets of one exercise; vertical rotates down the sheet",
+      "There is no practical difference"
+    ],
+    "answerIndex": 2,
+    "explanation": "Horizontal loading completes all sets of an exercise or body part before moving on, which is the method most commonly used in health clubs and is appropriate for hypertrophy, maximal strength, and power. Vertical loading performs strength exercises in rapid succession working from the upper body down to the lower body, allowing maximal recovery for each body part while minimizing wasted rest time. The main drawback of horizontal loading is the amount of time spent resting."
+  },
+  {
+    "id": "nasm-prg-054",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Resistance training systems",
+    "question": "A client has only 30 minutes per session and wants to change body composition. Which training system fits best?",
+    "choices": [
+      "Horizontal loading with a full three minutes of rest taken between every set",
+      "Drop sets to failure on every exercise",
+      "Maximal strength sets of 1 to 3 repetitions",
+      "Circuit training, moving between exercises with minimal rest"
+    ],
+    "answerIndex": 3,
+    "explanation": "Circuit training performs a series of exercises one after the other with minimal rest and is described as a great system for individuals with limited time and those who want to alter body composition. Horizontal loading has the drawback of spending more time resting than working. Drop sets are an advanced technique suited to experienced lifters."
+  },
+  {
+    "id": "nasm-prg-055",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Drop sets",
+    "question": "How is a drop set performed, and who is it suited to?",
+    "choices": [
+      "A set to failure, then a small load reduction and continuation",
+      "Increasing the load each set while reducing the repetitions performed in that set",
+      "Pausing briefly between repetitions; suited to all clients",
+      "Rotating four exercises with no rest; suited to endurance athletes"
+    ],
+    "answerIndex": 0,
+    "explanation": "A drop set takes a set to failure, then removes a small percentage of the load and continues the set. It is considered an advanced form of resistance training suitable for experienced lifters. Increasing or decreasing weight with each set describes the pyramid system instead."
+  },
+  {
+    "id": "nasm-prg-056",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Rest-pause set",
+    "question": "How should load and rest be manipulated in a rest-pause set depending on the client's goal?",
+    "choices": [
+      "Light loads with long rest periods for strength and heavy loads for endurance",
+      "Heavier loads and longer rest for strength; lighter for endurance",
+      "The same load and rest regardless of goal",
+      "Maximal loads with no rest for all goals"
+    ],
+    "answerIndex": 1,
+    "explanation": "A rest-pause set incorporates a slight pause between repetitions within a series of sets. Heavier loads with slightly longer rest periods are recommended for clients seeking maximal strength. Moderate loads with shorter rest periods suit clients pursuing muscular endurance or body composition change."
+  },
+  {
+    "id": "nasm-prg-057",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Split routines",
+    "question": "Which split arrangement suits a three-day resistance training routine?",
+    "choices": [
+      "Monday upper body, Thursday lower body",
+      "Monday chest and triceps; Tuesday back and biceps; Thursday legs; Friday shoulders",
+      "Monday chest, shoulders, and triceps; Wednesday legs; Friday back and biceps",
+      "Monday chest; Tuesday legs; Wednesday back; Thursday shoulders; Friday arms"
+    ],
+    "answerIndex": 2,
+    "explanation": "The three-day split is described as chest, shoulders, and triceps on Monday, legs on Wednesday, and back and biceps on Friday. A two-day split uses upper body and lower body days, and the four- and five-day versions divide the body further. Recovery time is the important issue to manage in these routines."
+  },
+  {
+    "id": "nasm-prg-058",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Split routines",
+    "question": "Why do bodybuilders and mass- or strength-dominant athletes commonly use split routines?",
+    "choices": [
+      "They reduce total weekly training volume, which is why they suit beginners best",
+      "They are the only system that improves cardiorespiratory fitness",
+      "They eliminate the need for recovery days",
+      "Training body parts on different days allows more volume per muscle"
+    ],
+    "answerIndex": 3,
+    "explanation": "By dividing the body into parts trained on separate days, more work can be performed within the time allotted per workout, which can increase muscular hypertrophy. Bodybuilders typically perform numerous exercises for the same body part in one session for that reason. The key issue with these routines is managing recovery time."
+  },
+  {
+    "id": "nasm-prg-059",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Multiple-set training",
+    "question": "How does multiple-set training compare with single-set training?",
+    "choices": [
+      "Multiple sets are superior for more advanced clients",
+      "Single-set training is always superior once a client has passed the novice stage",
+      "Multiple-set training is inappropriate for anyone",
+      "The two produce identical results in every population"
+    ],
+    "answerIndex": 0,
+    "explanation": "Multiple-set training has been shown to be superior to single-set training for more advanced clients, since the increased volume from added sets, repetitions, and intensity is necessary for further improvement. The single-set system can still be beneficial, especially for beginning-level clients. Added volume must be administered appropriately to avoid overtraining."
+  },
+  {
+    "id": "nasm-prg-060",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Spotting",
+    "question": "Where should a trainer spot when a client performs a dumbbell shoulder press?",
+    "choices": [
+      "At the elbows, in order to prevent the joint from hyperextending under load",
+      "At the wrists, giving better support with no elbow interference",
+      "Under the dumbbells themselves",
+      "At the client's shoulders"
+    ],
+    "answerIndex": 1,
+    "explanation": "Trainers are encouraged to spot at the client's wrists rather than the elbows when using dumbbells. Spotting at the wrist provides better support for the lifter and eliminates the elbows collapsing inward. Compound lifts such as the barbell back squat, bench press, and dumbbell shoulder press all benefit from a spotter, especially with heavier loads."
+  },
+  {
+    "id": "nasm-prg-061",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Spotting",
+    "question": "How should a spotter be positioned for a barbell squat?",
+    "choices": [
+      "In front of the lifter with both hands cupped beneath the loaded barbell",
+      "Beside the lifter holding one end of the bar",
+      "Behind the lifter, upper arms under the lifter's armpits",
+      "Seated behind the rack"
+    ],
+    "answerIndex": 2,
+    "explanation": "During a barbell squat the spotter stands behind the lifter and places their upper arms underneath the lifter's armpits, which provides maximum spotting security. For loads beyond what one spotter can manage, two spotters stand on opposite sides of the barbell and assist by lifting the ends if needed. The spotter should maintain a stable, wide-stance position throughout."
+  },
+  {
+    "id": "nasm-prg-062",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Spotting",
+    "question": "Which spotting practice is specifically not recommended?",
+    "choices": [
+      "Agreeing on the number of repetitions and the liftoff signal before the set",
+      "Using two spotters for a heavy barbell back squat",
+      "Supporting the client through the sticking point",
+      "Placing hands under a machine or cable weight stack"
+    ],
+    "answerIndex": 3,
+    "explanation": "Placing hands underneath the weight stack to spot machine- or cable-based exercises is not recommended, because it increases injury risk to both the spotter and the lifter. Regulating the number of repetitions before each set, delivering ample support through the sticking point, and using an additional spotter for very heavy loads are all recommended practices. The spotter should also keep a stable, wide stance."
+  },
+  {
+    "id": "nasm-prg-063",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Equipment safety",
+    "question": "Which equipment practice supports a safe training environment?",
+    "choices": [
+      "Returning equipment and never using damaged equipment",
+      "Leaving equipment where the client finished so the next set can begin quickly",
+      "Using equipment with missing pieces if the client is experienced",
+      "Cleaning equipment only when it is replaced"
+    ],
+    "answerIndex": 0,
+    "explanation": "Trainers should be aware of the equipment used during sessions and return everything to its original place, since untidy equipment becomes a tripping hazard. Damaged equipment such as frayed cables or missing and unstable pieces should never be used and must be repaired or replaced. Existing equipment should also be regularly cleaned and upgraded over time."
+  },
+  {
+    "id": "nasm-prg-064",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Exercise progression",
+    "question": "Once a client shows adequate movement competency, in what order should resistance exercises progress?",
+    "choices": [
+      "Power-focused first, then strength-focused, and finally stabilization-focused",
+      "Stabilization-focused, then strength-focused, then power-focused",
+      "Strength-focused, then stabilization-focused, then power-focused",
+      "Stabilization-focused, then power-focused, then strength-focused"
+    ],
+    "answerIndex": 1,
+    "explanation": "Resistance exercises should initially focus on optimizing ideal movement patterns, then progress systematically through stabilization-focused, strength-focused, and finally power-focused exercises. This ordering mirrors the levels of the OPT model. Reversing it asks the body to express force it cannot yet control."
+  },
+  {
+    "id": "nasm-prg-065",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "General adaptation syndrome",
+    "question": "Which three stages make up the general adaptation syndrome?",
+    "choices": [
+      "Eccentric loading, amortization, and then the concentric phase",
+      "Cognitive, associative, and autonomous",
+      "Alarm reaction, resistance development, and exhaustion",
+      "Preparatory, competitive, and transition"
+    ],
+    "answerIndex": 2,
+    "explanation": "The general adaptation syndrome model describes alarm reaction, resistance development, and exhaustion. The alarm reaction is the initial response to a stressor and can involve fatigue, joint stiffness, or delayed-onset muscle soreness. Resistance development produces the physiological changes that improve performance, while prolonged or intolerable stress leads to exhaustion, characterized by stress fractures, strains, sprains, joint pain, and emotional fatigue."
+  },
+  {
+    "id": "nasm-prg-066",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "SAID principle",
+    "question": "What does the principle of specificity, often called the SAID principle, describe?",
+    "choices": [
+      "The rate at which flexibility is lost with detraining",
+      "The order in which energy systems are recruited",
+      "The relationship between muscle length and tension",
+      "The body's responses and adaptations to exercise"
+    ],
+    "answerIndex": 3,
+    "explanation": "The principle of specificity, often referred to as the SAID principle, describes the body's responses and adaptations to exercise. Neuromuscular specificity within it refers to the speed of contraction and to exercise selection. Together with the general adaptation syndrome it dictates that the training stimulus must match the desired adaptation."
+  },
+  {
+    "id": "nasm-prg-068",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Cable machines",
+    "question": "What advantage do cable machines offer over selectorized strength equipment, and what must be matched?",
+    "choices": [
+      "A higher maximum load, provided the cable is aligned with the joint axis",
+      "Greater range of motion, matched to the intended muscle action",
+      "Lower cost; the cable length must be matched to the room size",
+      "Greater stability; the load must be matched to one-rep max"
+    ],
+    "answerIndex": 1,
+    "explanation": "Cable machines can provide a greater range of motion compared with selectorized strength equipment. When using them it is important to match the cable's resistance to the muscle's natural line of pull. Misaligning that line changes which tissues are loaded and can reduce both effectiveness and safety."
+  },
+  {
+    "id": "nasm-prg-069",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Elastic resistance",
+    "question": "What is a stated limitation of elastic bands and tubing?",
+    "choices": [
+      "They cannot mimic sport-specific movement patterns in any of the three planes",
+      "They are heavy and difficult to transport",
+      "They may not develop high levels of maximal strength",
+      "They cannot be used for resisted exercise"
+    ],
+    "answerIndex": 2,
+    "explanation": "Elastic bands and tubing are portable and inexpensive and let clients perform resisted exercises that mimic sport movements such as a golf swing or tennis forehand. Their limitation is that they may not be ideal for developing high levels of strength and muscular hypertrophy. That makes them well suited to warm-ups, activation, and pattern work rather than maximal loading."
+  },
+  {
+    "id": "nasm-prg-070",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Kettlebells",
+    "question": "What distinguishes a kettlebell from a dumbbell, barbell, or medicine ball?",
+    "choices": [
+      "It is always heavier",
+      "It provides continuous instability because the internal load shifts during every repetition",
+      "It cannot be used for pressing movements",
+      "Its center of mass sits away from the handle, demanding control"
+    ],
+    "answerIndex": 3,
+    "explanation": "A kettlebell differs in that its center of mass sits away from the handle. That offset may require more strength and coordination and increases simultaneous recruitment from stabilizers and prime movers during particular movements. Continuous instability from shifting internal contents describes a sandbag instead."
+  },
+  {
+    "id": "nasm-prg-071",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Sandbags",
+    "question": "What makes sandbag training distinct from barbells, dumbbells, and selectorized machines?",
+    "choices": [
+      "The shifting sand provides continuous instability",
+      "Sandbags provide a completely fixed load that never moves during the lift itself",
+      "Sandbags can only be used for pressing",
+      "Sandbags are limited to loads under 20 pounds"
+    ],
+    "answerIndex": 0,
+    "explanation": "Unlike barbells, dumbbells, and machines, the sand inside a sandbag constantly shifts, providing continuous instability. That instability combined with multiplanar movement engages the core and stabilizing joints more dynamically than isolated exercises. Sandbags range from about 15 lb to over 160 lb and suit all phases of the OPT model."
+  },
+  {
+    "id": "nasm-prg-072",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "ViPR",
+    "question": "What does the acronym ViPR stand for, and what training approach does it use?",
+    "choices": [
+      "Velocity, intensity, power, and resistance; isolated resistance training",
+      "Vitality, performance, and reconditioning; loaded movement training",
+      "Variable, integrated, progressive resistance; circuit training",
+      "Vertical, isometric, plyometric, reactive; plyometric training"
+    ],
+    "answerIndex": 1,
+    "explanation": "ViPR stands for vitality, performance, and reconditioning. Designed to be dragged, tossed, lifted, pulled, pressed, and carried, it enables multidirectional, full-body exercise with external load, an approach known as loaded movement training. It suits sports requiring explosive rotational strength and can be used in all phases of the OPT model."
+  },
+  {
+    "id": "nasm-prg-073",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Battle ropes",
+    "question": "How should battle rope diameter be matched to the training goal?",
+    "choices": [
+      "Rope diameter has no effect on the training outcome, only on the grip required",
+      "Heavier ropes for endurance work and thinner ropes for power work",
+      "Thinner ropes for endurance, thicker ropes for strength and power",
+      "Only 2 in. ropes should be used with beginners"
+    ],
+    "answerIndex": 2,
+    "explanation": "Smaller ropes of roughly 1.0 to 1.5 in. diameter are used primarily for aerobic and muscular endurance adaptations with bouts of 30 seconds or more. Heavier 2 in. ropes suit strength, power, and anaerobic adaptations with bouts of 30 seconds or less. Thinner ropes are also recommended for those new to exercise, smaller in stature, or with weaker grip strength."
+  },
+  {
+    "id": "nasm-prg-074",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Suspended bodyweight training",
+    "question": "In which phases of the OPT model are suspended bodyweight exercises described as ideal?",
+    "choices": [
+      "Phases 4 and 5 of the model",
+      "Phase 5 only",
+      "Phase 3 only",
+      "Phases 1 and 2"
+    ],
+    "answerIndex": 3,
+    "explanation": "Because of their stabilization requirements, suspended bodyweight exercises are ideal in Phases 1 and 2 of the OPT model, though they can be integrated into all phases, especially for core and balance work. In Phase 1 a suspended push-up might serve as a chest exercise, and in Phase 2 the same movement could be supersetted after a barbell bench press. Benefits include increased core activation, low spinal compressive loads, and improved balance."
+  },
+  {
+    "id": "nasm-prg-075",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Stability balls",
+    "question": "Which stability ball size is suggested for a client who is 5 feet 10 inches tall?",
+    "choices": [
+      "65 cm",
+      "A 55 cm ball",
+      "45 cm",
+      "75 cm"
+    ],
+    "answerIndex": 0,
+    "explanation": "The suggested sizing is 45 cm for clients 5 feet 0 inches and under, 55 cm for 5 feet 1 inch to 5 feet 7 inches, 65 cm for 5 feet 8 inches to 6 feet, and 75 cm for taller than 6 feet. A client at 5 feet 10 inches therefore falls in the 65 cm range. Correct sizing supports proper joint angles and posture during use."
+  },
+  {
+    "id": "nasm-prg-076",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Stability balls",
+    "question": "Which safety guideline applies to stability ball training?",
+    "choices": [
+      "Standing exercises on the ball are the most effective progression available",
+      "Never stand on a stability ball, and avoid near-maximal loads",
+      "The ball should be underinflated so it deforms easily",
+      "Jewelry improves grip on the ball surface"
+    ],
+    "answerIndex": 1,
+    "explanation": "Standing exercises on a stability ball are never recommended, and maximal or near-maximal lifts should not be performed on one. The ball should be fully inflated and firm, ideally burst resistant, inspected for damage, used away from machines and furniture, and kept from direct heat. Sharp objects such as jewelry should not be worn, and children should use a ball only with adult supervision."
+  },
+  {
+    "id": "nasm-prg-077",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Stability balls",
+    "question": "A novice exerciser with poor balance wants to perform a dumbbell chest press on a stability ball. What is the recommended approach?",
+    "choices": [
+      "Proceed, since instability itself will teach the movement pattern more quickly",
+      "Use maximal load to build stability faster",
+      "Build proficiency on a stable surface first",
+      "Have them stand on the ball for the same exercise"
+    ],
+    "answerIndex": 2,
+    "explanation": "Novice exercisers with poor balance should first attain proficiency performing exercises on a stable surface, then progress to a more unstable environment such as a stability ball, particularly during Phase 1. The exception is when an orthopedic limitation exists that the ball would alleviate. Stability balls can be dangerous for clients lacking balance or control, so the risk-reward tradeoff must be evaluated."
+  },
+  {
+    "id": "nasm-prg-078",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "BOSU ball",
+    "question": "What does the name BOSU stand for, and which side is not recommended for standing?",
+    "choices": [
+      "Balance on stable unit; the dome side up is the most advanced progression available",
+      "Body stability upgrade; the flat side is safe to stand on",
+      "Balanced overload stability unit; neither side should be stood on",
+      "Both sides utilized; the flat side is the advanced progression"
+    ],
+    "answerIndex": 3,
+    "explanation": "BOSU stands for both sides utilized, referring to the ability to use the device with either side up. Although both sides can be used, standing on the flat side with the dome down is not recommended by the manufacturer. The dome side is relatively safe to stand on, making the device practical for training lower limb balance and stability."
+  },
+  {
+    "id": "nasm-prg-079",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Terra-Core",
+    "question": "How does the Terra-Core differ from a stability ball in practical use?",
+    "choices": [
+      "Its inflatable bladder with hard backing makes standing safer",
+      "It is fully inflatable with no rigid backing, which is why loading is limited",
+      "It cannot be used for any resistance exercise",
+      "It is intended for standing balance work only"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Terra-Core combines an inflatable rubber bladder with a hard-surfaced backing and a larger footprint. Unlike stability balls, it is safe to perform several resistance training exercises, such as a dumbbell chest press, while lying supine on it. That makes it a practical bridge between a bench and a fully unstable surface."
+  },
+  {
+    "id": "nasm-prg-080",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Medicine balls",
+    "question": "How can medicine balls be used within a training program?",
+    "choices": [
+      "Only for maximal strength work performed with a partner in a seated position",
+      "To add load or instability, and for plyometric progressions",
+      "Only for aerobic conditioning",
+      "Only with competitive athletes"
+    ],
+    "answerIndex": 1,
+    "explanation": "Medicine balls can be used like other resistance implements to add load or instability to an exercise. They suit a variety of populations as part of programs targeting muscular strength, endurance, and power, and in some cases they assist rehabilitation from injury. When used for power work in Phase 5, the ball should weigh no more than about 10% of the client's body weight."
+  },
+  {
+    "id": "nasm-prg-081",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Heart rate monitors",
+    "question": "Which type of heart rate monitor provides the most accurate readings?",
+    "choices": [
+      "Wristband or watch monitors with optical sensors",
+      "Smartphone face scan features",
+      "Chest strap monitors",
+      "Pedometers"
+    ],
+    "answerIndex": 2,
+    "explanation": "Although wristbands and watches are the most convenient and widely used, chest strap monitors provide the most accurate readings. Wrist-worn devices lose accuracy at higher intensities and may be especially inaccurate during upper body movements. Smartphone face scan capabilities have not been shown to measure heart rate accurately and are not recommended."
+  },
+  {
+    "id": "nasm-prg-082",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Heart rate recovery",
+    "question": "What does the speed of heart rate decline in the first minute after vigorous exercise indicate?",
+    "choices": [
+      "Nothing meaningful about health, since recovery depends only on the client's age",
+      "It reflects only the client's hydration status",
+      "It determines maximal oxygen consumption exactly",
+      "It indicates heart health; a slow return may warrant referral"
+    ],
+    "answerIndex": 3,
+    "explanation": "How quickly heart rate drops in the first minute after vigorous exercise is a good indicator of heart health. An abnormally slow return toward resting heart rate is a predictor of poor heart health. This is also why the recovery minute in a stage 4 cardiorespiratory workout is used to gauge training status."
+  },
+  {
+    "id": "nasm-prg-083",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Fitness trackers",
+    "question": "What limitation applies to fitness trackers?",
+    "choices": [
+      "They are not fully accurate and vary by make and model",
+      "They are 100% accurate and can replace all direct physiological measurement entirely",
+      "They cannot store workout history",
+      "They are only useful for competitive athletes"
+    ],
+    "answerIndex": 0,
+    "explanation": "Fitness trackers are not 100% accurate and their accuracy varies across makes and models. They nonetheless provide a good estimate of a person's activity level and serve as a helpful tool for setting goals and tracking results. Ease of use and intrinsic motivation are key factors in whether people keep using them."
+  },
+  {
+    "id": "nasm-prg-084",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Balance modalities",
+    "question": "Balance modalities should not be used to perform maximal or near-maximal lifts.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Balance modalities improve balance, ankle stability, and coordination but should not be used for maximal or near-maximal lifts for safety reasons. Their purpose is to raise proprioceptive demand, not to support peak loading. Adding heavy load to an unstable surface compromises both the stability stimulus and the client's safety."
+  },
+  {
+    "id": "nasm-prg-085",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Core training",
+    "question": "Performing core exercises on an unstable surface reduces activation of the local and global stabilization systems.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Core exercises performed in an unstable environment have been demonstrated to increase activation of the local and global stabilization systems. This is why a proprioceptively enriched training environment is created early in core programming. Exercises using an unstable single-leg stance with external resistance can produce greater muscle activation still."
+  },
+  {
+    "id": "nasm-prg-086",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Balance training",
+    "question": "When progressing a balance training program, several variables should be changed at once to maximize the stimulus.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Caution should be used to change only one variable at a time when progressing balance training. Changing too many variables simultaneously prevents the client from demonstrating mastery at each stage and obscures which change produced a problem. The same caution applies to progressing core training programs."
+  },
+  {
+    "id": "nasm-prg-087",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Plyometric training",
+    "question": "Plyometric training is unsafe for older adults under all circumstances.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Plyometric training is described as a safe option for older adults to improve function, and it increases muscle size while limiting the effects of sarcopenia. It also reduces injury risk in competitive athletes and increases muscular power and athleticism. The key is the systematic progression sequence that starts with less demanding exercises."
+  },
+  {
+    "id": "nasm-prg-088",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Exercise regression",
+    "question": "A client cannot maintain a neutral spine during a stability ball crunch. What is the most appropriate regression?",
+    "choices": [
+      "Add external load in order to increase the stabilization demand on the trunk",
+      "Move to a more stable surface with less spinal loading",
+      "Progress to a medicine ball woodchop throw",
+      "Increase repetitions to build endurance"
+    ],
+    "answerIndex": 1,
+    "explanation": "Core training should be systematic and progressive, and quality of movement takes priority over quantity or load. When a client cannot control the pattern, regressing to a more stable surface and an exercise involving little spinal motion re-establishes intervertebral stability first. Progressing to explosive medicine ball work would skip two levels of the progression."
+  },
+  {
+    "id": "nasm-prg-089",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Exercise progression",
+    "question": "A client masters the tandem stance and single-leg balance on the floor. What is the appropriate next progression in balance training?",
+    "choices": [
+      "Multiplanar hop with a stabilized landing held for three to five full seconds",
+      "Standing on a stability ball",
+      "Dynamic movement of the balance leg through full range",
+      "Maximal loaded barbell squats"
+    ],
+    "answerIndex": 2,
+    "explanation": "The next progression after entry-level balance work involves dynamic eccentric and concentric movement of the balance leg through a full range of motion, with isometric stabilization at end range. Examples include single-leg squat, single-leg squat touchdown, single-leg Romanian deadlift, and multiplanar step-up or lunge to balance. Hop-and-stabilize exercises belong to the final progression, and standing on a stability ball is never recommended."
+  },
+  {
+    "id": "nasm-prg-090",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Exercise progression",
+    "question": "A client can perform squat jumps with a 3- to 5-second stabilized landing with good mechanics. What is the appropriate next plyometric progression?",
+    "choices": [
+      "Depth jumps performed as fast as possible from a progressively higher box each week",
+      "Single-leg box hop-down with a 10-second hold",
+      "Return to core stabilization exercises",
+      "Jumps with more amplitude at a repeating tempo"
+    ],
+    "answerIndex": 3,
+    "explanation": "After mastering the stabilization-hold level, the next progression involves jumps with more amplitude and dynamic motion at a progressed speed, initiating another jump on landing using a moderate repeating tempo. Squat jumps, tuck jumps, butt kicks, and power step-ups fit here. Depth jumps belong to the final level, performed as fast and explosively as possible."
+  },
+  {
+    "id": "nasm-prg-091",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Muscular endurance",
+    "question": "Which repetition approach is most effective for improving muscular endurance?",
+    "choices": [
+      "High repetitions",
+      "Low repetitions with maximal load",
+      "Single repetitions with long rest",
+      "Explosive repetitions with light load"
+    ],
+    "answerIndex": 0,
+    "explanation": "Research has shown that resistance training protocols using high repetitions are the most effective means of improving muscular endurance. A relationship exists between strength gains and local muscular endurance, so strength training alone improves endurance to some extent, but specificity of training produces the greatest improvement. Core endurance training in particular emphasizes the type I fibers responsible for postural stability."
+  },
+  {
+    "id": "nasm-prg-092",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Electromyography",
+    "question": "What does electromyography measure?",
+    "choices": [
+      "The oxygen cost of an exercise, expressed relative to the client's body mass",
+      "The electrical conducting function of nerves in muscle",
+      "Joint range of motion in three planes",
+      "Bone mineral density"
+    ],
+    "answerIndex": 1,
+    "explanation": "Electromyography measures the electrical conducting function of nerves in muscles. It can identify differences in how a muscle or muscle group activates across different movements or exercises. That makes it the tool behind many of the exercise-selection findings in core and balance research."
+  },
+  {
+    "id": "nasm-prg-093",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Balance progression",
+    "question": "A client masters single-leg balance on the floor and the trainer adds a foam pad, closes the client's eyes, and introduces a counting task in the same session. What is the problem?",
+    "choices": [
+      "None; changing more variables at once produces a faster overall training adaptation",
+      "Eyes-closed work is never appropriate",
+      "Only one variable at a time, so the client can adapt",
+      "Cognitive tasks are unrelated to balance"
+    ],
+    "answerIndex": 2,
+    "explanation": "Only a single progression variable should be altered at any one time. Changing several at once prevents the client from demonstrating mastery at each stage and obscures which change caused a breakdown. Balance modalities, cognitive dual-task scenarios, eye-closing tasks, and head or eye movement are all valid progressions when introduced individually."
+  },
+  {
+    "id": "nasm-prg-094",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Core progression",
+    "question": "A client can hold a plank and side plank with good position and now wants more core challenge. What is the appropriate next progression?",
+    "choices": [
+      "Explosive medicine ball throws performed against a wall for maximal power output",
+      "Repeating the same planks with added external load only",
+      "Loaded spinal hyperextension without stabilization",
+      "Exercises with more spinal motion targeting the global core"
+    ],
+    "answerIndex": 3,
+    "explanation": "The next level of core progression incorporates more motion at the spine and targets the global core muscles, with examples including the floor or ball crunch, back extension, reverse crunch, knee-up, and cable rotation, lift, and chop. Explosive medicine ball work belongs to the final progression, which develops rate of force production. Hyperextension without proper low-back stabilization has been shown to raise disc pressure to dangerous levels."
+  },
+  {
+    "id": "nasm-prg-096",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Speed, agility, and quickness assessment",
+    "question": "A client wants to move on to higher-intensity agility drills. What should the trainer do first?",
+    "choices": [
+      "Time the client on all drills to establish a baseline",
+      "Perform extensive client assessment examining exercise experience, given the elevated intensity of these protocols",
+      "Increase resistance training loads",
+      "Have the client self-select the drills"
+    ],
+    "answerIndex": 1,
+    "explanation": "Because of the elevated intensity of speed, agility, and quickness protocols, it is essential that trainers perform extensive client assessments examining exercise experience before programming them. As the demands for movement speed and reactivity increase, so do the risks of injury. Drills should then progress from slow and simple to fast and complex over an extended period, with initial focus on technique rather than speed."
+  },
+  {
+    "id": "nasm-prg-097",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Spotting decisions",
+    "question": "A client is performing a lat pulldown and struggles on the last repetition. Should the trainer place their hands under the weight stack to assist?",
+    "choices": [
+      "Yes, this is the standard technique for spotting any cable or machine exercise",
+      "Yes, provided the load is light",
+      "No; hands under a weight stack risks crushing them",
+      "Yes, but only with a second spotter present"
+    ],
+    "answerIndex": 2,
+    "explanation": "It is not recommended for fitness professionals to spot machine- or cable-based exercises by placing their hands underneath the weight stack, because this increases the risk of injury to both the spotter and the lifter. Machine exercises still require supervision, but the physical spotting techniques described apply to compound free weight lifts. For those lifts the trainer should regulate the repetition count beforehand and maintain a stable, wide stance."
+  },
+  {
+    "id": "nasm-prg-098",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Core training and posture",
+    "question": "Proper core muscle function is critical for maintaining the natural curvatures of the spine, which can be increased or decreased by improper core muscle balance.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Maintaining the spinal curvatures across the lifespan matters for proper energy distribution through the spine, and proper core muscle function is critical to that maintenance. The curvatures can be increased or decreased as a result of improper core muscle balance. Core training has been shown to improve trunk and low-back posture as well as body awareness."
+  },
+  {
+    "id": "nasm-prg-099",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Balance and falls",
+    "question": "Balance training has not been shown to reduce fall risk in healthy older adults.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Strong evidence demonstrates that balance training programs can reduce the risk of falls in healthy older adults. Balance training has also been shown to improve performance and reduce injury rates in athletes when included in a comprehensive injury prevention program carried through a season. Its benefits should not be limited to elderly populations, since younger clients gain from it as well."
+  },
+  {
+    "id": "nasm-prg-100",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Resistance training systems",
+    "question": "Many popular resistance training systems remain in use because of good marketing or gym science rather than proven scientific superiority.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Many resistance training styles originally designed by powerlifters, Olympic weightlifters, and bodybuilders remain popular because of good marketing or gym science rather than demonstrated scientific superiority over other approaches. Research instead shows that following a systematic, integrated program and manipulating key training variables produces optimal gains in muscular endurance, strength, hypertrophy, and performance. This is why acute variable manipulation, not system branding, drives program design."
+  },
+  {
+    "id": "nasm-prg-101",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Exercise regression",
+    "question": "Which options regress a plank for a client who cannot hold the position?",
+    "choices": [
+      "A standard push-up position, knees on the floor, or hands on a bench with feet down",
+      "A single-leg plank position, a plank with one arm raised, or a plank on a stability ball",
+      "A longer hold time at the same position so the client gradually accumulates more tolerance",
+      "An external load placed across the upper back while the same position is held throughout"
+    ],
+    "answerIndex": 0,
+    "explanation": "Regressions for the plank include holding a standard push-up position, dropping the knees to the floor, or raising the hands onto a bench with the feet on the floor. Each option shortens the lever or reduces the proportion of body weight the trunk must support. Adding time, instability, or load would progress the exercise rather than regress it."
+  },
+  {
+    "id": "nasm-prg-102",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Exercise regression",
+    "question": "A client's low back arches and their hips sag during a push-up. What does this indicate and what follows?",
+    "choices": [
+      "Underactive abdominals, so the exercise must be regressed",
+      "Overactive abdominals, so additional trunk flexion work should be added to the program",
+      "Adequate core control, so external load can safely be added across the client's upper back",
+      "A shoulder mobility limitation, so the hands should be turned outward on the floor instead"
+    ],
+    "answerIndex": 0,
+    "explanation": "Arching of the low back as the hips fall toward the ground is a common push-up compensation. It indicates that the abdominals are underactive and cannot hold the trunk in position against gravity. The appropriate response is to regress the exercise until the client can maintain neutral alignment."
+  },
+  {
+    "id": "nasm-prg-103",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Exercise regression",
+    "question": "A client cannot maintain position during a push-up with the hands on a stability ball. What is the appropriate regression?",
+    "choices": [
+      "A traditional push-up performed on the floor",
+      "A push-up with the feet elevated on a bench so the upper body carries a greater share",
+      "A push-up performed with one hand on the ball and the other hand placed on the floor",
+      "A push-up held at the bottom position for several seconds on each repetition performed"
+    ],
+    "answerIndex": 0,
+    "explanation": "When a stability ball version proves too advanced, the exercise regresses to a traditional floor push-up. Removing the unstable surface lets the client re-establish the movement pattern and trunk position. The other options either raise the demand or add a new challenge rather than reducing the existing one."
+  },
+  {
+    "id": "nasm-prg-104",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Exercise regression",
+    "question": "A client cannot hold a stable position during a single-leg dumbbell scaption. Which regression fits?",
+    "choices": [
+      "Perform the same exercise from a bilateral stance",
+      "Perform the exercise seated on a stability ball with the feet lifted clear of the floor",
+      "Perform the exercise while standing on a foam pad to build the required ankle stability",
+      "Perform the exercise with a heavier dumbbell so the client has more feedback to work against"
+    ],
+    "answerIndex": 0,
+    "explanation": "If standing on one leg is too difficult, the scaption regresses to a bilateral stance. Returning both feet to the floor widens the base of support so the client can focus on the shoulder action itself. Keeping the arms at roughly a 45-degree angle in the scapular plane also reduces the risk of supraspinatus impingement."
+  },
+  {
+    "id": "nasm-prg-105",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Exercise regression",
+    "question": "A client lacks the flexibility and stabilization to perform a multiplanar lunge correctly. Which exercise serves as the regression?",
+    "choices": [
+      "The multiplanar step-up",
+      "The barbell back squat, which loads the same pattern through a shorter range of motion",
+      "A jumping lunge, which shortens the time spent in the difficult bottom position of the lift",
+      "A walking lunge carrying dumbbells, which gives the client extra counterbalance to work with"
+    ],
+    "answerIndex": 0,
+    "explanation": "Step-ups are described as a good way to regress the lunge until the client develops the flexibility and stabilization needed to lunge correctly. Many clients lack these qualities even though the lunge is an effective lower-extremity exercise. Once the step-up is controlled, lunges can be reintroduced in the front, lateral, turning, or reverse direction."
+  },
+  {
+    "id": "nasm-prg-106",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Exercise regression",
+    "question": "A movement compensation during an exercise is a signal to regress that exercise rather than simply to add load.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Compensations such as low-back arching in a push-up indicate that the client cannot yet control the position being asked of them. The appropriate response is to regress to a version they can perform with correct alignment. Loading a faulty pattern reinforces incorrect sensory information rather than improving it."
+  }
+]

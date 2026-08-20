@@ -1,0 +1,967 @@
+[
+  {
+    "id": "nsca-con-001",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Scope of practice",
+    "question": "What responsibility does the personal trainer's scope of practice include during the client interview?",
+    "choices": [
+      "Diagnosing the client's medical conditions and prescribing treatment for any disease identified during screening",
+      "Gathering and assessing information on the client's health, medical conditions, and lifestyle",
+      "Prescribing medication adjustments around training",
+      "Interpreting laboratory results for diagnostic purposes"
+    ],
+    "answerIndex": 1,
+    "explanation": "The personal trainer is responsible for interviewing potential clients to gather and assess pertinent information about their personal health, medical conditions, and lifestyle. That information supports safe and effective programming toward the client's individual objectives. Diagnostic interpretation of signs, symptoms, and lab values belongs in a clinical setting."
+  },
+  {
+    "id": "nsca-con-002",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "PAR-Q",
+    "question": "How many questions does the PAR-Q contain, and what do they address?",
+    "choices": [
+      "Five questions covering the client's exercise history and current activity preferences in detail",
+      "Ten questions on nutrition and sleep",
+      "Seven questions on signs and symptoms, orthopedic concerns, and physician diagnoses",
+      "Three questions on current activity level"
+    ],
+    "answerIndex": 2,
+    "explanation": "The PAR-Q elicits objective yes or no answers to seven questions covering signs and symptoms associated with coronary artery disease, orthopedic concerns, and physician diagnoses. It is self-administered and provides direction on whether a physician should be consulted. It is easy to administer and cost-effective for initial screening."
+  },
+  {
+    "id": "nsca-con-003",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "PAR-Q",
+    "question": "What is the primary limitation of the PAR-Q?",
+    "choices": [
+      "It is expensive and difficult to administer",
+      "It cannot be self-administered",
+      "It excludes many people who would in fact benefit from low-intensity physical activity",
+      "It was designed to determine exercise safety, not coronary artery disease risk"
+    ],
+    "answerIndex": 3,
+    "explanation": "The PAR-Q was designed essentially to determine the safety of exercise, not to establish coronary artery disease risk. Because of its limitations in identifying positive coronary risk factors, medications, and contraindications, trainers are advised to use an additional health appraisal instrument. Its strengths are that it is cost-effective, easy to administer, and sensitive enough to flag those needing further screening without excluding people who would benefit from low-intensity activity."
+  },
+  {
+    "id": "nsca-con-004",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "PAR-Q",
+    "question": "A new client answers no to all seven PAR-Q questions and wants to begin training. What does this indicate for the trainer?",
+    "choices": [
+      "There is reasonable assurance the client can begin a graduated program and fitness appraisal",
+      "The client still requires a physician-supervised maximal exercise test before any exercise participation can begin safely",
+      "The client must be referred regardless",
+      "The client can begin maximal-intensity training immediately"
+    ],
+    "answerIndex": 0,
+    "explanation": "If a client answers no to all questions, there is reasonable assurance it is suitable for them to engage in a graduated exercise program and a fitness appraisal. A yes to one or more questions means the client should contact their physician, identify which questions elicited yes answers, and seek recommendations before increasing activity. The PAR-Q also recommends that a client who is or may be pregnant speak with her doctor before becoming more active."
+  },
+  {
+    "id": "nsca-con-005",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Health/medical questionnaire",
+    "question": "What does the health/medical questionnaire add beyond the PAR-Q?",
+    "choices": [
+      "Nothing; the two forms are equivalent",
+      "It identifies coronary and sudden cardiac death risk factors, diagnosed disease, and medications",
+      "It measures maximal oxygen uptake directly using open-circuit spirometry during a graded treadmill protocol",
+      "It replaces the need for informed consent"
+    ],
+    "answerIndex": 1,
+    "explanation": "The health/medical questionnaire assesses the appropriateness of moderate and vigorous exercise by identifying positive coronary risk factors, sudden cardiac death risk factors, existing diagnosed pathologies, orthopedic concerns, recent operations, personal history of signs and symptoms, medications, supplements, and lifestyle management. Together with the PAR-Q it supports risk stratification and referral decisions. Neither form substitutes for informed consent."
+  },
+  {
+    "id": "nsca-con-006",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Informed consent",
+    "question": "Which elements are essential to an informed consent form?",
+    "choices": [
+      "A waiver of all legal remedy in the event of injury, signed by the client before participation begins",
+      "Only a signature and a date",
+      "A program description, risks and benefits, confidentiality, and documented acceptance of terms",
+      "A physician's diagnosis and treatment plan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Essential elements of informed consent include a detailed description of the program, the risks and benefits associated with participation, a confidentiality clause, the responsibilities of the participant, and documentation of acknowledgment and acceptance of the terms. Waiving legal remedy describes an assumption of risk agreement instead. The informed consent form itself explains the content and process of the program delivery system."
+  },
+  {
+    "id": "nsca-con-007",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Informed consent",
+    "question": "How should informed consent information be conveyed, and when?",
+    "choices": [
+      "In writing only, and only at the end of the client's first training session",
+      "Only if the client requests it",
+      "Verbally only, whenever convenient",
+      "Both verbally and in writing, prior to any testing or participation"
+    ],
+    "answerIndex": 3,
+    "explanation": "It is commonly accepted that informed consent information should be conveyed both verbally and in writing before any testing or participation. This ensures the participant knows and understands the risks and circumstances associated with the program. Delivering it after testing has begun defeats the purpose of the document."
+  },
+  {
+    "id": "nsca-con-008",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Assumption of risk",
+    "question": "What is an assumption of risk or waiver agreement?",
+    "choices": [
+      "An agreement, made before participation, to relinquish the right to legal remedy for injury",
+      "A physician's authorization for exercise participation following a diagnostic examination and graded exercise test result",
+      "A description of the program's content and process",
+      "A record-keeping system for client forms"
+    ],
+    "answerIndex": 0,
+    "explanation": "An assumption of risk or waiver is an agreement made before participation in which the client relinquishes the right to legal remedy for damages in the event of injury, even when that injury results from provider negligence. The agreement must identify the potential risks and establish that the client understands them and voluntarily assumes responsibility. A signed assumption of risk may limit liability."
+  },
+  {
+    "id": "nsca-con-009",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Assumption of risk",
+    "question": "A signed assumption of risk agreement relieves the personal trainer of the duty to perform in a competent and professional manner.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Acknowledgment of the content and authorization of an assumption of risk form does not relieve the personal trainer of the duty to perform competently and professionally. The document may help demonstrate in court that a participant was aware of and assumed the risks. Legal implications of these agreements remain unclear because interpretations of waiver documents vary."
+  },
+  {
+    "id": "nsca-con-010",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Lifestyle inventories",
+    "question": "What do lifestyle inventories typically assess?",
+    "choices": [
+      "Maximal strength and power output, measured across several standardized field and laboratory test protocols",
+      "Personal choices around dietary intake, stress management, physical activity, and other health practices",
+      "Blood lipid and glucose values",
+      "Joint range of motion in three planes"
+    ],
+    "answerIndex": 1,
+    "explanation": "Lifestyle inventories consist of questions evaluating personal choices and patterns related to dietary intake, stress management, physical activity level, and other practices affecting health. They help clarify behaviors that may act as assets or obstacles to a client's success. Most existing standardized inventories were developed for the average apparently healthy population."
+  },
+  {
+    "id": "nsca-con-011",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Lifestyle inventories",
+    "question": "A client with a physician-diagnosed chronic condition completes a standard lifestyle inventory. What caution applies?",
+    "choices": [
+      "The results will be considerably more valid for these clients than they are for apparently healthy ones",
+      "The inventory must be repeated weekly",
+      "They may not obtain valid information and should rely on their physician's diagnostic guidance",
+      "The inventory replaces the health/medical questionnaire"
+    ],
+    "answerIndex": 2,
+    "explanation": "The vast majority of existing standard lifestyle inventories were developed for the average apparently healthy population. Clients with existing health-related conditions previously diagnosed by a physician may not obtain valid and reliable information from them and should rely on diagnostic information from their physician. The inventory is best used to augment other health- and fitness-related information."
+  },
+  {
+    "id": "nsca-con-012",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Screening children",
+    "question": "Who should complete a health history questionnaire before a child begins a training program?",
+    "choices": [
+      "The child alone",
+      "No form is required for minors",
+      "The personal trainer, on the child's behalf",
+      "The parent or legal guardian"
+    ],
+    "answerIndex": 3,
+    "explanation": "Parents or legal guardians should complete a health history questionnaire for their child before the child begins participation. A preparticipation physical evaluation form approved by the American Academy of Pediatrics, the American Academy of Family Physicians, and other organizations can help determine whether the child should see a physician first. Whether waivers, parental consent, or assumption of risk documents are helpful for this age group is less clear."
+  },
+  {
+    "id": "nsca-con-013",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Screening children",
+    "question": "Why is it difficult to limit trainer liability with waivers when working with children?",
+    "choices": [
+      "Parents cannot execute waivers for their children, who may be legally incapable of self-negligence",
+      "Children heal too quickly for any training injury to be reliably documented in the client's own record",
+      "Waivers are illegal in all jurisdictions",
+      "Children cannot be injured during supervised training"
+    ],
+    "answerIndex": 0,
+    "explanation": "Parents do not have the right to execute waivers on behalf of their children. According to laws in many states, children of particular ages, generally 7 to 14 years, are incapable of self-negligence, so a child's self-negligence cannot bar or limit an award of damages. Trainers working with children must therefore rely on knowledge of safe and effective methods and established guidelines to reduce risk."
+  },
+  {
+    "id": "nsca-con-014",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Coronary artery disease",
+    "question": "What is atherosclerosis and how does it lead to a myocardial infarction?",
+    "choices": [
+      "A sudden spasm of the coronary arteries that occurs with no underlying structural change at all",
+      "A progressive process in which arterial walls harden and narrow with plaque, occluding flow",
+      "An inflammatory condition of the pericardium",
+      "An electrical conduction abnormality of the heart"
+    ],
+    "answerIndex": 1,
+    "explanation": "Atherosclerosis is a progressive degenerative process in which the endothelial lining of arterial walls hardens and the walls lose elasticity. Over time fat and plaque deposition narrows the artery, occluding blood flow to the heart and causing heart tissue to die or producing a myocardial infarction. Coronary artery disease is the leading cause of mortality in Western society."
+  },
+  {
+    "id": "nsca-con-015",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Positive risk factors",
+    "question": "Which seven positive coronary risk factors are identified as significantly correlated with coronary artery disease?",
+    "choices": [
+      "Poor flexibility, low grip strength, high resting heart rate, low bone density, poor balance, low VO2max, and short sleep",
+      "Age, sex, ethnicity, income, education, occupation, and geography",
+      "Family history, smoking, hypertension, dyslipidemia, impaired fasting glucose, obesity, and sedentary lifestyle",
+      "Caffeine intake, alcohol intake, stress, screen time, travel, altitude, and humidity"
+    ],
+    "answerIndex": 2,
+    "explanation": "The seven identifiable positive coronary risk factors with significant correlation to coronary artery disease are family history, smoking, hypertension, dyslipidemia, impaired fasting glucose levels, obesity, and sedentary lifestyle. Age is also evaluated as a threshold factor in risk stratification. The greater the number and severity of these factors, the higher the probability of coronary artery disease."
+  },
+  {
+    "id": "nsca-con-016",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Age risk factor",
+    "question": "What age thresholds constitute a positive risk factor for coronary artery disease?",
+    "choices": [
+      "35 years for men and 45 years for women",
+      "65 years or older for both sexes",
+      "Age 55 years or older for men, and 65 years or older for women",
+      "45 years or older for men and 55 years or older for women"
+    ],
+    "answerIndex": 3,
+    "explanation": "The age threshold is 45 years or older for men and 55 years or older for women. Males are at greater risk of coronary artery disease than females and tend to develop it at younger ages. Reaching the age threshold alone does not by itself move a client into moderate risk stratification."
+  },
+  {
+    "id": "nsca-con-017",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Family history",
+    "question": "What defines a positive family history risk factor for coronary artery disease?",
+    "choices": [
+      "Myocardial infarction, revascularization, or sudden death before 55 in male first-degree relatives",
+      "Any blood relative with a documented history of heart disease diagnosed at any point in their life at all",
+      "A grandparent with high blood pressure",
+      "Any relative who smoked cigarettes"
+    ],
+    "answerIndex": 0,
+    "explanation": "A positive family history requires myocardial infarction, coronary revascularization, or sudden death before age 55 in the biological father or another male first-degree relative, or before age 65 in the biological mother or another female first-degree relative. First-degree relatives include siblings and children. Coronary artery disease appears to have a predisposing genetic connection and a tendency to be familial."
+  },
+  {
+    "id": "nsca-con-018",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Cigarette smoking",
+    "question": "Which smoking history constitutes a positive risk factor?",
+    "choices": [
+      "Only current daily smoking of a full pack or more, sustained for at least five years running",
+      "Current smoking, quitting within six months, or environmental tobacco smoke exposure",
+      "Any smoking history at any point in life",
+      "Only smoking that began before age 18"
+    ],
+    "answerIndex": 1,
+    "explanation": "The defining criteria are being a current cigarette smoker, having quit within the previous six months, or exposure to environmental tobacco smoke. A linear relationship exists between cardiovascular disease risk and both the volume of smoking and the number of years smoked. Cigarette chemistry elevates myocardial oxygen demand while reducing oxygen transport, and smoking also lowers high-density lipoprotein cholesterol."
+  },
+  {
+    "id": "nsca-con-019",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Sedentary lifestyle",
+    "question": "What defines a sedentary lifestyle as a positive risk factor?",
+    "choices": [
+      "Sitting more than eight hours per day",
+      "Not exercising at all in the past year",
+      "Not achieving 30 minutes of moderate activity on three days per week for three months",
+      "Not participating in any vigorous exercise on five or more days per week over six months"
+    ],
+    "answerIndex": 2,
+    "explanation": "The sedentary lifestyle criterion is not participating in at least 30 minutes of moderate-intensity physical activity, roughly 40% to 60% of oxygen uptake reserve, on at least three days of the week for at least three months. Physical inactivity is a major contributing positive risk factor for coronary artery disease. Evaluating exercise patterns should include the specific activity plus its frequency, volume, and intensity."
+  },
+  {
+    "id": "nsca-con-020",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Obesity risk factor",
+    "question": "Which values define obesity as a positive coronary risk factor?",
+    "choices": [
+      "Body mass index of 25 or greater, or a waist girth over 35 inches in men and 40 inches in women",
+      "Waist-to-hip ratio above 0.80 for both sexes",
+      "Body fat percentage above 15% for men and 25% for women",
+      "Body mass index of 30 or greater, or waist girth over 102 cm in men"
+    ],
+    "answerIndex": 3,
+    "explanation": "Obesity as a positive risk factor is defined by a body mass index of 30 kg/m² or greater, or a waist girth greater than 102 cm, about 40 inches, for men and 88 cm, about 35 inches, for women. Central or abdominal fat storage appears to carry greater coronary artery disease risk. Professional opinions vary on the best obesity markers, so trainers should use clinical judgment when evaluating this factor."
+  },
+  {
+    "id": "nsca-con-021",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Hypertension risk factor",
+    "question": "Which blood pressure criteria define hypertension as a positive risk factor?",
+    "choices": [
+      "Systolic 140 or greater and/or diastolic above 90, confirmed on two occasions",
+      "Systolic of 120 mmHg or greater recorded on a single office reading taken at rest",
+      "Systolic 130 mmHg on one occasion",
+      "Diastolic greater than 80 mmHg on a single reading"
+    ],
+    "answerIndex": 0,
+    "explanation": "The threshold is a systolic blood pressure of 140 mmHg or greater and/or a diastolic greater than 90 mmHg, confirmed by measurements on at least two separate occasions, or being on antihypertensive medication. Confirmation across separate occasions matters because a single elevated reading is not diagnostic. Most clinically diagnosed individuals have essential hypertension, which cannot be attributed to a specific cause, whereas secondary hypertension stems from factors such as kidney disease or obesity."
+  },
+  {
+    "id": "nsca-con-022",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Dyslipidemia",
+    "question": "Which lipid values define dyslipidemia as a positive risk factor?",
+    "choices": [
+      "Total serum cholesterol below 150 mg/dl measured on two separate fasting occasions at rest",
+      "Low-density lipoprotein at 130 mg/dl or greater, or high-density lipoprotein below 40",
+      "High-density lipoprotein cholesterol above 60 mg/dl",
+      "Triglycerides below 100 mg/dl"
+    ],
+    "answerIndex": 1,
+    "explanation": "Dyslipidemia is defined by low-density lipoprotein cholesterol of 130 mg/dl or greater, high-density lipoprotein cholesterol below 40 mg/dl, or being on lipid-lowering medication. If only total serum cholesterol is available, the threshold used is 200 mg/dl or greater. Low-density lipoprotein may provide more predictive value for coronary artery disease than total cholesterol."
+  },
+  {
+    "id": "nsca-con-023",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Negative risk factor",
+    "question": "How does a high high-density lipoprotein cholesterol value affect the risk factor count?",
+    "choices": [
+      "It adds one positive risk factor",
+      "It has no effect on the count",
+      "A value of 60 mg/dl or greater is a negative risk factor, subtracting one positive",
+      "It doubles the weight given to every one of the other positive risk factors in the count"
+    ],
+    "answerIndex": 2,
+    "explanation": "High-density lipoprotein cholesterol of 60 mg/dl or greater counts as a negative risk factor, so the trainer subtracts one risk factor from the sum of positive risk factors. High-density lipoproteins help carry cholesterol away and prevent plaque from forming, and increases in them are consistent with decreased coronary artery disease risk. It is common practice to sum risk factors when making these clinical judgments."
+  },
+  {
+    "id": "nsca-con-024",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Prediabetes",
+    "question": "Which fasting plasma glucose range defines impaired fasting glucose as a positive risk factor?",
+    "choices": [
+      "Below 70 mg/dl",
+      "Above 200 mg/dl at any point during the day, whether the client is fasting or has just eaten",
+      "Exactly 126 mg/dl or greater",
+      "100 mg/dl or greater but below 126 mg/dl, confirmed on at least two separate occasions"
+    ],
+    "answerIndex": 3,
+    "explanation": "Impaired fasting glucose is a fasting plasma glucose of 100 mg/dl or greater but below 126 mg/dl, confirmed on at least two separate occasions. Impaired glucose tolerance is defined by 2-hour values in an oral glucose tolerance test at or above 140 mg/dl. Fasting blood glucose serves as a marker of metabolic function and a potential predictor for developing diabetes."
+  },
+  {
+    "id": "nsca-con-025",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Risk stratification",
+    "question": "How is low risk defined in the initial risk stratification table?",
+    "choices": [
+      "Asymptomatic men and women with one or fewer cardiovascular disease risk factors",
+      "Asymptomatic men and women who have two or more of the listed cardiovascular risk factors",
+      "Anyone under age 40 regardless of symptoms",
+      "Anyone without a family history of heart disease"
+    ],
+    "answerIndex": 0,
+    "explanation": "Low risk describes asymptomatic men and women who have one or fewer cardiovascular disease risk factors. Moderate risk describes asymptomatic men and women with two or more risk factors. High risk covers individuals with known disease or with one or more specified signs or symptoms."
+  },
+  {
+    "id": "nsca-con-026",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Risk stratification",
+    "question": "Which finding places a client in the high risk stratification category?",
+    "choices": [
+      "Two positive coronary risk factors in a client who reports no signs or symptoms of disease at all",
+      "Known cardiovascular, pulmonary, or metabolic disease, or one or more listed signs or symptoms",
+      "Age over 45 for men with no other findings",
+      "A body mass index of 26"
+    ],
+    "answerIndex": 1,
+    "explanation": "High risk includes individuals with known cardiac, peripheral vascular, or cerebrovascular disease; chronic obstructive pulmonary disease, asthma, interstitial lung disease, or cystic fibrosis; diabetes mellitus type 1 or 2, thyroid disorders, renal or liver disease; or one or more of the listed signs or symptoms. Two risk factors without symptoms would instead be moderate risk. The purpose of stratification is to use age, health status, symptoms, and risk factor data to classify clients for preliminary decision-making."
+  },
+  {
+    "id": "nsca-con-027",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Risk stratification",
+    "question": "Which sign or symptom listed in the risk stratification table refers to intermittent lameness or pain in the calf muscles?",
+    "choices": [
+      "Orthopnea, or breathing discomfort when lying flat",
+      "Syncope",
+      "Intermittent claudication",
+      "Palpitations"
+    ],
+    "answerIndex": 2,
+    "explanation": "Intermittent claudication is calf cramping, described in the stratification table as intermittent lameness or pain in the calf muscles. Orthopnea is the need to sit up to breathe comfortably, syncope is fainting, and palpitations refer to a fast or irregular heartbeat. All are among the signs or symptoms that place a client in the high risk category."
+  },
+  {
+    "id": "nsca-con-028",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Signs and symptoms",
+    "question": "Which of the following is listed as a major sign or symptom suggestive of cardiovascular or pulmonary disease?",
+    "choices": [
+      "Delayed-onset muscle soreness in the days following a new resistance workout",
+      "A resting heart rate of 65 beats per minute",
+      "Mild thirst during exercise",
+      "Shortness of breath at rest or with mild exertion"
+    ],
+    "answerIndex": 3,
+    "explanation": "Shortness of breath at rest or with mild exertion is a listed major sign or symptom. Others include chest, neck, jaw, or arm pain or discomfort possibly due to ischemia, dizziness or syncope, orthopnea or paroxysmal nocturnal dyspnea, ankle edema, palpitations or tachycardia, intermittent claudication, a known heart murmur, and unusual fatigue or shortness of breath with activity. Delayed-onset soreness after new training is a normal training response."
+  },
+  {
+    "id": "nsca-con-029",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Signs and symptoms",
+    "question": "A client mentions occasional dizziness and swelling in both ankles. How should the trainer respond?",
+    "choices": [
+      "Refer the client to a physician for a medical examination",
+      "Interpret the findings and explain the likely diagnosis",
+      "Ignore the findings because they are not specific to heart disease",
+      "Begin vigorous exercise to test whether symptoms worsen"
+    ],
+    "answerIndex": 0,
+    "explanation": "Signs and symptoms must be interpreted in a clinical setting for diagnostic purposes, and they are not all specific to cardiovascular, pulmonary, or metabolic disease. When a client exhibits them, the trainer's role and responsibility is to refer that client to a physician for a medical examination. The trainer neither diagnoses nor dismisses the findings."
+  },
+  {
+    "id": "nsca-con-030",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Medical clearance",
+    "question": "Under which conditions must a client seek physician clearance before exercise testing and participation?",
+    "choices": [
+      "Only if the client happens to be over the age of 65 years at the time of intake",
+      "A yes on the PAR-Q, any signs or symptoms, or higher risk with vigorous intent",
+      "Only if they have a diagnosed cardiac condition",
+      "Whenever they wish to change training programs"
+    ],
+    "answerIndex": 1,
+    "explanation": "Physician clearance is required if the client answers yes to any PAR-Q question, exhibits any signs or symptoms of cardiovascular or pulmonary disease, is stratified as moderate risk and wants to participate in vigorous exercise, or is stratified as high risk and wants moderate or vigorous exercise. These triggers combine the screening result, symptom status, stratification, and intended intensity. Referral is not an abdication of responsibility but an effort to obtain professional guidance."
+  },
+  {
+    "id": "nsca-con-031",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Exercise intensity definitions",
+    "question": "How are moderate and vigorous exercise intensities defined in the medical examination guidelines?",
+    "choices": [
+      "Moderate is 20% to 40% of maximal oxygen uptake, while vigorous is anything above 40%",
+      "Moderate is above 60%; vigorous is above 90%",
+      "Moderate is 40% to 60% of maximal oxygen uptake; vigorous is above 60%",
+      "Moderate is any walking; vigorous is any running"
+    ],
+    "answerIndex": 2,
+    "explanation": "Moderate intensity is 40% to 60% of maximal oxygen uptake, roughly 3 to 6 METs, described as an intensity well within the individual's capacity that can be comfortably maintained for a prolonged period of about 45 minutes. Vigorous intensity is above 60% of maximal oxygen uptake and above 6 METs. As intensity moves from moderate to vigorous, potential risk for the participant increases significantly."
+  },
+  {
+    "id": "nsca-con-032",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Exercise testing recommendations",
+    "question": "What are the medical examination and exercise test recommendations for a low risk client?",
+    "choices": [
+      "A current medical examination and exercise test are recommended before vigorous exercise but not moderate",
+      "A medical examination is required before any activity",
+      "A physician must supervise all maximal tests",
+      "Neither examination nor exercise test is necessary, and physician supervision is not required"
+    ],
+    "answerIndex": 3,
+    "explanation": "For low risk clients it is not necessary to have a current medical examination and exercise test before moderate or vigorous exercise, nor is physician supervision of a submaximal or maximal test necessary. The guidance notes that not necessary does not mean inappropriate. Moderate and high risk classifications carry progressively more stringent recommendations."
+  },
+  {
+    "id": "nsca-con-033",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Exercise testing recommendations",
+    "question": "What are the recommendations for a moderate risk client?",
+    "choices": [
+      "Not necessary for moderate exercise but recommended before vigorous exercise",
+      "A medical examination and exercise test are required before any exercise at all can be attempted",
+      "No examination or supervision is recommended at any intensity",
+      "A physician must supervise every training session"
+    ],
+    "answerIndex": 0,
+    "explanation": "For a moderate risk client, a current medical examination and exercise test are not necessary for moderate exercise but are recommended before vigorous exercise. Physician supervision of a submaximal test is not necessary, while supervision of a maximal test is recommended. Recommended means the physician should be in close proximity and readily available if an emergent need arises."
+  },
+  {
+    "id": "nsca-con-035",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Exercise testing",
+    "question": "How does a submaximal test differ from a maximal test?",
+    "choices": [
+      "A maximal test is administered by certified personal trainers as a routine inexpensive field test in the gym",
+      "A submaximal test requires more equipment than a maximal test",
+      "A submaximal test is a nondiagnostic field test; a maximal test is clinical and diagnostic",
+      "Both require physician supervision in all cases"
+    ],
+    "answerIndex": 2,
+    "explanation": "A submaximal test is a nondiagnostic practical assessment, usually called a field test, that is inexpensive, easy to administer, and does not normally require maximal effort, and it is typically administered by certified personal trainers. A maximal test is commonly performed in a clinical setting with specialized diagnostic equipment to assess functional capacity through maximal effort. Because of its diagnostic capabilities and the risk of cardiac complications, physicians often supervise maximal testing."
+  },
+  {
+    "id": "nsca-con-036",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Risk stratification practice",
+    "question": "A 56-year-old woman's father died of a myocardial infarction at age 45. Her low-density lipoprotein cholesterol is 125 mg/dl, her body mass index is 25, and she golfs, plays tennis, and walks daily. How is she stratified?",
+    "choices": [
+      "Low risk, because she is physically active and reports no symptoms at all",
+      "She cannot be stratified without a blood pressure reading",
+      "High risk, because of the family history alone",
+      "Moderate risk, from two positive risk factors"
+    ],
+    "answerIndex": 3,
+    "explanation": "She has two positive risk factors: age, since she is over 55, and family history, since her father had a myocardial infarction before age 55. Two positive risk factors in an asymptomatic client is moderate risk. Her lipid values, body mass index, and activity level all fall below the risk factor thresholds."
+  },
+  {
+    "id": "nsca-con-037",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Risk stratification practice",
+    "question": "A 47-year-old sedentary woman has total cholesterol of 210 mg/dl, high-density lipoprotein cholesterol of 68 mg/dl, a body mass index of 20, blood pressure of 120/80 mmHg on two occasions, and type 1 diabetes diagnosed in childhood. How is she stratified?",
+    "choices": [
+      "High risk, because a diagnosed metabolic disease places her there",
+      "Low risk, since the high high-density lipoprotein cancels a positive risk factor leaving only one",
+      "Moderate risk, because she carries exactly two of the listed positive risk factors",
+      "She has no risk factors and requires no clearance"
+    ],
+    "answerIndex": 0,
+    "explanation": "She has two positive risk factors, a sedentary lifestyle and total cholesterol above 200 mg/dl, but her high-density lipoprotein of 68 mg/dl is a negative risk factor that cancels one, leaving a net of one. On count alone that would suggest low risk. However, a diagnosis of type 1 diabetes, a metabolic disease, places her in the high risk stratification, meaning a medical examination and diagnostic test are needed for both moderate and vigorous exercise."
+  },
+  {
+    "id": "nsca-con-038",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Sudden cardiac death screening",
+    "question": "A 20-year-old active male has blood pressure of 145/85 mmHg on two occasions, and both an uncle and a grandfather died suddenly of undetermined causes before age 50. What action is indicated?",
+    "choices": [
+      "Classify him as low risk and proceed, since he is young, active, and asymptomatic",
+      "Recognize increased sudden cardiac death risk and refer him for examination",
+      "Proceed with maximal testing to establish a baseline",
+      "Ignore the family history because the relatives were not first-degree"
+    ],
+    "answerIndex": 1,
+    "explanation": "He has two risk factors for sudden cardiac death: elevated blood pressure and a family history of sudden unexpected death before age 50 in more than one close relative from a heart condition or unknown cause. On positive coronary risk factor count alone he would look low risk, but the sudden cardiac death factors change the picture. Based on the recommendations he should undergo a cardiovascular examination before initiating physical activity under a trainer's supervision."
+  },
+  {
+    "id": "nsca-con-039",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Sudden cardiac death",
+    "question": "Which finding should warrant referral for a cardiovascular examination based on sudden cardiac death screening?",
+    "choices": [
+      "Mild delayed-onset muscle soreness following an unfamiliar resistance session two days earlier",
+      "A resting heart rate of 55 beats per minute in a trained runner",
+      "Family history of hypertrophic cardiomyopathy, long-QT syndrome, or Marfan syndrome",
+      "Preference for morning training"
+    ],
+    "answerIndex": 2,
+    "explanation": "A family history of hypertrophic cardiomyopathy, long-QT syndrome, Marfan syndrome, or heart arrhythmias should warrant referral for a cardiovascular examination. Other triggers include chest pain or discomfort with exertion, unexplained dizziness or fainting particularly with exertion, excessive unexplained shortness of breath or fatigue with exercise, prior recognition of a heart murmur, elevated systemic blood pressure, and a family history of sudden death or disability from heart disease before age 50 in close relatives. These items derive from recommendations for screening competitive athletes but the history questions also apply to the general population."
+  },
+  {
+    "id": "nsca-con-040",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Sudden cardiac death",
+    "question": "Which cardiovascular abnormalities most frequently underlie sudden cardiac death in young individuals?",
+    "choices": [
+      "Acute coronary artery plaque rupture, which is the usual mechanism in younger athletes",
+      "Peripheral arterial disease",
+      "Chronic obstructive pulmonary disease",
+      "Hypertrophic cardiomyopathy, coronary anomalies, aortic stenosis, and Marfan syndrome"
+    ],
+    "answerIndex": 3,
+    "explanation": "In young individuals the most frequent abnormalities are hypertrophic cardiomyopathy, coronary artery anomalies, aortic stenosis, aortic dissection and rupture typically related to Marfan syndrome, mitral valve prolapse, various arrhythmias, and myocarditis. In all except Marfan syndrome, where aortic rupture is often the cause, ventricular arrhythmias are the immediate cause of death. Older previously asymptomatic individuals more often show acute plaque disruption with thrombotic occlusion."
+  },
+  {
+    "id": "nsca-con-041",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Sudden cardiac death",
+    "question": "How does the benefit-risk balance of regular physical activity compare across populations?",
+    "choices": [
+      "For most people the benefits outweigh the risk",
+      "Risks always outweigh the benefits, so vigorous exercise should be discouraged generally",
+      "Benefits always outweigh risks regardless of cardiac status",
+      "The balance depends only on the client's age"
+    ],
+    "answerIndex": 0,
+    "explanation": "For most individuals, including those with or at risk for coronary heart disease, the benefits of regular physical activity outweigh the risks of sudden cardiac death. For individuals with diagnosed or difficult-to-detect cardiac disease, the health risks of vigorous physical activity almost always exceed the benefits. Sudden cardiac death is also more prevalent in those performing activity they are not accustomed to, which is why clients must be advanced according to individual readiness."
+  },
+  {
+    "id": "nsca-con-042",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Diabetes",
+    "question": "How do type 1 and type 2 diabetes differ in mechanism?",
+    "choices": [
+      "Type 1 involves insulin resistance in the tissues while type 2 destroys the beta cells",
+      "Type 1 involves defective insulin secretion; type 2 involves insulin resistance",
+      "Both are caused by identical defects in insulin action",
+      "Neither affects blood glucose metabolism"
+    ],
+    "answerIndex": 1,
+    "explanation": "Diabetes mellitus is characterized by hyperglycemia resulting from defects in insulin secretion in type 1, insulin action in type 2, or both. People with type 1 are insulin dependent and require injections to metabolize glucose, while those with type 2 usually produce insulin but the tissue resists it, leaving glycemic control inadequate. Diabetes is an independent contributing factor in cardiovascular disease, raising the potential for coronary artery disease, peripheral vascular disease, and congestive heart failure."
+  },
+  {
+    "id": "nsca-con-043",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Pulmonary disease",
+    "question": "Which three conditions are considered syndromes associated with chronic obstructive pulmonary disease?",
+    "choices": [
+      "Pulmonary fibrosis, asbestosis, and sarcoidosis of the lung",
+      "Cystic fibrosis, tuberculosis, and pleurisy",
+      "Chronic bronchitis, emphysema, and asthma",
+      "Sleep apnea, hyperventilation, and hiccups"
+    ],
+    "answerIndex": 2,
+    "explanation": "Chronic bronchitis, emphysema, and asthma are considered the syndromes associated with chronic obstructive pulmonary disease and the most common diagnosed conditions related to respiratory dysfunction. Chronic bronchitis is an inflammatory condition with persistent sputum production from a thickened bronchial wall that reduces airflow. Emphysema affects the small airways, with enlarged air spaces and progressive destruction of alveolar-capillary units raising pulmonary vascular resistance."
+  },
+  {
+    "id": "nsca-con-044",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Asthma",
+    "question": "What primarily causes an asthma attack?",
+    "choices": [
+      "Progressive destruction of the alveolar walls, which permanently reduces gas exchange surface",
+      "Reduced diaphragm strength alone",
+      "Thickening of the arterial endothelium",
+      "Spasmodic contraction of bronchial smooth muscle with mucus and swelling"
+    ],
+    "answerIndex": 3,
+    "explanation": "Asthma is mostly due to spasmodic contraction of smooth muscle around the bronchi, which produces swelling of the mucosal cells lining the bronchi and excessive mucus secretion. The resulting airway constriction produces attacks that may be triggered by allergic reactions, exercise, air quality factors, and stress. Destruction of alveolar-capillary units instead describes emphysema."
+  },
+  {
+    "id": "nsca-con-045",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Medications",
+    "question": "Why can beta-blocking medications complicate intensity monitoring?",
+    "choices": [
+      "They blunt the exercise heart rate response, so perceived exertion is used",
+      "They raise heart rate unpredictably, so target heart rate must be recalculated each session",
+      "They eliminate the perception of effort",
+      "They have no effect on cardiovascular response"
+    ],
+    "answerIndex": 0,
+    "explanation": "Beta-blocking medications, commonly prescribed for high blood pressure, blunt the normal rise in heart rate during exercise. Clients on them have difficulty reaching, and should not strive to achieve, target training heart rates, and heart rate becomes an inappropriate intensity marker because of the masking effect. Ratings of perceived exertion provide a more effective way to regulate intensity in these clients."
+  },
+  {
+    "id": "nsca-con-046",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Medications",
+    "question": "Why should a personal trainer understand the classes of commonly used drugs and their effects?",
+    "choices": [
+      "So they can adjust the client's prescribed dose around the planned training sessions",
+      "Medications can alter heart rate, blood pressure, and exercise capacity",
+      "Because medication lists determine one-rep max",
+      "Because pharmacology is required for insurance"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clients under ongoing physician care may take prescribed medications whose chemical reactions influence physiological responses during activity. Various medications may alter heart rate, blood pressure, cardiac function, and exercise capacity. Understanding drug classes and their effects lets the trainer interpret responses correctly and select appropriate intensity markers, without ever adjusting the prescription."
+  },
+  {
+    "id": "nsca-con-047",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Orthopedic conditions",
+    "question": "Which orthopedic issues most often require physician communication and medical clearance?",
+    "choices": [
+      "Mild delayed-onset muscle soreness and general stiffness",
+      "Any history of an ankle sprain",
+      "Orthopedic replacements, recent surgical procedures, osteoporosis, and rheumatoid arthritis",
+      "Reduced hamstring flexibility"
+    ],
+    "answerIndex": 2,
+    "explanation": "Issues related to orthopedic replacements, recent surgical procedures, osteoporosis, and rheumatoid arthritis may require communication with a physician and in most cases medical clearance, because of the potential for advanced complications. Common concerns such as acute trauma, overuse, osteoarthritis, and low back pain present challenges that may need assessment case by case. Although orthopedic limitations do not carry the same relative risk as cardiovascular concerns, they remain important to functional capacity."
+  },
+  {
+    "id": "nsca-con-048",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Physician referral",
+    "question": "What is the purpose of the physician's referral form once medical clearance is recommended?",
+    "choices": [
+      "To transfer legal liability for any exercise-related injury onto the referring physician",
+      "To document that the client refused clearance",
+      "To bill the client's insurance for training",
+      "To obtain information on health status, limitations, and restrictions"
+    ],
+    "answerIndex": 3,
+    "explanation": "The trainer gives the client a physician's referral form to obtain the necessary information about health status, physical limitations, and restrictions required to make future fitness program recommendations. The physician can also recommend whether the program should be unsupervised, supervised, or medically supervised. Referral is a concerted effort to obtain valuable information and professional guidance, not a transfer of responsibility."
+  },
+  {
+    "id": "nsca-con-049",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Program supervision",
+    "question": "For whom is an unsupervised exercise program commonly recommended?",
+    "choices": [
+      "People who are apparently or presumably healthy with no apparent risks",
+      "Clients with known cardiac disease",
+      "Clients stratified as high risk",
+      "Anyone who signs an assumption of risk agreement"
+    ],
+    "answerIndex": 0,
+    "explanation": "An unsupervised program is commonly recommended for people who are apparently or presumably healthy with no apparent risks, recognizing the health benefits of regular activity relative to the low risk of participation. Such programs may still be designed and initiated with a personal trainer's support, with the long-term outcome being a mix of trainer-led sessions and self-directed work. Clients with greater risk require supervised or medically supervised programs."
+  },
+  {
+    "id": "nsca-con-050",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Record keeping",
+    "question": "Why does a personal trainer need a record-keeping system for screening documentation?",
+    "choices": [
+      "To market additional services to prospective clients using documented past results",
+      "To collect, organize, and store information and verify sessions",
+      "To replace the need for informed consent",
+      "To calculate the client's target heart rate"
+    ],
+    "answerIndex": 1,
+    "explanation": "The trainer needs a strategy to collect, organize, and store the vital information and materials obtained through the initial interview process. A record-keeping system verifies the completion and receipt of forms along with other documentation of client status. Having that system in place is what allows the trainer to move forward with the preparticipation health appraisal process."
+  },
+  {
+    "id": "nsca-con-051",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Client contract",
+    "question": "Which items should a client contract cover?",
+    "choices": [
+      "The client's target heart rate zones and their estimated one-repetition maximum values",
+      "The client's diagnosis and prognosis",
+      "The cancellation policy, contract termination, and refund circumstances",
+      "A list of prohibited exercises"
+    ],
+    "answerIndex": 2,
+    "explanation": "The contract should cover the cancellation policy, termination of the contract, and circumstances that would render the document void. An opportunity for discussion about the content should be provided during the consultation. The trainer should document and clarify any questions and issues about the agreement before its receipt."
+  },
+  {
+    "id": "nsca-con-052",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Lifestyle evaluation",
+    "question": "Which behavioral patterns should a lifestyle evaluation identify?",
+    "choices": [
+      "Only dietary intake",
+      "Only exercise preferences",
+      "Only sleep duration",
+      "Choices about dietary intake, physical activity, and stress management"
+    ],
+    "answerIndex": 3,
+    "explanation": "A lifestyle evaluation identifies an individual's behavioral patterns concerning dietary intake, physical activity, and stress management. Evidence suggests a strong relationship between these choices and the potential risk of coronary artery disease and other leading causes of morbidity and premature mortality. The results may influence how the trainer evaluates nutrition habits and recognizes clients who need referral for disordered eating."
+  },
+  {
+    "id": "nsca-con-053",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Activity pattern evaluation",
+    "question": "What should an evaluation of a client's exercise and activity pattern include?",
+    "choices": [
+      "The activity plus its frequency, volume, and intensity",
+      "Only whether the client currently meets the national physical activity guidelines each week",
+      "Only the client's preferred equipment",
+      "Only the client's gym attendance record"
+    ],
+    "answerIndex": 0,
+    "explanation": "The evaluation should identify the specific activity along with its frequency, volume, and intensity level, whether moderate or vigorous, and document any signs or symptoms associated with the activity. Identifying clients with little or no activity history matters because physical inactivity is a major contributing positive risk factor for coronary artery disease. This information feeds directly into risk stratification."
+  },
+  {
+    "id": "nsca-con-054",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Medical clearance",
+    "question": "Recommending that a client consult a physician before beginning an exercise program should be viewed as the personal trainer abdicating responsibility.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "A recommendation to consult a physician before participation should not be considered an abdication of responsibility. It is a concerted effort to obtain valuable information and professional guidance to ensure the safety and protection of the client's health. When referral is warranted, encouraging medical clearance is the trainer's responsibility and a reasonable, safe course of action."
+  },
+  {
+    "id": "nsca-con-055",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Positive risk factors",
+    "question": "The greater the number and severity of positive coronary risk factors a person possesses, the greater the probability of coronary artery disease.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Epidemiological research suggests that a person's potential risk of developing coronary artery disease is associated with the positive coronary risk factors they possess. The greater the number and severity of those factors, the greater the probability of disease. This is why evaluating positive risk factors is necessary to identify individuals who may be at higher risk during exercise."
+  },
+  {
+    "id": "nsca-con-056",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Exercise and cardiac risk",
+    "question": "Exercise typically provokes cardiovascular events in healthy individuals with normal cardiovascular systems.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Exercise does not typically provoke cardiovascular events in healthy individuals with normal cardiovascular systems. Substantial epidemiological, clinical, and basic science evidence indicates that physical activity and exercise training delay the development of atherosclerosis and reduce coronary heart disease events. Vigorous activity can, however, acutely and transiently raise the risk of myocardial infarction and sudden cardiac death in susceptible individuals."
+  },
+  {
+    "id": "nsca-con-057",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Hypertension mechanism",
+    "question": "How is hypertension believed to predispose individuals to coronary artery disease?",
+    "choices": [
+      "By lowering peripheral vascular resistance, which increases the total workload on the heart",
+      "Direct vascular injury from high pressure plus adverse cardiac remodeling",
+      "By reducing myocardial oxygen demand",
+      "By increasing high-density lipoprotein cholesterol"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hypertension is believed to predispose individuals to coronary artery disease through direct vascular injury caused by high blood pressure and its adverse effects on the myocardium. These include increased wall stress, which dramatically raises the workload of the heart in pumping the extra blood needed to overcome peripheral vascular resistance. In general, the higher the blood pressure, the greater the risk for coronary artery disease."
+  },
+  {
+    "id": "nsca-con-058",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Dyslipidemia mechanism",
+    "question": "How do low-density lipoproteins contribute to atherosclerosis?",
+    "choices": [
+      "They carry cholesterol away from the arterial wall",
+      "They dissolve existing plaque",
+      "They release cholesterol that penetrates the endothelial lining of the arterial wall",
+      "They have no role in the process"
+    ],
+    "answerIndex": 2,
+    "explanation": "Evidence suggests that low-density lipoprotein molecules release cholesterol, which penetrates the endothelial lining of the arterial wall and contributes to the atherosclerotic process. High-density lipoproteins, by contrast, help carry cholesterol away and prevent plaque from forming. This is why low-density lipoprotein may have more predictive value for coronary artery disease than total cholesterol."
+  },
+  {
+    "id": "nsca-con-059",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Screening application",
+    "question": "A sedentary 36-year-old man has total cholesterol of 250 mg/dl with high-density lipoprotein of 45 mg/dl, blood pressure of 136/86 mmHg, a body mass index of 30, and a waist girth of 47 inches. His father survived a heart attack at 70. How is he stratified?",
+    "choices": [
+      "Low risk, because he is under 45 years of age and reports no symptoms",
+      "He has no positive risk factors",
+      "High risk, because of the waist girth alone",
+      "Moderate risk, from three positive risk factors"
+    ],
+    "answerIndex": 3,
+    "explanation": "He has three positive risk factors: total cholesterol above 200 mg/dl, a sedentary lifestyle, and obesity indicated by both the body mass index of 30 and the large waist girth. Two or more risk factors in an asymptomatic client places him at moderate risk. His blood pressure falls below the 140/90 mmHg threshold, and his father's heart attack at age 70 does not meet the family history criterion."
+  },
+  {
+    "id": "nsca-con-060",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Referral practice",
+    "question": "A trainer receives a returned physician's referral form for a client with restrictions listed. How should this inform programming?",
+    "choices": [
+      "The health status, limitations, and restrictions the physician documented",
+      "The restrictions can be relaxed once the client demonstrates good tolerance in training",
+      "The form only matters for insurance purposes",
+      "The trainer should retest the client to verify the physician's findings"
+    ],
+    "answerIndex": 0,
+    "explanation": "The referral form exists to obtain information about health status, physical limitations, and restrictions needed to make future program recommendations. The physician's guidance on the level and progression of activity and restrictions specific to the client's needs should shape the program. The physician may also indicate whether an unsupervised, supervised, or medically supervised program is appropriate."
+  },
+  {
+    "id": "nsca-con-061",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Risk stratification practice",
+    "question": "A 50-year-old asymptomatic man is a current smoker with a body mass index of 32 and no other findings. How is he stratified and what does that mean for vigorous training?",
+    "choices": [
+      "Low risk, so no clearance is needed before he begins training at any intensity",
+      "Moderate risk, so an examination is recommended before vigorous exercise",
+      "High risk; exercise is contraindicated",
+      "He has no positive risk factors"
+    ],
+    "answerIndex": 1,
+    "explanation": "He carries three positive risk factors: age at or above 45 for men, current cigarette smoking, and obesity indicated by a body mass index of 30 or greater. Because he has no signs or symptoms but more than one risk factor, he falls into the moderate stratum. For moderate risk, a current medical examination and exercise test are not necessary for moderate exercise but are recommended before vigorous exercise."
+  },
+  {
+    "id": "nsca-con-065",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Program supervision level",
+    "question": "A physician returns a referral form for a client with known cardiac disease. What does the physician's role include beyond clearance?",
+    "choices": [
+      "Designing the client's full training program",
+      "Recommending whether an unsupervised, supervised, or medically supervised program is appropriate",
+      "Setting the trainer's session fees",
+      "Performing the client's fitness assessments"
+    ],
+    "answerIndex": 1,
+    "explanation": "The physician may recommend an unsupervised, supervised, or medically supervised exercise program in addition to providing information on health status, limitations, and restrictions. An unsupervised program is commonly recommended for people who are apparently or presumably healthy with no apparent risks. Clients with greater risk require supervised or medically supervised arrangements."
+  },
+  {
+    "id": "nsca-con-066",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Signs and symptoms",
+    "question": "A client reports needing to sit up in order to breathe comfortably at night. How should this be handled?",
+    "choices": [
+      "Treated as normal for an older adult who is carrying additional body weight",
+      "Corrected with breathing exercises during training",
+      "Recognized as orthopnea, a major sign suggesting cardiovascular disease",
+      "Recorded but not acted upon"
+    ],
+    "answerIndex": 2,
+    "explanation": "Orthopnea, the need to sit up to breathe comfortably, is listed among the major signs and symptoms suggestive of cardiovascular and pulmonary disease, along with paroxysmal nocturnal dyspnea. Its presence also places the client in the high risk stratification category. The trainer's responsibility is to refer the client to a physician for medical examination rather than to interpret or manage the symptom."
+  },
+  {
+    "id": "nsca-con-068",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Sudden cardiac death screening",
+    "question": "A 19-year-old competitive athlete reports fainting once during a hard practice. What action does the screening guidance support?",
+    "choices": [
+      "Referring for a cardiovascular examination",
+      "Attributing it to dehydration and advising a larger fluid intake before hard practices",
+      "Reducing training volume without referral",
+      "Ignoring it because the client is young"
+    ],
+    "answerIndex": 0,
+    "explanation": "Unexplained dizziness or fainting, particularly when associated with physical exertion, is among the findings that should warrant referral for a cardiovascular examination. Other triggers include exertional chest pain or discomfort, excessive unexplained shortness of breath or fatigue with exercise, a previously recognized heart murmur, elevated systemic blood pressure, and family histories of early sudden death or cardiomyopathy. The trainer's role is to take appropriate action through referral before any activity begins."
+  },
+  {
+    "id": "nsca-con-069",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Intensity and risk",
+    "question": "A moderate risk client who has been training at moderate intensity now wants to add vigorous interval work. What changes?",
+    "choices": [
+      "Nothing, since they were already cleared for moderate exercise at the initial screening",
+      "An examination and exercise test now become recommended",
+      "They must be reclassified as high risk automatically",
+      "Vigorous exercise is prohibited for all moderate risk clients"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clearance requirements depend on both stratification and intended intensity. A client stratified as moderate risk who wants to participate in vigorous exercise must seek physician clearance, whereas moderate exercise did not require it. This reflects the significant increase in potential risk as intensity moves from moderate, roughly 40% to 60% of maximal oxygen uptake, to vigorous, above 60%."
+  },
+  {
+    "id": "nsca-con-074",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Trainer competence",
+    "question": "A personal trainer who intends to train clinical patients should obtain additional training on the mechanism of the disease and its common signs and symptoms.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "A trainer intending to work with clinical patients should receive additional training related to the mechanism of the disease and the common signs and symptoms associated with it. Physician clearance is also required before training clients with medical conditions. Recognizing when the complexity of a case exceeds one's competence is itself part of professional practice."
+  }
+]

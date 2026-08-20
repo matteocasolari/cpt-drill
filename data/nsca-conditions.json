@@ -1,0 +1,823 @@
+[
+  {
+    "id": "nsca-cond-001",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Screening for medical conditions",
+    "question": "What must a personal trainer obtain before training clients with medical conditions?",
+    "choices": [
+      "A physician's clearance",
+      "A signed waiver only",
+      "A body composition assessment",
+      "A maximal exercise test result"
+    ],
+    "answerIndex": 0,
+    "explanation": "The personal trainer must have a physician's clearance before training clients with medical conditions. Clients should also complete a preparticipation readiness questionnaire while the trainer documents a detailed health history, after which the client is stratified into a low-, moderate-, or high-risk group. A trainer intending to work with clinical patients should obtain additional training on the mechanism of the disease and its common signs and symptoms."
+  },
+  {
+    "id": "nsca-cond-002",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Hypertension",
+    "question": "Why is hypertension described as the silent killer?",
+    "choices": [
+      "Because it produces obvious visible symptoms",
+      "Because it is idiopathic, occurring without a known cause, and cannot be identified by appearance, with people unable to judge their blood pressure from how they feel",
+      "Because it only affects older adults",
+      "Because it always causes chest pain"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hypertension is idiopathic, meaning it occurs without a known etiology, and no one can identify who has it by looking at them. People cannot determine how high their blood pressure is based on how they feel, and if they could truly perceive it, the reading would likely be in the hypertensive crisis range with chest pain, visual blurring, or neurologic deficits. Roughly 90% of cases are idiopathic, while the other 10% are potentially curable because they stem from secondary causes."
+  },
+  {
+    "id": "nsca-cond-003",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Hypertension",
+    "question": "A 28-year-old client reports newly diagnosed hypertension. Why should the trainer treat the client's age as significant?",
+    "choices": [
+      "Young clients never require evaluation",
+      "Hypertension under 35 is always harmless",
+      "Anyone under 35 with hypertension needs aggressive physician evaluation for secondary causes, since those newly diagnosed under 35 have a greater incidence of secondary causes",
+      "Age has no bearing on the evaluation"
+    ],
+    "answerIndex": 2,
+    "explanation": "Anyone under the age of 35 with hypertension needs to be aggressively evaluated by a doctor for one of the secondary diagnoses. Those newly diagnosed under 35 have a greater incidence of secondary causes, which include hyperthyroidism, pheochromocytoma, hypercortisolism, hyperaldosteronism, and renal artery stenosis. Any client observed to be hypertensive must be referred to a doctor for further evaluation and treatment."
+  },
+  {
+    "id": "nsca-cond-004",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Hypertension",
+    "question": "What risks does elevated blood pressure create?",
+    "choices": [
+      "Only cosmetic changes",
+      "Only musculoskeletal injury",
+      "Only respiratory complications",
+      "Risk for heart attack, stroke, or both, with mildly elevated pressure over time leading to kidney disease and generalized vascular disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Elevated blood pressure puts an individual at risk for a heart attack, stroke, or both. Mildly elevated pressure over time can lead to kidney disease and generalized vascular disease. Target organ damage from untreated or inadequately treated hypertension can affect cardiac, brain, kidney, peripheral vascular, and retinal tissue."
+  },
+  {
+    "id": "nsca-cond-005",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Blood pressure classification",
+    "question": "Which systolic and diastolic values define stage 1 hypertension in the classification table?",
+    "choices": [
+      "140 to 159 or 90 to 99 mmHg",
+      "120 to 139 or 80 to 89 mmHg",
+      "160 or higher or 100 or higher mmHg",
+      "Below 120 and below 80 mmHg"
+    ],
+    "answerIndex": 0,
+    "explanation": "Stage 1 hypertension is a systolic pressure of 140 to 159 mmHg or a diastolic of 90 to 99 mmHg. Prehypertension is 120 to 139 systolic or 80 to 89 diastolic, and normal is below 120 and below 80. Lifestyle modification is encouraged at normal and indicated from prehypertension onward."
+  },
+  {
+    "id": "nsca-cond-006",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Blood pressure and training",
+    "question": "A client arrives with a resting blood pressure of 148/94 mmHg. What should the trainer do?",
+    "choices": [
+      "Proceed with a low-intensity session while monitoring the client's blood pressure between every set",
+      "Cancel the session and advise the client to speak with their doctor",
+      "Proceed but avoid upper body exercise",
+      "Retest immediately and average the two readings"
+    ],
+    "answerIndex": 1,
+    "explanation": "If the blood pressure is stage 1 or above it is imperative to cancel the exercise session and advise the client to speak with their doctor. Clients with readings at or above roughly 140/90 should not begin an exercise program until a physician has their pressure controlled and has cleared them. If the client is typically normotensive, the session can be rescheduled with a recheck beforehand."
+  },
+  {
+    "id": "nsca-cond-007",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Hypertension medications",
+    "question": "Which effect of alpha, beta, and calcium channel blockers affects program design?",
+    "choices": [
+      "They raise heart rate excessively during exercise and so require a shortened warm-up period",
+      "They eliminate the need for a warm-up",
+      "They cause vasodilation and blood pooling, so a longer cool-down is needed",
+      "They have no effect on exercise response"
+    ],
+    "answerIndex": 2,
+    "explanation": "Alpha, beta, and calcium channel blockers cause vasodilation with the potential for blood pooling, which necessitates a longer cool-down period, especially after treadmill walking, jogging, and circuit weight training. Angiotensin converting enzyme inhibitors and angiotensin receptor blockers act on the kidney vasculature and can also cause pooling. Diuretics cause volume depletion, but the trainer should never restrict a client's fluid use or worry about their use of electrolyte solutions."
+  },
+  {
+    "id": "nsca-cond-008",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Beta blockers",
+    "question": "Why do beta blockers require using ratings of perceived exertion instead of heart rate?",
+    "choices": [
+      "They only affect blood pressure and leave the exercise heart rate response entirely intact",
+      "They cause heart rate to spike unpredictably",
+      "They eliminate the sensation of effort",
+      "They slow the rate and stop it rising normally, making heart rate unreliable"
+    ],
+    "answerIndex": 3,
+    "explanation": "Beta blockers not only slow the heart rate but also prevent it from elevating as a normal response to exercise. This makes heart rate an unreliable measure of intensity and necessitates use of the ratings of perceived exertion scale. Perceived exertion captures the client's overall effort independent of the pharmacologic blunting of heart rate."
+  },
+  {
+    "id": "nsca-cond-009",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Hypertension contraindications",
+    "question": "Which exercises are contraindicated for clients with hypertension?",
+    "choices": [
+      "Any activity raising intrathoracic pressure, meaning a prolonged Valsalva maneuver",
+      "All resistance training of any kind, whether performed with machines or with free weights",
+      "All aerobic exercise",
+      "Any exercise using free weights"
+    ],
+    "answerIndex": 0,
+    "explanation": "Contraindicated activities are those that increase intrathoracic pressure, decreasing blood flow return to the heart and reducing cardiac output. In practice this means any exercise with an associated prolonged Valsalva maneuver, greater than 1 or 2 seconds. The burden is on the trainer to confirm both that technique is correct and that the client is breathing properly."
+  },
+  {
+    "id": "nsca-cond-010",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Hypertension programming",
+    "question": "Which exercise modes are permissible for a client with controlled hypertension?",
+    "choices": [
+      "Aerobic exercise only, and then just walking or stationary cycling at a low intensity",
+      "Essentially all exercises, including free weights, machines, body weight, and bands",
+      "Only seated machine exercises",
+      "Only water-based exercise"
+    ],
+    "answerIndex": 1,
+    "explanation": "A client with controlled hypertension can exercise with limited restrictions, and essentially all exercises are permissible, including free weights, weight machines, body weight, elastic bands, aerobic exercise such as walking, jogging, and swimming, and circuit weight training. Only simple precautions are needed to allow the application of all modalities. If the client has a comorbid condition, however, the choice of exercise may be altered or restricted."
+  },
+  {
+    "id": "nsca-cond-011",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Hypertension aerobic guidelines",
+    "question": "Which aerobic parameters are recommended for a client with controlled hypertension?",
+    "choices": [
+      "Begin at 20% of maximal oxygen uptake and progress only after six months of training",
+      "Begin at 85% of maximal oxygen uptake for 60 minutes daily",
+      "Begin at 40% to 50% of maximal oxygen uptake, progressing to 50% to 85%",
+      "Aerobic exercise should be avoided entirely"
+    ],
+    "answerIndex": 2,
+    "explanation": "Intensity should begin at 40% to 50% of maximal oxygen uptake and ultimately reach 50% to 85%, with perceived exertion starting at 8 to 10 on the 6 to 20 scale and targeting 11 to 13. Sessions should last 15 to 30 minutes initially with an eventual target of 30 to 60 minutes, three to seven days per week, producing a weekly expenditure of 700 to 2,000 kilocalories. Reaching these goals typically takes four to six months, and every program must still be individualized."
+  },
+  {
+    "id": "nsca-cond-012",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Hypertension resistance guidelines",
+    "question": "How should resistance training begin for a client with hypertension?",
+    "choices": [
+      "Isometric holds of 30 seconds per exercise",
+      "1 to 5 repetitions at 90% of one-repetition maximum with 30 second rests",
+      "Six sets to failure with no rest",
+      "16 to 20 repetitions per set"
+    ],
+    "answerIndex": 3,
+    "explanation": "Clients should begin with 16 to 20 repetitions per set, which corresponds to roughly 50% to 60% of one-repetition maximum and keeps them within the same guidelines used for aerobic intensity. Rest should initially be 2 to 3 minutes or longer to allow full recovery, which is especially necessary given the potential use of prescription medications. As few as one and no more than three sets per exercise are used at the start, with large-muscle multijoint movements being the safest choice."
+  },
+  {
+    "id": "nsca-cond-013",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Hypertension progression",
+    "question": "How may resistance training progress for a hypertensive client over four to six months?",
+    "choices": [
+      "Repetitions can fall to 8 to 12, two or three times per week",
+      "Repetitions should increase to 30 per set as the client's blood pressure control improves",
+      "Frequency should increase to daily maximal lifting",
+      "No progression is ever appropriate"
+    ],
+    "answerIndex": 0,
+    "explanation": "Over roughly four to six months the repetition range can decrease to 8 to 12 repetitions. Exercise frequency should be two or three times per week with a duration between 30 and 60 minutes per session. Goals for these clients include increasing maximal oxygen uptake and ventilatory threshold, maximal work and endurance, caloric expenditure, muscular endurance, and blood pressure control."
+  },
+  {
+    "id": "nsca-cond-014",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Conservative starting point",
+    "question": "A client has physician clearance but the trainer doubts they are conditioned for a strenuous program. What does the guidance support?",
+    "choices": [
+      "Following the clearance and starting at the higher intensity the physician has already approved",
+      "Beginning a low-intensity program, which will not unduly stress the client",
+      "Refusing to train the client",
+      "Requiring a second physician's opinion before any exercise"
+    ],
+    "answerIndex": 1,
+    "explanation": "Trainers can feel secure beginning a low-intensity program with such a client because training at that level will not unduly stress the physiology or cause an increased risk of an acute cardiac or neurologic event. Low- to moderate-intensity programs have been shown to lower blood pressure, and low-intensity training may be as effective as moderate-intensity training for reducing resting blood pressure and pressure responses to stress. It is always best to err on the side of conservatism."
+  },
+  {
+    "id": "nsca-cond-015",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Comorbid conditions",
+    "question": "Which comorbid conditions may alter exercise selection for a hypertensive client?",
+    "choices": [
+      "Only respiratory allergies",
+      "Only prior sports injuries that still limit the client's available joint range of motion",
+      "Musculoskeletal, neurologic, and vascular conditions such as stroke or aneurysm",
+      "Comorbid conditions never affect exercise choice"
+    ],
+    "answerIndex": 2,
+    "explanation": "Comorbid conditions that may alter or restrict exercise choice include musculoskeletal conditions such as degenerative joint diseases and rheumatologic disease, neurologic disorders such as stroke, myasthenia gravis, and muscular dystrophy, and vascular diseases such as carotid artery disease, cardiac conditions, and aneurysms. Although essentially all exercises are permissible for controlled hypertension alone, a comorbidity changes that calculus. Individualization is therefore essential."
+  },
+  {
+    "id": "nsca-cond-016",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Vascular occlusive disease",
+    "question": "What pathophysiology do myocardial infarction, stroke, and peripheral vascular disease share?",
+    "choices": [
+      "They are all infectious in origin and follow a viral illness affecting the vessel wall",
+      "They are all reversible with rest alone",
+      "They are all caused by electrical conduction defects",
+      "They are the end result of vascular occlusive disease at different body levels"
+    ],
+    "answerIndex": 3,
+    "explanation": "The pathophysiology is essentially the same for all three, since they represent the end result of vascular occlusive disease at various levels of the body, in the heart, the brain, or the general vascular system. An atheromatous lipid-cholesterol plaque forms within the vessel lumen, focal inflammation destabilizes the area, and over time a collagen cap develops with an overlay of smooth muscle cells. A mature, stable cap narrows the vessel diameter, while a soft unstable cap can rupture and release material that causes sudden occlusive disease."
+  },
+  {
+    "id": "nsca-cond-017",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Psychological considerations",
+    "question": "A client three months post-myocardial infarction alternates between fearing exercise and insisting they will push through any barrier. What does this require of the trainer?",
+    "choices": [
+      "Actively listening and attending to nonverbal cues and innuendo",
+      "Ignoring the psychology entirely and focusing only on the measurable physiologic deficits",
+      "Terminating the training relationship",
+      "Immediately progressing to high intensity to build confidence"
+    ],
+    "answerIndex": 0,
+    "explanation": "Beyond the physiologic deficits, clients with a history of myocardial infarction, stroke, or peripheral vascular disease often have genuine psychological problems whether they consciously recognize them or not. These range from a fear of precipitating another acute event to the opposite extreme of fearless determination to push through barriers. The trainer must actively listen and pay attention to messages relayed through nonverbal cues and innuendo."
+  },
+  {
+    "id": "nsca-cond-018",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Peripheral vascular disease",
+    "question": "How should a walking program be structured for a client with peripheral vascular disease?",
+    "choices": [
+      "The client should walk through the pain continuously",
+      "Walk until it hurts, stop and rest",
+      "Avoid walking altogether",
+      "Walk only at maximal speed for short bursts"
+    ],
+    "answerIndex": 1,
+    "explanation": "For clients with peripheral vascular disease the claudication or calf pain during walking is the rate-limiting factor, and the pain is incapacitating rather than mild. Clients cannot walk through it and instead must stop, sit down, and rest, so the program is simply to walk until it hurts, stop, and repeat. Walking duration should be 10 to 30 minutes with the goal of lengthening walking time and shortening the rest interval until the exercise becomes one continuous bout."
+  },
+  {
+    "id": "nsca-cond-019",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Peripheral vascular disease",
+    "question": "How do resistance training recommendations for clients with peripheral vascular disease compare with those for hypertensive clients?",
+    "choices": [
+      "They are considerably heavier and use much lower repetition ranges than for hypertension",
+      "Resistance training is contraindicated",
+      "The same recommendations apply for repetition ranges, sets, and rest periods",
+      "Only isometric exercise is permitted"
+    ],
+    "answerIndex": 2,
+    "explanation": "The same resistance training recommendations apply to clients with peripheral vascular disease as to hypertensive clients, including repetition ranges, sets, and rest periods. The distinguishing feature of the peripheral vascular disease program is the walk-rest-repeat structure of the aerobic component. Aerobic conditioning exists specifically so the client can walk greater distances pain free."
+  },
+  {
+    "id": "nsca-cond-020",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Angina",
+    "question": "Why is the client with angina pectoris excluded from the personal training guidance?",
+    "choices": [
+      "Because angina resolves on its own without any medical intervention being required at all",
+      "Because exercise is contraindicated for all cardiac clients",
+      "Because angina is not a cardiovascular condition",
+      "They are considered too high risk for the typical personal training setting"
+    ],
+    "answerIndex": 3,
+    "explanation": "Discussion of the client with angina pectoris is intentionally omitted because these clients are considered too high risk for the personal trainer functioning in a typical health club or home gym. Recognizing the boundary of one's practice setting is part of working safely with cardiovascular conditions. Such clients belong in a medically supervised environment."
+  },
+  {
+    "id": "nsca-cond-021",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Chronic obstructive pulmonary disease",
+    "question": "Where should patients with chronic obstructive pulmonary disease exercise?",
+    "choices": [
+      "In a formal pulmonary and respiratory rehabilitation facility",
+      "In a standard health club under the direction of a certified personal trainer",
+      "At home without supervision",
+      "Only in aquatic facilities"
+    ],
+    "answerIndex": 0,
+    "explanation": "Patients with chronic obstructive pulmonary disease should exercise in a formal pulmonary and respiratory rehabilitation facility rather than under a personal trainer's direction. Muscle biopsies from this population show loss of type I muscle fibers and reductions in oxidative enzymes such as succinate synthase. Traditionally these patients are assigned to pulmonary rehabilitation with aerobic exercise, though resistance training is now recognized as an important component."
+  },
+  {
+    "id": "nsca-cond-022",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Asthma",
+    "question": "How is asthma defined?",
+    "choices": [
+      "An irreversible loss of lung tissue caused by progressive destruction of the alveoli",
+      "A reversible airway disease with hyperreactivity and easy bronchospasm",
+      "A permanent narrowing of the pulmonary arteries",
+      "An infection of the alveoli"
+    ],
+    "answerIndex": 1,
+    "explanation": "Asthma is a reversible airway disease with associated hyperreactivity, characterized by the ease of developing bronchospasm, constriction, or both. A very common subset is exercise-induced asthma. More severe forms require medications beyond inhaled bronchodilators, including inhaled and oral steroids."
+  },
+  {
+    "id": "nsca-cond-023",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Exercise-induced asthma",
+    "question": "What is the typical time course of exercise-induced asthma?",
+    "choices": [
+      "It begins immediately at the start of exercise and then lasts for several hours afterwards without treatment",
+      "It appears only the day after exercise",
+      "It begins 15 to 20 minutes in and resolves 10 to 30 minutes after stopping",
+      "It cannot resolve without hospitalization"
+    ],
+    "answerIndex": 2,
+    "explanation": "Exercise-induced asthma is usually self-limited, rarely results in hospitalization, and begins 15 to 20 minutes into an exercise session or as early as 5 minutes in some cases, with associated coughing, wheezing, or both. If left untreated the client will recover and become symptom free within 10 to 30 minutes after exercise stops. Adult clients notice symptom onset later in the session than children do, and their symptoms last longer."
+  },
+  {
+    "id": "nsca-cond-024",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Asthma phases",
+    "question": "How do the early and late phases of asthmatic bronchospasm differ in management?",
+    "choices": [
+      "The late phase precedes the early phase",
+      "The early phase requires inhaled steroids while the late phase responds only to bronchodilators taken beforehand each time",
+      "Both phases resolve without any intervention",
+      "The early phase is bronchoconstriction treated by bronchodilators; the late phase is edema treated by steroids"
+    ],
+    "answerIndex": 3,
+    "explanation": "The early phase results from bronchoconstriction and responds favorably to inhaled bronchodilators, with prevention achieved by using a bronchodilator 15 to 20 minutes before exercise begins. The late phase is delayed in onset by 1 to 6 hours, is caused by airway edema, and is best controlled with inhaled steroids. Clients with a late-phase component are best treated 2 to 3 hours after exercise."
+  },
+  {
+    "id": "nsca-cond-025",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Asthma intensity monitoring",
+    "question": "How should exercise intensity be monitored in a client with asthma?",
+    "choices": [
+      "Ratings of perceived exertion and the sense of shortness of breath",
+      "Using target heart rate exclusively, since it is the most objective available marker",
+      "Using metabolic equivalents only",
+      "Using blood pressure readings"
+    ],
+    "answerIndex": 0,
+    "explanation": "The best way to monitor intensity in clients with asthma is through ratings of perceived exertion and the sense of shortness of breath. Many of these clients are unable to achieve a training heart rate yet still objectively show physiological gains. Clients taking systemic glucocorticoids may also have respiratory muscle disease, which makes breathing under stress more challenging."
+  },
+  {
+    "id": "nsca-cond-026",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Asthma environment",
+    "question": "A client with asthma asks when to schedule sessions. Which timing and conditions should the trainer recommend?",
+    "choices": [
+      "Early morning, avoiding all indoor facilities because of poor circulating air quality",
+      "Mid- to late morning, avoiding temperature extremes and high humidity",
+      "Late evening, avoiding any resistance training",
+      "Timing and environment are irrelevant"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clients with asthma do better with mid- to late-morning sessions because of the natural daytime release of cortisol from the adrenal glands. They should avoid temperature extremes, since ambient or inhaled air can precipitate bronchospasm, and high humidity can have a similar effect. The shortness of breath associated with asthma can also produce significant anxiety, depression, and fear of exercise."
+  },
+  {
+    "id": "nsca-cond-027",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Asthma programming",
+    "question": "What programming emphasis is recommended for clients with asthma?",
+    "choices": [
+      "Progression of intensity ahead of duration, in order to maximize the overall cardiovascular stimulus",
+      "Maximal effort intervals from the first session",
+      "Progression of duration over intensity, in order to desensitize the client to dyspnea",
+      "Resistance training only, with no aerobic work"
+    ],
+    "answerIndex": 2,
+    "explanation": "The emphasis for clients with asthma is on progression of duration rather than intensity in order to desensitize them to dyspnea. Sessions should last 30 minutes and occur one to two times daily, three to seven days per week, although beginners may only manage 5 to 10 minutes at first. Perceived exertion should be maintained at 11 to 13 on the 6 to 20 scale with continuous monitoring for shortness of breath."
+  },
+  {
+    "id": "nsca-cond-028",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Asthma resistance training",
+    "question": "What are the objectives of resistance training for a client with asthma?",
+    "choices": [
+      "Maximal strength development using loads above 85% of one-repetition maximum twice each week",
+      "Eliminating resistance training entirely",
+      "Only isometric holds to avoid breathing changes",
+      "More repetitions to desensitize to breathlessness, more volume, and more lean mass"
+    ],
+    "answerIndex": 3,
+    "explanation": "Resistance training objectives for clients with asthma are increasing the maximal number of repetitions to desensitize them to shortness of breath, increasing training volume, and increasing lean body mass. The initial program should use lighter loads for more repetitions, under 16, two to three days per week. Large muscle aerobic activity such as walking, cycling, and swimming complements this by improving aerobic capacity and raising lactate and ventilatory thresholds."
+  },
+  {
+    "id": "nsca-cond-029",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Metabolic syndrome",
+    "question": "How many of the defining criteria must be present to classify metabolic syndrome?",
+    "choices": [
+      "Three or more",
+      "Two",
+      "One",
+      "All five of the listed criteria"
+    ],
+    "answerIndex": 0,
+    "explanation": "Persons having three or more of the defining criteria are classified as having the metabolic syndrome. Those criteria cover abdominal obesity by waist circumference, hypertriglyceridemia at 150 mg/dl or greater, reduced high-density lipoprotein cholesterol below 40 mg/dl in men and 50 mg/dl in women, elevated blood pressure at 130/85 mmHg or greater, and elevated fasting glucose. The overall prevalence is approximately 27% of the United States adult population."
+  },
+  {
+    "id": "nsca-cond-030",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Metabolic syndrome",
+    "question": "What underlying mechanism has been proposed as the cause of metabolic syndrome?",
+    "choices": [
+      "Excess dietary protein, which the liver gradually converts into stored triglyceride over time",
+      "Insulin resistance, in which receptors become fewer and less sensitive to insulin",
+      "Chronic dehydration",
+      "Excessive aerobic exercise"
+    ],
+    "answerIndex": 1,
+    "explanation": "Poor blood glucose regulation due to insulin resistance has been proposed as the underlying cause of metabolic syndrome. People with the syndrome typically have hyperinsulinemia because insulin receptors become less numerous and less sensitive, so insulin stays in the blood rather than binding to cells and blood glucose remains high. The syndrome is associated with a two- to fourfold increase in cardiovascular morbidity and stroke."
+  },
+  {
+    "id": "nsca-cond-031",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Metabolic syndrome",
+    "question": "Why is exercise described as the first line of treatment for metabolic syndrome?",
+    "choices": [
+      "Because it is by far the cheapest available option for managing the condition over the long term",
+      "Because it eliminates the need for medical care",
+      "It influences every component, from body fat and insulin sensitivity to blood pressure",
+      "Because it addresses only blood pressure"
+    ],
+    "answerIndex": 2,
+    "explanation": "Exercise is the first line of treatment because it influences every component of the disorder. Regular activity reduces excess body fat, improves cell sensitivity to insulin so blood insulin normalizes and blood glucose falls, lowers blood pressure, and raises high-density lipoprotein cholesterol. Trainers should nonetheless work in conjunction with the client's physician and a registered dietitian to address the various conditions involved."
+  },
+  {
+    "id": "nsca-cond-032",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Metabolic syndrome",
+    "question": "Which body type is commonly associated with metabolic syndrome, and why does it matter?",
+    "choices": [
+      "Pear-shaped, because fat cells in the hips release cholesterol directly into the bloodstream",
+      "Only extremely lean body types",
+      "Neither body type is associated with the syndrome",
+      "Apple-shaped or android, because abdominal fat cells release triglycerides into the blood"
+    ],
+    "answerIndex": 3,
+    "explanation": "People with metabolic syndrome often have the apple-shaped or android body type, characterized by high fat in the trunk and abdomen. Abdominal fat cells deposit high amounts of triglycerides into the bloodstream, the nearby liver takes up this fat and produces very low-density lipoproteins, and once those lose their triglycerides they convert into low-density lipoproteins. Because low-density lipoproteins carry and deposit large amounts of cholesterol, high levels raise coronary heart disease and stroke risk through atherosclerosis."
+  },
+  {
+    "id": "nsca-cond-033",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Diabetes diagnosis",
+    "question": "On what basis is diabetes mellitus diagnosed?",
+    "choices": [
+      "Two fasting glucose readings of 126 mg/dl or higher",
+      "A single fasting glucose reading above 100 mg/dl taken at any point in the day",
+      "A single random glucose above 140 mg/dl",
+      "Symptoms alone, without any laboratory test"
+    ],
+    "answerIndex": 0,
+    "explanation": "Diagnosis is based on two fasting glucose levels of 126 mg/dl or higher. Other diagnostic options include two 2-hour postprandial plasma glucose measurements of 200 mg/dl or higher after a 75 gram glucose load, or two casual glucose readings of 200 mg/dl. Signs and symptoms of diabetes include increased frequency of urination, increased thirst, increased appetite, and general weakness."
+  },
+  {
+    "id": "nsca-cond-034",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Diabetes types",
+    "question": "What distinguishes type 1 from type 2 diabetes mellitus?",
+    "choices": [
+      "Type 1 is caused by obesity and inactivity while type 2 results from an autoimmune process",
+      "Type 1 is autoimmune beta cell destruction; type 2 is insulin resistance",
+      "Both are treated identically with insulin injections",
+      "Type 2 always develops before age 25"
+    ],
+    "answerIndex": 1,
+    "explanation": "Type 1 diabetes involves pancreatic beta cell destruction by an autoimmune process leading to absolute insulin deficiency, accounts for roughly 10% of cases, usually develops before age 25, and requires exogenous insulin for survival. Type 2 is characterized by insulin resistance in peripheral tissues along with a beta cell secretory deficit, accounts for about 90% of cases, and is highly associated with family history, older age, obesity, and lack of exercise. Type 2 treatment usually includes diet modification, weight control, regular exercise, and oral hypoglycemic agents."
+  },
+  {
+    "id": "nsca-cond-035",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Diabetic ketoacidosis",
+    "question": "What is diabetic ketoacidosis and what are its initial symptoms?",
+    "choices": [
+      "An allergic reaction to insulin",
+      "A drop in blood glucose below 65 mg/dl accompanied by sweating, tremor, and hunger",
+      "A metabolic acidosis from ketone accumulation when insulin is severely depressed",
+      "A temporary rise in blood pressure after exercise"
+    ],
+    "answerIndex": 2,
+    "explanation": "Diabetic ketoacidosis is a metabolic acidosis caused by the accumulation of ketones due to severely depressed insulin levels. Initial symptoms are frequent urination, nausea, vomiting, abdominal pain, and lethargy, and untreated individuals may progress to coma. People with uncontrolled or newly diagnosed type 1 diabetes are prone to developing it."
+  },
+  {
+    "id": "nsca-cond-036",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Diabetes screening",
+    "question": "Which clients with diabetes are generally recommended to have stress cardiac testing before moderate-intensity exercise?",
+    "choices": [
+      "All clients with diabetes regardless of their age or the duration of their condition",
+      "Only clients using insulin pumps",
+      "Only clients under age 25",
+      "Those over 35, or with long-standing diabetes or microvascular disease"
+    ],
+    "answerIndex": 3,
+    "explanation": "Stress cardiac testing performed by a medical professional is generally recommended for clients with diabetes who plan moderate-intensity exercise and are considered at risk for heart disease. That group includes clients older than 35 years, those with type 2 diabetes of more than 10 years' duration, those with type 1 diabetes of more than 15 years' duration, and those with evidence of microvascular disease such as retinopathy or nephropathy. All clients with diabetes should first have a medical evaluation of glycemic control and screening for complications exacerbated by exercise."
+  },
+  {
+    "id": "nsca-cond-037",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Diabetes contraindications",
+    "question": "Which blood glucose findings contraindicate exercise for a client with type 1 diabetes?",
+    "choices": [
+      "Above 250 mg/dl with urinary ketones, or above 300 mg/dl without",
+      "Blood glucose of 110 mg/dl measured immediately before the training session actually begins",
+      "Blood glucose of 90 mg/dl",
+      "Any blood glucose above 140 mg/dl"
+    ],
+    "answerIndex": 0,
+    "explanation": "For type 1 diabetes, exercise is contraindicated with blood glucose above 250 mg/dl and ketones in the urine, or above 300 mg/dl without ketones, because exercising at these levels can worsen hyperglycemia and promote ketosis and acidosis. Clients with type 2 diabetes may exercise provided they feel well and are hydrated, though caution applies above 300 mg/dl without ketones. Clients with preexercise glucose below 100 mg/dl risk hypoglycemia and should eat a carbohydrate snack first."
+  },
+  {
+    "id": "nsca-cond-038",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Diabetes contraindications",
+    "question": "Which additional conditions are listed as contraindications or activity restrictions for clients with diabetes?",
+    "choices": [
+      "Only an elevated blood glucose reading taken on the morning of the training session",
+      "Proliferative retinopathy, severe kidney disease, neuropathy, or acute illness",
+      "Only a family history of diabetes",
+      "Only the use of oral hypoglycemic agents"
+    ],
+    "answerIndex": 1,
+    "explanation": "Listed contraindications include proliferative retinopathy, for which strenuous high-intensity activity should be avoided, severe kidney disease, loss of protective sensation in the feet from peripheral neuropathy, acute illness, infection or fever, and evidence of underlying cardiovascular disease that has not been medically evaluated. Clients with peripheral neuropathy should avoid outdoor walking and jogging, with swimming or biking recommended instead. Proper footwear that is comfortable and well fitted is essential to prevent blisters and other foot injuries."
+  },
+  {
+    "id": "nsca-cond-039",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Hypoglycemia",
+    "question": "At what blood glucose level is hypoglycemia defined, and which factors predispose to it during exercise?",
+    "choices": [
+      "65 mg/dl or lower; higher intensity, longer duration, and excessive insulin dosing",
+      "100 mg/dl or lower; only inadequate sleep",
+      "126 mg/dl or lower; only excessive carbohydrate intake in the hours before exercise",
+      "200 mg/dl or lower; only hot environments"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hypoglycemia is defined as a blood glucose level of 65 mg/dl or lower and is the principal risk of exercise for people with diabetes, of greater concern in type 1 than type 2. Predisposing factors include increased exercise intensity, longer exercise time, inadequate caloric intake before exercise, excessive insulin dose, insulin injection into exercising muscle, and colder environmental temperatures. The mechanism relates to exercise enhancing absorption of exogenous insulin, increasing muscle glucose uptake, and impairing mobilization of glucose in blood."
+  },
+  {
+    "id": "nsca-cond-040",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Hypoglycemia signs",
+    "question": "Which signs and symptoms indicate hypoglycemia?",
+    "choices": [
+      "Improved concentration and steady hands",
+      "Increased thirst, frequent urination, and a fruity odor detectable on the client's breath",
+      "Slow pulse and dry skin only",
+      "Sweating, hunger, palpitations, tremor, dizziness, confusion, and blurred vision"
+    ],
+    "answerIndex": 3,
+    "explanation": "Signs and symptoms of hypoglycemia include sweating, hunger, palpitations, tachycardia, anxiety, tremor, dizziness, blurred vision, confusion, convulsion, syncope, and coma. Apparent loss of concentration, shaking or shivering, and loss of consciousness are also described. Trainers working with clients who have diabetes should recognize these signs and be able to manage hypoglycemia with glucose or fructose foods and drinks when the client cannot treat themselves."
+  },
+  {
+    "id": "nsca-cond-041",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Hypoglycemia response",
+    "question": "A client with diabetes becomes confused and shaky mid-session and their glucose meter reads 62 mg/dl. What is the recommended response?",
+    "choices": [
+      "Give 15 grams of carbohydrate, then recheck after about 15 minutes",
+      "Have them rest quietly until the symptoms resolve on their own without any intervention",
+      "Give a protein-only snack and continue the session",
+      "Increase exercise intensity to raise glucose"
+    ],
+    "answerIndex": 0,
+    "explanation": "Immediate treatment with carbohydrate is essential. If glucose is below 70 mg/dl or the client is known to have diabetes and shows signs of hypoglycemia, provide 15 grams of carbohydrate, equivalent to three or four glucose tablets, half a cup of regular soft drink or fruit juice, about six saltine crackers, or a tablespoon of sugar or honey. Wait about 15 minutes, remeasure, and repeat until glucose rises above 70 mg/dl, and consider dialing emergency services."
+  },
+  {
+    "id": "nsca-cond-042",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Diabetes monitoring",
+    "question": "When should a client with diabetes monitor blood glucose around exercise?",
+    "choices": [
+      "Only once per week, on the morning of the client's heaviest training session",
+      "Before and after exercise, and every 30 minutes during prolonged exercise",
+      "Only if symptoms appear",
+      "Only after the session ends"
+    ],
+    "answerIndex": 1,
+    "explanation": "Blood glucose measurement with portable monitors is an essential part of the exercise prescription. Clients should check before and after exercise and every 30 minutes during prolonged exercise. Clients with diabetes should also always wear medical alert identification where it can easily be seen in case of a hypoglycemic reaction."
+  },
+  {
+    "id": "nsca-cond-043",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Diabetes scope of practice",
+    "question": "The personal trainer may advise a client with diabetes about their insulin use and meal timing.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "The personal trainer is never to advise a client about the use of insulin or the timing of meals. The client's physician directs insulin use, normally in conjunction with a dietitian, to ensure a hypoglycemic event does not occur. If a client experiences regular episodes of poor blood glucose control, they should be sent back to their physician for care."
+  },
+  {
+    "id": "nsca-cond-044",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Diabetes programming",
+    "question": "Which aerobic parameters are recommended for clients with diabetes mellitus?",
+    "choices": [
+      "Daily sessions at 90% of heart rate reserve for a full 60 minutes at a time",
+      "One day per week at maximal intensity",
+      "Three to seven days weekly, 20 to 60 minutes, at 50% to 80% reserve",
+      "Aerobic exercise should be avoided"
+    ],
+    "answerIndex": 2,
+    "explanation": "Aerobic activity is recommended three to seven days per week for 20 to 60 minutes per day at 50% to 80% of oxygen uptake reserve or heart rate reserve. Oxygen uptake reserve is the difference between resting and maximal oxygen consumption. Unconditioned clients can exercise at a lower intensity for a longer duration until they reach a higher fitness level."
+  },
+  {
+    "id": "nsca-cond-045",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Diabetes timing",
+    "question": "When should exercise generally be scheduled for a client with diabetes?",
+    "choices": [
+      "Immediately upon waking, before any food or hypoglycemic medication has been taken that day",
+      "Timing does not affect glycemic control",
+      "Immediately after an insulin injection into the exercising limb",
+      "One to two hours after a meal, away from peak medication activity"
+    ],
+    "answerIndex": 3,
+    "explanation": "Exercise should generally be scheduled 1 to 2 hours after a meal, or when hypoglycemic medication is not at its peak activity. Adjustment of medication dosage along with proper meal timing is key to maintaining good glycemic control during activity. After exercise, carbohydrate stores should be replenished according to the duration and intensity of the activity."
+  },
+  {
+    "id": "nsca-cond-046",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Low back pain",
+    "question": "Which factors can cause low back pain?",
+    "choices": [
+      "Strain, sprain, tight muscles, hypomobility, hypermobility, or sacroiliac dysfunction",
+      "Only acute traumatic injury sustained during lifting or another weight-bearing activity",
+      "Only disc herniation",
+      "Only poor cardiovascular fitness"
+    ],
+    "answerIndex": 0,
+    "explanation": "Low back pain can be acute or chronic and may be caused by a strain, a sprain, tight muscles or trigger points, hypomobility, hypermobility, or sacroiliac dysfunction, among other factors. It can create a vicious cycle of pain, decreased function, and loss of muscular support. Common contributing culprits are located in the hip, including the hip flexors, hip lateral rotators, and hamstrings."
+  },
+  {
+    "id": "nsca-cond-047",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Low back pain",
+    "question": "A client with low back pain has notably tight hamstrings. What is the described relationship and possible recommendation?",
+    "choices": [
+      "Hamstring length is unrelated to the low back because the muscle crosses only the knee",
+      "Tight hamstrings pull the pelvis posteriorly and flex the lumbar spine excessively",
+      "Hamstring stretching worsens all low back pain",
+      "Only abdominal strengthening should be considered"
+    ],
+    "answerIndex": 1,
+    "explanation": "Although the hamstrings are usually considered a lower extremity muscle group, tightness there can cause excessive forward flexion of the lumbar area through posterior pull on the pelvis, particularly during movement, contributing to low back pain. In that case the recommendation may be as simple as stretches or exercises to increase hamstring length. Proper assessment for tightness or weakness of contributing musculature is essential, and the low back extensors and abdominals provide the stability and support that must also be strengthened."
+  },
+  {
+    "id": "nsca-cond-048",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Low back pain and balance",
+    "question": "How does balance strategy differ between people with and without low back pain?",
+    "choices": [
+      "Both groups stabilize about the ankle joint and show entirely identical postural control strategies in testing",
+      "People with low back pain have superior balance",
+      "Those without low back pain fulcrum about the ankle; those with it use the hips",
+      "Balance strategy is unrelated to low back pain"
+    ],
+    "answerIndex": 2,
+    "explanation": "People without low back injury tend to stabilize or fulcrum about the ankle during balance tasks. Those with low back pain instead tend to fulcrum about the hips and low back to maintain upright posture, which makes them more prone to difficulties with postural control and balance. This is one reason assessment of flexibility, range of motion, and contributing deficits matters for this population."
+  },
+  {
+    "id": "nsca-cond-049",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Osteoarthritis",
+    "question": "Which exercise modes are indicated for a client with osteoarthritis in weight-bearing joints?",
+    "choices": [
+      "Running, jogging, and snow skiing, provided the joints are warmed up beforehand",
+      "Only isometric holds",
+      "Depth jumps and bounding",
+      "Bicycle, stair stepper, elliptical trainer, and aquatics or swimming"
+    ],
+    "answerIndex": 3,
+    "explanation": "Indicated modes for osteoarthritis include the bicycle, stair stepper, elliptical trainer, and aquatics or swimming, while high-impact activities such as running, jogging, and snow skiing are contraindicated. Aquatic exercise is particularly helpful because the buoyancy of water allows exercise with significantly less joint loading. Cardiovascular training with limited weight bearing protects joint surfaces and minimizes impact loading, and weight management plus muscular endurance is of great benefit."
+  },
+  {
+    "id": "nsca-cond-050",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Rheumatoid arthritis",
+    "question": "A client with rheumatoid arthritis asks the trainer about adding neck-specific exercises. Which consideration applies?",
+    "choices": [
+      "Degeneration of the upper cervical ligaments can create a life-threatening instability",
+      "Neck exercises are the highest programming priority for this population from the outset",
+      "Neck exercises are unaffected by the disease",
+      "Only maximal-load neck exercises are appropriate"
+    ],
+    "answerIndex": 0,
+    "explanation": "In rheumatoid arthritis, degeneration of the ligaments supporting the first two cervical vertebrae may result in a life-threatening situation. For that reason neck-specific exercises should be considered contraindicated or used only under the supervision of a health care professional. Rheumatoid arthritis also affects muscles and bursae, and shoulder joint degeneration can produce joint laxity, abnormal movement patterns, and instability, so a trainer who suspects an unstable joint should refer the client to their primary medical provider."
+  },
+  {
+    "id": "nsca-cond-051",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Diabetes and neuropathy",
+    "question": "A client with diabetes has lost protective sensation in the feet. Which exercise modes are recommended?",
+    "choices": [
+      "Outdoor walking and jogging, in order to build tolerance in the affected feet",
+      "Low-impact modes such as swimming and biking rather than walking or jogging",
+      "Barefoot training to restore sensation",
+      "High-impact plyometrics"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clients with peripheral neuropathy have an increased risk of foot ulceration and infection because of lack of sensation and a decreased healing response. Low-impact exercises such as swimming and biking are preferable to walking and jogging in this condition, and loss of protective sensation is listed as a reason to avoid outdoor walking and jogging. Comfortable, well-fitted footwear is also essential to prevent blisters and other foot injuries."
+  },
+  {
+    "id": "nsca-cond-052",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Diabetes and cardiac symptoms",
+    "question": "A client with long-standing diabetes reports dizziness and shortness of breath during a session. What should this alert the trainer to?",
+    "choices": [
+      "Simple deconditioning, which requires progressively more aerobic training in order to resolve",
+      "Inadequate protein intake",
+      "Possible cardiac disease, and the need for medical evaluation",
+      "Excessive hydration"
+    ],
+    "answerIndex": 2,
+    "explanation": "Any dizziness, weakness, or shortness of breath should alert the trainer to the possibility of cardiac disease and the need for a medical evaluation. Diabetes is an independent contributing factor in cardiovascular disease, increasing the potential for coronary artery disease, peripheral vascular disease, and congestive heart failure. Evidence of underlying cardiovascular disease that has not been medically evaluated is itself a contraindication to exercise."
+  },
+  {
+    "id": "nsca-cond-053",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Preexercise glucose",
+    "question": "A client with diabetes measures a preexercise blood glucose of 92 mg/dl. What action is indicated?",
+    "choices": [
+      "Cancel the session, because the glucose level is far too low for any exercise",
+      "Increase the intensity to raise blood glucose",
+      "Proceed with no modification",
+      "Have the client eat a carbohydrate snack before exercising"
+    ],
+    "answerIndex": 3,
+    "explanation": "Individuals with preexercise glucose levels below 100 mg/dl are at risk of developing hypoglycemia during or after exercise and should ingest a carbohydrate snack before beginning. Hypoglycemia, defined as 65 mg/dl or lower, is the principal exercise risk for people with diabetes and is of greater concern in type 1 than type 2. Clients should monitor glucose before and after exercise and every 30 minutes during prolonged sessions."
+  },
+  {
+    "id": "nsca-cond-056",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Metabolic syndrome coordination",
+    "question": "A client meets four criteria for metabolic syndrome. Besides exercise programming, what does the guidance direct the trainer to do?",
+    "choices": [
+      "Manage the client's medications directly, adjusting doses around the training schedule",
+      "Handle all nutrition planning independently",
+      "Work with the client's physician and a registered dietitian",
+      "Delay exercise until the criteria resolve"
+    ],
+    "answerIndex": 2,
+    "explanation": "Personal trainers should work in conjunction with the client's physician and a registered dietitian to ensure the client's success in dealing with the various conditions of metabolic syndrome. Exercise is nonetheless the first line of treatment because it influences every component of the disorder. Early intervention combining dietary change and increased activity can significantly delay or prevent the syndrome's development."
+  },
+  {
+    "id": "nsca-cond-059",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Diabetes and exercise benefit",
+    "question": "In both types of diabetes mellitus, exercise can increase insulin sensitivity and glucose utilization, thereby lowering blood glucose levels.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Exercise is an essential component of diabetic management, and in both type 1 and type 2 it can increase insulin sensitivity and glucose utilization, lowering blood glucose. Regular physical activity also reduces other cardiovascular risk factors including hypertension, dyslipidemia, and obesity. Potential complications such as hypoglycemia must still be anticipated when designing and supervising the program."
+  }
+]

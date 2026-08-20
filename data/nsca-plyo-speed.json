@@ -1,0 +1,845 @@
+[
+  {
+    "id": "nsca-ps-001",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Plyometric prerequisites",
+    "question": "Which minimum requirements are listed for participation in a plyometric training program?",
+    "choices": [
+      "Proper technique, three months of resistance training, sufficient strength, and no current injury",
+      "A one-repetition maximum squat of at least twice the client's own body weight before beginning any drills",
+      "Only a physician's clearance",
+      "Only the ability to jog for 20 minutes"
+    ],
+    "answerIndex": 0,
+    "explanation": "The listed minimum requirements are proper technique for each drill, at least three months of resistance training experience, sufficient strength, speed, and balance for the level of drill used, and no current injuries to the involved body segments. Clients who have never participated in a resistance training program should be precluded from plyometric training. Plyometric work requires significant strength and muscle control, especially during the eccentric phase."
+  },
+  {
+    "id": "nsca-ps-002",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Plyometric strength standards",
+    "question": "Which published strength recommendation applies before advanced lower body plyometrics?",
+    "choices": [
+      "A one-repetition maximum squat equal to the client's own body weight, tested beforehand",
+      "A one-repetition maximum squat of at least 1.5 times body weight",
+      "A one-repetition maximum deadlift of twice body weight",
+      "No strength standard exists in any form"
+    ],
+    "answerIndex": 1,
+    "explanation": "For lower body plyometrics the published recommendation is a one-repetition maximum squat of at least 1.5 times body weight. For upper body plyometrics, clients over 220 pounds should have a bench press maximum of at least 1.0 times body weight while those under 220 pounds should reach at least 1.5 times body weight. An alternative measure of upper body readiness is the ability to perform five clap push-ups in a row."
+  },
+  {
+    "id": "nsca-ps-003",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Plyometric strength standards",
+    "question": "A client cannot squat 1.5 times body weight but tolerates moderate loading in resistance training and lands with proper technique. What is appropriate?",
+    "choices": [
+      "No plyometric work of any kind until the published strength standard has been formally met",
+      "Proceed directly to depth jumps from a 24-inch box",
+      "Low to moderate plyometric activity such as simple jumps in place is appropriate",
+      "Substitute maximal sprinting instead"
+    ],
+    "answerIndex": 2,
+    "explanation": "The strength guidelines are a good rule of thumb but it is not necessary to meet them for low to moderate plyometric activity such as simple jumps in place, provided the client tolerates moderate loading in resistance training and has proper landing technique. The published standards should be followed before moving a client to advanced exercises such as depth jumps. It is also possible to modify even high-intensity plyometric exercises to fit a client's strength level while achieving similar gains."
+  },
+  {
+    "id": "nsca-ps-004",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Plyometric speed standards",
+    "question": "Which speed guideline is suggested before beginning lower body plyometrics?",
+    "choices": [
+      "Twenty repetitions of body weight squats in 30 seconds",
+      "Ten repetitions of a squat with the client's body weight in ten seconds or less",
+      "A 40-yard dash under 5 seconds",
+      "Five repetitions of a squat with 60% body weight in 5 seconds or less"
+    ],
+    "answerIndex": 3,
+    "explanation": "For lower body plyometrics the suggested guideline is five repetitions of a squat with 60% of body weight in 5 seconds or less. The upper body equivalent is five repetitions of the bench press with 60% body weight in 5 seconds or less. Clients lacking this speed can still begin with lower-intensity drills that do not rely heavily on speed, such as the two-foot ankle hop or standing long jump."
+  },
+  {
+    "id": "nsca-ps-005",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Plyometric balance testing",
+    "question": "How long must each balance test position be held before attempting plyometric exercises of the corresponding intensity?",
+    "choices": [
+      "30 seconds",
+      "10 seconds",
+      "5 seconds",
+      "A full two minutes"
+    ],
+    "answerIndex": 0,
+    "explanation": "Each balance test position must be held for 30 seconds before attempting plyometric exercises of the same intensity. A client starting double-leg drills must balance on one leg for 30 seconds without falling, while a client beginning advanced single-leg drills must hold a single-leg half squat for 30 seconds. The balance testing surface must be the same as the surface used for the plyometric drills."
+  },
+  {
+    "id": "nsca-ps-006",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Half-squat position",
+    "question": "Which position is the fundamental starting and ending point for all lower body plyometric exercises?",
+    "choices": [
+      "A full deep squat",
+      "The partial or half-squat position",
+      "A standing upright position",
+      "A single-leg stance with the knee locked"
+    ],
+    "answerIndex": 1,
+    "explanation": "The partial, or half-squat, position is the fundamental position from which all lower body plyometric exercises originate and in which they end. The trainer should therefore begin by assessing the client's ability to hold this position, which reveals their potential to land properly. Feet should be roughly shoulder-width apart, the chin tucked slightly, scapulae slightly retracted, trunk parallel to the tibias, knees directly over or slightly posterior to the toes, and heels on the ground."
+  },
+  {
+    "id": "nsca-ps-007",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Squat technique errors",
+    "question": "Which errors are listed as common during the assessment body weight squat?",
+    "choices": [
+      "Feet too wide and knees too far back",
+      "Excessive scapular retraction, a posterior pelvic tilt, and both heels lifting clear of the ground surface",
+      "Rounded shoulders, forward head, flexed thoracic spine, posterior pelvic tilt, and heel liftoff",
+      "Excessive dorsiflexion at the ankles"
+    ],
+    "answerIndex": 2,
+    "explanation": "Common errors include rounded shoulders, a forward head, a flexed thoracic spine, a posterior pelvic tilt, and heel liftoff. The correct squat initiates with anterior pelvic rotation followed by flexion at the ankles, knees, and hips while the trunk stays parallel to the tibias. The knees should remain posterior to or directly over the toes with the feet flat on the ground."
+  },
+  {
+    "id": "nsca-ps-008",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Alignment and amortization",
+    "question": "Why do errors in alignment during low-intensity plyometrics matter beyond injury risk?",
+    "choices": [
+      "They shorten the eccentric phase excessively",
+      "They have no measurable effect on force production because the stretch reflex compensates fully",
+      "They eliminate the stretch reflex entirely",
+      "They lengthen ground contact time in the amortization phase, reducing concentric force"
+    ],
+    "answerIndex": 3,
+    "explanation": "Errors in alignment not only create injury potential but also increase ground contact time during the amortization phase, which results in less than optimal concentric force. Clients performing low-intensity beginning plyometrics must learn to maintain proper alignment as a strong base for dynamic action. A weak core similarly lengthens the amortization phase and compromises the plyometric effect."
+  },
+  {
+    "id": "nsca-ps-009",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Landing position",
+    "question": "What describes proper plyometric landing position?",
+    "choices": [
+      "Shoulders over knees, knees over the toes, joints flexed, landing softly on the forefoot",
+      "Shoulders behind the hips with the knees locked and the body weight settled back on the heels",
+      "Feet together with the trunk fully upright and the ankle plantar flexed",
+      "A wide stance with the knees allowed to travel inward"
+    ],
+    "answerIndex": 0,
+    "explanation": "On landing the shoulders should be over the knees and the knees over or slightly posterior to the toes, with ankles, knees, and hips flexed and feet roughly shoulder-width apart. Clients should land softly, maintain a dorsiflexed ankle with the feet in full ground contact, and keep weight more on the ball of the foot rather than the heel. This allows a quick turnaround so the client spends minimal time on the ground and achieves maximum power output."
+  },
+  {
+    "id": "nsca-ps-010",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Teaching landings",
+    "question": "How can landing technique be taught?",
+    "choices": [
+      "Only through depth jumps performed from progressively higher boxes with an immediate rebound each time",
+      "A vertical, forward, or lateral jump followed by a freeze in the landing position",
+      "By having the client land on a mini-trampoline",
+      "By avoiding all jumping until strength standards are met"
+    ],
+    "answerIndex": 1,
+    "explanation": "Landings can be taught using a vertical jump, a forward or backward jump, or a lateral jump followed by a freeze in the landing position, which allows proper analysis of that position. Constant feedback during and after each drill is important for instilling proper technique. Proper landing technique also teaches the client to control the center of gravity within the base of support."
+  },
+  {
+    "id": "nsca-ps-011",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Plyometric cueing",
+    "question": "Which cue is recommended for plyometric jumps, hops, leaps, bounds, skips, and quick foot drills?",
+    "choices": [
+      "Let the shoulders drop forward to generate momentum",
+      "Keep the hands on the hips throughout",
+      "Keep the knees and thumbs up",
+      "Keep the arms in front of the body at all times"
+    ],
+    "answerIndex": 2,
+    "explanation": "Clients should concentrate on keeping their knees and their thumbs up, which keeps the workload centered around the hips and legs and aids balance. Because bringing the knees up quickly tends to make the shoulders drop forward, holding the thumbs pointing toward the sky forces the torso to stay more upright. The arms should also be brought behind the midline of the body so they can move forward and up rapidly to increase the strength of the muscle action."
+  },
+  {
+    "id": "nsca-ps-012",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Plyometric injuries",
+    "question": "Which injuries are most common with plyometric training, and what typically causes them?",
+    "choices": [
+      "Shoulder dislocations, caused by upper body throws",
+      "Lower back strains, caused by insufficient core testing",
+      "Stress fractures, caused by inadequate dietary calcium intake and low bone mineral density overall",
+      "Ankle and knee sprains, resulting from breaks in form caused by muscular fatigue"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ankle and knee sprains are the most common plyometric injuries, resulting from breaks in form caused by muscular fatigue. Plyometric exercise is not inherently dangerous, but injuries more typically occur when training procedures are violated through improper program design, inadequate instruction and supervision, or an inappropriate training environment. Fatigue affects the body's proprioceptive ability, which is why these injuries cluster around fatigued states."
+  },
+  {
+    "id": "nsca-ps-013",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Landing surface",
+    "question": "Which landing surfaces are recommended for lower body plyometrics, and which should be avoided?",
+    "choices": [
+      "Grass, field turf, a suspended floor, or rubber mats; not concrete, tile, or hardwood",
+      "Concrete and tile are ideal because they return energy",
+      "Only mini-trampolines are acceptable",
+      "Mats 6 inches thick or greater are ideal because they absorb the most landing force available"
+    ],
+    "answerIndex": 0,
+    "explanation": "A grass field, field turf, a suspended floor, and rubber mats are good surface choices because they absorb shock without being so soft that the transition between eccentric and concentric phases lengthens. Concrete, tile, and hardwood are not recommended because they are insufficiently shock absorbent and can lead to lower extremity injuries. Excessively thick mats of 6 inches or more and mini-trampolines may extend the amortization phase, preventing efficient use of the stretch reflex."
+  },
+  {
+    "id": "nsca-ps-014",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Space and equipment",
+    "question": "What space requirements apply to plyometric drills?",
+    "choices": [
+      "All plyometric drills require at least 109 yards of clear straightaway regardless of the drill type",
+      "Bounding and running drills need 33 yards; box and depth jumps need overhead height",
+      "No specific space requirements apply",
+      "Only 10 feet of straightaway is needed for any drill"
+    ],
+    "answerIndex": 1,
+    "explanation": "Most bounding and running drills require at least 33 yards, about 30 meters, of straightaway, and some may need up to 109 yards. Standing, box, and depth jumps need only minimal surface area but require adequate height of roughly 9.8 to 13.2 feet, or 3 to 4 meters. Boxes used for box and depth jumps must be sturdy with a nonslip top, closed on all sides, and free of sharp or abrupt edges, ranging from 6 to 42 inches in height."
+  },
+  {
+    "id": "nsca-ps-015",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Client weight considerations",
+    "question": "A client weighing 240 pounds asks to add depth jumps to their program. Which guidance should the trainer apply?",
+    "choices": [
+      "Depth jumps from any height are appropriate if technique is sound",
+      "Depth jumps should be performed from boxes higher than 24 inches to build tolerance",
+      "Avoid high-volume, high-intensity plyometrics and depth jumps above 18 inches",
+      "Body weight has no bearing on plyometric risk"
+    ],
+    "answerIndex": 2,
+    "explanation": "Clients weighing more than 220 pounds may be at increased risk for injury during plyometric exercise because greater weight increases joint compressive forces. They should avoid high-volume, high-intensity plyometrics and should not perform depth jumps from heights greater than 18 inches. Lower-intensity plyometrics such as submaximal footwork patterns are a good alternative."
+  },
+  {
+    "id": "nsca-ps-016",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Medical clearance",
+    "question": "Which histories warrant caution or medical clearance before plyometric training?",
+    "choices": [
+      "Only a history of ankle sprains",
+      "No history of prior injury warrants any special consideration before beginning plyometric training",
+      "Only a history of shoulder injury",
+      "Muscle strains, pathological joint laxity, or spinal dysfunction, with clearance recommended"
+    ],
+    "answerIndex": 3,
+    "explanation": "Clients with a history of muscle strains, pathological joint laxity, or spinal dysfunction including vertebral disc dysfunction or compression injuries should exercise caution and have medical clearance from a licensed physician before beginning. Certain medical conditions such as illness, osteoporosis, arthritis, or diabetes may not respond well to plyometric activity, so formal medical clearance should be required. Before beginning any plyometric training, the client should tolerate activities of daily living without pain or joint swelling."
+  },
+  {
+    "id": "nsca-ps-017",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Plyometric drill types",
+    "question": "How is a depth jump defined?",
+    "choices": [
+      "Standing on a box, stepping off, landing, and immediately jumping again",
+      "Jumping and landing in the same spot repeatedly without rest",
+      "An exaggerated movement with greater horizontal speed than other drills",
+      "A maximal-effort jump with a vertical or horizontal component and rest between repetitions"
+    ],
+    "answerIndex": 0,
+    "explanation": "A depth jump involves assuming a position on a box, stepping off, landing, and immediately jumping vertically, horizontally, or onto another box. Jumps in place involve repeated jumping and landing in the same spot without rest, while standing jumps are maximal-effort efforts requiring recovery between repetitions. Bounds are exaggerated movements with greater horizontal speed, and their volume is typically measured by distance, normally greater than 98 feet."
+  },
+  {
+    "id": "nsca-ps-018",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Plyometric intensity",
+    "question": "Which exercises are classified as high intensity?",
+    "choices": [
+      "Ankle flip, skip, standing long jump, and double-leg vertical jump",
+      "Depth jump, single-leg jump, and lateral bounding",
+      "Double-leg tuck jump and split squat jump",
+      "Chest pass and jump to box"
+    ],
+    "answerIndex": 1,
+    "explanation": "Depth jumps, single-leg jumps, and lateral bounding are classified as high-intensity plyometric exercises. Low-intensity exercises include the ankle flip, skip, standing long jump, double-leg vertical jump, chest pass, and jump to box. Medium-intensity exercises include the double-leg tuck jump, double-leg hop, split squat jump, alternate-leg bounding, front barrier hop, and jump from box."
+  },
+  {
+    "id": "nsca-ps-019",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Plyometric intensity factors",
+    "question": "Which methods increase the intensity of a lower body plyometric drill?",
+    "choices": [
+      "Reducing the height of a box jump",
+      "Increasing the rest interval between each successive repetition so that more force can be produced each time",
+      "Single-leg support, faster movement, multiple responses, greater height, added weight, and distance",
+      "Adding a longer landing pause"
+    ],
+    "answerIndex": 2,
+    "explanation": "Intensity rises by progressing from double- to single-leg support, increasing movement speed, decreasing the amortization phase by moving from pausing on landing into multiple ground responses, raising the body's center of gravity through greater drill height, adding weight in the form of vests or ankle and wrist weights, and adding a horizontal component to increase drill distance. Each of these increases the demand on muscles, connective tissue, and joints. Adding a longer landing pause instead reduces intensity."
+  },
+  {
+    "id": "nsca-ps-020",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Plyometric frequency",
+    "question": "What relationship exists between plyometric frequency and intensity?",
+    "choices": [
+      "They are directly proportional, so both frequency and intensity should be raised together over time",
+      "Intensity determines duration but not frequency",
+      "Frequency is fixed regardless of intensity",
+      "They are often inversely proportional, so frequency rises as intensity falls"
+    ],
+    "answerIndex": 3,
+    "explanation": "Frequency and intensity are often inversely proportional, so frequency increases as intensity decreases and vice versa. A low number of repetitions of low-intensity plyometric exercises can be performed multiple times per week. For moderate-intensity plyometric training, current research shows that training two times per week works best and produces the greatest training efficiency."
+  },
+  {
+    "id": "nsca-ps-021",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Plyometric frequency",
+    "question": "How often may youth and adolescent clients perform plyometric training?",
+    "choices": [
+      "Up to two times per week on nonconsecutive days",
+      "Daily, since they recover quickly",
+      "Once per month",
+      "Youth should never perform plyometric drills of any kind at all"
+    ],
+    "answerIndex": 0,
+    "explanation": "For youth and adolescent clients, plyometric training may be performed up to two times per week on nonconsecutive days. Current research shows plyometrics are safe for this population, and prepubescence is described as an ideal time to implement them. Youth programs should focus on teaching proper technique rather than competing with others."
+  },
+  {
+    "id": "nsca-ps-022",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Plyometric recovery",
+    "question": "What work-to-rest ratio range is described for plyometric sets?",
+    "choices": [
+      "1:1 to 1:2",
+      "1:5 to 1:10",
+      "1:2 to 1:4",
+      "Roughly 1:15 to 1:20"
+    ],
+    "answerIndex": 1,
+    "explanation": "Rest between plyometric sets is determined by a work-to-rest ratio in the range of 1:5 to 1:10 and is specific to the volume and type of drill. The higher the intensity of a drill, the more rest the client requires, so rest between skip sets will be shorter than between depth jump sets. Depth jump recovery may range from 5 to 10 seconds between single repetitions to 2 to 3 minutes between sets."
+  },
+  {
+    "id": "nsca-ps-023",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Plyometric recovery",
+    "question": "How much recovery between plyometric sessions is a typical guideline?",
+    "choices": [
+      "Between 12 and 24 hours for clients of every single training level",
+      "1 week",
+      "48 to 72 hours, with beginners needing at least 48 hours",
+      "No rest is required"
+    ],
+    "answerIndex": 2,
+    "explanation": "Forty-eight to 72 hours between plyometric sessions is the typical prescribing guideline, and this is especially applicable to beginners who should have at least 48 hours of rest. Using these recovery times, most clients should perform one to three plyometric sessions per week. Rest times of 60 to 120 seconds between drills generally allow full or nearly full recovery."
+  },
+  {
+    "id": "nsca-ps-024",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Plyometric volume",
+    "question": "How is plyometric volume typically expressed?",
+    "choices": [
+      "In minutes of activity only",
+      "As heart rate reserve achieved",
+      "As a percentage of the one-repetition maximum for each exercise being performed",
+      "As foot contacts, throws, or catches, or as distance in bounding"
+    ],
+    "answerIndex": 3,
+    "explanation": "Plyometric volume is the total work performed in a session and is typically expressed as repetitions and sets, or as the number of contacts each time a foot, feet together, or hand contacts the surface. Volume can also be expressed as distance, as with bounding, where a client might begin at 33 yards per repetition and advance to 109 yards. Upper body plyometric volume is typically expressed as the number of throws or catches per workout."
+  },
+  {
+    "id": "nsca-ps-025",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Plyometric volume",
+    "question": "How many repetitions per set are suggested for plyometric work?",
+    "choices": [
+      "8 to 12 repetitions, fewer for intense exercises and more for lighter ones",
+      "1 to 3 repetitions regardless of the particular exercise chosen or of its overall intensity level",
+      "20 to 30 repetitions each",
+      "As many as possible until fatigue"
+    ],
+    "answerIndex": 0,
+    "explanation": "Sets should be kept to 8 to 12 repetitions each, with fewer repetitions for more intense exercises and more repetitions for less intense ones. Session volume must relate inversely to drill intensity, so low to moderate intensity drills permit a higher total number of foot contacts. Volume should increase only if technique is maintained without adverse effects such as pain."
+  },
+  {
+    "id": "nsca-ps-026",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Plyometric session length",
+    "question": "How long should a beginner's plyometric session last?",
+    "choices": [
+      "At least 60 minutes, excluding both the warm-up and the cool-down periods",
+      "Never exceeding 30 minutes, with adequate warm-up and cool-down included",
+      "Exactly 10 minutes",
+      "Until fatigue is reached"
+    ],
+    "answerIndex": 1,
+    "explanation": "The entire plyometric exercise session for beginners should never exceed 30 minutes, and adequate warm-up and cool-down should be included. Advanced clients may perform longer workouts that require longer recovery. Effectiveness should not be judged by how fatigued the client feels, since using fatigue as a guideline often produces overtraining, pain, and overuse injuries."
+  },
+  {
+    "id": "nsca-ps-027",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Plyometric quality",
+    "question": "It is the quality of plyometric exercise rather than the quantity that produces the greatest increases in power.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "It is the quality of the exercise, not the quantity, that produces the most increases in power. Each plyometric repetition requires a maximum, quality effort to be effective, and the client benefits only from the repetitions performed well. Shorter recovery periods between sets prevent maximum recovery and therefore compromise the potential benefits."
+  },
+  {
+    "id": "nsca-ps-028",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Session sequencing",
+    "question": "Where in a workout should plyometric exercises be placed?",
+    "choices": [
+      "At the very end of the session, after all of the resistance training is complete for the day",
+      "In the middle of the resistance training block",
+      "Before any other exercise, since fatigued muscles and tendons can be overstressed",
+      "Placement does not matter"
+    ],
+    "answerIndex": 2,
+    "explanation": "If plyometric exercises are incorporated into a workout they should be performed before any other exercise. Previously fatigued muscles and tendons can become overstressed by the high demands of plyometric work. Youth exercises in particular should be performed at the beginning of a session, before the client is fatigued, so neuromuscular and postural control remain intact."
+  },
+  {
+    "id": "nsca-ps-029",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Depth jump box height",
+    "question": "A trainer is determining the depth jump box height for a client who has met the readiness criteria. Which testing procedure should they use?",
+    "choices": [
+      "Start at 36 inches and reduce the height until the client is able to land cleanly",
+      "Match the box height to the client's inseam",
+      "Use the same 18-inch box for every client",
+      "Start with a 12-inch box and add 6 inches until the jump height drops"
+    ],
+    "answerIndex": 3,
+    "explanation": "The client begins with a 12-inch box, steps off, lands, and immediately jumps up trying to reach the mark set during a vertical jump test. Box height increases by 6 inches until the client can no longer reach that height, with 1 to 2 minutes of rest between jumps, and the greatest height at which the mark was attained becomes the training height. If the client cannot reach their vertical jump height even from the 12-inch box, the box should be lowered or depth jumps avoided until they are strong enough."
+  },
+  {
+    "id": "nsca-ps-030",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Box jump testing",
+    "question": "A trainer is setting up a client's first box jump session and must cap the box height. How should the maximum height be determined?",
+    "choices": [
+      "The client jumps onto the box from an arm's length away, raising height until difficult",
+      "By measuring the client's standing vertical reach and then subtracting that from the box height used",
+      "By using the same height as the depth jump box",
+      "By having the client jump from the box rather than onto it"
+    ],
+    "answerIndex": 0,
+    "explanation": "For the box jump test the client stands flat-footed about an arm's length in front of the box and jumps up, landing cleanly and softly. After each successful attempt the height may be increased until the client finds it very difficult, and the greatest height at which they can land successfully becomes the training height. Mats should be placed around the box and trained spotters should be present to catch the client on an unsuccessful attempt."
+  },
+  {
+    "id": "nsca-ps-031",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Medicine ball selection",
+    "question": "A trainer must choose a medicine ball for a client's seated chest pass drill. How should the ball weight be selected?",
+    "choices": [
+      "Always use 10% of the client's body weight",
+      "Belted in a chair, the client throws a chest pass; adjust by the distance traveled",
+      "Use the heaviest medicine ball that the client is able to throw for just one single repetition only",
+      "Match the ball weight to the client's bench press maximum"
+    ],
+    "answerIndex": 1,
+    "explanation": "The client sits in a straight-back chair strapped in with a belt and performs a chest pass with a weighted medicine ball using as much force as possible. If the ball travels more than 12 feet the client should try a heavier ball, and if it travels less than 10 feet a lighter ball should be used. Belting the client in isolates the upper body contribution to the throw."
+  },
+  {
+    "id": "nsca-ps-032",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Plyometric benefits",
+    "question": "Which outcomes are associated with plyometric training?",
+    "choices": [
+      "Decreased muscle recruitment",
+      "Reduced bone mineral content and impaired standing balance following repeated high-impact landings over time",
+      "Increased jump performance, decreased sprint times, greater strength, and improved dynamic joint stability",
+      "Improved flexibility only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Increased muscular power from plyometric training is associated with improved sport performance including increased jump performance, decreased sprint times, and increased strength. Plyometric training also improves bone mineral content, muscle recruitment, body control, and balance, and improves dynamic joint stability, which may reduce patellofemoral pain and anterior cruciate ligament injuries. Moderate plyometric training has also improved running economy in average-distance runners."
+  },
+  {
+    "id": "nsca-ps-033",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Eccentric training alternative",
+    "question": "A 75-year-old client wants injury prevention benefits but plyometric training is not appropriate for her. What alternative is described?",
+    "choices": [
+      "Maximal strength testing instead",
+      "Low-intensity plyometric drills performed daily in order to build tolerance gradually over several weeks",
+      "Aerobic training only, with no resistance work",
+      "Eccentric training, lowering slowly or with assistance on the concentric phase"
+    ],
+    "answerIndex": 3,
+    "explanation": "Eccentric control of movement is a component of plyometric training that research suggests may decrease injury risk, so eccentric training can be a compromise for clients unsuited to plyometrics. It can consist of normal weight training in which the client performs the eccentric phase more slowly. Even more effective is having the client perform the eccentric phase alone while the trainer assists the concentric phase, which lets them resist more weight than they otherwise could."
+  },
+  {
+    "id": "nsca-ps-034",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Speed training definitions",
+    "question": "What is speed-strength?",
+    "choices": [
+      "The application of maximum force at high velocities",
+      "The ability to maintain running speed over an extended duration",
+      "The maximum load that can be lifted once",
+      "The distance run per unit of oxygen consumed"
+    ],
+    "answerIndex": 0,
+    "explanation": "Speed-strength is the application of maximum force at high velocities. It is improved essentially the same way muscular power is, by performing rapid movements both with and without resistance, such as weightlifting-type movements and plyometric exercise. To improve speed-strength the prescription should rely on powerful exercises and avoid those requiring slow movement."
+  },
+  {
+    "id": "nsca-ps-035",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Speed-endurance",
+    "question": "What is speed-endurance and why does it matter?",
+    "choices": [
+      "The ability to run a full marathon at a steady and evenly distributed pace throughout the race",
+      "The ability to maintain running speed over an extended duration, typically beyond 6 seconds",
+      "The total distance a client can cover in one hour",
+      "The ability to recover between resistance training sets"
+    ],
+    "answerIndex": 1,
+    "explanation": "Speed-endurance is the ability to maintain running speed over an extended duration, typically longer than 6 seconds. Developing it helps prevent a client from slowing down during a maximal-speed effort. A soccer player caught from behind on a breakaway or an officer unable to keep pace with a fleeing suspect both illustrate poor speed-endurance."
+  },
+  {
+    "id": "nsca-ps-036",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Sprint posture",
+    "question": "What body lean is described during the acceleration phase versus maximal speed?",
+    "choices": [
+      "Upright throughout acceleration, then leaning forward about 45 degrees once maximal speed has been reached by the client",
+      "A constant 20° lean throughout the sprint",
+      "About 45° of forward lean for 13 to 16 yards, then under 5° at top speed",
+      "Leaning backward during acceleration to load the hips"
+    ],
+    "answerIndex": 2,
+    "explanation": "During acceleration the body should lean forward approximately 45 degrees for 13 to 16 yards, roughly 12 to 15 meters. After that the client should quickly move upright to a lean of less than 5 degrees during maximal speed, with the lean coming from the ground up rather than the waist up. The body should stay relaxed and upright with the head, torso, and legs aligned at all times, the head showing minimal movement and the eyes focused straight ahead."
+  },
+  {
+    "id": "nsca-ps-037",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Sprint leg action",
+    "question": "Which two main phases make up sprint technique, and what happens during the first?",
+    "choices": [
+      "The loading phase and the amortization phase, with the foot landing flat beneath the hips",
+      "The eccentric phase and the concentric phase; the foot lands heel first",
+      "The acceleration phase and the deceleration phase; the knee stays fully extended",
+      "The driving phase and the recovery phase; the lead foot lands on the forefoot"
+    ],
+    "answerIndex": 3,
+    "explanation": "Sprint technique comprises a driving or support phase and a recovery phase. In the driving phase the lead foot, driven by the hip extensors, lands on the lateral aspect of the forefoot just in front of the client's center of gravity. At foot strike the quadriceps must contract to prevent excessive knee flexion and loss of elastic energy, with the ankle dorsiflexed and the great toe extended."
+  },
+  {
+    "id": "nsca-ps-038",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Sprint leg action",
+    "question": "What happens during the recovery phase of the sprint stride?",
+    "choices": [
+      "The knee flexes to drive the heel toward the buttocks, shortening the lever",
+      "The leg remains fully extended and swings passively forward from the hip joint alone",
+      "The foot lands heel first to absorb impact",
+      "The ankle plantar flexes fully before ground contact"
+    ],
+    "answerIndex": 0,
+    "explanation": "In the recovery phase the knee flexes to drive the foot directly toward the buttocks, which shortens the lever and allows the leg to swing forward more quickly. As the heel moves toward the buttocks the leg swings forward as though the client is stepping over the opposite knee, the knee then extends to roughly 90 degrees and becomes nearly straight as the foot moves down and forward, driven toward the ground by the hip extensors. Increasing sprinting speed should increase how high the heel kicks toward the buttocks."
+  },
+  {
+    "id": "nsca-ps-039",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Sprint arm action",
+    "question": "Which arm swing errors are common in sprinting?",
+    "choices": [
+      "Swinging the arms too far behind the body so that the shoulder stretch reflex activates too early in the stride",
+      "Locking the upper arm, crossing the midline, improper swing distance, and emphasizing forward motion",
+      "Keeping the elbows bent at 90 degrees",
+      "Raising the hands to shoulder level during anterior swing"
+    ],
+    "answerIndex": 1,
+    "explanation": "Common arm swing errors include locking the upper arm into place so that only the lower arm moves rather than the action being created at the shoulder, allowing the arm to cross the midline of the body, improper arm swing distance, and emphasizing a forward motion of the arm. Crossing the midline causes upper body rotation, which slows the sprinter down, and stopping the backswing short of the buttocks limits stride length. Correct action brings the hand to shoulder level on the anterior swing and past the buttocks moving posteriorly, where the stretch reflex at the shoulder activates."
+  },
+  {
+    "id": "nsca-ps-040",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Speed training focus",
+    "question": "On which three areas does speed training focus?",
+    "choices": [
+      "Strength, flexibility, and balance",
+      "Volume, intensity, and rest",
+      "Form, stride frequency, and stride length",
+      "Acceleration, deceleration, and change of direction ability"
+    ],
+    "answerIndex": 2,
+    "explanation": "Speed training focuses on form, stride frequency, and stride length. Stride frequency is the number of strides taken in a given time and stride length is the distance covered, and the two have an intimate relationship. Technique training should initially concentrate on optimizing form and correcting faults rather than developing entirely new movement patterns, since sprinting is a relatively natural activity."
+  },
+  {
+    "id": "nsca-ps-041",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Youth plyometrics",
+    "question": "A trainer is introducing plyometric drills to a 9-year-old client. Which approach should the trainer take?",
+    "choices": [
+      "Timed maximal drills used to establish a competitive baseline for the young client",
+      "No plyometric exposure until adulthood",
+      "High-intensity depth jumps performed at the end of the session",
+      "Low-intensity plyometrics early in the session, framed as fun, playful activities"
+    ],
+    "answerIndex": 3,
+    "explanation": "Youth exercises should be low-intensity plyometrics performed at the beginning of a session, before the client is fatigued, so neuromuscular and postural control remain intact. Increased errors and injuries are likely if the client learns these exercises tired. The exercises should take the form of fun, creative activities resembling structured play and games, such as reacting to balls, obstacle courses, jumping jacks, or hopscotch, with the focus on self-improvement rather than outperforming others."
+  },
+  {
+    "id": "nsca-ps-042",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Older adult plyometrics",
+    "question": "An older client is medically cleared and has met the readiness criteria. How should plyometric exposure begin?",
+    "choices": [
+      "With low-intensity exercises, progressing to moderate-intensity plyometrics only as tolerated",
+      "With high-intensity drills, in order to maximize the available adaptation window early in training",
+      "With depth jumps from a 24-inch box",
+      "Plyometrics are contraindicated for all older adults"
+    ],
+    "answerIndex": 0,
+    "explanation": "The older client should begin with low-intensity exercises and progress to moderate-intensity plyometrics only as appropriate. High-intensity plyometrics may need to be limited given age-related considerations and the possibility of degenerative joint conditions. Properly performed plyometric work is described as a safe option for older adults to improve function, provided they are medically cleared and have met the readiness criteria."
+  },
+  {
+    "id": "nsca-ps-043",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Psychological readiness",
+    "question": "A client repeatedly ignores the trainer's technique instructions during introductory jump drills. What does the guidance direct?",
+    "choices": [
+      "Continue anyway, since the introductory drills are low intensity and carry little risk of injury",
+      "Postpone plyometric training, since the client must respond positively to instruction",
+      "Increase the intensity to command attention",
+      "Remove supervision so the client self-corrects"
+    ],
+    "answerIndex": 1,
+    "explanation": "Physical maturity should not be the sole determinant of plyometric preparedness; psychological readiness matters too. The client must respond positively to the trainer's instructions in order to proceed, and if they do not, plyometric training should be postponed. Injury, overtraining, or undertraining may result if the client is inattentive to instructions."
+  },
+  {
+    "id": "nsca-ps-045",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Core strength and plyometrics",
+    "question": "A weak core lengthens the amortization phase and compromises the plyometric effect.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Core strength is the body's ability to control its center of mass against forces generated by the extremities, and a weak core leaves the base of support unstable. A direct effect of a weak core is an increased amortization phase time, which compromises the plyometric effect. Proper form is also compromised, performance is hindered, and injury risk rises."
+  },
+  {
+    "id": "nsca-ps-046",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Plyometric progression sequence",
+    "question": "Clients should practice single-foot plyometric drills before progressing to dual-foot drills.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Plyometric exercises should progress from simple to intermediate to advanced, and as a general rule clients practice dual-foot drills before progressing to single-foot drills. Progression should also move from easy to hard, low to high amplitude, simple to complex, known to unknown, and body weight to loaded. Single-leg takeoffs are introduced only once the client is proficient with double-leg takeoffs."
+  },
+  {
+    "id": "nsca-ps-047",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Deceleration mechanics",
+    "question": "Why is the ability to decelerate under control considered central to reducing a client's injury risk?",
+    "choices": [
+      "Because uncontrolled decelerative force is what the body must absorb when landing or cutting",
+      "Because deceleration is the only phase of movement in which muscles produce any real force",
+      "Because slowing down raises the metabolic cost of the drill and so builds greater work capacity",
+      "Because braking forces are absorbed entirely by the tendons rather than the contracting muscle"
+    ],
+    "answerIndex": 0,
+    "explanation": "Many injuries follow an inability to control decelerative forces rather than a failure to produce force. Landing from a jump and changing direction both require the body to absorb and redirect momentum quickly. Training that teaches controlled deceleration therefore addresses the moment at which tissue is most vulnerable."
+  },
+  {
+    "id": "nsca-ps-048",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Change of direction mechanics",
+    "question": "Which two tasks does properly performed plyometric work teach a client to decelerate through?",
+    "choices": [
+      "Landing from a jump and changing direction",
+      "Sustaining a steady jogging pace and holding a static single-leg balance position",
+      "Lifting a heavy external load and then lowering that same load slowly under control",
+      "Breathing rhythmically during effort and recovering fully between successive work bouts"
+    ],
+    "answerIndex": 0,
+    "explanation": "Plyometric drills rehearse the deceleration that occurs on landing and during a change of direction. Both tasks demand rapid eccentric loading followed by a controlled redirection of the body's momentum. This is why plyometric competence transfers to agility rather than only to vertical jump height."
+  },
+  {
+    "id": "nsca-ps-049",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Downhill sprint mechanics",
+    "question": "Which surface angle and speed limits apply to a downhill sprint used to develop stride length?",
+    "choices": [
+      "A 3 to 7 degree slope, running no faster than 106% to 110% of maximum speed",
+      "A 10 to 15 degree slope, running at whatever velocity the gradient happens to produce",
+      "A 1 to 2 degree slope, running at no more than 90% of the client's own maximum speed",
+      "A 15 to 20 degree slope, running at roughly 130% of the client's flat-ground maximum"
+    ],
+    "answerIndex": 0,
+    "explanation": "The downhill sprint uses a 3 to 7 degree angled surface over 33 to 55 yards. Speed should stay within 106% to 110% of maximum so the client runs faster than normal without losing control. The gradient is deliberately shallow because a steeper hill produces braking rather than a longer stride."
+  },
+  {
+    "id": "nsca-ps-050",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Downhill sprint mechanics",
+    "question": "A client shows excessive braking during a downhill sprint. Which correction applies?",
+    "choices": [
+      "Reduce the slope, keeping it no steeper than 7 degrees",
+      "Increase the slope so that gravity carries the client through the braking phase instead",
+      "Add a partner-held bungee behind the client to resist and so smooth out the braking action",
+      "Lengthen the sprinting distance so the client has more room to settle into a stride pattern"
+    ],
+    "answerIndex": 0,
+    "explanation": "Excessive braking or deceleration means the gradient is too steep for the client to control. The slope should not exceed 7 degrees and should be reduced further if braking continues. Adding resistance or distance would not address the cause, which is a surface the client cannot yet run down with proper mechanics."
+  },
+  {
+    "id": "nsca-ps-051",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Partner-resisted sprinting",
+    "question": "How much should a partner resist during partner-resisted sprinting?",
+    "choices": [
+      "Only enough to slow the client's sprinting speed by about 10%",
+      "Enough to hold the client almost stationary so the drill becomes a maximal strength effort",
+      "Enough to cut the client's normal sprinting speed by roughly half for the whole distance",
+      "As much as the partner can apply while still moving forward behind the sprinting client"
+    ],
+    "answerIndex": 0,
+    "explanation": "The partner resists just enough to reduce sprinting speed by around 10%. If speed drops by more than that, the resistance should be decreased until proper technique returns. Heavier resistance changes the movement pattern and stops the drill from transferring to unresisted sprinting."
+  },
+  {
+    "id": "nsca-ps-052",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Speed drill selection",
+    "question": "A client's sprinting is limited by how quickly they can turn their legs over rather than by how far each stride carries them. Which category of drill should the trainer emphasize?",
+    "choices": [
+      "Stride frequency drills such as the butt kicker and high knee drill",
+      "Stride length drills such as the downhill sprint and the partner-assisted towing drill",
+      "Lower body plyometric drills such as the depth jump and the alternate-leg bound",
+      "Upper body medicine ball drills performed seated to isolate the arm swing mechanics"
+    ],
+    "answerIndex": 0,
+    "explanation": "Speed is the product of stride frequency and stride length, so the limiting component determines the drill. A client limited by leg turnover needs stride frequency work such as butt kickers, high knee drills, and fast leg drills. Downhill sprinting and assisted towing target stride length instead and would not address this client's constraint."
+  },
+  {
+    "id": "nsca-ps-053",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Partner-resisted sprinting",
+    "question": "During partner-resisted sprinting a client's speed drops well below the intended reduction and their running form breaks down. What should the trainer change?",
+    "choices": [
+      "Decrease the resistance until proper technique returns",
+      "Keep the resistance where it is and shorten the sprint so fatigue does not accumulate further",
+      "Move the partner in front of the client so the drill becomes an assisted towing exercise instead",
+      "Increase the resistance further so the client is forced to recruit additional motor units to cope"
+    ],
+    "answerIndex": 0,
+    "explanation": "Resistance that slows the client by more than about 10% distorts sprint mechanics. The correction is to reduce the resistance until proper technique returns, and to shorten the distance only if form still degrades. Preserving the sprinting pattern matters more than the size of the overload."
+  },
+  {
+    "id": "nsca-ps-054",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Speed and plyometric programming",
+    "question": "Speed training can be combined with plyometric and resistance training, but doing so requires careful planning of recovery.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "These modes can be programmed together and often should be, since each supports different qualities. Combining them does demand careful planning to protect recovery while still allowing performance to improve. Plyometric and speed work are parts of an overall program rather than ends in themselves."
+  },
+  {
+    "id": "nsca-ps-055",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Youth plyometrics",
+    "question": "A trainer is asked why high-intensity lower body plyometrics are restricted for a prepubescent client. What is the reason?",
+    "choices": [
+      "The epiphyseal growth plates have not yet closed, raising bone injury risk",
+      "Children cannot generate enough force for the drills to provide any training stimulus at all",
+      "The stretch-shortening cycle does not function until a child has completed puberty entirely",
+      "High-intensity work would interfere with the aerobic base that young clients need to develop"
+    ],
+    "answerIndex": 0,
+    "explanation": "The epiphyseal plates of the bones of prepubescent children have not yet closed. Adding high-intensity lower body plyometrics could therefore place a young client at increased risk of bone injury. Low-intensity work should be mastered first, with progression to moderate intensity only afterwards."
+  },
+  {
+    "id": "nsca-ps-056",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Youth plyometrics",
+    "question": "Plyometrics can be safely integrated into a young client's program as soon as the client is mature enough to accept and follow directions.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Guidelines indicate that plyometrics can be integrated safely once the client is mature enough to accept and follow instruction. This is in fact an ideal time to introduce them, since a youth's body adapts readily to these motor skills. The work should sit inside a comprehensive program that also includes resistance and flexibility training."
+  },
+  {
+    "id": "nsca-ps-057",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Older adult plyometrics",
+    "question": "An older client has safely completed several weeks of low-intensity plyometric drills. What determines whether they progress to moderate intensity?",
+    "choices": [
+      "Whether the trainer has confirmed the client performs the drills safely and correctly",
+      "Whether the client has reached a fixed number of total foot contacts across the training block",
+      "Whether the client's age falls below the threshold at which bone strength begins to decline",
+      "Whether the client asks to progress, since perceived readiness is the best available guide here"
+    ],
+    "answerIndex": 0,
+    "explanation": "Older clients should begin with low-intensity exercises and progress to moderate intensity only once the trainer has ensured the client can perform the drills safely and correctly. High-intensity plyometrics may need to be avoided altogether because of declining bone strength and possible degenerative joint conditions. Continuing to train the stretch-shortening cycle at low to moderate intensity remains very beneficial for this population."
+  },
+  {
+    "id": "nsca-ps-058",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Youth plyometrics",
+    "question": "Beyond performance, plyometric training for adolescents has been shown to support bone strength, balance, and coordination.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "The benefits of adding plyometric exercise to an adolescent's program go beyond improvements in performance. Plyometrics have been shown to help adolescents develop bone strength, balance, and coordination. Improvements in running velocity, vertical jump, bone mass, and a reduced sport injury rate have also been reported in young clients."
+  }
+]

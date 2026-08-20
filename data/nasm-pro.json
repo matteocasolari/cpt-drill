@@ -1,0 +1,834 @@
+[
+  {
+    "id": "nasm-pro-001",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Evidence-based practice",
+    "question": "How is evidence-based practice defined?",
+    "choices": [
+      "Conscientious use of current best evidence in client care decisions",
+      "Any training practice that is supported by consistent and positive client testimonials",
+      "Following whichever protocol is most popular in the facility",
+      "Relying exclusively on personal training experience"
+    ],
+    "answerIndex": 0,
+    "explanation": "Evidence-based practice is the conscientious use of current best evidence when making decisions about client care. It is any practice, medical or nonmedical, that relies on scientific evidence for guidance and decision-making. Programs should therefore address all components of health-related physical fitness using scientifically recognized training principles."
+  },
+  {
+    "id": "nasm-pro-002",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Evidence-based practice",
+    "question": "Which three components form the foundation of evidence-based practice?",
+    "choices": [
+      "Certification status, liability insurance, and accumulated continuing education units",
+      "Professional expertise, external evidence, and client values",
+      "Assessment, programming, and reassessment",
+      "Frequency, intensity, and time"
+    ],
+    "answerIndex": 1,
+    "explanation": "The three fundamental components are developing individual professional expertise, staying current on the best sources of external evidence such as peer-reviewed research, and prioritizing client values and expectations. Leaving any one out weakens the decision-making process. Staying current and continuing to learn is described as essential for fitness professionals."
+  },
+  {
+    "id": "nasm-pro-003",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Integrated approach",
+    "question": "Which forms of training make up an integrated approach to exercise?",
+    "choices": [
+      "Resistance and cardiorespiratory training alone, which together cover all health-related fitness components",
+      "Flexibility, core, and balance training only",
+      "Flexibility, core, cardiorespiratory, balance, plyometric, SAQ, and resistance training",
+      "Plyometrics and speed work only"
+    ],
+    "answerIndex": 2,
+    "explanation": "An integrated approach includes flexibility and mobility, core strength and stability, cardiorespiratory training, balance, plyometrics, speed, agility, and quickness, and resistance training. Programs built this way address all components of health-related physical fitness. Leaving out components limits the adaptations a client can achieve."
+  },
+  {
+    "id": "nasm-pro-004",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Definitions",
+    "question": "What does the term deconditioned describe?",
+    "choices": [
+      "A state of peak athletic readiness achieved through a long period of structured training",
+      "A medical diagnosis of chronic fatigue",
+      "A temporary drop in motivation to exercise",
+      "Lost physical fitness, with imbalances and poor joint stability"
+    ],
+    "answerIndex": 3,
+    "explanation": "Deconditioned refers to a state of lost physical fitness that may include muscle imbalances, decreased flexibility, and a lack of core and joint stability. It is a fitness description rather than a medical diagnosis. Recognizing it guides the trainer toward stabilization-focused programming."
+  },
+  {
+    "id": "nasm-pro-005",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Definitions",
+    "question": "What is a muscle imbalance?",
+    "choices": [
+      "When muscles on each side of a joint have altered length-tension relationships",
+      "A visible difference in muscle size between the right and left sides of the body",
+      "A tear in the muscle belly",
+      "An inability to contract a muscle voluntarily"
+    ],
+    "answerIndex": 0,
+    "explanation": "A muscle imbalance exists when the muscles on each side of a joint have altered length-tension relationships. That altered relationship holds the joint in a suboptimal resting position. Joint stability, by contrast, refers to the support provided by tissues surrounding a joint to maintain control during movement."
+  },
+  {
+    "id": "nasm-pro-006",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Chronic vs acute disease",
+    "question": "Which characteristics describe a chronic, noncommunicable disease?",
+    "choices": [
+      "Sudden onset with resolution within a short period once treatment has been started",
+      "Long duration, from genetic, physiological, environmental, and behavioral factors",
+      "Always contagious between individuals",
+      "Limited to a single organ in every case"
+    ],
+    "answerIndex": 1,
+    "explanation": "Chronic or noncommunicable diseases tend to be long in duration and arise from a combination of genetic, physiological, environmental, and behavioral factors. The main categories are cardiovascular disease, cancers, chronic respiratory diseases, and diabetes. Acute disease instead occurs suddenly and can typically be treated and healed in a short period."
+  },
+  {
+    "id": "nasm-pro-007",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Chronic vs acute disease",
+    "question": "Which condition is an example of an acute disease?",
+    "choices": [
+      "Type 2 diabetes",
+      "Chronic obstructive pulmonary disease",
+      "Influenza infection",
+      "Atherosclerosis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Getting sick from the influenza virus is an example of acute disease, which occurs suddenly and resolves in a short period. Type 2 diabetes, chronic obstructive pulmonary disease, and atherosclerosis all develop over long periods and fall under chronic disease. The leading causes of death worldwide are classified as chronic diseases and conditions."
+  },
+  {
+    "id": "nasm-pro-008",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Chronic disease",
+    "question": "Which two factors are the leading preventable causes of death in most developed nations?",
+    "choices": [
+      "Air travel and screen time",
+      "Excessive endurance exercise combined with chronically low dietary protein intake",
+      "Insufficient sleep and high altitude living",
+      "Smoking tobacco and being overweight or obese"
+    ],
+    "answerIndex": 3,
+    "explanation": "Smoking tobacco and being either overweight or obese are described as the two overwhelmingly leading preventable causes of death in modern society. A wide range of chronic disease can be avoided by eating a healthy diet and taking part in regular exercise. This is precisely where fitness professionals can have the greatest public health impact."
+  },
+  {
+    "id": "nasm-pro-009",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Prevention",
+    "question": "How do primary and secondary prevention differ, and which is preferred?",
+    "choices": [
+      "Primary prevention comes before disease and is preferred; secondary follows it",
+      "Primary prevention treats existing chronic conditions once they have already become apparent",
+      "Both terms refer to the same approach",
+      "Secondary prevention is always preferred because it is more targeted"
+    ],
+    "answerIndex": 0,
+    "explanation": "Primary prevention addresses risk before conditions develop and remains the preferred goal. Secondary prevention, treating chronic conditions after they become apparent, is a viable and highly recommended approach but is not the ideal. Regular physical activity and exercise are important in both."
+  },
+  {
+    "id": "nasm-pro-010",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Physical activity guidelines",
+    "question": "Roughly what share of adults and adolescents fail to meet recommended physical activity guidelines?",
+    "choices": [
+      "About 1 in 4 adults and roughly 20% of adolescents fall short",
+      "Roughly 3 in 4 adults and more than 80% of adolescents",
+      "About half of adults and half of adolescents",
+      "Fewer than 1 in 10 in both groups"
+    ],
+    "answerIndex": 1,
+    "explanation": "Roughly three in four adults and more than 80% of adolescents do not meet recommended physical activity guidelines. This widespread inactivity is a primary driver of chronic disease risk. Individuals who maintain cardiovascular fitness across the lifespan are two to four times less likely to develop heart disease or die prematurely from it."
+  },
+  {
+    "id": "nasm-pro-011",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Exercise vs physical activity",
+    "question": "How is exercise distinguished from physical activity?",
+    "choices": [
+      "Exercise is any movement that expends energy, while physical activity is planned and structured",
+      "They are synonymous terms",
+      "Exercise is planned movement for adaptation; activity expends energy",
+      "Exercise occurs only in a gym and physical activity only outdoors"
+    ],
+    "answerIndex": 2,
+    "explanation": "Exercise is a structured and planned form of human movement performed to elicit a physical adaptation. Physical activity is the broader category of movement that expends energy. Both contribute to health, but only exercise is deliberately designed to produce a specific adaptation."
+  },
+  {
+    "id": "nasm-pro-012",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Obesity",
+    "question": "How is obesity classified by body mass index?",
+    "choices": [
+      "A value of 25 or greater",
+      "27 or greater",
+      "35 or greater",
+      "30 or greater"
+    ],
+    "answerIndex": 3,
+    "explanation": "Obesity is a complex disease involving an excessive amount of body fat and is classified by a body mass index of 30 or greater. Risk for disease begins to rise at a body mass index of 25 or greater. Body mass index is a population-level screening measure rather than an individual diagnosis of body fatness."
+  },
+  {
+    "id": "nasm-pro-013",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Body mass index",
+    "question": "What is the main limitation of using body mass index on an individual basis?",
+    "choices": [
+      "It is not a substitute for objective body fat measurement",
+      "It cannot be calculated without access to laboratory equipment and trained technical staff",
+      "It requires the client to be fasted for 12 hours",
+      "It only applies to clients under age 30"
+    ],
+    "answerIndex": 0,
+    "explanation": "Body mass index compares a person's weight to their height and is not a substitute for more precise, objective measures of body fat composition when examining individuals. Other body composition assessments should be considered for clients pursuing weight loss. Very muscular clients in particular can be misclassified as higher risk."
+  },
+  {
+    "id": "nasm-pro-014",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Cardiovascular disease",
+    "question": "What is the most common root cause of the conditions grouped under cardiovascular disease?",
+    "choices": [
+      "Arrhythmia of the ventricles",
+      "Ischemic heart disease",
+      "Heart valve problems",
+      "Hypertension alone"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ischemic heart disease, the narrowing of the coronary arteries that supply blood and oxygen to the heart muscle, is described as the most common root cause. Cardiovascular disease as a term also covers stroke, heart attack, heart failure, heart valve problems, and arrhythmia. Atherosclerosis, the formation of plaque in arteries, drives that narrowing."
+  },
+  {
+    "id": "nasm-pro-015",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Cardiovascular disease",
+    "question": "Which risk factors are associated with the development of atherosclerosis?",
+    "choices": [
+      "Regular aerobic exercise together with adequate sleep and a consistently high protein intake",
+      "High protein intake and frequent resistance training",
+      "Tobacco, obesity, inactivity, hypertension, cholesterol, diabetes, stress, and diet",
+      "Low body fat and high cardiorespiratory fitness"
+    ],
+    "answerIndex": 2,
+    "explanation": "Atherosclerosis is usually caused by a combination of risk factors including tobacco use, obesity, physical inactivity, harmful use of alcohol or drugs, high blood pressure, high cholesterol, type 2 diabetes, chronic stress, and poor diet. A risk factor is any attribute, characteristic, or exposure that increases the likelihood of developing disease or injury. Most of these are modifiable through lifestyle change."
+  },
+  {
+    "id": "nasm-pro-016",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Cardiovascular disease",
+    "question": "Which definition matches a stroke?",
+    "choices": [
+      "A blockage in an artery supplying the heart muscle with its own blood and oxygen",
+      "An irregular rate or rhythm of the heartbeat",
+      "A condition in which the heart cannot pump enough blood to meet the body's needs",
+      "Sudden loss of blood supply to the brain from blockage or rupture"
+    ],
+    "answerIndex": 3,
+    "explanation": "A stroke is a sudden loss of blood supply to the brain, caused either by an arterial blockage or a ruptured blood vessel. A blocked artery supplying the heart describes a heart attack, medically known as a myocardial infarction. Inadequate pumping describes heart failure, and an irregular rate or rhythm describes arrhythmia."
+  },
+  {
+    "id": "nasm-pro-017",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Hypertension",
+    "question": "How is hypertension defined?",
+    "choices": [
+      "Consistently elevated blood pressure",
+      "A single elevated reading above 120/80 mm Hg",
+      "Blood pressure below 90/60 mm Hg",
+      "Any change in blood pressure during exercise"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hypertension is consistently elevated blood pressure, categorized relative to a threshold of 120/80 mm Hg. Systolic pressure is the first, top number and reflects arterial pressure during heart contraction. Diastolic pressure is the bottom number, reflecting pressure when the heart is relaxed."
+  },
+  {
+    "id": "nasm-pro-018",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Homeostasis",
+    "question": "What does homeostasis describe?",
+    "choices": [
+      "The state of having a disease",
+      "The process by which the body maintains a stable internal equilibrium",
+      "The likelihood that a given individual will develop a disease or sustain an injury",
+      "A permanent change in physical capacity"
+    ],
+    "answerIndex": 1,
+    "explanation": "Homeostasis is the process by which the human body strives to maintain a relatively stable equilibrium. Morbidity, by contrast, is the state of having a disease. A risk factor is an attribute or exposure that increases the likelihood of disease or injury."
+  },
+  {
+    "id": "nasm-pro-019",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Public health",
+    "question": "What role does the World Health Organization serve?",
+    "choices": [
+      "It certifies personal trainers internationally",
+      "It regulates the sale of dietary supplements within the United States and Canada",
+      "The international public health agency of the United Nations",
+      "It accredits fitness facilities"
+    ],
+    "answerIndex": 2,
+    "explanation": "The World Health Organization functions as the international public health agency of the United Nations. Its focus is developing and promoting international public health and well-being efforts. It is not a certifying or accrediting body for fitness professionals."
+  },
+  {
+    "id": "nasm-pro-020",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Injury prevalence",
+    "question": "Roughly what share of adults experience some form of low-back pain at least once in their lifetime?",
+    "choices": [
+      "About 20%",
+      "About 40%",
+      "Nearly 100% of all adults",
+      "Nearly 80%"
+    ],
+    "answerIndex": 3,
+    "explanation": "Nearly 80% of adults experience some form of low-back pain at least once during their lifetime. The lumbo-pelvic-hip complex connects the upper and lower halves of the body, so strengthening and stabilizing it supports health, performance, and injury prevention. The complex comprises the lumbar spine, pelvis, abdomen, and hip musculoskeletal structures."
+  },
+  {
+    "id": "nasm-pro-021",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Common injuries",
+    "question": "Which three injuries are among the most common at the knee?",
+    "choices": [
+      "Patellar tendonitis, anterior cruciate tears, and medial collateral tears",
+      "Plantar fasciitis, medial tibial stress syndrome, and recurrent lateral ankle sprains",
+      "Rotator cuff tears, labral tears, and impingement",
+      "Herniated discs, spondylolysis, and sciatica"
+    ],
+    "answerIndex": 0,
+    "explanation": "Patellar tendonitis, anterior cruciate ligament tears, and medial collateral ligament tears are described as arguably three of the most common knee injuries. Knee pain can also stem from arthritis and from acute or overuse injury. Some chronic knee pain is associated with being overweight or obese and with a lack of regular physical activity."
+  },
+  {
+    "id": "nasm-pro-022",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Common injuries",
+    "question": "What is plantar fasciitis?",
+    "choices": [
+      "A stretching or tearing of ligaments in the ankle",
+      "Inflammation of the fibrous tissue along the sole, causing heel pain",
+      "Inflammation of the tendon that connects the patella to the tibia below the knee",
+      "Impingement of soft tissue in the shoulder"
+    ],
+    "answerIndex": 1,
+    "explanation": "Plantar fasciitis is an inflammation of the plantar fascia, the fibrous tissue along the bottom of the foot, and often results in intense heel pain. Stretching or tearing of ligaments is a sprain. Because the feet and ankles support the whole body, impairment there can create dysfunction at the knees, hips, or low back."
+  },
+  {
+    "id": "nasm-pro-023",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Posture and pain",
+    "question": "A client who works long hours at a computer reports frequent headaches and neck pain. What is the most likely contributing factor described?",
+    "choices": [
+      "Excessive resistance training volume performed through the upper back and the neck",
+      "Inadequate protein intake",
+      "Poor head and neck posture from extended periods looking at screens",
+      "Overuse of the lower extremities"
+    ],
+    "answerIndex": 2,
+    "explanation": "Headaches and neck pain are common, and poor posture of the head and neck is often the cause. Much of that poor posture stems from extended periods looking at computer screens or mobile phones. Because pain is involved, the trainer should also consider whether medical evaluation is warranted before training the region."
+  },
+  {
+    "id": "nasm-pro-024",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Healthcare continuum",
+    "question": "What does the healthcare continuum represent?",
+    "choices": [
+      "A ranking of medical professions by salary",
+      "The progression of a single disease from its first onset through to full resolution",
+      "The sequence of assessments a trainer performs",
+      "A systematic view of healthcare entry points, care types, and outcomes"
+    ],
+    "answerIndex": 3,
+    "explanation": "The healthcare continuum is a systematic way to view the healthcare industry through its various entry points, the types of care provided, and the intended outcomes. The modern interpretation is a dynamic process aimed at improving and extending quality of life by combining professional care with elevated self-care. This is why trainers should network broadly with allied health professionals."
+  },
+  {
+    "id": "nasm-pro-025",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Allied health professionals",
+    "question": "Which professional primarily manages conditions relating to spinal alignment and the nervous system?",
+    "choices": [
+      "Chiropractor",
+      "Athletic trainer",
+      "Physical therapist",
+      "Licensed massage therapist"
+    ],
+    "answerIndex": 0,
+    "explanation": "A chiropractor is a licensed healthcare professional who primarily deals with conditions relating to spinal alignment. Physical therapists are educated in areas of physical rehabilitation and help clients return to regular activity after injury. Athletic trainers help diagnose and treat injuries, and licensed massage therapists are licensed to therapeutically manipulate soft tissues."
+  },
+  {
+    "id": "nasm-pro-026",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Allied health professionals",
+    "question": "Which professional is authorized to provide nutritional therapy and counseling?",
+    "choices": [
+      "Certified Personal Trainer",
+      "Registered dietitian nutritionist",
+      "Group fitness instructor",
+      "A strength and conditioning specialist coach"
+    ],
+    "answerIndex": 1,
+    "explanation": "Registered dietitian nutritionists are food and nutrition experts who provide nutritional advice, therapy, and counseling. Certified Personal Trainers can offer general nutritional guidance and refer clients to these professionals when more is needed. Providing medical nutrition therapy or individualized meal plans falls outside the trainer's scope."
+  },
+  {
+    "id": "nasm-pro-027",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Fitness professional roles",
+    "question": "How does the role of a strength and conditioning coach differ from that of a Certified Personal Trainer?",
+    "choices": [
+      "A strength and conditioning coach teaches and motivates large-group exercise classes each week",
+      "A strength and conditioning coach is licensed to diagnose injury",
+      "They design and implement programs for competitive athletes",
+      "There is no meaningful difference between the two"
+    ],
+    "answerIndex": 2,
+    "explanation": "A strength and conditioning coach has advanced knowledge, training, and experience designing and implementing strength and conditioning programs for competitive athletes. Certified Personal Trainers generally work one-on-one or in small groups with clients who have no medical or special needs or who have been medically cleared. A group fitness instructor leads and motivates large-group classes."
+  },
+  {
+    "id": "nasm-pro-028",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Scope of practice",
+    "question": "What does scope of practice represent?",
+    "choices": [
+      "The geographic area in which a trainer may work",
+      "The number of clients a trainer may serve at once",
+      "The list of specific exercises that has been approved by the certifying organization",
+      "Everything a professional may legally do under their job title"
+    ],
+    "answerIndex": 3,
+    "explanation": "Scope of practice represents everything a given professional can do within the legal boundaries of their job title. Because fitness professionals lack their own specific governmental regulation, their scope is defined largely through association with adjacent fields. Working outside that boundary exposes both trainer and client to risk."
+  },
+  {
+    "id": "nasm-pro-029",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Scope of practice",
+    "question": "Which clients fall within the Certified Personal Trainer's scope of practice?",
+    "choices": [
+      "Clients with no medical needs, or those medically cleared to exercise",
+      "Only competitive athletes",
+      "Any client at all, including those presenting with undiagnosed pain or acute injury",
+      "Only clients under a physician's active treatment"
+    ],
+    "answerIndex": 0,
+    "explanation": "Certified Personal Trainers perform individualized assessments and design safe, effective, scientifically based programs for clients who present with no medical or special needs or who have been medically cleared for exercise. They do not diagnose or treat areas of pain or disease. When something falls outside that boundary, referral to the appropriate healthcare professional is required."
+  },
+  {
+    "id": "nasm-pro-030",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Refer versus train",
+    "question": "A long-time client mentions their physician just started them on a new blood pressure medication. What does the Code of Professional Conduct require?",
+    "choices": [
+      "Continue training unchanged, since medication is private information",
+      "Refer the client to the appropriate medical practitioner",
+      "Advise the client on whether the medication is necessary",
+      "Terminate the training relationship permanently"
+    ],
+    "answerIndex": 1,
+    "explanation": "Certified Professionals must refer a client to the appropriate medical practitioner when they become aware of any change in the client's health status or medication. The same requirement applies on becoming aware of an undiagnosed illness, injury, or risk factor, or of unusual pain or discomfort during a session. Referral does not necessarily end the training relationship; it ensures the client is appropriately cleared."
+  },
+  {
+    "id": "nasm-pro-031",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Refer versus train",
+    "question": "A client asks the trainer which creatine product they should take to help with their diagnosed kidney condition. What is the appropriate response?",
+    "choices": [
+      "Recommend a specific brand and a dosing protocol suited to the client's condition",
+      "Explain that supplements are always safe at label doses",
+      "Refer to a healthcare professional, since supplemental advice was requested",
+      "Suggest they stop all supplements permanently"
+    ],
+    "answerIndex": 2,
+    "explanation": "The Code of Professional Conduct requires referring clients to other healthcare professionals when nutritional and supplemental advice is requested. It is beyond a fitness professional's scope to prescribe supplements to treat a medical condition or disease. General education about supplements is permissible, but the specific request here belongs with a dietitian or physician."
+  },
+  {
+    "id": "nasm-pro-032",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Code of Professional Conduct",
+    "question": "Which requirement must a Certified Professional meet before beginning to train a new client?",
+    "choices": [
+      "Obtain a signed liability waiver only",
+      "Confirm the client's gym membership status",
+      "Complete a full body composition assessment using skinfold calipers or impedance analysis",
+      "Review a current health-history questionnaire signed by the client"
+    ],
+    "answerIndex": 3,
+    "explanation": "A Certified Professional must not begin training a client prior to receiving and reviewing a current health-history questionnaire signed by that client. They must also hold current cardiopulmonary resuscitation and automated external defibrillator certification at all times. These requirements exist to ensure a safe training environment."
+  },
+  {
+    "id": "nasm-pro-033",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Code of Professional Conduct",
+    "question": "A Certified Professional may diagnose and treat an injury as long as the client consents.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Certified Professionals must not diagnose or treat illness or injury except for basic first aid, regardless of client consent. They also must not train clients with a diagnosed health condition without appropriate clearance and direction. Diagnosis and treatment belong to licensed medical practitioners."
+  },
+  {
+    "id": "nasm-pro-034",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Client confidentiality",
+    "question": "Which action satisfies the confidentiality obligations of a Certified Professional?",
+    "choices": [
+      "Storing and disposing of client records in a secure manner",
+      "Sharing before-and-after photos of a client in advertising without asking",
+      "Discussing a client's medical history with other members to build rapport",
+      "Training a minor without any guardian permission"
+    ],
+    "answerIndex": 0,
+    "explanation": "Certified Professionals must protect client confidentiality in conversations, advertising, and every other arena, and must store and dispose of client records securely. They must also protect the interests of clients who are minors by law or unable to give voluntary consent by securing permission from the appropriate guardian. Sharing identifiable client information without consent breaches these obligations."
+  },
+  {
+    "id": "nasm-pro-035",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Professional practice",
+    "question": "Which business practice is required of a Certified Professional practicing with honesty and integrity?",
+    "choices": [
+      "Guarantee specific weight-loss results in all advertising in order to attract new clients",
+      "Maintain liability insurance and truthful progress notes",
+      "Claim qualifications that are in progress as though they are complete",
+      "Keep financial records only when audited"
+    ],
+    "answerIndex": 1,
+    "explanation": "Certified Professionals must maintain adequate liability insurance and keep adequate, truthful progress notes for each client. They must also inform the public accurately about services and qualifications, represent affiliations honestly, advertise in a dignified manner, and keep accurate financial, contract, appointment, and tax records. Overstating credentials or guaranteeing outcomes violates these standards."
+  },
+  {
+    "id": "nasm-pro-036",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Motivation",
+    "question": "Which type of motivation is most strongly related to long-term exercise adherence?",
+    "choices": [
+      "Extrinsic reward-based motivation",
+      "Financial motivation",
+      "Intrinsic motivation",
+      "Competitive motivation"
+    ],
+    "answerIndex": 2,
+    "explanation": "Intrinsic motivation comes from within the individual and is strongly related to long-term adherence. Extrinsic motivation is doing something for rewards or recognition. Because motives differ between people and change over time, they should be reevaluated periodically."
+  },
+  {
+    "id": "nasm-pro-037",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Barriers to exercise",
+    "question": "Which of the following is a common barrier to regular exercise?",
+    "choices": [
+      "Excessive intrinsic motivation",
+      "Too much structured social support",
+      "Over-availability of exercise facilities",
+      "Social physique anxiety"
+    ],
+    "answerIndex": 3,
+    "explanation": "Social physique anxiety, the feeling of being anxious about how others perceive one's body, is a common barrier to exercise participation. Other common barriers include lack of time, unrealistic goals, lack of social support, lack of convenience, and ambivalence. All of these can be eliminated or minimized with basic strategies offering realistic solutions or alternatives."
+  },
+  {
+    "id": "nasm-pro-038",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Barriers to exercise",
+    "question": "A new client says she avoids the weight room because she feels self-conscious about how others see her body. Which approach best addresses this barrier?",
+    "choices": [
+      "Help her find activities and settings that reduce the anxiety",
+      "Insist she train in the busiest area of the facility to build confidence quickly",
+      "Tell her the concern is irrational and move on",
+      "Restrict her to home workouts permanently"
+    ],
+    "answerIndex": 0,
+    "explanation": "Social physique anxiety is a recognized barrier, and helping clients find activities that reduce it creates a comfortable exercise environment. Excellent customer service in clean facilities and options for exercising outside the facility also help overcome perceived inconvenience. Dismissing the concern is likely to reduce adherence rather than improve it."
+  },
+  {
+    "id": "nasm-pro-039",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Social support",
+    "question": "Which type of social support includes tangible help such as providing transportation or assisting with childcare?",
+    "choices": [
+      "Emotional and empathetic support",
+      "Instrumental support",
+      "Informational support",
+      "Companionship support"
+    ],
+    "answerIndex": 1,
+    "explanation": "Instrumental support covers the tangible things that make exercising possible, such as providing transportation, assisting with childcare, or packing someone's gym bag. Emotional support comes from being caring, empathetic, and concerned about the person's experience. Informational support provides accurate current information, and companionship support means exercising alongside someone."
+  },
+  {
+    "id": "nasm-pro-040",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Social support",
+    "question": "Which type of social support is a main reason someone seeks out a fitness professional?",
+    "choices": [
+      "Instrumental or tangible support",
+      "Emotional support",
+      "Informational support",
+      "Companionship support"
+    ],
+    "answerIndex": 2,
+    "explanation": "Informational support, providing accurate and current information about fitness and exercise, is described as one of the main reasons people seek out a fitness professional. Social support consists of both a source and a type, and clients will differ in what they need and expect. Recognizing which type a client needs helps the trainer deliver it effectively."
+  },
+  {
+    "id": "nasm-pro-041",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Self-efficacy",
+    "question": "Why is self-efficacy a central target of behavioral coaching?",
+    "choices": [
+      "It is the only factor that reliably predicts long-term weight loss in adult clients",
+      "It replaces the need for goal setting",
+      "It determines a client's maximal oxygen consumption",
+      "It is among the strongest determinants of adult physical activity"
+    ],
+    "answerIndex": 3,
+    "explanation": "Self-efficacy is one of the strongest determinants of physical activity in adults, which is why most coaching effort is directed at increasing it. Planning and self-monitoring are essential techniques for developing the self-regulatory strategy that raises self-efficacy. Affective judgments and subjective norms also influence readiness to perform resistance training."
+  },
+  {
+    "id": "nasm-pro-042",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Stages of change",
+    "question": "Which five stages make up the Stages of Change model?",
+    "choices": [
+      "Precontemplation, contemplation, preparation, action, and maintenance",
+      "Awareness, then interest, then desire, then action, and finally satisfaction",
+      "Alarm, resistance, adaptation, exhaustion, and recovery",
+      "Cognitive, associative, autonomous, mastery, and relapse"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Stages of Change model, also called the Transtheoretical Model of Behavior Change, consists of precontemplation, contemplation, preparation, action, and maintenance. It views change as a progression through stages rather than a single event. Originally developed to help people quit smoking, it applies to nearly any habit change."
+  },
+  {
+    "id": "nasm-pro-043",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Stages of change",
+    "question": "How is the precontemplation stage defined?",
+    "choices": [
+      "The individual exercises sporadically but without any structure or consistent weekly routine",
+      "They do not exercise and do not plan to start soon",
+      "The individual has been exercising for less than 6 months",
+      "The individual plans to start exercising within 6 months"
+    ],
+    "answerIndex": 1,
+    "explanation": "In precontemplation the person does not exercise and has no plan to start within the next 6 months. They may be uninformed about the consequences of inactivity, or they may have tried before and become demoralized. Cognitive strategies and education are often the best options at this stage."
+  },
+  {
+    "id": "nasm-pro-044",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Stages of change",
+    "question": "A client has been exercising consistently for eight months. Which stage of change are they in?",
+    "choices": [
+      "The preparation stage",
+      "Action",
+      "Maintenance",
+      "Contemplation"
+    ],
+    "answerIndex": 2,
+    "explanation": "Exercising consistently for 6 months or more places the client in the maintenance stage. Self-efficacy is generally high at this point, and clients may use behavioral strategies to avoid relapsing to earlier stages. Exercising for less than 6 months would instead place them in the action stage."
+  },
+  {
+    "id": "nasm-pro-045",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Stages of change",
+    "question": "A prospective client says she is not exercising now but intends to start within the next few months, and she asks a lot of questions about whether training even works. Which stage and strategy fit best?",
+    "choices": [
+      "Maintenance; focus on relapse prevention and the behavioral strategies that sustain it",
+      "Precontemplation; avoid any discussion of exercise",
+      "Action; provide emergency home workouts for missed sessions",
+      "Contemplation; use education and small achievable goals"
+    ],
+    "answerIndex": 3,
+    "explanation": "Not currently exercising but planning to start within 6 months describes the contemplation stage. Education is one of the best strategies here, since these clients often just need more information to raise the perceived value of a program. Small achievable goals help them build self-efficacy and gain momentum."
+  },
+  {
+    "id": "nasm-pro-046",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Stages of change",
+    "question": "A client already does some unstructured physical activity but has no consistent routine, and wants help fitting exercise into his week. Which stage is he in, and what should the trainer emphasize?",
+    "choices": [
+      "Preparation; plan when, where, and how exercise fits his week",
+      "Precontemplation; provide basic education about the health risks of remaining physically inactive",
+      "Action; focus on avoiding relapse after six months of training",
+      "Maintenance; reduce contact since self-efficacy is already high"
+    ],
+    "answerIndex": 0,
+    "explanation": "Taking steps and exercising sporadically without structure places the client in the preparation stage, where fitness professionals meet the most individuals. The emphasis should be on establishing a plan the client feels confident following, including when, where, and how exercise fits the schedule. Building intrinsic motivation is also important for developing consistency."
+  },
+  {
+    "id": "nasm-pro-047",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Exercise adherence",
+    "question": "A client in the action stage cancels a session and cannot reschedule for two weeks. What should the trainer do?",
+    "choices": [
+      "Wait until the next scheduled session with no further contact",
+      "Prompt the client to plan how to keep exercising in the interim",
+      "Charge a cancellation fee and move on",
+      "Recommend the client pause training entirely until they are able to attend consistently"
+    ],
+    "answerIndex": 1,
+    "explanation": "When a client cancels, the trainer should either ask when they would like to reschedule or prompt them to plan how to keep exercising in the interim if the reschedule is not within 24 to 48 hours. In the action stage it is especially important not to let short-term slip-ups become a departure from the program. Preplanned emergency home workouts are one practical way to maintain progress."
+  },
+  {
+    "id": "nasm-pro-048",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Decisional balance",
+    "question": "What does decisional balance reflect?",
+    "choices": [
+      "The client's ability to stand on one leg",
+      "The equilibrium between the weekly training volume and the available recovery capacity",
+      "The client's weighing of the pros and cons of changing",
+      "The trainer's decision to accept or refer a client"
+    ],
+    "answerIndex": 2,
+    "explanation": "Decisional balance reflects the client's weighing of the pros and cons of making a change. It relates closely to ambivalence, in which someone holds mixed feelings and sees both benefits and drawbacks to participation. In early stages clients tend to use cognitive processes to progress, while later stages rely more on behavioral processes."
+  },
+  {
+    "id": "nasm-pro-049",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Motivational interviewing",
+    "question": "Which techniques from motivational interviewing can a Certified Personal Trainer appropriately use?",
+    "choices": [
+      "Diagnosing psychological conditions and prescribing an appropriate course of therapy for them",
+      "Providing treatment for anxiety disorders",
+      "Interpreting personality tests",
+      "Developing discrepancy, promoting change talk, and assessing readiness"
+    ],
+    "answerIndex": 3,
+    "explanation": "Motivational interviewing is a coaching style used to enhance intrinsic motivation for change. Trainers can appropriately develop a discrepancy between the client's current and ideal state, promote change talk, and assess readiness, willingness, and perceived ability to change. Treating mental illness is the province of licensed psychologists and psychiatrists."
+  },
+  {
+    "id": "nasm-pro-050",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Goal setting",
+    "question": "What does the SMART goal framework stand for?",
+    "choices": [
+      "Specific, measurable, attainable, realistic, and timely",
+      "Simple, meaningful, active, realistic, and tracked over time",
+      "Strategic, motivating, achievable, repeatable, and tested",
+      "Structured, measured, assessed, reviewed, and timed"
+    ],
+    "answerIndex": 0,
+    "explanation": "SMART goals are specific, measurable, attainable, realistic, and timely. Clients should focus on both process goals and outcome goals. The best results come from setting larger long-term goals and then building a series of smaller goals that drive progress toward them."
+  },
+  {
+    "id": "nasm-pro-051",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Communication",
+    "question": "What does active listening involve?",
+    "choices": [
+      "Preparing your next point while the client is still speaking about their goals",
+      "Asking questions, avoiding distraction, and giving appropriate feedback",
+      "Summarizing the session in writing afterward",
+      "Speaking more than the client to demonstrate expertise"
+    ],
+    "answerIndex": 1,
+    "explanation": "Active listening reflects a genuine interest in understanding the client's health and fitness goals. It involves asking appropriate questions, avoiding distractions and inner dialogue, and providing appropriate feedback. Both verbal and nonverbal communication matter for building professional client relationships."
+  },
+  {
+    "id": "nasm-pro-052",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Behavior change techniques",
+    "question": "Cognitive strategies such as positive self-talk, imagery, and psyching up before activity can help change exercise behavior.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Positive self-talk, imagery, and the practice of psyching up before activity are cognitive strategies that can support behavior change. Behavior change techniques more broadly are used to enhance a client's confidence, motivation, and self-regulation skills through planning, self-monitoring, and goal setting. Trainers should tailor which techniques they use to the client's stage of change."
+  },
+  {
+    "id": "nasm-pro-053",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Supplement scope",
+    "question": "A client shows their trainer an injectable product marketed online as a dietary supplement. What should the trainer recognize?",
+    "choices": [
+      "Dietary supplements are delivered orally, so an injectable product is not one",
+      "Injectable supplements are acceptable provided the client's own physician has approved the product",
+      "Any product sold as a supplement can be taken by whichever route the manufacturer specifies",
+      "Injection is simply a faster delivery route for the same category of over-the-counter product"
+    ],
+    "answerIndex": 0,
+    "explanation": "Dietary supplements are delivered orally as a capsule, powder, softgel, liquid, or similar form. Transdermal, injection, and other routes are reserved for pharmaceuticals. A product marketed as a supplement but sold for injection falls outside that definition, and the trainer should refer the client to a qualified healthcare professional."
+  },
+  {
+    "id": "nasm-pro-054",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Supplement regulation",
+    "question": "Dietary supplements must receive prior approval from the Food and Drug Administration before they can be sold.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Unlike pharmaceuticals, dietary supplements do not need prior FDA approval to be sold or marketed in most countries. This is why not all supplements can be trusted unconditionally and why label claims warrant scrutiny. Trainers should stay within scope and refer clients with specific supplement questions to a qualified professional."
+  },
+  {
+    "id": "nasm-pro-055",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Supplement scope",
+    "question": "Dietary supplements are intended to add to the diet rather than to serve as a foundational part of it.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Supplements are meant to be exactly that, supplemental. They are not a foundational component of a diet and are not to be represented for use as a food item. Whole foods remain the base of intake, with supplements filling gaps rather than replacing meals."
+  },
+  {
+    "id": "nasm-pro-056",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Nutrition guidance",
+    "question": "A client struggling with calorie balance eats mostly highly processed convenience foods. Which general strategy is within a trainer's scope to suggest?",
+    "choices": [
+      "Choosing more whole foods and limiting highly processed ones",
+      "Following a structured therapeutic meal plan with calculated macronutrient targets for each meal",
+      "Replacing two meals each day with a commercial powdered meal replacement product instead",
+      "Eliminating one entire macronutrient group in order to create the necessary energy deficit"
+    ],
+    "answerIndex": 0,
+    "explanation": "Encouraging a greater proportion of whole foods while limiting highly processed foods is general nutrition guidance a trainer may offer. Whole foods tend to be more satiating than many processed foods, which helps clients maintain caloric balance and avoid excess intake. Building an individualized therapeutic plan would require referral to a registered dietitian."
+  }
+]

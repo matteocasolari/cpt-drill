@@ -1,0 +1,1449 @@
+[
+  {
+    "id": "nasm-assess-001",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Preparticipation screening",
+    "question": "How many questions make up part one of the PAR-Q+, and what happens if the client answers \"yes\" to any of them?",
+    "choices": [
+      "Five questions; a yes answer disqualifies the client from all structured exercise participation",
+      "Seven questions; a yes answer sends them to part two",
+      "Ten questions; a \"yes\" answer means the trainer proceeds directly to fitness testing",
+      "Three questions; a \"yes\" answer requires an immediate maximal exercise test"
+    ],
+    "answerIndex": 1,
+    "explanation": "Part one of the PAR-Q+ contains seven questions. If the client answers no to all seven, the screening is considered complete. A yes to any of the seven directs the client into part two, which gathers follow-up detail on the relevant condition."
+  },
+  {
+    "id": "nasm-assess-002",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Preparticipation screening",
+    "question": "For which exercise intensity has the PAR-Q+ historically been recognized as an adequate minimal screening tool?",
+    "choices": [
+      "Only maximal-effort testing conducted in a laboratory setting",
+      "Vigorous intensity only",
+      "Low-to-moderate intensity, but not vigorous intensity",
+      "Any intensity, including competitive athletics"
+    ],
+    "answerIndex": 2,
+    "explanation": "The PAR-Q+ is recognized as a minimal yet safe pre-exercise screening measure for low-to-moderate exercise training. It is not considered sufficient on its own for clearing a client for vigorous training. Clients targeting vigorous intensity generally need additional screening or medical input."
+  },
+  {
+    "id": "nasm-assess-003",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Preparticipation screening",
+    "question": "Which set of health indicators does the PAR-Q+ and preparticipation process reflect?",
+    "choices": [
+      "Resting metabolic rate, sleep latency, and habitual daily macronutrient intake patterns",
+      "Body fat percentage, one-rep max, and vertical jump height",
+      "Family income, education level, and gym membership history",
+      "Activity level, signs or symptoms of disease, and desired intensity"
+    ],
+    "answerIndex": 3,
+    "explanation": "The preparticipation process considers the client's current activity level, whether signs or symptoms of cardiovascular, pulmonary, renal, or metabolic disease are present, and the intensity the client intends to train at. These three indicators together determine whether medical clearance is needed. They also help customize pre-exercise recommendations."
+  },
+  {
+    "id": "nasm-assess-004",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Health risk assessment",
+    "question": "What distinguishes a health risk assessment from a fitness assessment?",
+    "choices": [
+      "It evaluates the safety of exercising; a fitness assessment measures fitness",
+      "A health risk assessment measures aerobic capacity while a fitness assessment reviews medications",
+      "They are interchangeable terms for the same process",
+      "A health risk assessment is optional; a fitness assessment is legally required"
+    ],
+    "answerIndex": 0,
+    "explanation": "A health risk assessment is conducted to evaluate whether it is safe for the individual to exercise and whether referral is needed. A fitness assessment instead measures physical parameters such as aerobic capacity, body composition, or strength. The health risk assessment always comes first."
+  },
+  {
+    "id": "nasm-assess-005",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Health risk assessment",
+    "question": "All new exercisers should complete some form of health risk assessment before beginning an exercise program.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Screening every new exerciser with a health risk assessment allows the benefits of starting a program to be weighed against the risks. It is both a legal and an ethical responsibility of the Certified Personal Trainer. Skipping it exposes the client and the trainer to avoidable risk."
+  },
+  {
+    "id": "nasm-assess-006",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Health history questionnaire",
+    "question": "Which category of information belongs on a health history questionnaire rather than a PAR-Q+?",
+    "choices": [
+      "Whether the client has ever felt chest pain or discomfort during physical activity",
+      "Occupational demands, sleep, stress, and recreational hobbies",
+      "Whether a doctor has ever said the client has a heart condition",
+      "Whether the client loses balance because of dizziness"
+    ],
+    "answerIndex": 1,
+    "explanation": "The health history questionnaire expands beyond safety screening into lifestyle detail such as exercise history, diet, sleep, stress, occupation, and hobbies. That context helps the trainer select assessments, design the program, and monitor progress. The other options are the type of yes/no safety item found on the PAR-Q+."
+  },
+  {
+    "id": "nasm-assess-007",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Health history questionnaire",
+    "question": "Why is a history of previous musculoskeletal injury an important item to record during intake?",
+    "choices": [
+      "It automatically disqualifies the client from all forms of resistance training permanently",
+      "It determines the client's resting metabolic rate",
+      "It strongly predicts future injury during activity",
+      "It is required to calculate body mass index"
+    ],
+    "answerIndex": 2,
+    "explanation": "Previous musculoskeletal injury is one of the strongest predictors of a future injury during physical activity. Recording past injuries in enough detail lets the trainer decide whether exercise is appropriate or whether a medical referral is warranted. It also guides exercise selection and progression."
+  },
+  {
+    "id": "nasm-assess-008",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Referral",
+    "question": "During intake, a new client rates their overall diet a 2 out of 10 and mentions unexplained weight loss over the past two months. What is the most appropriate action?",
+    "choices": [
+      "Write the client a detailed meal plan with calorie and macronutrient targets included",
+      "Prescribe a multivitamin and a protein supplement to correct the deficiency",
+      "Tell the client that diet is outside your interest and change the subject",
+      "Refer to a registered dietitian or medical professional"
+    ],
+    "answerIndex": 3,
+    "explanation": "Gathering general, qualitative dietary information helps the trainer notice when something falls outside their scope. Unexplained weight loss combined with a very poor self-rated diet is a concern that belongs with a registered dietitian or physician. The trainer can still provide general guidelines, accountability, and appropriate exercise programming."
+  },
+  {
+    "id": "nasm-assess-009",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Assessment safety",
+    "question": "Which certification must all personnel involved in exercise testing and supervision hold?",
+    "choices": [
+      "Current CPR and AED certification",
+      "A state dietetics license",
+      "Advanced cardiac life support certification only",
+      "A physical therapy assistant credential"
+    ],
+    "answerIndex": 0,
+    "explanation": "Current cardiopulmonary resuscitation and automated external defibrillator certification is required for everyone involved in exercise testing and supervision. Emergency responsibilities inside the facility should also be clearly defined and documented. This maximizes client safety and minimizes legal exposure."
+  },
+  {
+    "id": "nasm-assess-010",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Assessment safety",
+    "question": "Midway through a submaximal cardiorespiratory test the client reports sharp pain in the calf and appears unusually fatigued. What should the trainer do?",
+    "choices": [
+      "Reduce the speed slightly and finish the remaining stages",
+      "Stop the assessment",
+      "Encourage the client to push through since the test is nearly complete",
+      "Switch the client to a different machine and restart the protocol"
+    ],
+    "answerIndex": 1,
+    "explanation": "Sharp leg pain and visible signs of unusual or excessive fatigue are both listed reasons to terminate an assessment. Other stop criteria include chest or angina-like pain, a large rise or drop in blood pressure, poor blood supply to the head and face, uncoordinated movement, equipment failure, or the client's own request. Data quality is never worth an avoidable adverse event."
+  },
+  {
+    "id": "nasm-assess-011",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Assessment preparation",
+    "question": "What should a client avoid in the hours immediately before a fitness assessment?",
+    "choices": [
+      "Water and other fluids",
+      "Sleep on the night before the test",
+      "Heavy food, tobacco, alcohol, and caffeine for 3 hours",
+      "Comfortable athletic clothing and supportive footwear suited to the testing modality"
+    ],
+    "answerIndex": 2,
+    "explanation": "Clients should avoid heavy food, tobacco, alcohol, and caffeine for at least 3 hours before testing. They should also avoid strenuous exercise the day before or the day of the test and get adequate sleep. Fluids should be consumed generously over the preceding 24 hours to optimize hydration."
+  },
+  {
+    "id": "nasm-assess-012",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Assessment sequencing",
+    "question": "Why should skinfold measurements be taken before a client performs exercise?",
+    "choices": [
+      "Exercise dehydrates the skin and therefore shrinks the measured thickness of the fold",
+      "Exercise changes the location of anatomical landmarks",
+      "Calipers lose calibration once the client is warm",
+      "Exercise causes peripheral vasodilation, inflating the skinfold"
+    ],
+    "answerIndex": 3,
+    "explanation": "Exercise triggers peripheral vasodilation near the skin surface to help dissipate heat. That extra blood volume can increase the measured thickness of the fold and inflate the estimated body fat percentage. Body composition measures should therefore precede any exertion."
+  },
+  {
+    "id": "nasm-assess-013",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Resting heart rate",
+    "question": "Which pulse site does NASM recommend for measuring a client's resting heart rate, and why?",
+    "choices": [
+      "The radial pulse, since carotid pressure can slow the heart rate",
+      "The carotid pulse, because it is the easiest site to locate and palpate reliably",
+      "The femoral pulse, because it produces the strongest signal",
+      "The apical pulse, because it requires no palpation skill"
+    ],
+    "answerIndex": 0,
+    "explanation": "NASM recommends the radial pulse for accuracy, safety, and ease of administration. The vagus nerve lies adjacent to the carotid artery, so excessive pressure at the neck can inadvertently slow the client's heart rate. That would produce an artificially low reading."
+  },
+  {
+    "id": "nasm-assess-014",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Resting heart rate",
+    "question": "When is resting heart rate measured most accurately?",
+    "choices": [
+      "Immediately after the client arrives at the training facility for their session",
+      "Just before the client gets out of bed in the morning",
+      "Immediately following a 5-minute warm-up",
+      "At the end of the training session"
+    ],
+    "answerIndex": 1,
+    "explanation": "The most accurate resting heart rate is taken right before the client gets out of bed in the morning, when sympathetic arousal is lowest. In a facility, the client should at least sit or lie quietly for several minutes first. Travel, caffeine, and anxiety all inflate the reading."
+  },
+  {
+    "id": "nasm-assess-015",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Resting heart rate",
+    "question": "Which technique is correct when palpating a pulse to count resting heart rate?",
+    "choices": [
+      "Press firmly using the thumb, which carries the most sensitive pad for palpation",
+      "Use the thumb and count for 15 seconds multiplied by 4",
+      "Index and middle fingertips, light pressure, counting 60 seconds",
+      "Press hard enough to occlude the artery to sharpen the beat"
+    ],
+    "answerIndex": 2,
+    "explanation": "The index and middle fingertips are used with light pressure over the artery, because the thumb has its own detectable pulse that can confuse the count. Counting the full 60 seconds is preferred, though a 10-second count multiplied by 6 is acceptable. Heavy pressure can distort or occlude the signal."
+  },
+  {
+    "id": "nasm-assess-016",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Resting heart rate",
+    "question": "Roughly how do average resting heart rates compare between men and women?",
+    "choices": [
+      "Men average about 25 beats per minute more than women do at rest",
+      "Women average about 20 beats per minute fewer than men",
+      "There is no measurable difference",
+      "Men average about 5 to 10 beats per minute fewer than women"
+    ],
+    "answerIndex": 3,
+    "explanation": "Gender differences in resting heart rate do exist, with men averaging approximately 5 to 10 fewer beats per minute than women. Resting heart rate also falls as fitness improves, because a stronger heart ejects more blood per beat. Interpretation should account for both factors."
+  },
+  {
+    "id": "nasm-assess-017",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Blood pressure",
+    "question": "Which artery is the standard site for measuring blood pressure?",
+    "choices": [
+      "Brachial artery",
+      "The carotid artery in the neck",
+      "Radial artery",
+      "Femoral artery"
+    ],
+    "answerIndex": 0,
+    "explanation": "Blood pressure is measured within the arterial system using the brachial artery as the standard site. The cuff is placed on the upper arm and the stethoscope positioned over the brachial pulse. Systolic pressure is read at the first sound heard and diastolic pressure when the sound fades."
+  },
+  {
+    "id": "nasm-assess-018",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Blood pressure",
+    "question": "What is considered a normal blood pressure reading?",
+    "choices": [
+      "Less than 140/90 mm Hg",
+      "Less than 120/80 mm Hg",
+      "Less than 100/60 mm Hg",
+      "Anything below 160/100 mm Hg at rest"
+    ],
+    "answerIndex": 1,
+    "explanation": "A normal reading is a systolic pressure below 120 mm Hg with a diastolic pressure below 80 mm Hg. Higher scores indicate greater risk of developing cardiovascular disease. Hypertension is described as consistently elevated blood pressure above the 120/80 mm Hg threshold."
+  },
+  {
+    "id": "nasm-assess-019",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Blood pressure",
+    "question": "What does systolic blood pressure represent?",
+    "choices": [
+      "The lowest pressure in the cardiac cycle, recorded while the heart is relaxed",
+      "The average pressure across a full minute",
+      "The greatest pressure, when the heart contracts",
+      "The pressure inside the venous system"
+    ],
+    "answerIndex": 2,
+    "explanation": "Systolic blood pressure is the top number and reflects the greatest pressure during the cardiac cycle, produced as the heart contracts. Diastolic blood pressure is the bottom number and reflects the lowest pressure, when the heart is relaxed. Both are expressed in millimeters of mercury."
+  },
+  {
+    "id": "nasm-assess-020",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Blood pressure",
+    "question": "A trainer records an unexpectedly high blood pressure on a client's right arm. What is the recommended next step?",
+    "choices": [
+      "Record the value and begin the workout as planned",
+      "Have the client perform light cardio and re-measure immediately",
+      "Repeat the same arm ten times and take the lowest value",
+      "Repeat the measurement on the opposite arm"
+    ],
+    "answerIndex": 3,
+    "explanation": "Abnormal readings should be repeated on the opposite arm. A significant discrepancy between arms may indicate a circulatory problem, and the client should be referred to a physician for medical evaluation. Repeating on the same arm alone does not provide that comparison."
+  },
+  {
+    "id": "nasm-assess-021",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Blood pressure",
+    "question": "Which instrument is traditionally used to measure blood pressure manually?",
+    "choices": [
+      "An aneroid sphygmomanometer with cuff, dial, bulb, and stethoscope",
+      "A bioelectrical impedance analyzer with sensors applied to both hands and feet",
+      "A skinfold caliper and flexible tape",
+      "A metabolic cart with a mouthpiece"
+    ],
+    "answerIndex": 0,
+    "explanation": "The traditional manual setup is an aneroid sphygmomanometer, consisting of an inflatable cuff, a pressure dial, a bulb with a valve, and a stethoscope. Digital monitors are increasingly common but the manual technique still requires guidance and practice. The other options measure body composition or gas exchange, not pressure."
+  },
+  {
+    "id": "nasm-assess-022",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Resting heart rate",
+    "question": "Resting heart rate tends to decrease as a client's cardiorespiratory fitness improves.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "As the heart and lungs become more conditioned, the heart grows stronger and ejects more blood with each beat. Because each contraction moves more blood, fewer beats per minute are required at rest. A falling resting heart rate over weeks of training is therefore a useful progress marker."
+  },
+  {
+    "id": "nasm-assess-023",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Anthropometry",
+    "question": "What does the field of anthropometry study?",
+    "choices": [
+      "The chemical composition of foods and the energy they release during metabolism",
+      "Measurement of living humans to understand physical variation",
+      "The mechanics of joint surface motion",
+      "The electrical conduction system of the heart"
+    ],
+    "answerIndex": 1,
+    "explanation": "Anthropometry is the measurement of living humans for the purpose of understanding physical variation in size, weight, and proportion. Body mass index, circumference measures, and body fat assessments all fall under this heading. Such measures help predict a client's risk for morbidity and mortality."
+  },
+  {
+    "id": "nasm-assess-024",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Body mass index",
+    "question": "How is body mass index calculated using imperial units?",
+    "choices": [
+      "Weight in pounds divided by height in inches, without any further conversion factor",
+      "Height in inches divided by weight in pounds, multiplied by 703",
+      "Pounds divided by height in inches squared, times 703",
+      "Weight in pounds multiplied by height in inches, divided by 703"
+    ],
+    "answerIndex": 2,
+    "explanation": "In imperial units, body mass index equals body weight in pounds divided by the square of height in inches, then multiplied by 703. In metric units it is weight in kilograms divided by the square of height in meters. Both approaches express weight relative to stature."
+  },
+  {
+    "id": "nasm-assess-025",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Body mass index",
+    "question": "At what body mass index does risk for disease begin to increase?",
+    "choices": [
+      "A value of 18.5 or greater",
+      "22 or greater",
+      "35 or greater",
+      "25 or greater"
+    ],
+    "answerIndex": 3,
+    "explanation": "Risk for disease increases with a body mass index of 25 or greater. Obesity is classified at a body mass index of 30 or greater. These are population-level risk thresholds rather than individual diagnoses."
+  },
+  {
+    "id": "nasm-assess-026",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Body mass index",
+    "question": "A 24-year-old competitive rugby player has a body mass index of 29 but visible abdominal definition and a measured body fat of 11%. How should the trainer interpret the body mass index result?",
+    "choices": [
+      "Body mass index can misclassify muscular clients",
+      "The client is overweight and should immediately begin a caloric deficit",
+      "The body fat measurement must be wrong because body mass index is the gold standard",
+      "Body mass index applies only to clients over the age of 40"
+    ],
+    "answerIndex": 0,
+    "explanation": "Body mass index only compares weight to height and cannot distinguish lean mass from fat mass. Athletes and bodybuilders with large amounts of muscle can therefore fall mistakenly into moderate- or high-risk categories. Body composition assessments should be considered alongside body mass index on an individual basis."
+  },
+  {
+    "id": "nasm-assess-027",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Circumference measurements",
+    "question": "Which circumference measurement can be used on its own to assess health risk?",
+    "choices": [
+      "Neck circumference below the larynx",
+      "Waist circumference",
+      "Calf circumference",
+      "Upper-arm circumference"
+    ],
+    "answerIndex": 1,
+    "explanation": "Waist circumference is the most common girth measure and can be used as a stand-alone indicator of health risk. It reflects abdominal fat accumulation, which is closely tied to heart disease and diabetes risk. Other girths are useful for tracking shape change but not as isolated risk markers."
+  },
+  {
+    "id": "nasm-assess-028",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Circumference measurements",
+    "question": "Which waist circumference thresholds indicate higher risk for developing health issues?",
+    "choices": [
+      "80 cm for men and 70 cm for women, measured at the narrowest torso point",
+      "88 cm (about 35 in.) or greater for men and 100 cm (about 40 in.) or greater for women",
+      "100 cm for men and 88 cm for women, or greater",
+      "120 cm (about 47 in.) or greater for both sexes"
+    ],
+    "answerIndex": 2,
+    "explanation": "Men at or above roughly 100 cm and women at or above roughly 88 cm of waist girth carry higher risk for health problems. The lower figures in the other options fall in the low or very low risk bands. Abdominal fat is a particularly strong risk marker."
+  },
+  {
+    "id": "nasm-assess-029",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Circumference measurements",
+    "question": "Where is the waist circumference taken, and at what point in the breathing cycle?",
+    "choices": [
+      "At the navel, taken at the very end of a maximal forced inhalation",
+      "Directly over the iliac crest, during a forced exhalation",
+      "At the widest point of the hips, while holding the breath",
+      "At the narrowest torso point below the ribs, end tidal"
+    ],
+    "answerIndex": 3,
+    "explanation": "The tape is placed horizontally at the narrowest point of the torso below the rib cage and kept flat without indenting the skin. The reading is taken end tidal, after a normal expiration, and recorded to the nearest millimeter. If there is no obvious narrowing, the measurement is taken at the navel."
+  },
+  {
+    "id": "nasm-assess-030",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Circumference measurements",
+    "question": "How is hip circumference measured for a waist-to-hip ratio?",
+    "choices": [
+      "At the widest point around the hips, above the gluteal fold",
+      "At the narrowest point above the iliac crest",
+      "Immediately below the gluteal fold with the client standing and legs 10 cm apart",
+      "Around the mid-thigh with the client seated"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hip circumference is taken at the widest point around the hips or buttocks, above the gluteal fold where the buttocks meet the back of the thigh. Waist-to-hip ratio is then waist measurement divided by hip measurement. Measuring immediately below the gluteal fold describes the thigh circumference instead."
+  },
+  {
+    "id": "nasm-assess-031",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Waist-to-hip ratio",
+    "question": "A male client has a waist-to-hip ratio of 0.98. Which risk category does this fall into?",
+    "choices": [
+      "The low risk category",
+      "Moderate risk",
+      "High risk",
+      "Very low risk"
+    ],
+    "answerIndex": 1,
+    "explanation": "For men, a waist-to-hip ratio of 0.95 or lower is low risk, 0.96 to 1.0 is moderate risk, and 1.0 or higher is high risk. A value of 0.98 therefore lands in the moderate band. The corresponding cut points for women are 0.80 or lower, 0.81 to 0.85, and 0.86 or higher."
+  },
+  {
+    "id": "nasm-assess-032",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Waist-to-hip ratio",
+    "question": "Which waist-to-hip ratio places a female client in the high-risk category?",
+    "choices": [
+      "A ratio of 0.72",
+      "0.78",
+      "0.88",
+      "0.83"
+    ],
+    "answerIndex": 2,
+    "explanation": "For women, a waist-to-hip ratio of 0.86 or higher is classified as high risk, so 0.88 qualifies. Values of 0.80 or lower are low risk and 0.81 to 0.85 are moderate risk. The ratio complements, rather than replaces, absolute waist girth."
+  },
+  {
+    "id": "nasm-assess-033",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Body shape",
+    "question": "A client described as android or apple-shaped carries relatively more fat in which region?",
+    "choices": [
+      "The hips and thighs",
+      "The calves and ankles",
+      "The upper arms",
+      "The abdominal region"
+    ],
+    "answerIndex": 3,
+    "explanation": "Android or apple-shaped describes a pattern of greater fat storage in the abdominal region. Gynoid or pear-shaped describes greater fat storage in the hips and thighs. Abdominal distribution is the pattern more strongly associated with cardiometabolic risk."
+  },
+  {
+    "id": "nasm-assess-034",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Body composition",
+    "question": "Which ranges represent typical healthy body fat percentages for men and women?",
+    "choices": [
+      "About 10% to 20% for men, 20% to 30% for women",
+      "About 20% to 30% for men and about 10% to 20% for women instead",
+      "Below 5% for both men and women",
+      "About 30% to 40% for both men and women"
+    ],
+    "answerIndex": 0,
+    "explanation": "Healthy body fat typically ranges from about 10% to 20% for men and about 20% to 30% for women. Men generally carry lower body fat percentages than women. These ranges vary meaningfully with age and ethnicity, so they should be applied as guides rather than hard cutoffs."
+  },
+  {
+    "id": "nasm-assess-035",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Skinfold measurement",
+    "question": "Which skinfold protocol uses the chest, abdomen, and thigh for men and the triceps, suprailiac, and thigh for women?",
+    "choices": [
+      "The Jackson and Pollock seven-site protocol",
+      "Jackson and Pollock three-site protocol",
+      "Durnin-Womersley four-site protocol",
+      "Hydrostatic weighing protocol"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Jackson and Pollock three-site protocol uses chest, abdomen, and thigh for men and triceps, suprailiac, and thigh for women. It is somewhat less accurate than the seven-site version but remains valid and is less invasive to conduct. The seven-site protocol adds mid-axillary, subscapular, triceps, and suprailiac sites for both sexes."
+  },
+  {
+    "id": "nasm-assess-036",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Skinfold measurement",
+    "question": "Which sites make up the Durnin-Womersley four-site skinfold protocol?",
+    "choices": [
+      "Chest, abdomen, thigh, and calf",
+      "Chest, mid-axillary, subscapular, abdomen, and thigh",
+      "Biceps, triceps, subscapular, and suprailiac",
+      "Abdomen, suprailiac, thigh, and mid-axillary"
+    ],
+    "answerIndex": 2,
+    "explanation": "The Durnin-Womersley protocol uses the biceps, triceps, subscapular, and suprailiac sites. Because all four are on the upper body, the client does not need to wear shorts for a thigh measurement. The formula is best applied to individuals roughly 17 to 49 years of age."
+  },
+  {
+    "id": "nasm-assess-037",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Skinfold measurement",
+    "question": "A trainer wants a valid skinfold estimate for a 68-year-old client. Which consideration applies to the Durnin-Womersley formula here?",
+    "choices": [
+      "It is the most accurate available option for clients over the age of 65",
+      "It cannot be used on female clients",
+      "It requires an underwater tank",
+      "It was developed for people roughly 17 to 49 years old"
+    ],
+    "answerIndex": 3,
+    "explanation": "The Durnin-Womersley formula is best suited to individuals between roughly 17 and 49 years of age. Applying it to a 68-year-old may reduce accuracy, so an alternative protocol or method should be considered. Its main practical advantage is that all four sites are on the upper body."
+  },
+  {
+    "id": "nasm-assess-038",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Skinfold measurement",
+    "question": "How should repeat skinfold readings at a single site be handled?",
+    "choices": [
+      "At least two readings agreeing within 1 to 2 mm, then averaged",
+      "Take one reading only to avoid tissue compression",
+      "Take five readings and use the largest value",
+      "Take two readings at the site and then use whichever of the two is lower"
+    ],
+    "answerIndex": 0,
+    "explanation": "A minimum of two measurements should be taken at each site, and they must fall within 1 to 2 mm of one another before being averaged. Consistency depends on meticulous location of the anatomical landmarks. Measurements should not be taken immediately after exercise."
+  },
+  {
+    "id": "nasm-assess-039",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Skinfold measurement",
+    "question": "Where is the abdominal skinfold taken?",
+    "choices": [
+      "A horizontal fold directly over the umbilicus",
+      "A vertical fold about 1 in. (2.54 cm) lateral to the umbilicus",
+      "A diagonal fold along the iliac crest",
+      "A vertical fold at the level of the xiphoid process on the mid-axillary line"
+    ],
+    "answerIndex": 1,
+    "explanation": "The abdominal skinfold is a vertical fold taken roughly 1 in., or 2.54 cm, lateral to the umbilicus. The diagonal fold along the natural angle of the iliac crest describes the suprailiac site. A vertical fold at the level of the xiphoid process on the mid-axillary line describes the mid-axillary site."
+  },
+  {
+    "id": "nasm-assess-040",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Skinfold measurement",
+    "question": "Where is the subscapular skinfold taken?",
+    "choices": [
+      "A vertical fold over the belly of the biceps brachii",
+      "A vertical fold taken midway between the hip and the patella on the thigh",
+      "A diagonal fold 1 to 2 cm below the scapula's inferior angle",
+      "A diagonal fold halfway between the axillary line and the nipple"
+    ],
+    "answerIndex": 2,
+    "explanation": "The subscapular site is a diagonal fold taken 1 to 2 cm below the inferior angle of the scapula. The vertical fold midway between hip and patella describes the thigh site, and the diagonal fold between the anterior axillary line and nipple describes the chest site. Accurate landmarking is the largest source of skinfold error."
+  },
+  {
+    "id": "nasm-assess-041",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Skinfold measurement",
+    "question": "A trainer is selecting a body composition method for a client with obesity. Why are skinfolds a poor choice here?",
+    "choices": [
+      "Skinfolds systematically overestimate lean mass in every population studied",
+      "Skinfolds are only valid on competitive athletes",
+      "Calipers cannot be used on anyone over 200 pounds by law",
+      "Skinfold measurement should be avoided on clients with obesity"
+    ],
+    "answerIndex": 3,
+    "explanation": "Performing skinfolds on clients with obesity should be avoided, because the folds often exceed the caliper's usable range and reliability suffers. Circumference measurements can still quantify body shape and track change in significantly overweight clients, even though they correlate poorly with true body composition. Bioelectrical impedance is another practical alternative in a facility setting."
+  },
+  {
+    "id": "nasm-assess-042",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Bioelectrical impedance",
+    "question": "What principle allows bioelectrical impedance analysis to estimate body fat?",
+    "choices": [
+      "Muscle holds more water than fat, so lean tissue conducts better",
+      "Fat tissue floats in water while bone and muscle tissue both sink readily",
+      "Fat absorbs infrared light at a fixed rate",
+      "Subcutaneous fat thickness is proportional to total fatness"
+    ],
+    "answerIndex": 0,
+    "explanation": "Muscle cells can contain as much as 70% to 75% water compared with roughly 10% to 15% in fat cells. Because fat is a poorer conductor, a leaner client offers less resistance to the weak current and faster conduction indicates a leaner body. The floating principle describes hydrostatic weighing, and subcutaneous fold thickness describes skinfolds."
+  },
+  {
+    "id": "nasm-assess-043",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Bioelectrical impedance",
+    "question": "A client arrives dehydrated after a hot outdoor run and asks for a bioelectrical impedance reading. What is the concern?",
+    "choices": [
+      "The device will not power on when the skin is warm",
+      "Water retention or loss compromises the measurement's accuracy",
+      "Dehydration always produces a falsely low body fat estimate that remains broadly usable",
+      "There is no concern because the method is unaffected by hydration"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bioelectrical impedance relies on the water content of tissues, so any state of water retention or loss compromises accuracy. Testing a dehydrated client will not give a result comparable to their baseline. Standardizing hydration and timing across retests is essential, and higher-quality multi-extremity devices are more reliable than low-cost single-site units."
+  },
+  {
+    "id": "nasm-assess-044",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Hydrostatic weighing",
+    "question": "Which scientific principle underlies hydrostatic underwater weighing?",
+    "choices": [
+      "The all-or-nothing principle",
+      "The first law of thermodynamics",
+      "Archimedes' principle",
+      "The SAID principle"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hydrostatic weighing compares a person's weight on land with their weight underwater, applying Archimedes' principle. Because bone, muscle, and connective tissue are denser than fat, the difference reveals fat percentage. The technique is highly accurate but impractical outside a laboratory."
+  },
+  {
+    "id": "nasm-assess-045",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Body composition",
+    "question": "Which body composition method is the most popular in fitness facilities because it is quick and inexpensive?",
+    "choices": [
+      "Hydrostatic underwater weighing in a tank",
+      "Dual-energy X-ray absorptiometry",
+      "Seven-site skinfold measurement",
+      "Bioelectrical impedance analysis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bioelectrical impedance requires no caliper skill or reference tables, which makes it arguably the most popular option in fitness facilities. All the major methods are considered valid, but they differ sharply in practicality. Hydrostatic weighing, by contrast, is confined to laboratory settings."
+  },
+  {
+    "id": "nasm-assess-046",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "VO2max",
+    "question": "What does maximal oxygen consumption represent?",
+    "choices": [
+      "The difference between inspired and expired oxygen",
+      "The total volume of air the lungs are able to hold at full inflation",
+      "The number of red blood cells per unit of blood",
+      "The percentage of carbohydrate oxidized at rest"
+    ],
+    "answerIndex": 0,
+    "explanation": "Oxygen consumption is the difference between inspired and expired oxygen and reflects how quickly the body uses oxygen. It captures the ability to deliver oxygen to working muscle and use it in the mitochondria to make energy aerobically. A higher score indicates greater capacity for physical work."
+  },
+  {
+    "id": "nasm-assess-047",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "VO2max",
+    "question": "Approximately when does maximal oxygen consumption peak, and how quickly does it decline?",
+    "choices": [
+      "Peaks in the mid-40s and then declines about 20% per decade in everyone",
+      "Peaks about age 25 to the early 30s, then declines per decade",
+      "Peaks in adolescence and is not trainable thereafter",
+      "Peaks around age 50 and remains stable for life"
+    ],
+    "answerIndex": 1,
+    "explanation": "Maximal oxygen consumption typically peaks between about age 25 and the early 30s. It then declines roughly 5% per decade in fit individuals and around 10% per decade in unfit individuals. Importantly it remains highly trainable, so continued conditioning blunts the age-related loss."
+  },
+  {
+    "id": "nasm-assess-048",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "VO2max",
+    "question": "Why is direct maximal oxygen consumption testing uncommon in commercial fitness settings?",
+    "choices": [
+      "It has poor validity when compared with simple submaximal field test protocols",
+      "It is prohibited for anyone under 40",
+      "It needs special equipment, trained staff, and maximal effort",
+      "It only works on cycle ergometers"
+    ],
+    "answerIndex": 2,
+    "explanation": "Direct measurement is considered the gold standard for cardiorespiratory fitness but requires specialized equipment and training to administer. It also demands maximal physical effort, which many clients are unwilling or unsuited to give. As a result it is generally confined to exercise laboratories and medical facilities."
+  },
+  {
+    "id": "nasm-assess-049",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Ratings of perceived exertion",
+    "question": "Which ratings of perceived exertion scale does NASM recommend for simplicity and ease of use?",
+    "choices": [
+      "The original 6 to 20 scale",
+      "The 1 to 100 scale",
+      "The 0 to 4 scale",
+      "The 1 to 10 scale"
+    ],
+    "answerIndex": 3,
+    "explanation": "Two versions of the scale exist: the original 6 to 20 version and a newer 1 to 10 version. NASM recommends the 1 to 10 scale because it is simpler for clients to use. Although subjective, accurately reported exertion ratings give a good estimate of the actual heart rate during activity."
+  },
+  {
+    "id": "nasm-assess-050",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "YMCA step test",
+    "question": "What are the protocol details of the YMCA 3-minute step test?",
+    "choices": [
+      "1 minute of maximal stepping on any available platform",
+      "3 minutes of stepping at 96 steps per minute, 12-in. box",
+      "3 minutes of stepping at 60 steps per minute on a 6-in. box",
+      "5 minutes of stepping at 120 steps per minute on an 18-inch high box"
+    ],
+    "answerIndex": 1,
+    "explanation": "The client steps continuously on and off a 12-in., or 30-cm, box at a cadence of 96 steps per minute for 3 minutes. Immediately afterward the client sits while the trainer palpates the radial pulse within 5 seconds and counts heartbeats over the next 60 seconds. Results are interpreted against tables for the client's sex and age."
+  },
+  {
+    "id": "nasm-assess-051",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "YMCA step test",
+    "question": "A 58-year-old deconditioned client with no orthopedic limitations needs a simple baseline of aerobic fitness. Which assessment best fits?",
+    "choices": [
+      "A direct maximal oxygen consumption test on a treadmill",
+      "The YMCA 3-minute step test",
+      "The 1.5-mile run test",
+      "The lower extremity functional test"
+    ],
+    "answerIndex": 1,
+    "explanation": "The YMCA 3-minute step test is specifically intended to assess aerobic fitness in deconditioned clients. It is brief, submaximal, and requires only a box and a timer. Maximal oxygen consumption testing and the 1.5-mile run demand far more effort, and the lower extremity functional test assesses speed and agility rather than aerobic fitness."
+  },
+  {
+    "id": "nasm-assess-052",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Rockport walk test",
+    "question": "Which statement correctly describes the Rockport walk test?",
+    "choices": [
+      "It is a 1.5-mile test in which jogging is actively encouraged throughout",
+      "It is a 3-minute stepping test on a 12-in. box",
+      "A 1-mile walking test with no running permitted",
+      "It is a maximal sprint test over 40 yards"
+    ],
+    "answerIndex": 2,
+    "explanation": "The Rockport test covers 1 mile, or 1.6 km, as quickly as possible by walking only, with no running or jogging permitted. It predicts maximal oxygen consumption from either the finishing time or the heart rate response. Because it was not designed for fit populations, it tends to underpredict their capacity."
+  },
+  {
+    "id": "nasm-assess-053",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Rockport walk test",
+    "question": "A well-trained distance runner completes the Rockport walk test and scores lower than expected. What is the most likely explanation?",
+    "choices": [
+      "The client paced the walk incorrectly and must therefore repeat the test immediately",
+      "The client's resting heart rate invalidated the result",
+      "Walking tests overestimate aerobic capacity in trained clients",
+      "It was not designed for fit clients and underpredicts them"
+    ],
+    "answerIndex": 3,
+    "explanation": "The Rockport test was built around a walking stimulus for general populations. A highly trained client is not sufficiently challenged by walking, so the test typically underpredicts their true maximal oxygen consumption. A more demanding protocol such as the 1.5-mile run would give a better estimate for this client."
+  },
+  {
+    "id": "nasm-assess-054",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Talk test",
+    "question": "What does the talk test estimate?",
+    "choices": [
+      "Intensity, from the ability to hold a conversation",
+      "Maximal strength capability across the major upper and lower body movement patterns",
+      "Body fat percentage",
+      "Joint range of motion"
+    ],
+    "answerIndex": 0,
+    "explanation": "The talk test is an informal cardiorespiratory assessment that gauges intensity from the client's ability to keep speaking. It reflects the client's own metabolic markers rather than an external percentage. It requires no equipment, which makes it practical on the training floor."
+  },
+  {
+    "id": "nasm-assess-055",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Ventilatory threshold 1",
+    "question": "What fuel mix is the first ventilatory threshold intended to approximate?",
+    "choices": [
+      "Nearly 100% oxidation of fat as the working fuel source",
+      "A balance of roughly 50% fat and 50% carbohydrate",
+      "Nearly 100% carbohydrate oxidation",
+      "Predominantly protein oxidation"
+    ],
+    "answerIndex": 1,
+    "explanation": "The first ventilatory threshold test is an aerobic test that estimates the intensity at which the body is using a roughly even balance of fat and carbohydrate. The threshold is identified when breathing becomes clearly audible with fairly visible rib cage elevation. It marks a meaningful shift in metabolism rather than an all-out effort."
+  },
+  {
+    "id": "nasm-assess-056",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Ventilatory threshold 1",
+    "question": "How is the continuous talk test administered during a first ventilatory threshold assessment?",
+    "choices": [
+      "The client answers a series of yes-or-no questions between each incremental stage",
+      "The client counts silently while the trainer watches their chest",
+      "Speaking continuously about 20 seconds near each stage's end",
+      "The client sings for a full minute at each workload"
+    ],
+    "answerIndex": 2,
+    "explanation": "The client speaks continuously for roughly 20 seconds toward the end of each stage, once a steady-state heart rate has been reached, although the talking challenge can usually be observed within about 10 seconds. Intensity begins light to easy and progresses in increments. Ideally the protocol is repeated within 2 to 3 days and the average response recorded."
+  },
+  {
+    "id": "nasm-assess-057",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Ventilatory threshold 2",
+    "question": "What does the second ventilatory threshold test measure?",
+    "choices": [
+      "The intensity at which fat and carbohydrate use are balanced roughly evenly",
+      "The client's one-rep maximum on a cycle ergometer",
+      "The client's true maximal heart rate",
+      "The highest steady state sustainable beyond a few minutes"
+    ],
+    "answerIndex": 3,
+    "explanation": "The second ventilatory threshold identifies the highest steady-state intensity the client can sustain for more than a few minutes. At that level the anaerobic energy systems begin to overwhelm the blood's lactic acid buffering capacity. Because of the effort required, this test is recommended only for clients with performance goals."
+  },
+  {
+    "id": "nasm-assess-058",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Ventilatory threshold 2",
+    "question": "In the second ventilatory threshold protocol, how is the client's threshold heart rate calculated?",
+    "choices": [
+      "Average the final 5 minutes, then correct by 95%",
+      "Take the peak heart rate reached at any point in the bout",
+      "Average the heart rates from the first 5 minutes and add 5%",
+      "Subtract resting heart rate from maximal heart rate and multiply the result by 0.85"
+    ],
+    "answerIndex": 0,
+    "explanation": "The client holds their highest sustainable pace for 20 minutes while heart rate and a performance marker are recorded over the final 5 minutes. That average is then corrected to 95% to estimate the threshold. The 5% correction is applied because a 20-minute pace is typically more intense than a 30- to 60-minute effort."
+  },
+  {
+    "id": "nasm-assess-059",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Static posture",
+    "question": "Which views make up a complete static postural assessment?",
+    "choices": [
+      "Anterior and posterior views only",
+      "Anterior, lateral, and posterior",
+      "Lateral and overhead only",
+      "Seated and supine"
+    ],
+    "answerIndex": 1,
+    "explanation": "The static postural assessment uses anterior, lateral, and posterior views so that deviations in all planes can be observed. The trainer looks for neutral alignment, symmetry, balanced muscle tone, and common postural deviations at the kinetic chain checkpoints. Strong visual observation skills and a systematic approach are required."
+  },
+  {
+    "id": "nasm-assess-060",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Static posture",
+    "question": "In the lateral view of a static postural assessment, through which landmarks should the imaginary plumb line pass?",
+    "choices": [
+      "Calcaneus, Achilles tendon, and occiput",
+      "Medial malleolus, patella, sternum, and the point of the chin above it",
+      "Lateral malleolus, femur, shoulder, and ear",
+      "Great toe, tibial tuberosity, and nose"
+    ],
+    "answerIndex": 2,
+    "explanation": "From the side, the reference line runs through the lateral malleolus, the middle of the femur, the center of the shoulder, and the middle of the ear. The calcaneus and Achilles tendon line describes the posterior foot and ankle check. The plumb line makes deviations such as a forward head or anterior pelvic tilt easier to see."
+  },
+  {
+    "id": "nasm-assess-061",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Postural distortion patterns",
+    "question": "Which combination of findings characterizes pes planus distortion syndrome?",
+    "choices": [
+      "Forward head and protracted shoulders",
+      "An anterior pelvic tilt with excessive lordosis through the lumbar region of the spine",
+      "Bowlegged knees and posterior pelvic tilt",
+      "Flat feet, knee valgus, and adducted internally rotated hips"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pes planus distortion syndrome is characterized by flat feet, knee valgus, and hips that are adducted and internally rotated. The forward head and protracted shoulders describe upper crossed syndrome. An anterior pelvic tilt with excessive lumbar lordosis describes lower crossed syndrome."
+  },
+  {
+    "id": "nasm-assess-062",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Postural distortion patterns",
+    "question": "A static postural assessment reveals a forward head and rounded, protracted shoulders. Which postural distortion pattern is this?",
+    "choices": [
+      "Upper crossed syndrome",
+      "Lower crossed syndrome",
+      "Pes planus distortion syndrome",
+      "Structural scoliosis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Upper crossed syndrome presents as a forward head position with protracted, rounded shoulders. Lower crossed syndrome instead involves an anterior pelvic tilt with excessive lumbar extension. These, along with pes planus distortion syndrome, are the three postural distortion patterns identified during a static assessment."
+  },
+  {
+    "id": "nasm-assess-063",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Overhead squat assessment",
+    "question": "Which protocol details describe the overhead squat assessment?",
+    "choices": [
+      "Feet together with the arms crossed on the chest, squatting as deep as possible",
+      "Feet shoulder-width and forward, arms overhead, squatting to chair height",
+      "A narrow split stance with cable handles, ten slow repetitions per side",
+      "One foot lifted 6 in. off the floor, squatting for five repetitions per side"
+    ],
+    "answerIndex": 1,
+    "explanation": "The client stands on a flat, stable surface with feet shoulder-width apart and pointing straight ahead, ideally with shoes off. Arms are raised fully overhead with elbows extended, and the client squats until the femur is roughly parallel to the ground, about chair height. The movement is repeated for about five repetitions while the trainer observes from anterior and lateral views."
+  },
+  {
+    "id": "nasm-assess-064",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Overhead squat assessment",
+    "question": "What does the overhead squat assessment evaluate?",
+    "choices": [
+      "Maximal lower-body strength and the estimated one-repetition maximum for the squat",
+      "Aerobic capacity and ventilatory threshold",
+      "Dynamic posture, core stability, and whole-body neuromuscular control",
+      "Reaction time and lateral agility"
+    ],
+    "answerIndex": 2,
+    "explanation": "The overhead squat is designed to assess dynamic posture, core stability, and whole-body neuromuscular control during squatting. It is typically the first movement assessment performed and serves as the basis for choosing further assessments. Movement impairments seen during squatting are predictive of musculoskeletal injury risk in people who exercise."
+  },
+  {
+    "id": "nasm-assess-065",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Overhead squat compensations",
+    "question": "From the anterior view of an overhead squat, a client's feet turn outward. Which muscle pattern is most likely?",
+    "choices": [
+      "Overactive deep cervical flexors; underactive upper trapezius",
+      "Overactive anterior tibialis and gluteus medius; underactive adductor complex",
+      "Overactive latissimus dorsi and pectorals; underactive rhomboids and posterior deltoids",
+      "Overactive calves and hamstrings; underactive tibialis and glutes"
+    ],
+    "answerIndex": 3,
+    "explanation": "Feet turning out during an overhead squat is associated with overactivity in the gastrocnemius and soleus and the hamstrings complex. The anterior and posterior tibialis and the gluteus maximus and medius tend to be underactive. Corrective programming lengthens the overactive tissues and activates the underactive ones."
+  },
+  {
+    "id": "nasm-assess-066",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Overhead squat compensations",
+    "question": "A 32-year-old client's knees cave inward during the overhead squat. Which pairing best matches this compensation?",
+    "choices": [
+      "Overactive TFL and adductors; underactive glutes and tibialis",
+      "Overactive gluteus medius and posterior tibialis; underactive adductors",
+      "Overactive hamstrings complex; underactive hip flexors only",
+      "Overactive rhomboids and middle trapezius; underactive pectoralis minor and serratus anterior"
+    ],
+    "answerIndex": 0,
+    "explanation": "Knee valgus is linked to overactivity in the tensor fascia latae and adductor complex. The gluteus maximus and medius along with the anterior and posterior tibialis tend to be underactive. The knees should normally track over the second and third toes."
+  },
+  {
+    "id": "nasm-assess-067",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Overhead squat compensations",
+    "question": "From the lateral view, a client shows an excessive low-back arch during the overhead squat. Which muscles are most likely overactive?",
+    "choices": [
+      "Gluteus maximus, hamstrings complex, and the abdominal muscles",
+      "Hip flexors, lumbar extensors, and latissimus dorsi",
+      "Middle and lower trapezius and rhomboids",
+      "Anterior and posterior tibialis"
+    ],
+    "answerIndex": 1,
+    "explanation": "An excessive low-back arch is associated with overactive hip flexors such as the rectus femoris, psoas, and tensor fascia latae, together with the lumbar extensors and latissimus dorsi. The gluteus maximus, hamstrings complex, and abdominals are typically underactive. The other options list the muscles that are underactive in this pattern or that belong to different compensations."
+  },
+  {
+    "id": "nasm-assess-068",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Overhead squat compensations",
+    "question": "A client's arms drift forward during the overhead squat. Which muscles are most likely underactive?",
+    "choices": [
+      "Latissimus dorsi, pectoralis major and minor, and the teres major muscle",
+      "Hip flexors and lumbar extensors",
+      "Middle and lower trapezius, rhomboids, and posterior deltoids",
+      "Gastrocnemius and soleus"
+    ],
+    "answerIndex": 2,
+    "explanation": "Arms falling forward is associated with underactivity in the middle and lower trapezius, rhomboids, posterior deltoids, and portions of the rotator cuff. The latissimus dorsi, pectoralis major and minor, and teres major tend to be overactive in this pattern. Corrective work therefore lengthens the anterior structures and strengthens the scapular retractors and depressors."
+  },
+  {
+    "id": "nasm-assess-069",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Overhead squat compensations",
+    "question": "Which three movement impairments are observed from the lateral view of the overhead squat?",
+    "choices": [
+      "Feet turning out, knee valgus, and knee varus",
+      "Heel rise, hip hike, and shoulder shrug",
+      "Shoulder elevation, head jutting forward, and arching through the low back region",
+      "Low-back arch, forward torso lean, and arms falling forward"
+    ],
+    "answerIndex": 3,
+    "explanation": "From the side, the trainer watches for an excessive low-back arch, an excessive forward lean of the torso, and arms falling forward. Feet turning out and knees caving in are the impairments observed from the front. Shoulder elevation and head jutting forward are impairments noted during the pushing and pulling assessments."
+  },
+  {
+    "id": "nasm-assess-070",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Overhead squat compensations",
+    "question": "Excessive forward lean of the torso during the overhead squat is most associated with overactivity in which muscles?",
+    "choices": [
+      "Hip flexors, gastrocnemius and soleus, and the superficial abdominals",
+      "Gluteus maximus, the hamstrings complex, and the deep lumbar extensor muscles",
+      "Deep cervical flexors and lower trapezius",
+      "Anterior tibialis and gluteus medius"
+    ],
+    "answerIndex": 0,
+    "explanation": "Excessive forward lean is linked to overactive hip flexors, gastrocnemius and soleus, and the superficial abdominals including the rectus abdominis and external obliques. The gluteus maximus, hamstrings complex, and lumbar extensors tend to be underactive. Restricted ankle dorsiflexion frequently contributes to this pattern."
+  },
+  {
+    "id": "nasm-assess-071",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Single-leg squat assessment",
+    "question": "Which clients is the single-leg squat assessment appropriate for?",
+    "choices": [
+      "Any client, regardless of overhead squat result",
+      "Clients who did well on the overhead squat",
+      "Only clients who are currently recovering from a recent lower-body injury",
+      "Only clients at high risk for falls"
+    ],
+    "answerIndex": 1,
+    "explanation": "The single-leg squat is reserved for clients who performed well on the overhead squat, or when the trainer plans to program single-leg exercises. It demands considerably more strength and balance than the overhead squat. It should be avoided by clients at risk of falling, those with balance loss, or those recovering from a lower-body injury."
+  },
+  {
+    "id": "nasm-assess-072",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Single-leg squat assessment",
+    "question": "How is the single-leg squat assessment set up and performed?",
+    "choices": [
+      "Hands held overhead, foot lifted 12 inches off the floor, ten repetitions per side",
+      "Arms crossed, heels elevated on a plate, three repetitions per side",
+      "Hands on hips, eyes forward, foot lifted about 6 in.",
+      "Hands on a rail for support, twenty repetitions per side"
+    ],
+    "answerIndex": 2,
+    "explanation": "The client stands on a flat, stable surface with hands on the hips and eyes focused forward, lifting one foot approximately 6 in. off the floor. They squat as deep as balance allows and return to the start, performing up to five repetitions before switching sides. Depth is client dependent and varies across populations."
+  },
+  {
+    "id": "nasm-assess-073",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Single-leg squat assessment",
+    "question": "During a single-leg squat, a client's knee moves inward toward the midline. Which corrective priority follows from the typical muscle pattern?",
+    "choices": [
+      "Lengthen the gluteus medius and strengthen the adductor complex",
+      "Lengthen the deep cervical flexors and strengthen the upper trapezius and levator scapulae",
+      "Lengthen the anterior tibialis and strengthen the gastrocnemius",
+      "Lengthen the TFL and adductors; strengthen glutes and tibialis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Knee valgus during a single-leg squat is associated with overactivity in the tensor fascia latae and adductor complex. The gluteus maximus and medius and the anterior and posterior tibialis are typically underactive. Corrective strategy therefore lengthens the overactive lateral hip and adductor tissue while activating the glutes and tibialis muscles."
+  },
+  {
+    "id": "nasm-assess-074",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Pushing assessment",
+    "question": "How should the pushing assessment be set up?",
+    "choices": [
+      "A narrow split stance, load challenging for 10 slow repetitions",
+      "A wide stance with a barbell, using an explosive tempo for three heavy repetitions",
+      "Seated on a machine with the back supported, performing 20 fast repetitions",
+      "Standing on an unstable surface with maximal load for one repetition"
+    ],
+    "answerIndex": 0,
+    "explanation": "The client stands in a narrow, split stance with toes pointing forward and a handle in each hand. The load should challenge but not exhaust the client across 10 repetitions, performed at a slow tempo, with five repetitions per stance before switching legs. All repetitions are evaluated, since impairments often appear as the client fatigues."
+  },
+  {
+    "id": "nasm-assess-076",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Pushing assessment",
+    "question": "A client's shoulders rise toward the ears during the pushing assessment. Which pattern best explains this?",
+    "choices": [
+      "Overactive deep cervical flexors with an underactive upper trapezius and levator scapulae",
+      "Overactive lower trapezius with underactive upper trapezius",
+      "Overactive levator scapulae and upper trapezius; underactive lower trapezius",
+      "Overactive gluteus maximus with underactive hip flexors"
+    ],
+    "answerIndex": 2,
+    "explanation": "Shoulder elevation during pushing is associated with overactivity in the levator scapulae and upper trapezius. The lower trapezius is typically underactive and unable to hold the scapula down. Programming should lengthen the elevators and strengthen scapular depression."
+  },
+  {
+    "id": "nasm-assess-077",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Pushing assessment",
+    "question": "A client's head juts forward during the pulling assessment. Which muscles are most likely underactive?",
+    "choices": [
+      "Levator scapulae and sternocleidomastoid",
+      "Latissimus dorsi and teres major",
+      "Upper trapezius and rhomboids",
+      "Deep cervical flexors"
+    ],
+    "answerIndex": 3,
+    "explanation": "Head jutting forward is associated with overactive levator scapulae and sternocleidomastoid and an underactive group of deep cervical flexors. Those deep stabilizers normally hold the head in a neutral position over the trunk. Corrective work therefore lengthens the anterior and posterior neck musculature and trains deep cervical flexion."
+  },
+  {
+    "id": "nasm-assess-078",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Pulling assessment",
+    "question": "What does the pulling assessment evaluate beyond upper-extremity strength?",
+    "choices": [
+      "Stability of the lumbo-pelvic-hip complex, cervical spine, and head",
+      "Aerobic capacity and the ventilatory threshold measured during the pulling movement",
+      "Ankle dorsiflexion range only",
+      "Maximal jump height"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pulling assessment challenges the upper extremities while also evaluating stability of the lumbo-pelvic-hip complex, cervical spine, and head. The narrow split stance additionally challenges the client's balance. Like the pushing assessment, it can be folded directly into a normal workout."
+  },
+  {
+    "id": "nasm-assess-079",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Push-up test",
+    "question": "What does the push-up test measure and how long does it run?",
+    "choices": [
+      "Maximal upper-body strength measured across three heavy repetitions to failure",
+      "Upper-extremity muscular endurance, counted for 60 seconds",
+      "Upper-body power over 10 seconds",
+      "Core stability held for 60 seconds without movement"
+    ],
+    "answerIndex": 1,
+    "explanation": "The push-up test measures muscular endurance of the upper extremities during a pushing movement. The client lowers to approximately 90 degrees of elbow flexion and repeats for 60 seconds or until exhaustion, with only repetitions reaching proper depth counted. Reassessment every 4 to 6 weeks tracks progress."
+  },
+  {
+    "id": "nasm-assess-080",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Strength assessments",
+    "question": "In the bench press strength assessment, what load increment and rest are used between attempts?",
+    "choices": [
+      "Add 30 to 40 pounds and rest a full 5 minutes between each attempt",
+      "Add 5 pounds and rest 30 seconds",
+      "Add 10 to 20 pounds, or 5% to 10%, and rest 2 minutes",
+      "Add 50% of the initial load and rest 10 minutes"
+    ],
+    "answerIndex": 2,
+    "explanation": "After each set of three repetitions the client rests 2 minutes, then 10 to 20 pounds, or 5% to 10% of the initial load, is added. The cycle repeats until the client can no longer complete a minimum of three repetitions or is unwilling to add weight. The squat version uses larger jumps of 30 to 40 pounds, or 10% to 20% of the initial load."
+  },
+  {
+    "id": "nasm-assess-081",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Strength assessments",
+    "question": "A 45-year-old client with a general weight-loss goal and two months of training experience asks to test their bench press one-rep max. What is the best response?",
+    "choices": [
+      "Proceed, because one-rep max testing is appropriate for clients at every experience level",
+      "Test the squat one-rep max instead, since it is safer at any experience level",
+      "Refuse to discuss strength testing at any point in the program",
+      "Maximal strength tests are reserved for strength and power goals"
+    ],
+    "answerIndex": 3,
+    "explanation": "The squat and bench press strength assessments are advanced tests typically reserved for clients pursuing maximal strength, such as strength and power athletes. They are not recommended for most clients seeking weight loss or general health improvement, particularly those with limited resistance training experience. Muscular endurance tests such as the push-up test are a better fit here."
+  },
+  {
+    "id": "nasm-assess-082",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Power assessments",
+    "question": "Which pair of assessments measures lower-body power?",
+    "choices": [
+      "Vertical jump and long jump",
+      "Push-up test and bench press assessment",
+      "Rockport walk test and YMCA step test",
+      "Pro shuttle and 1.5-mile run"
+    ],
+    "answerIndex": 0,
+    "explanation": "The vertical jump measures maximal jump height and lower-extremity power, while the long or broad jump measures horizontal power. The push-up and bench press tests address muscular endurance and maximal strength. The walking, stepping, and running tests assess aerobic fitness, and the pro shuttle assesses agility."
+  },
+  {
+    "id": "nasm-assess-083",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Power assessments",
+    "question": "How is the long jump measured and how many attempts may be awarded?",
+    "choices": [
+      "From the line to the toes, with one attempt only",
+      "From the line to the heels, with up to three attempts",
+      "From the line to the fingertips, with a maximum of five separate attempts",
+      "From the line to the center of mass, with two attempts regardless of result"
+    ],
+    "answerIndex": 1,
+    "explanation": "The jump distance is measured from the starting line to the heels of the feet after landing. It must be a two-foot jump with a two-foot landing and no stepping before or after the jump. A second attempt is provided, and a third is awarded if the client improves on the second."
+  },
+  {
+    "id": "nasm-assess-084",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Speed and agility assessments",
+    "question": "Which movement sequence describes the lower extremity functional test?",
+    "choices": [
+      "A 5-10-5 shuttle pattern run around three cones placed in a straight line",
+      "A single 40-yard sprint between cones",
+      "Sprint, backpedal, side shuffles, cariocas, and a final sprint",
+      "Three minutes of continuous stepping on a 12-in. box"
+    ],
+    "answerIndex": 2,
+    "explanation": "The lower extremity functional test uses two cones 10 yards apart and runs a forward sprint, backpedal, side shuffles in both directions, cariocas in both directions, and a final forward sprint. It is designed to test lateral speed and agility. The 5-10-5 pattern describes the pro shuttle, and the single sprint describes the 40-yard dash."
+  },
+  {
+    "id": "nasm-assess-085",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Speed and agility assessments",
+    "question": "What does the pro shuttle test assess, and how are the cones arranged?",
+    "choices": [
+      "Maximal sprinting speed measured with two cones set a full 40 yards apart",
+      "Aerobic capacity, with cones 1 mile apart",
+      "Lateral speed only, with four cones in a square",
+      "Acceleration, deceleration, agility, and control, over 10 yards"
+    ],
+    "answerIndex": 3,
+    "explanation": "The pro shuttle, also called the 5-10-5, uses two cones 10 yards apart with a third cone in the middle, 5 yards from each. It assesses acceleration, deceleration, agility, and control. Two cones 40 yards apart describe the 40-yard dash, which targets reaction, acceleration, and maximal sprinting speed."
+  },
+  {
+    "id": "nasm-assess-086",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Assessment sequencing",
+    "question": "What is the correct order for a full assessment battery?",
+    "choices": [
+      "Static posture, overhead squat, single-leg squat, push and pull",
+      "Performance assessments, then movement assessments, and finally the health risk screening",
+      "Overhead squat, static posture, performance assessments, then health screening",
+      "Single-leg squat, pushing and pulling, static posture, then overhead squat"
+    ],
+    "answerIndex": 0,
+    "explanation": "All movement assessments begin with a standing static postural assessment, followed by the overhead squat to evaluate dynamic posture, core stability, and neuromuscular control. The single-leg squat, then pushing and pulling assessments, add information if the client is ready. Performance assessments come last and mainly apply to athletic populations."
+  },
+  {
+    "id": "nasm-assess-087",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Assessment sequencing",
+    "question": "Why should cardiorespiratory and performance assessments generally be scheduled on separate days?",
+    "choices": [
+      "Facility insurance requires it",
+      "So energy levels are fresh, maximizing accuracy",
+      "Because both tests use the same equipment",
+      "To spread the billing for assessment work across several separate paid sessions"
+    ],
+    "answerIndex": 1,
+    "explanation": "Fatigue from one maximal or near-maximal test degrades performance on the next, so separating them protects data quality. Low-fatigue tests such as the vertical and horizontal jump can precede cardio testing if sufficient rest is provided. Non-fatiguing measures like health screening and body composition always come first."
+  },
+  {
+    "id": "nasm-assess-089",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Special population modifications",
+    "question": "A trainer is assessing a client with obesity for the first time. Which set of modifications is most appropriate?",
+    "choices": [
+      "Complete the full standard assessment battery without changes to establish a true baseline",
+      "Skip all movement assessments and rely on body mass index alone",
+      "Begin with maximal strength testing to quantify capacity",
+      "Limit floor transfers, reduce squat depth, and use standing or machine work"
+    ],
+    "answerIndex": 3,
+    "explanation": "A thorough preparticipation health screening comes first, then the trainer limits movements requiring the client to get on and off the ground. Reducing overhead squat depth, skipping the single-leg squat unless the overhead squat demonstrates adequate strength and stability, and using a standing or machine-supported position for pushing and pulling all improve comfort and safety. Assumptions about ability should be avoided in favor of systematic observation."
+  },
+  {
+    "id": "nasm-assess-090",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Special population modifications",
+    "question": "A 13-year-old client wants to know how strong they are. Which assessment approach is most appropriate?",
+    "choices": [
+      "Muscular endurance assessments such as the push-up test",
+      "Maximal one-rep max testing performed on both the squat and the bench press",
+      "Direct maximal oxygen consumption testing",
+      "No assessments at all until age 18"
+    ],
+    "answerIndex": 0,
+    "explanation": "Youth clients should typically not be challenged with maximum strength testing given their developmental stage and the maturity such tests require. Muscular endurance assessments should be substituted, and static posture should be evaluated before movement assessments. Tests such as the push-up test, lower extremity functional test, and pro shuttle can keep youth engaged while measuring endurance, power, and agility."
+  },
+  {
+    "id": "nasm-assess-091",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Special population modifications",
+    "question": "A client in her second trimester of pregnancy has medical clearance to train. Which assessment consideration applies?",
+    "choices": [
+      "Maximal strength testing should be prioritized now while she still feels physically well",
+      "Avoid prone and supine positions and skip the single-leg squat",
+      "All assessments should be performed lying supine for stability",
+      "No medical clearance is needed if she has trained before"
+    ],
+    "answerIndex": 1,
+    "explanation": "Prone and supine positions should be avoided for prenatal clients in the second and third trimesters, and skipping the single-leg squat is recommended. The assessment process should start conservatively and progress based on goals and abilities. Thorough preparticipation screening and medical clearance should be obtained before any testing."
+  },
+  {
+    "id": "nasm-assess-092",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Reassessment",
+    "question": "How often is it generally recommended to reassess a consistent client?",
+    "choices": [
+      "At the end of every single training session that is completed",
+      "Once per year at most",
+      "Monthly or quarterly, depending on the training environment",
+      "Only when the client requests it"
+    ],
+    "answerIndex": 2,
+    "explanation": "Reassessment every month or quarterly is recommended depending on the client's schedule and setting. Regular reassessment provides encouragement, shows the client that the programming is working, and gives the trainer a chance to refine or progress exercises. Findings should be carefully documented so they can be compared later."
+  },
+  {
+    "id": "nasm-assess-093",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Assessment interpretation",
+    "question": "A new client performs poorly on the overhead squat and becomes visibly discouraged. How should the trainer handle the feedback?",
+    "choices": [
+      "List every impairment in detail in order to emphasize the work that lies ahead",
+      "Repeat the assessment until the client performs it well",
+      "Withhold the findings entirely",
+      "Stay positive while explaining the benefits of addressing impairments"
+    ],
+    "answerIndex": 3,
+    "explanation": "Poor performance on the overhead squat can be discouraging for a new client, so trainers should keep a positive approach when explaining the benefits of addressing the impairments observed. The trainer can encourage the client by pointing out good aspects of their posture and movement while identifying what a focused exercise program can help correct. Assessments implemented with confidence and compassion also build trust and rapport."
+  },
+  {
+    "id": "nasm-assess-094",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Assessment selection",
+    "question": "A trainer plans to program single-leg exercises for a client who performed well on the overhead squat. What assessment logic follows?",
+    "choices": [
+      "The single-leg squat, since single-leg work is planned",
+      "No further assessment is needed",
+      "Move directly to a one-repetition maximum squat test to quantify the client's capacity",
+      "Only cardiorespiratory testing is indicated"
+    ],
+    "answerIndex": 0,
+    "explanation": "The single-leg squat assessment is used for clients who have performed well on the overhead squat, or when the trainer is considering single-leg exercises in their programming. It evaluates dynamic posture, lower-extremity strength, balance, and coordination in a single-limb stance. If the trainer plans to program a movement pattern, it is generally a good idea to assess that pattern first."
+  },
+  {
+    "id": "nasm-assess-095",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Assessment rationale",
+    "question": "A client asks why the trainer is performing a particular fitness assessment. What professional standard applies?",
+    "choices": [
+      "The trainer should perform every available assessment on every client who enrolls",
+      "The trainer should always have a rationale for any assessment",
+      "Assessments require no justification",
+      "Only assessments the client requests should be conducted"
+    ],
+    "answerIndex": 1,
+    "explanation": "A fitness professional should always be able to provide good rationale for any fitness assessment they elect to conduct on a client. Some assessments may be inappropriate because they do not relate to the client's goals, and others may raise safety concerns. Explaining the purpose, the protocol, and expectations briefly and in plain language, with demonstration where possible, is part of preparing the client."
+  },
+  {
+    "id": "nasm-assess-096",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Pushing and pulling assessments",
+    "question": "A trainer wants information about a client's shoulder mechanics and trunk stability but has limited appointment time. What option is described?",
+    "choices": [
+      "These assessments must always be performed in a separate dedicated appointment beforehand",
+      "Only a static postural assessment can be used",
+      "They can be integrated into a typical workout",
+      "Shoulder mechanics cannot be assessed without imaging"
+    ],
+    "answerIndex": 2,
+    "explanation": "The pushing and pulling assessments can easily be integrated into a typical workout program while still providing useful information about the client's shoulder mechanics and trunk stability. They can serve either as an intake assessment or as an integrated part of ongoing programming. All repetitions should be evaluated, because impairments often appear as the client fatigues."
+  },
+  {
+    "id": "nasm-assess-097",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Older adult assessment",
+    "question": "A 76-year-old client shows only fair stability during a modified overhead squat. How should the trainer handle the single-leg squat assessment?",
+    "choices": [
+      "Perform it as written to gather complete data",
+      "Replace it with maximal strength testing",
+      "Perform it with the client holding a wall for support and record the result",
+      "Skip it unless the overhead squat shows exceptional stability"
+    ],
+    "answerIndex": 3,
+    "explanation": "For older adult clients the single-leg squat should be skipped unless they show exceptional strength and stability during the overhead squat. The overhead squat itself may need modification with reduced depth, and pushing and pulling assessments are best performed standing or with machines for stability and comfort. The process should start conservatively and progress based on the client's goals and abilities."
+  },
+  {
+    "id": "nasm-assess-098",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Static and dynamic posture",
+    "question": "A normal static postural assessment guarantees that a client's movement assessment will also be normal.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "The faulty postures identified during a static assessment will likely appear during a movement assessment, but the same cannot be said in the opposite direction. This is why the movement assessment should follow, and reinforce, the static observations. It also means a normal static posture does not guarantee normal dynamic movement."
+  },
+  {
+    "id": "nasm-assess-099",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Movement impairment terminology",
+    "question": "The term movement impairment describes a client's abnormal movement that deviates from optimal postural alignment while in motion.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Movement impairment is simply the term used to describe a client's abnormal movement when it deviates from optimal postural alignment while in motion. The observation process searches for muscle imbalances or movement impairment patterns that may lead to injury inside or outside the gym. Corrective programming then stretches identified overactive muscles and strengthens identified underactive ones."
+  }
+]
