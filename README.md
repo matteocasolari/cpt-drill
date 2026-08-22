@@ -1,6 +1,6 @@
 # PT Drill
 
-Personal NASM and NSCA practice drill. Each session serves **10** questions from a bank of 1,010 items. Progress (scores, per-question stats) is stored in the browser under the `ptDrill.v1` localStorage key.
+Personal NASM, NSCA, and exercise-identification practice drill. Each session serves **10** questions. Progress (scores, per-question stats) is stored in the browser under the `ptDrill.v1` localStorage key.
 
 ## Run locally
 
@@ -31,7 +31,8 @@ On the home screen, pick a question source before starting:
 
 - **NASM** — NASM-only items plus shared `both` items.
 - **NSCA** — NSCA-only items plus shared `both` items.
-- **Mixed** — all sources.
+- **Mixed** — questions drawn from NASM, NSCA, and Exercises.
+- **Exercises** — image-only exercise identification questions with four possible names.
 
 **Reset progress** (footer link) asks for confirmation, then clears the `ptDrill.v1` localStorage key and starts fresh.
 

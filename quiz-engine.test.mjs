@@ -69,6 +69,23 @@ test("filterPool nasm includes both", () => {
   assert.deepEqual(pool.sort(), ["1", "3"]);
 });
 
+test("exercise questions require an image and appear in mixed mode", () => {
+  const exercise = mcq({
+    id: "exercise-squat",
+    source: "exercises",
+    topic: "Exercise identification",
+    question: "Which exercise is shown?",
+    image: "./data/exercise-images/squat.png",
+  });
+  assert.equal(validateQuestion(exercise, new Set()).ok, true);
+  assert.equal(validateQuestion({ ...exercise, image: "" }, new Set()).ok, false);
+  assert.deepEqual(filterPool([exercise, mcq()], "mixed").map((q) => q.id), [
+    "exercise-squat",
+    "nasm-opt-001",
+  ]);
+  assert.deepEqual(filterPool([exercise, mcq()], "exercises").map((q) => q.id), ["exercise-squat"]);
+});
+
 test("pickSession prefers unseen then previously wrong", () => {
   const pool = [1, 2, 3, 4, 5, 6, 7].map((n) => mcq({ id: String(n) }));
   const stats = {

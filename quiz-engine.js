@@ -1,7 +1,7 @@
 export const STORAGE_KEY = "ptDrill.v1";
 export const SESSION_SIZE = 10;
 
-const SOURCES = new Set(["nasm", "nsca", "both"]);
+const SOURCES = new Set(["nasm", "nsca", "both", "exercises"]);
 const TYPES = new Set(["mcq", "tf", "scenario"]);
 
 export function emptyProgress() {
@@ -10,7 +10,7 @@ export function emptyProgress() {
 
 export function validateQuestion(q, seenIds) {
   if (!q || typeof q !== "object") return { ok: false, error: "not an object" };
-  const { id, source, type, topic, question, choices, answerIndex, explanation } = q;
+  const { id, source, type, topic, question, image, choices, answerIndex, explanation } = q;
   if (typeof id !== "string" || !id.trim()) return { ok: false, error: "bad id" };
   if (seenIds.has(id)) return { ok: false, error: `duplicate id ${id}` };
   if (!SOURCES.has(source)) return { ok: false, error: `bad source ${id}` };
@@ -18,6 +18,9 @@ export function validateQuestion(q, seenIds) {
   if (typeof topic !== "string" || !topic.trim()) return { ok: false, error: `bad topic ${id}` };
   if (typeof question !== "string" || !question.trim()) return { ok: false, error: `bad question ${id}` };
   if (typeof explanation !== "string" || !explanation.trim()) return { ok: false, error: `bad explanation ${id}` };
+  if (source === "exercises" && (typeof image !== "string" || !image.trim())) {
+    return { ok: false, error: `bad image ${id}` };
+  }
   if (!Array.isArray(choices) || !choices.every((c) => typeof c === "string" && c.trim())) {
     return { ok: false, error: `bad choices ${id}` };
   }
@@ -46,7 +49,9 @@ export function normalizeBank(rawItems) {
 }
 
 export function filterPool(questions, sourceFilter) {
-  if (sourceFilter === "mixed") return questions.slice();
+  if (sourceFilter === "mixed") {
+    return questions.slice();
+  }
   return questions.filter((q) => q.source === sourceFilter || q.source === "both");
 }
 
@@ -59,7 +64,7 @@ function shuffle(arr, random) {
   return a;
 }
 
-const VALID_LAST_SOURCES = new Set(["nasm", "nsca", "mixed"]);
+const VALID_LAST_SOURCES = new Set(["nasm", "nsca", "mixed", "exercises"]);
 
 function isQuestionStat(value) {
   return (

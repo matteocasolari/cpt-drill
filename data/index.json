@@ -13,6 +13,7 @@
     "nsca-plyo-speed.json",
     "nsca-nutrition.json",
     "nsca-conditions.json",
-    "both.json"
+    "both.json",
+    "exercises.json"
   ]
 }

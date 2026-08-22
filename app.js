@@ -149,6 +149,7 @@ function renderHome() {
         ${sourceButton("nasm", "NASM")}
         ${sourceButton("nsca", "NSCA")}
         ${sourceButton("mixed", "Mixed")}
+        ${sourceButton("exercises", "Exercises")}
       </div>
       <button class="primary" data-action="start" ${tooSmall ? "disabled" : ""}>
         ${tooSmall ? "Bank too small" : "Start"}
@@ -162,6 +163,10 @@ function renderHome() {
 
 function renderQuiz() {
   const q = state.session[state.index];
+  const promptHtml = q.source === "exercises"
+    ? `<img class="exercise-image" src="${escapeHtml(q.image)}" alt="Exercise to identify">`
+    : `<div class="chip">${escapeHtml(q.topic)}</div>
+       <p class="stem">${escapeHtml(q.question)}</p>`;
   const choicesHtml = q.choices
     .map((choice, i) => {
       let cls = "choice";
@@ -187,8 +192,7 @@ function renderQuiz() {
   app.innerHTML = `
     <div class="progress-count">${state.index + 1}/${SESSION_SIZE}</div>
     <div class="card">
-      <div class="chip">${escapeHtml(q.topic)}</div>
-      <p class="stem">${escapeHtml(q.question)}</p>
+      ${promptHtml}
       <div class="choices">${choicesHtml}</div>
       ${actionHtml}
     </div>
@@ -201,7 +205,7 @@ function renderResults() {
         .map(
           (m) => `
         <div class="miss">
-          <p class="miss-stem">${escapeHtml(m.q.question)}</p>
+          <p class="miss-stem">${escapeHtml(m.q.source === "exercises" ? m.q.choices[m.q.answerIndex] : m.q.question)}</p>
           <p class="muted">${escapeHtml(m.q.explanation)}</p>
         </div>
       `
