@@ -14,6 +14,7 @@
     "nsca-nutrition.json",
     "nsca-conditions.json",
     "both.json",
-    "exercises.json"
+    "exercises.json",
+    "muscles.json"
   ]
 }

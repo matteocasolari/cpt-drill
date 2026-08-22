@@ -9,6 +9,7 @@ import {
   normalizeBank,
   filterPool,
   pickSession,
+  pickMixedSession,
   loadProgress,
   saveProgress,
   recordAnswer,
@@ -33,6 +34,7 @@ function createMemoryStorage() {
 
 function matchesFilter(q, sourceFilter) {
   if (sourceFilter === "mixed") return true;
+  if (sourceFilter === "exercises" || sourceFilter === "muscles") return q.source === sourceFilter;
   return q.source === sourceFilter || q.source === "both";
 }
 
@@ -58,7 +60,9 @@ function runSession(questions, sourceFilter, storage, random) {
   }
 
   let progress = loadProgress(storage);
-  const session = pickSession(pool, progress.questions, SESSION_SIZE, random);
+  const session = sourceFilter === "mixed"
+    ? pickMixedSession(questions, progress.questions, SESSION_SIZE, random)
+    : pickSession(pool, progress.questions, SESSION_SIZE, random);
 
   if (session.length !== SESSION_SIZE) {
     throw new Error(`${sourceFilter}: expected ${SESSION_SIZE} questions, got ${session.length}`);
@@ -66,6 +70,12 @@ function runSession(questions, sourceFilter, storage, random) {
   for (const q of session) {
     if (!matchesFilter(q, sourceFilter)) {
       throw new Error(`${sourceFilter}: question ${q.id} has source ${q.source}`);
+    }
+  }
+  if (sourceFilter === "mixed") {
+    const categories = new Set(session.map((q) => q.source === "both" ? "nasm" : q.source));
+    for (const category of ["nasm", "nsca", "exercises", "muscles"]) {
+      if (!categories.has(category)) throw new Error(`mixed: missing ${category}`);
     }
   }
 
@@ -98,7 +108,7 @@ function runSession(questions, sourceFilter, storage, random) {
 const questions = await loadBank();
 console.log(`bank: ${questions.length} questions`);
 
-const filters = ["nasm", "nsca", "mixed"];
+const filters = ["nasm", "nsca", "exercises", "muscles", "mixed"];
 let seed = 0.42;
 const random = () => {
   seed = (seed * 16807) % 1;

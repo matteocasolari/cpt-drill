@@ -1,7 +1,7 @@
 export const STORAGE_KEY = "ptDrill.v1";
 export const SESSION_SIZE = 10;
 
-const SOURCES = new Set(["nasm", "nsca", "both", "exercises"]);
+const SOURCES = new Set(["nasm", "nsca", "both", "exercises", "muscles"]);
 const TYPES = new Set(["mcq", "tf", "scenario"]);
 
 export function emptyProgress() {
@@ -18,7 +18,7 @@ export function validateQuestion(q, seenIds) {
   if (typeof topic !== "string" || !topic.trim()) return { ok: false, error: `bad topic ${id}` };
   if (typeof question !== "string" || !question.trim()) return { ok: false, error: `bad question ${id}` };
   if (typeof explanation !== "string" || !explanation.trim()) return { ok: false, error: `bad explanation ${id}` };
-  if (source === "exercises" && (typeof image !== "string" || !image.trim())) {
+  if ((source === "exercises" || source === "muscles") && (typeof image !== "string" || !image.trim())) {
     return { ok: false, error: `bad image ${id}` };
   }
   if (!Array.isArray(choices) || !choices.every((c) => typeof c === "string" && c.trim())) {
@@ -52,6 +52,9 @@ export function filterPool(questions, sourceFilter) {
   if (sourceFilter === "mixed") {
     return questions.slice();
   }
+  if (sourceFilter === "exercises" || sourceFilter === "muscles") {
+    return questions.filter((q) => q.source === sourceFilter);
+  }
   return questions.filter((q) => q.source === sourceFilter || q.source === "both");
 }
 
@@ -64,7 +67,7 @@ function shuffle(arr, random) {
   return a;
 }
 
-const VALID_LAST_SOURCES = new Set(["nasm", "nsca", "mixed", "exercises"]);
+const VALID_LAST_SOURCES = new Set(["nasm", "nsca", "mixed", "exercises", "muscles"]);
 
 function isQuestionStat(value) {
   return (
@@ -111,6 +114,21 @@ export function pickSession(pool, stats, count, random) {
   rest.sort(byOldest);
   const ordered = [...shuffle(unseen, random), ...missed, ...rest];
   return ordered.slice(0, Math.min(count, ordered.length));
+}
+
+export function pickMixedSession(questions, stats, count, random) {
+  const groups = [
+    questions.filter((q) => q.source === "nasm" || q.source === "both"),
+    questions.filter((q) => q.source === "nsca"),
+    questions.filter((q) => q.source === "exercises"),
+    questions.filter((q) => q.source === "muscles"),
+  ];
+  const base = Math.floor(count / groups.length);
+  const remainder = count % groups.length;
+  const picked = groups.flatMap((group, index) =>
+    pickSession(group, stats, base + (index < remainder ? 1 : 0), random)
+  );
+  return shuffle(picked, random);
 }
 
 export function loadProgress(storage) {

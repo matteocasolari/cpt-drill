@@ -7,6 +7,7 @@ import {
   normalizeBank,
   filterPool,
   pickSession,
+  pickMixedSession,
   loadProgress,
   saveProgress,
   recordAnswer,
@@ -83,7 +84,23 @@ test("exercise questions require an image and appear in mixed mode", () => {
     "exercise-squat",
     "nasm-opt-001",
   ]);
-  assert.deepEqual(filterPool([exercise, mcq()], "exercises").map((q) => q.id), ["exercise-squat"]);
+  assert.deepEqual(filterPool([exercise, mcq(), mcq({ id: "shared", source: "both" })], "exercises").map((q) => q.id), ["exercise-squat"]);
+});
+
+test("pickMixedSession represents every category", () => {
+  const make = (source, index) => mcq({
+    id: `${source}-${index}`,
+    source,
+    image: source === "exercises" || source === "muscles" ? `${source}-${index}.png` : undefined,
+  });
+  const bank = ["nasm", "nsca", "exercises", "muscles"].flatMap((source) =>
+    Array.from({ length: 4 }, (_, index) => make(source, index))
+  );
+  const picked = pickMixedSession(bank, {}, 10, () => 0.5);
+  const counts = Object.groupBy
+    ? Object.fromEntries(Object.entries(Object.groupBy(picked, (q) => q.source)).map(([k, v]) => [k, v.length]))
+    : picked.reduce((all, q) => ({ ...all, [q.source]: (all[q.source] || 0) + 1 }), {});
+  assert.deepEqual(counts, { nasm: 3, nsca: 3, exercises: 2, muscles: 2 });
 });
 
 test("pickSession prefers unseen then previously wrong", () => {

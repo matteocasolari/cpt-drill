@@ -111,6 +111,11 @@ button.primary:disabled {
   border-color: var(--accent);
 }
 
+.source-group button[data-source="mixed"] {
+  flex-basis: 100%;
+  width: 100%;
+}
+
 .card {
   background: #1d1a14;
   border: 1px solid #322b21;
@@ -140,7 +145,7 @@ button.primary:disabled {
   margin: 0 0 1rem;
 }
 
-.exercise-image {
+.quiz-image {
   display: block;
   width: 100%;
   max-height: 24rem;

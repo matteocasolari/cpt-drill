@@ -3,6 +3,7 @@ import {
   STORAGE_KEY,
   filterPool,
   pickSession,
+  pickMixedSession,
   loadProgress,
   saveProgress,
   recordAnswer,
@@ -146,10 +147,11 @@ function renderHome() {
         ${lastScoreLine}
       </div>
       <div class="source-group" role="group" aria-label="Question source">
+        ${sourceButton("mixed", "Mixed")}
         ${sourceButton("nasm", "NASM")}
         ${sourceButton("nsca", "NSCA")}
-        ${sourceButton("mixed", "Mixed")}
         ${sourceButton("exercises", "Exercises")}
+        ${sourceButton("muscles", "Muscles")}
       </div>
       <button class="primary" data-action="start" ${tooSmall ? "disabled" : ""}>
         ${tooSmall ? "Bank too small" : "Start"}
@@ -163,8 +165,9 @@ function renderHome() {
 
 function renderQuiz() {
   const q = state.session[state.index];
-  const promptHtml = q.source === "exercises"
-    ? `<img class="exercise-image" src="${escapeHtml(q.image)}" alt="Exercise to identify">`
+  const imageQuestion = q.source === "exercises" || q.source === "muscles";
+  const promptHtml = imageQuestion
+    ? `<img class="quiz-image" src="${escapeHtml(q.image)}" alt="${q.source === "muscles" ? "Muscle" : "Exercise"} to identify">`
     : `<div class="chip">${escapeHtml(q.topic)}</div>
        <p class="stem">${escapeHtml(q.question)}</p>`;
   const choicesHtml = q.choices
@@ -205,7 +208,7 @@ function renderResults() {
         .map(
           (m) => `
         <div class="miss">
-          <p class="miss-stem">${escapeHtml(m.q.source === "exercises" ? m.q.choices[m.q.answerIndex] : m.q.question)}</p>
+          <p class="miss-stem">${escapeHtml((m.q.source === "exercises" || m.q.source === "muscles") ? m.q.choices[m.q.answerIndex] : m.q.question)}</p>
           <p class="muted">${escapeHtml(m.q.explanation)}</p>
         </div>
       `
@@ -243,7 +246,9 @@ function render() {
 function startSession() {
   const pool = filterPool(questions, state.sourceFilter);
   if (pool.length < SESSION_SIZE) return;
-  state.session = pickSession(pool, progress.questions, SESSION_SIZE, Math.random);
+  state.session = state.sourceFilter === "mixed"
+    ? pickMixedSession(questions, progress.questions, SESSION_SIZE, Math.random)
+    : pickSession(pool, progress.questions, SESSION_SIZE, Math.random);
   state.index = 0;
   state.selected = null;
   state.revealed = false;
