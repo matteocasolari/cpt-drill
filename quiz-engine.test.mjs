@@ -27,7 +27,7 @@ const mcq = (over = {}) => ({
 
 test("constants", () => {
   assert.equal(STORAGE_KEY, "ptDrill.v1");
-  assert.equal(SESSION_SIZE, 6);
+  assert.equal(SESSION_SIZE, 10);
 });
 
 test("validateQuestion rejects bad answerIndex", () => {

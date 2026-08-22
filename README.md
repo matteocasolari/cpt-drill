@@ -1,6 +1,6 @@
 # PT Drill
 
-Personal NASM and NSCA practice drill. Each session serves **6** questions from a bank of 1,010 items. Progress (scores, per-question stats) is stored in the browser under the `ptDrill.v1` localStorage key.
+Personal NASM and NSCA practice drill. Each session serves **10** questions from a bank of 1,010 items. Progress (scores, per-question stats) is stored in the browser under the `ptDrill.v1` localStorage key.
 
 ## Run locally
 
@@ -37,4 +37,4 @@ On the home screen, pick a question source before starting:
 
 During a quiz, use keys **1–4** to select an answer (true/false items only accept **1–2**) and **Enter** to confirm or continue. Wrong answers show an explanation; the results screen lists any misses from the session.
 
-Optional headless check: `node scripts/simulate-session.mjs` runs a 6-question pass per source filter using the same engine as the UI.
+Optional headless check: `node scripts/simulate-session.mjs` runs a 10-question pass per source filter using the same engine as the UI.

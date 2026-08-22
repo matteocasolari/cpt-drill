@@ -1,4 +1,4 @@
-// Headless 6-question session using the same quiz engine as the UI.
+// Headless 10-question session using the same quiz engine as the UI.
 // Usage: node scripts/simulate-session.mjs
 import { readFile } from "node:fs/promises";
 import { dirname, join } from "node:path";

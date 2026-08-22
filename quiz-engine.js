@@ -1,5 +1,5 @@
 export const STORAGE_KEY = "ptDrill.v1";
-export const SESSION_SIZE = 6;
+export const SESSION_SIZE = 10;
 
 const SOURCES = new Set(["nasm", "nsca", "both"]);
 const TYPES = new Set(["mcq", "tf", "scenario"]);
