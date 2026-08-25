@@ -148,7 +148,6 @@ button.primary:disabled {
   font-size: 0.85rem;
   color: var(--muted);
   text-align: center;
-  white-space: nowrap;
 }
 
 .progress-count span {
@@ -158,13 +157,14 @@ button.primary:disabled {
 
 .quiz-toolbar {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   align-items: center;
   gap: 0.6rem;
   margin-bottom: 0.75rem;
 }
 
 .quiz-toolbar button {
+  min-width: 0;
   padding: 0.55rem 0.75rem;
   text-align: center;
 }
