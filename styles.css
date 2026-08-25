@@ -130,13 +130,49 @@ button.primary:disabled {
   border: 1px solid #3a332a;
   border-radius: 999px;
   padding: 0.15rem 0.65rem;
+}
+
+.question-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
   margin-bottom: 0.75rem;
+}
+
+.chip-category {
+  color: var(--fg);
+  border-color: var(--accent);
 }
 
 .progress-count {
   font-size: 0.85rem;
   color: var(--muted);
-  margin-bottom: 0.5rem;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.progress-count span {
+  display: block;
+  font-size: 0.75rem;
+}
+
+.quiz-toolbar {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 0.75rem;
+}
+
+.quiz-toolbar button {
+  padding: 0.55rem 0.75rem;
+  text-align: center;
+}
+
+.quiz-toolbar button:disabled {
+  color: var(--muted);
+  cursor: not-allowed;
+  opacity: 0.45;
 }
 
 .stem {
@@ -220,6 +256,31 @@ button.primary:disabled {
 .miss-stem {
   font-family: Georgia, ui-serif, serif;
   margin: 0 0 0.35rem;
+}
+
+.answer-summary {
+  margin: 0 0 0.35rem;
+  color: var(--fg);
+  font-size: 0.9rem;
+}
+
+.finish-prompt {
+  position: fixed;
+  inset: 0;
+  z-index: 10;
+  display: grid;
+  place-items: center;
+  padding: 1.25rem;
+  background: rgb(0 0 0 / 70%);
+}
+
+.finish-prompt .card {
+  width: min(100%, 30rem);
+  box-shadow: 0 1rem 3rem rgb(0 0 0 / 45%);
+}
+
+.finish-copy {
+  margin: 0;
 }
 
 .score {
