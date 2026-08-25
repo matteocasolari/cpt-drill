@@ -10,16 +10,16 @@ if (!sourceRoot) {
 }
 
 const regionBySlug = new Map(Object.entries({
-  vastus_lateralis: "thigh", vastus_medialis: "thigh", vastus_intramedius: "thigh", rectus_femoris: "thigh", sartorius: "thigh",
-  psoas_minor: "hip", psoas_major: "hip", gluteus_minimus: "hip", gluteus_medius: "hip",
+  vastus_lateralis: "thigh", vastus_medialis: "thigh", vastus_intramedius: "thigh", rectus_femoris: "thigh", sartorius: "thigh", biceps_femoris: "thigh", hip_adductors: "thigh",
+  psoas_minor: "hip", psoas_major: "hip", gluteus_minimus: "hip", gluteus_medius: "hip", "tensor-fasciae-latae": "hip",
   tibialis_anterior: "lower-leg", soleus: "lower-leg", gastrocnemius: "lower-leg",
   pectoralis_major: "chest-core", rectus_abdominis: "chest-core", external_abdominal_oblique: "chest-core", quadratus_lumborum: "chest-core", serratus_anterior: "chest-core",
   biceps_brachii: "arm", triceps_brachii: "arm", brachialis: "arm", brachioradialis: "arm",
-  supraspinatus: "shoulder-back", infraspinatus: "shoulder-back", deltoid: "shoulder-back", teres_major: "shoulder-back", rhomboid_major: "shoulder-back", trapezius: "shoulder-back", levator_scapulae: "shoulder-back",
+  supraspinatus: "shoulder-back", infraspinatus: "shoulder-back", deltoid: "shoulder-back", teres_major: "shoulder-back", rhomboid_major: "shoulder-back", trapezius: "shoulder-back", levator_scapulae: "shoulder-back", erector_spinae_muscles: "shoulder-back", latissimus_dorsi: "shoulder-back",
   semispinalis: "neck", scalenus_anterior: "neck", longus_capitis: "neck", sternocleidomastoid: "neck", platysma: "neck", splenius_capitis: "neck", longus_colli: "neck", rectus_capitis_anterior: "neck", scalenus_medius: "neck", sternothyroid: "neck", rectus_capitis_posterior_major: "neck",
 }));
 const labelFor = (slug) => {
-  const label = slug.replaceAll("_", " ");
+  const label = slug.replaceAll(/[_-]/g, " ");
   return label[0].toUpperCase() + label.slice(1);
 };
 const hash = (text) => {

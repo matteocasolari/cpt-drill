@@ -622,5 +622,85 @@
     ],
     "answerIndex": 0,
     "explanation": "The highlighted muscle is the Vastus medialis."
+  },
+  {
+    "id": "muscle-biceps-femoris",
+    "source": "muscles",
+    "type": "mcq",
+    "topic": "Muscle identification",
+    "question": "Which muscle is shown?",
+    "image": "./data/muscle-images/biceps_femoris.png",
+    "choices": [
+      "Rectus femoris",
+      "Biceps femoris",
+      "Sartorius",
+      "Gastrocnemius"
+    ],
+    "answerIndex": 1,
+    "explanation": "The highlighted muscle is the Biceps femoris."
+  },
+  {
+    "id": "muscle-erector-spinae",
+    "source": "muscles",
+    "type": "mcq",
+    "topic": "Muscle identification",
+    "question": "Which muscle group is shown?",
+    "image": "./data/muscle-images/erector_spinae_muscles.png",
+    "choices": [
+      "Latissimus dorsi",
+      "Trapezius",
+      "Erector spinae",
+      "Quadratus lumborum"
+    ],
+    "answerIndex": 2,
+    "explanation": "The highlighted muscle group is the Erector spinae."
+  },
+  {
+    "id": "muscle-hip-adductors",
+    "source": "muscles",
+    "type": "mcq",
+    "topic": "Muscle identification",
+    "question": "Which muscle group is shown?",
+    "image": "./data/muscle-images/hip_adductors.jpeg",
+    "choices": [
+      "Hip adductors",
+      "Tensor fasciae latae",
+      "Gluteus medius",
+      "Sartorius"
+    ],
+    "answerIndex": 0,
+    "explanation": "The highlighted muscle group is the Hip adductors."
+  },
+  {
+    "id": "muscle-latissimus-dorsi",
+    "source": "muscles",
+    "type": "mcq",
+    "topic": "Muscle identification",
+    "question": "Which muscle is shown?",
+    "image": "./data/muscle-images/latissimus_dorsi.png",
+    "choices": [
+      "Trapezius",
+      "Teres major",
+      "Rhomboid major",
+      "Latissimus dorsi"
+    ],
+    "answerIndex": 3,
+    "explanation": "The highlighted muscle is the Latissimus dorsi."
+  },
+  {
+    "id": "muscle-tensor-fasciae-latae",
+    "source": "muscles",
+    "type": "mcq",
+    "topic": "Muscle identification",
+    "question": "Which muscle is shown?",
+    "image": "./data/muscle-images/tensor-fasciae-latae.jpg",
+    "choices": [
+      "Gluteus medius",
+      "Sartorius",
+      "Tensor fasciae latae",
+      "Hip adductors"
+    ],
+    "answerIndex": 2,
+    "explanation": "The highlighted muscle is the Tensor fasciae latae."
   }
 ]
