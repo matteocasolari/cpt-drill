@@ -2,6 +2,7 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import {
   STORAGE_KEY,
+  LEGACY_STORAGE_KEY,
   SESSION_SIZE,
   validateQuestion,
   normalizeBank,
@@ -27,7 +28,7 @@ const mcq = (over = {}) => ({
 });
 
 test("constants", () => {
-  assert.equal(STORAGE_KEY, "ptDrill.v1");
+  assert.equal(STORAGE_KEY, "cptDrill.v1");
   assert.equal(SESSION_SIZE, 10);
 });
 
@@ -182,6 +183,19 @@ test("loadProgress accepts valid persisted progress", () => {
     },
   };
   assert.deepEqual(loadProgress(storage), valid);
+});
+
+test("loadProgress migrates the legacy storage key", () => {
+  const valid = { lastScore: 4, lastSource: "mixed", questions: {} };
+  const memory = { [LEGACY_STORAGE_KEY]: JSON.stringify(valid) };
+  const storage = {
+    getItem: (key) => memory[key] ?? null,
+    setItem: (key, value) => { memory[key] = value; },
+    removeItem: (key) => { delete memory[key]; },
+  };
+  assert.deepEqual(loadProgress(storage), valid);
+  assert.equal(memory[LEGACY_STORAGE_KEY], undefined);
+  assert.equal(memory[STORAGE_KEY], JSON.stringify(valid));
 });
 
 test("recordAnswer increments wrong only when incorrect", () => {

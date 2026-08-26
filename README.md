@@ -1,6 +1,6 @@
-# PT Drill
+# CPT Drill
 
-Personal NASM, NSCA, exercise-identification, muscle-identification, and gym-equipment-identification practice drill. Each session serves **10** questions. Progress (scores, per-question stats) is stored in the browser under the `ptDrill.v1` localStorage key.
+Personal NASM, NSCA, exercise-identification, muscle-identification, and gym-equipment-identification practice drill. Each session serves **10** questions. Progress (scores, per-question stats) is stored in the browser under the `cptDrill.v1` localStorage key.
 
 ## Run locally
 
@@ -36,7 +36,7 @@ On the home screen, pick a question source before starting:
 - **Muscles** — image-only muscle identification questions with anatomically related distractors.
 - **Equipment** — image-only gym-equipment identification questions with related distractors.
 
-**Reset progress** (footer link) asks for confirmation, then clears the `ptDrill.v1` localStorage key and starts fresh.
+**Reset progress** (footer link) asks for confirmation, then clears the `cptDrill.v1` localStorage key and starts fresh.
 
 During a quiz, use keys **1–4** to select an answer (true/false items only accept **1–2**) and **Enter** to confirm or continue. Wrong answers show an explanation; the results screen lists any misses from the session.
 

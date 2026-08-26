@@ -1,6 +1,7 @@
 import {
   SESSION_SIZE,
   STORAGE_KEY,
+  LEGACY_STORAGE_KEY,
   filterPool,
   pickSession,
   pickMixedSession,
@@ -66,6 +67,7 @@ function safeClearProgress() {
   if (!storage) return;
   try {
     storage.removeItem(STORAGE_KEY);
+    storage.removeItem(LEGACY_STORAGE_KEY);
   } catch {
     warnStorageOnce("Could not clear progress from localStorage.");
   }
@@ -154,7 +156,7 @@ function renderHome() {
   app.innerHTML = `
     <div class="stack">
       <div>
-        <h1>PT Drill</h1>
+        <h1>CPT Drill</h1>
         ${lastScoreLine}
       </div>
       <div class="source-group" role="group" aria-label="Question source">

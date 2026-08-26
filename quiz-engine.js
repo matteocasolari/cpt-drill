@@ -1,4 +1,5 @@
-export const STORAGE_KEY = "ptDrill.v1";
+export const STORAGE_KEY = "cptDrill.v1";
+export const LEGACY_STORAGE_KEY = "ptDrill.v1";
 export const SESSION_SIZE = 10;
 
 const IMAGE_SOURCES = new Set(["exercises", "muscles", "equipment"]);
@@ -134,21 +135,31 @@ export function pickMixedSession(questions, stats, count, random) {
 }
 
 export function loadProgress(storage) {
+  let activeKey = STORAGE_KEY;
   try {
-    const raw = storage.getItem(STORAGE_KEY);
+    let raw = storage.getItem(STORAGE_KEY);
+    if (!raw) {
+      activeKey = LEGACY_STORAGE_KEY;
+      raw = storage.getItem(LEGACY_STORAGE_KEY);
+    }
     if (!raw) return emptyProgress();
     const parsed = JSON.parse(raw);
     if (!isValidProgress(parsed)) {
-      if (storage.removeItem) storage.removeItem(STORAGE_KEY);
+      if (storage.removeItem) storage.removeItem(activeKey);
       return emptyProgress();
     }
-    return {
+    const progress = {
       lastScore: parsed.lastScore,
       lastSource: parsed.lastSource,
       questions: parsed.questions,
     };
+    if (activeKey === LEGACY_STORAGE_KEY) {
+      storage.setItem(STORAGE_KEY, JSON.stringify(progress));
+      if (storage.removeItem) storage.removeItem(LEGACY_STORAGE_KEY);
+    }
+    return progress;
   } catch {
-    if (storage.removeItem) storage.removeItem(STORAGE_KEY);
+    if (storage.removeItem) storage.removeItem(activeKey);
     return emptyProgress();
   }
 }

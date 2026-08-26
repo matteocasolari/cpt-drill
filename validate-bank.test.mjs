@@ -27,7 +27,7 @@ function runValidator(root, min) {
 }
 
 async function writeTempBank(items) {
-  const dir = await mkdtemp(join(tmpdir(), "pt-drill-validate-"));
+  const dir = await mkdtemp(join(tmpdir(), "cpt-drill-validate-"));
   const dataDir = join(dir, "data");
   await mkdir(dataDir, { recursive: true });
   await writeFile(join(dataDir, "index.json"), JSON.stringify({ files: ["bank.json"] }));
