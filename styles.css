@@ -95,14 +95,12 @@ button.primary:disabled {
 }
 
 .source-group {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 0.5rem;
 }
 
 .source-group button {
-  width: calc(50% - 0.25rem);
-  flex: 1 1 calc(50% - 0.25rem);
   text-align: center;
 }
 
@@ -112,8 +110,7 @@ button.primary:disabled {
 }
 
 .source-group button[data-source="mixed"] {
-  flex-basis: 100%;
-  width: 100%;
+  grid-column: 1 / -1;
 }
 
 .card {

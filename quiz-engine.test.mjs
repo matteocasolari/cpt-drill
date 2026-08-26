@@ -87,20 +87,33 @@ test("exercise questions require an image and appear in mixed mode", () => {
   assert.deepEqual(filterPool([exercise, mcq(), mcq({ id: "shared", source: "both" })], "exercises").map((q) => q.id), ["exercise-squat"]);
 });
 
+test("equipment questions require an image and can be filtered", () => {
+  const equipment = mcq({
+    id: "equipment-barbell",
+    source: "equipment",
+    topic: "Gym equipment identification",
+    question: "Which piece of gym equipment is shown?",
+    image: "./data/gym-equipment/barbell.jpg",
+  });
+  assert.equal(validateQuestion(equipment, new Set()).ok, true);
+  assert.equal(validateQuestion({ ...equipment, image: "" }, new Set()).ok, false);
+  assert.deepEqual(filterPool([equipment, mcq()], "equipment").map((q) => q.id), ["equipment-barbell"]);
+});
+
 test("pickMixedSession represents every category", () => {
   const make = (source, index) => mcq({
     id: `${source}-${index}`,
     source,
-    image: source === "exercises" || source === "muscles" ? `${source}-${index}.png` : undefined,
+    image: ["exercises", "muscles", "equipment"].includes(source) ? `${source}-${index}.png` : undefined,
   });
-  const bank = ["nasm", "nsca", "exercises", "muscles"].flatMap((source) =>
+  const bank = ["nasm", "nsca", "exercises", "muscles", "equipment"].flatMap((source) =>
     Array.from({ length: 4 }, (_, index) => make(source, index))
   );
   const picked = pickMixedSession(bank, {}, 10, () => 0.5);
   const counts = Object.groupBy
     ? Object.fromEntries(Object.entries(Object.groupBy(picked, (q) => q.source)).map(([k, v]) => [k, v.length]))
     : picked.reduce((all, q) => ({ ...all, [q.source]: (all[q.source] || 0) + 1 }), {});
-  assert.deepEqual(counts, { nasm: 3, nsca: 3, exercises: 2, muscles: 2 });
+  assert.deepEqual(counts, { nasm: 2, nsca: 2, exercises: 2, muscles: 2, equipment: 2 });
 });
 
 test("pickSession prefers unseen then previously wrong", () => {
@@ -132,7 +145,7 @@ test("loadProgress wipes parseable but invalid progress", () => {
   const cases = [
     { lastScore: null, lastSource: null, questions: null },
     { lastScore: null, lastSource: null, questions: [] },
-    { lastScore: 7, lastSource: "nasm", questions: {} },
+    { lastScore: 11, lastSource: "nasm", questions: {} },
     { lastScore: 4, lastSource: "bogus", questions: {} },
     {
       lastScore: 4,

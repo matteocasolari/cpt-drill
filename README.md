@@ -1,6 +1,6 @@
 # PT Drill
 
-Personal NASM, NSCA, exercise-identification, and muscle-identification practice drill. Each session serves **10** questions. Progress (scores, per-question stats) is stored in the browser under the `ptDrill.v1` localStorage key.
+Personal NASM, NSCA, exercise-identification, muscle-identification, and gym-equipment-identification practice drill. Each session serves **10** questions. Progress (scores, per-question stats) is stored in the browser under the `ptDrill.v1` localStorage key.
 
 ## Run locally
 
@@ -31,9 +31,10 @@ On the home screen, pick a question source before starting:
 
 - **NASM** — NASM-only items plus shared `both` items.
 - **NSCA** — NSCA-only items plus shared `both` items.
-- **Mixed** — a balanced session containing NASM, NSCA, Exercises, and Muscles.
+- **Mixed** — the default, with a balanced session containing NASM, NSCA, Exercises, Muscles, and Equipment.
 - **Exercises** — image-only exercise identification questions with four possible names.
 - **Muscles** — image-only muscle identification questions with anatomically related distractors.
+- **Equipment** — image-only gym-equipment identification questions with related distractors.
 
 **Reset progress** (footer link) asks for confirmation, then clears the `ptDrill.v1` localStorage key and starts fresh.
 

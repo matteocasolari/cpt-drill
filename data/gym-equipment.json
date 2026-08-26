@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "equipment-ab-roller",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/ab-roller.jpg",
+    "choices": [
+      "Climbing pegboard",
+      "Ab roller",
+      "Gymnastic rings",
+      "Jump rope"
+    ],
+    "answerIndex": 1,
+    "explanation": "The pictured equipment is the Ab roller."
+  },
+  {
+    "id": "equipment-air-bike",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/air-bike.jpg",
+    "choices": [
+      "Ski ergometer",
+      "Stair stepper",
+      "Curved treadmill",
+      "Air bike"
+    ],
+    "answerIndex": 3,
+    "explanation": "The pictured equipment is the Air bike."
+  },
+  {
+    "id": "equipment-barbell",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/barbell.jpg",
+    "choices": [
+      "Wall ball",
+      "Trap bar",
+      "Bumper plate",
+      "Barbell"
+    ],
+    "answerIndex": 3,
+    "explanation": "The pictured equipment is the Barbell."
+  },
+  {
+    "id": "equipment-barbell-collars",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/barbell-collars.jpg",
+    "choices": [
+      "Barbell collars",
+      "Landmine attachment",
+      "Monolift attachment",
+      "Weight plate tree"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pictured equipment is the Barbell collars."
+  },
+  {
+    "id": "equipment-resistance-tube-set",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/resistance-tube-set.jpg",
+    "choices": [
+      "Resistance tube set",
+      "Ab roller",
+      "Gymnastic rings",
+      "Jump rope"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pictured equipment is the Resistance tube set."
+  },
+  {
+    "id": "equipment-lifting-chalk",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/lifting-chalk.jpg",
+    "choices": [
+      "Barbell squat pad",
+      "Chalk bucket",
+      "Lifting chalk",
+      "Smart fitness mirror"
+    ],
+    "answerIndex": 2,
+    "explanation": "The pictured equipment is the Lifting chalk."
+  },
+  {
+    "id": "equipment-chalk-bucket",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/chalk-bucket.jpg",
+    "choices": [
+      "Shaker bottle",
+      "Chalk bucket",
+      "Fitness tracker",
+      "Gym flooring"
+    ],
+    "answerIndex": 1,
+    "explanation": "The pictured equipment is the Chalk bucket."
+  },
+  {
+    "id": "equipment-flat-weight-bench",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/flat-weight-bench.jpg",
+    "choices": [
+      "Power rack",
+      "Adjustable weight bench",
+      "Flat weight bench",
+      "Doorway pull-up bar"
+    ],
+    "answerIndex": 2,
+    "explanation": "The pictured equipment is the Flat weight bench."
+  },
+  {
+    "id": "equipment-elliptical-climber",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/elliptical-climber.jpg",
+    "choices": [
+      "Exercise bike",
+      "Elliptical climber",
+      "Air bike",
+      "Elliptical machine"
+    ],
+    "answerIndex": 1,
+    "explanation": "The pictured equipment is the Elliptical climber."
+  },
+  {
+    "id": "equipment-cold-tub",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/cold-tub.jpg",
+    "choices": [
+      "Exercise ball",
+      "Cold tub",
+      "Massage gun",
+      "Exercise mat"
+    ],
+    "answerIndex": 1,
+    "explanation": "The pictured equipment is the Cold tub."
+  },
+  {
+    "id": "equipment-deadlift-jack",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/deadlift-jack.jpg",
+    "choices": [
+      "J-cups",
+      "Landmine attachment",
+      "Deadlift jack",
+      "Barbell collars"
+    ],
+    "answerIndex": 2,
+    "explanation": "The pictured equipment is the Deadlift jack."
+  },
+  {
+    "id": "equipment-deadlift-platform",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/deadlift-platform.jpg",
+    "choices": [
+      "Adjustable weight bench",
+      "Captain's chair",
+      "Deadlift platform",
+      "Power rack"
+    ],
+    "answerIndex": 2,
+    "explanation": "The pictured equipment is the Deadlift platform."
+  },
+  {
+    "id": "equipment-dip-station",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/dip-station.jpg",
+    "choices": [
+      "Adjustable weight bench",
+      "Captain's chair",
+      "Flat weight bench",
+      "Dip station"
+    ],
+    "answerIndex": 3,
+    "explanation": "The pictured equipment is the Dip station."
+  },
+  {
+    "id": "equipment-adjustable-dumbbells",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/adjustable-dumbbells.jpg",
+    "choices": [
+      "EZ curl bar",
+      "Adjustable dumbbells",
+      "Bumper plate",
+      "Barbell"
+    ],
+    "answerIndex": 1,
+    "explanation": "The pictured equipment is the Adjustable dumbbells."
+  },
+  {
+    "id": "equipment-ez-curl-bar",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/ez-curl-bar.jpg",
+    "choices": [
+      "Wall ball",
+      "Trap bar",
+      "Bumper plate",
+      "EZ curl bar"
+    ],
+    "answerIndex": 3,
+    "explanation": "The pictured equipment is the EZ curl bar."
+  },
+  {
+    "id": "equipment-elliptical-machine",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/elliptical-machine.jpg",
+    "choices": [
+      "Air bike",
+      "Elliptical climber",
+      "Elliptical machine",
+      "Curved treadmill"
+    ],
+    "answerIndex": 2,
+    "explanation": "The pictured equipment is the Elliptical machine."
+  },
+  {
+    "id": "equipment-exercise-bike",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/exercise-bike.jpg",
+    "choices": [
+      "Air bike",
+      "Elliptical climber",
+      "Elliptical machine",
+      "Exercise bike"
+    ],
+    "answerIndex": 3,
+    "explanation": "The pictured equipment is the Exercise bike."
+  },
+  {
+    "id": "equipment-fitness-tracker",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/fitness-tracker.jpg",
+    "choices": [
+      "Shaker bottle",
+      "Smart fitness mirror",
+      "Fitness tracker",
+      "Gym flooring"
+    ],
+    "answerIndex": 2,
+    "explanation": "The pictured equipment is the Fitness tracker."
+  },
+  {
+    "id": "equipment-foam-roller",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/foam-roller.jpg",
+    "choices": [
+      "Exercise ball",
+      "Cold tub",
+      "Massage gun",
+      "Foam roller"
+    ],
+    "answerIndex": 3,
+    "explanation": "The pictured equipment is the Foam roller."
+  },
+  {
+    "id": "equipment-functional-trainer",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/functional-trainer.jpg",
+    "choices": [
+      "Functional trainer",
+      "Smith machine",
+      "Glute-ham developer",
+      "Lat pulldown and low row machine"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pictured equipment is the Functional trainer."
+  },
+  {
+    "id": "equipment-glute-ham-developer",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/glute-ham-developer.jpg",
+    "choices": [
+      "Lat pulldown and low row machine",
+      "Rack-mounted leg extension",
+      "Glute-ham developer",
+      "Functional trainer"
+    ],
+    "answerIndex": 2,
+    "explanation": "The pictured equipment is the Glute-ham developer."
+  },
+  {
+    "id": "equipment-gym-flooring",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/gym-flooring.jpg",
+    "choices": [
+      "Chalk bucket",
+      "Gym flooring",
+      "Barbell squat pad",
+      "Lifting chalk"
+    ],
+    "answerIndex": 1,
+    "explanation": "The pictured equipment is the Gym flooring."
+  },
+  {
+    "id": "equipment-gymnastic-rings",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/gymnastic-rings.jpg",
+    "choices": [
+      "Gymnastic rings",
+      "Ab roller",
+      "Resistance tube set",
+      "Jump rope"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pictured equipment is the Gymnastic rings."
+  },
+  {
+    "id": "equipment-j-cups",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/j-cups.jpg",
+    "choices": [
+      "Monolift attachment",
+      "J-cups",
+      "Deadlift jack",
+      "Landmine attachment"
+    ],
+    "answerIndex": 1,
+    "explanation": "The pictured equipment is the J-cups."
+  },
+  {
+    "id": "equipment-jump-rope",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/jump-rope.jpg",
+    "choices": [
+      "Jump rope",
+      "Plyometric box",
+      "Resistance bands",
+      "Weight sled"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pictured equipment is the Jump rope."
+  },
+  {
+    "id": "equipment-kettlebell",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/kettlebell.jpg",
+    "choices": [
+      "Adjustable dumbbells",
+      "EZ curl bar",
+      "Wall ball",
+      "Kettlebell"
+    ],
+    "answerIndex": 3,
+    "explanation": "The pictured equipment is the Kettlebell."
+  },
+  {
+    "id": "equipment-knee-sleeves",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/knee-sleeves.jpg",
+    "choices": [
+      "Lifting straps",
+      "Weightlifting shoes",
+      "Knee sleeves",
+      "Wrist wraps"
+    ],
+    "answerIndex": 2,
+    "explanation": "The pictured equipment is the Knee sleeves."
+  },
+  {
+    "id": "equipment-landmine-attachment",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/landmine-attachment.jpg",
+    "choices": [
+      "Spotter arms",
+      "Rack-mounted chest support",
+      "V-bar cable attachment",
+      "Landmine attachment"
+    ],
+    "answerIndex": 3,
+    "explanation": "The pictured equipment is the Landmine attachment."
+  },
+  {
+    "id": "equipment-lat-pulldown-low-row-machine",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/lat-pulldown-low-row-machine.jpg",
+    "choices": [
+      "Lat pulldown and low row machine",
+      "Rack-mounted leg extension",
+      "Leg extension and curl machine",
+      "Rack-mounted leg press"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pictured equipment is the Lat pulldown and low row machine."
+  },
+  {
+    "id": "equipment-rack-mounted-leg-extension",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/rack-mounted-leg-extension.jpg",
+    "choices": [
+      "Smith machine",
+      "Functional trainer",
+      "Rack-mounted leg extension",
+      "Reverse hyperextension machine"
+    ],
+    "answerIndex": 2,
+    "explanation": "The pictured equipment is the Rack-mounted leg extension."
+  },
+  {
+    "id": "equipment-leg-extension-curl-machine",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/leg-extension-curl-machine.jpg",
+    "choices": [
+      "Leg extension and curl machine",
+      "Lat pulldown and low row machine",
+      "Rack-mounted leg extension",
+      "Rack-mounted leg press"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pictured equipment is the Leg extension and curl machine."
+  },
+  {
+    "id": "equipment-rack-mounted-leg-press",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/rack-mounted-leg-press.jpg",
+    "choices": [
+      "Rack-mounted leg press",
+      "Lat pulldown and low row machine",
+      "Rack-mounted leg extension",
+      "Leg extension and curl machine"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pictured equipment is the Rack-mounted leg press."
+  },
+  {
+    "id": "equipment-weightlifting-shoes",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/weightlifting-shoes.jpg",
+    "choices": [
+      "Running shoes",
+      "Weightlifting shoes",
+      "Lifting straps",
+      "Knee sleeves"
+    ],
+    "answerIndex": 1,
+    "explanation": "The pictured equipment is the Weightlifting shoes."
+  },
+  {
+    "id": "equipment-massage-gun",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/massage-gun.jpg",
+    "choices": [
+      "Exercise ball",
+      "Cold tub",
+      "Foam roller",
+      "Massage gun"
+    ],
+    "answerIndex": 3,
+    "explanation": "The pictured equipment is the Massage gun."
+  },
+  {
+    "id": "equipment-wall-ball",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/wall-ball.jpg",
+    "choices": [
+      "Kettlebell",
+      "Wall ball",
+      "Adjustable dumbbells",
+      "EZ curl bar"
+    ],
+    "answerIndex": 1,
+    "explanation": "The pictured equipment is the Wall ball."
+  },
+  {
+    "id": "equipment-monolift-attachment",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/monolift-attachment.jpg",
+    "choices": [
+      "Deadlift jack",
+      "J-cups",
+      "Landmine attachment",
+      "Monolift attachment"
+    ],
+    "answerIndex": 3,
+    "explanation": "The pictured equipment is the Monolift attachment."
+  },
+  {
+    "id": "equipment-climbing-pegboard",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/climbing-pegboard.jpg",
+    "choices": [
+      "Suspension trainer",
+      "Climbing pegboard",
+      "Resistance bands",
+      "Weight sled"
+    ],
+    "answerIndex": 1,
+    "explanation": "The pictured equipment is the Climbing pegboard."
+  },
+  {
+    "id": "equipment-weight-plate-tree",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/weight-plate-tree.jpg",
+    "choices": [
+      "Hitch pin",
+      "Power rack safety straps",
+      "Spotter arms",
+      "Weight plate tree"
+    ],
+    "answerIndex": 3,
+    "explanation": "The pictured equipment is the Weight plate tree."
+  },
+  {
+    "id": "equipment-plyometric-box",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/plyometric-box.jpg",
+    "choices": [
+      "Suspension trainer",
+      "Plyometric box",
+      "Resistance bands",
+      "Weight sled"
+    ],
+    "answerIndex": 1,
+    "explanation": "The pictured equipment is the Plyometric box."
+  },
+  {
+    "id": "equipment-preacher-curl-bench",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/preacher-curl-bench.jpg",
+    "choices": [
+      "Flat weight bench",
+      "Preacher curl bench",
+      "Adjustable weight bench",
+      "Captain's chair"
+    ],
+    "answerIndex": 1,
+    "explanation": "The pictured equipment is the Preacher curl bench."
+  },
+  {
+    "id": "equipment-doorway-pull-up-bar",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/doorway-pull-up-bar.jpg",
+    "choices": [
+      "Preacher curl bench",
+      "Power rack",
+      "Doorway pull-up bar",
+      "Dip station"
+    ],
+    "answerIndex": 2,
+    "explanation": "The pictured equipment is the Doorway pull-up bar."
+  },
+  {
+    "id": "equipment-resistance-bands",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/resistance-bands.jpg",
+    "choices": [
+      "Jump rope",
+      "Resistance bands",
+      "Resistance tube set",
+      "Gymnastic rings"
+    ],
+    "answerIndex": 1,
+    "explanation": "The pictured equipment is the Resistance bands."
+  },
+  {
+    "id": "equipment-reverse-hyperextension-machine",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/reverse-hyperextension-machine.jpg",
+    "choices": [
+      "Rack-mounted leg extension",
+      "Leg extension and curl machine",
+      "Rack-mounted leg press",
+      "Reverse hyperextension machine"
+    ],
+    "answerIndex": 3,
+    "explanation": "The pictured equipment is the Reverse hyperextension machine."
+  },
+  {
+    "id": "equipment-rowing-machine",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/rowing-machine.jpg",
+    "choices": [
+      "Stair stepper",
+      "Rowing machine",
+      "Exercise bike",
+      "Ski ergometer"
+    ],
+    "answerIndex": 1,
+    "explanation": "The pictured equipment is the Rowing machine."
+  },
+  {
+    "id": "equipment-running-shoes",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/running-shoes.jpg",
+    "choices": [
+      "Weighted dip belt",
+      "Running shoes",
+      "Weightlifting shoes",
+      "Weighted vest"
+    ],
+    "answerIndex": 1,
+    "explanation": "The pictured equipment is the Running shoes."
+  },
+  {
+    "id": "equipment-hitch-pin",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/hitch-pin.jpg",
+    "choices": [
+      "V-bar cable attachment",
+      "Barbell collars",
+      "Deadlift jack",
+      "Hitch pin"
+    ],
+    "answerIndex": 3,
+    "explanation": "The pictured equipment is the Hitch pin."
+  },
+  {
+    "id": "equipment-power-rack-safety-straps",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/power-rack-safety-straps.jpg",
+    "choices": [
+      "Spotter arms",
+      "Power rack safety straps",
+      "Weight plate tree",
+      "Hitch pin"
+    ],
+    "answerIndex": 1,
+    "explanation": "The pictured equipment is the Power rack safety straps."
+  },
+  {
+    "id": "equipment-shaker-bottle",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/shaker-bottle.jpg",
+    "choices": [
+      "Shaker bottle",
+      "Lifting chalk",
+      "Chalk bucket",
+      "Fitness tracker"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pictured equipment is the Shaker bottle."
+  },
+  {
+    "id": "equipment-ski-ergometer",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/ski-ergometer.jpg",
+    "choices": [
+      "Exercise bike",
+      "Ski ergometer",
+      "Elliptical climber",
+      "Elliptical machine"
+    ],
+    "answerIndex": 1,
+    "explanation": "The pictured equipment is the Ski ergometer."
+  },
+  {
+    "id": "equipment-weight-sled",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/weight-sled.jpg",
+    "choices": [
+      "Jump rope",
+      "Climbing pegboard",
+      "Weight sled",
+      "Gymnastic rings"
+    ],
+    "answerIndex": 2,
+    "explanation": "The pictured equipment is the Weight sled."
+  },
+  {
+    "id": "equipment-smith-machine",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/smith-machine.jpg",
+    "choices": [
+      "Smith machine",
+      "Lat pulldown and low row machine",
+      "Rack-mounted leg extension",
+      "Leg extension and curl machine"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pictured equipment is the Smith machine."
+  },
+  {
+    "id": "equipment-spotter-arms",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/spotter-arms.jpg",
+    "choices": [
+      "Spotter arms",
+      "Barbell collars",
+      "Deadlift jack",
+      "J-cups"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pictured equipment is the Spotter arms."
+  },
+  {
+    "id": "equipment-power-rack",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/power-rack.jpg",
+    "choices": [
+      "Doorway pull-up bar",
+      "Adjustable weight bench",
+      "Power rack",
+      "Preacher curl bench"
+    ],
+    "answerIndex": 2,
+    "explanation": "The pictured equipment is the Power rack."
+  },
+  {
+    "id": "equipment-stair-stepper",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/stair-stepper.jpg",
+    "choices": [
+      "Elliptical climber",
+      "Elliptical machine",
+      "Stair stepper",
+      "Air bike"
+    ],
+    "answerIndex": 2,
+    "explanation": "The pictured equipment is the Stair stepper."
+  },
+  {
+    "id": "equipment-suspension-trainer",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/suspension-trainer.jpg",
+    "choices": [
+      "Suspension trainer",
+      "Ab roller",
+      "Resistance tube set",
+      "Gymnastic rings"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pictured equipment is the Suspension trainer."
+  },
+  {
+    "id": "equipment-trap-bar",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/trap-bar.jpg",
+    "choices": [
+      "Kettlebell",
+      "Wall ball",
+      "Trap bar",
+      "EZ curl bar"
+    ],
+    "answerIndex": 2,
+    "explanation": "The pictured equipment is the Trap bar."
+  },
+  {
+    "id": "equipment-curved-treadmill",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/curved-treadmill.jpg",
+    "choices": [
+      "Elliptical machine",
+      "Exercise bike",
+      "Rowing machine",
+      "Curved treadmill"
+    ],
+    "answerIndex": 3,
+    "explanation": "The pictured equipment is the Curved treadmill."
+  },
+  {
+    "id": "equipment-adjustable-weight-bench",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/adjustable-weight-bench.jpg",
+    "choices": [
+      "Power rack",
+      "Captain's chair",
+      "Adjustable weight bench",
+      "Doorway pull-up bar"
+    ],
+    "answerIndex": 2,
+    "explanation": "The pictured equipment is the Adjustable weight bench."
+  },
+  {
+    "id": "equipment-bumper-plate",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/bumper-plate.jpg",
+    "choices": [
+      "Trap bar",
+      "Barbell",
+      "Adjustable dumbbells",
+      "Bumper plate"
+    ],
+    "answerIndex": 3,
+    "explanation": "The pictured equipment is the Bumper plate."
+  },
+  {
+    "id": "equipment-weighted-vest",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/weighted-vest.jpg",
+    "choices": [
+      "Weightlifting shoes",
+      "Weighted vest",
+      "Lifting straps",
+      "Knee sleeves"
+    ],
+    "answerIndex": 1,
+    "explanation": "The pictured equipment is the Weighted vest."
+  },
+  {
+    "id": "equipment-weighted-dip-belt",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/weighted-dip-belt.jpg",
+    "choices": [
+      "Lifting straps",
+      "Knee sleeves",
+      "Weighted dip belt",
+      "Wrist wraps"
+    ],
+    "answerIndex": 2,
+    "explanation": "The pictured equipment is the Weighted dip belt."
+  },
+  {
+    "id": "equipment-exercise-mat",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/exercise-mat.jpg",
+    "choices": [
+      "Exercise mat",
+      "Cold tub",
+      "Foam roller",
+      "Massage gun"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pictured equipment is the Exercise mat."
+  },
+  {
+    "id": "equipment-smart-fitness-mirror",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/smart-fitness-mirror.jpeg",
+    "choices": [
+      "Gym flooring",
+      "Smart fitness mirror",
+      "Chalk bucket",
+      "Fitness tracker"
+    ],
+    "answerIndex": 1,
+    "explanation": "The pictured equipment is the Smart fitness mirror."
+  },
+  {
+    "id": "equipment-wrist-wraps",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/wrist-wraps.jpg",
+    "choices": [
+      "Wrist wraps",
+      "Weighted dip belt",
+      "Lifting straps",
+      "Knee sleeves"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pictured equipment is the Wrist wraps."
+  },
+  {
+    "id": "equipment-barbell-squat-pad",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/barbell-squat-pad.webp",
+    "choices": [
+      "Barbell squat pad",
+      "Lifting chalk",
+      "Chalk bucket",
+      "Fitness tracker"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pictured equipment is the Barbell squat pad."
+  },
+  {
+    "id": "equipment-captains-chair",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/captains-chair.webp",
+    "choices": [
+      "Captain's chair",
+      "Power rack",
+      "Adjustable weight bench",
+      "Flat weight bench"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pictured equipment is the Captain's chair."
+  },
+  {
+    "id": "equipment-rack-mounted-chest-support",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/rack-mounted-chest-support.jpeg",
+    "choices": [
+      "Weight plate tree",
+      "Rack-mounted chest support",
+      "Landmine attachment",
+      "Monolift attachment"
+    ],
+    "answerIndex": 1,
+    "explanation": "The pictured equipment is the Rack-mounted chest support."
+  },
+  {
+    "id": "equipment-exercise-ball",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/exercise-ball.webp",
+    "choices": [
+      "Exercise mat",
+      "Cold tub",
+      "Foam roller",
+      "Exercise ball"
+    ],
+    "answerIndex": 3,
+    "explanation": "The pictured equipment is the Exercise ball."
+  },
+  {
+    "id": "equipment-lifting-straps",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/lifting-straps.jpg",
+    "choices": [
+      "Lifting straps",
+      "Knee sleeves",
+      "Weightlifting shoes",
+      "Running shoes"
+    ],
+    "answerIndex": 0,
+    "explanation": "The pictured equipment is the Lifting straps."
+  },
+  {
+    "id": "equipment-v-bar-cable-attachment",
+    "source": "equipment",
+    "type": "mcq",
+    "topic": "Gym equipment identification",
+    "question": "Which piece of gym equipment is shown?",
+    "image": "./data/gym-equipment/v-bar-cable-attachment.jpg",
+    "choices": [
+      "Landmine attachment",
+      "V-bar cable attachment",
+      "Deadlift jack",
+      "J-cups"
+    ],
+    "answerIndex": 1,
+    "explanation": "The pictured equipment is the V-bar cable attachment."
+  }
+]

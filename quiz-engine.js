@@ -1,7 +1,8 @@
 export const STORAGE_KEY = "ptDrill.v1";
 export const SESSION_SIZE = 10;
 
-const SOURCES = new Set(["nasm", "nsca", "both", "exercises", "muscles"]);
+const IMAGE_SOURCES = new Set(["exercises", "muscles", "equipment"]);
+const SOURCES = new Set(["nasm", "nsca", "both", ...IMAGE_SOURCES]);
 const TYPES = new Set(["mcq", "tf", "scenario"]);
 
 export function emptyProgress() {
@@ -18,7 +19,7 @@ export function validateQuestion(q, seenIds) {
   if (typeof topic !== "string" || !topic.trim()) return { ok: false, error: `bad topic ${id}` };
   if (typeof question !== "string" || !question.trim()) return { ok: false, error: `bad question ${id}` };
   if (typeof explanation !== "string" || !explanation.trim()) return { ok: false, error: `bad explanation ${id}` };
-  if ((source === "exercises" || source === "muscles") && (typeof image !== "string" || !image.trim())) {
+  if (IMAGE_SOURCES.has(source) && (typeof image !== "string" || !image.trim())) {
     return { ok: false, error: `bad image ${id}` };
   }
   if (!Array.isArray(choices) || !choices.every((c) => typeof c === "string" && c.trim())) {
@@ -52,7 +53,7 @@ export function filterPool(questions, sourceFilter) {
   if (sourceFilter === "mixed") {
     return questions.slice();
   }
-  if (sourceFilter === "exercises" || sourceFilter === "muscles") {
+  if (IMAGE_SOURCES.has(sourceFilter)) {
     return questions.filter((q) => q.source === sourceFilter);
   }
   return questions.filter((q) => q.source === sourceFilter || q.source === "both");
@@ -67,7 +68,7 @@ function shuffle(arr, random) {
   return a;
 }
 
-const VALID_LAST_SOURCES = new Set(["nasm", "nsca", "mixed", "exercises", "muscles"]);
+const VALID_LAST_SOURCES = new Set(["nasm", "nsca", "mixed", ...IMAGE_SOURCES]);
 
 function isQuestionStat(value) {
   return (
@@ -87,7 +88,7 @@ function isValidProgress(parsed) {
   if (!parsed || typeof parsed !== "object" || Array.isArray(parsed)) return false;
   if (parsed.lastScore !== null) {
     if (typeof parsed.lastScore !== "number" || !Number.isFinite(parsed.lastScore)) return false;
-    if (parsed.lastScore < 0 || parsed.lastScore > 6) return false;
+    if (parsed.lastScore < 0 || parsed.lastScore > SESSION_SIZE) return false;
   }
   if (parsed.lastSource !== null && !VALID_LAST_SOURCES.has(parsed.lastSource)) return false;
   const { questions } = parsed;
@@ -122,6 +123,7 @@ export function pickMixedSession(questions, stats, count, random) {
     questions.filter((q) => q.source === "nsca"),
     questions.filter((q) => q.source === "exercises"),
     questions.filter((q) => q.source === "muscles"),
+    questions.filter((q) => q.source === "equipment"),
   ];
   const base = Math.floor(count / groups.length);
   const remainder = count % groups.length;

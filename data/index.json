@@ -15,6 +15,7 @@
     "nsca-conditions.json",
     "both.json",
     "exercises.json",
-    "muscles.json"
+    "muscles.json",
+    "gym-equipment.json"
   ]
 }
