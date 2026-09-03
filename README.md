@@ -1,6 +1,6 @@
 # CPT Drill
 
-Personal NASM, NSCA, exercise-identification, muscle-identification, and gym-equipment-identification practice drill. Each session serves **10** questions. Progress (scores, per-question stats) is stored in the browser under the `cptDrill.v1` localStorage key.
+Personal NASM, NSCA, exercise-identification, muscle-identification, gym-equipment-identification, and movement-identification practice drill. Each session serves **10** questions. Progress (scores, per-question stats) is stored in the browser under the `cptDrill.v1` localStorage key.
 
 ## Run locally
 
@@ -31,10 +31,11 @@ On the home screen, pick a question source before starting:
 
 - **NASM** — NASM-only items plus shared `both` items.
 - **NSCA** — NSCA-only items plus shared `both` items.
-- **Mixed** — the default, with a balanced session containing NASM, NSCA, Exercises, Muscles, and Equipment.
+- **Mixed** — the default, with a balanced session containing every question category.
 - **Exercises** — image-only exercise identification questions with four possible names.
 - **Muscles** — image-only muscle identification questions with anatomically related distractors.
 - **Equipment** — image-only gym-equipment identification questions with related distractors.
+- **Movements** — image-only flexibility, bodyweight, and stability-ball movement identification questions.
 
 **Reset progress** (footer link) asks for confirmation, then clears the `cptDrill.v1` localStorage key and starts fresh.
 

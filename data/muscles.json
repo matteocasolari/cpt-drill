@@ -5,7 +5,7 @@
     "type": "mcq",
     "topic": "Muscle identification",
     "question": "Which muscle is shown?",
-    "image": "./data/muscle-images/biceps_brachii.png",
+    "image": "./data/muscle-images/biceps_brachii.webp",
     "choices": [
       "Biceps brachii",
       "Triceps brachii",
@@ -21,7 +21,7 @@
     "type": "mcq",
     "topic": "Muscle identification",
     "question": "Which muscle is shown?",
-    "image": "./data/muscle-images/brachialis.png",
+    "image": "./data/muscle-images/brachialis.webp",
     "choices": [
       "Triceps brachii",
       "Biceps brachii",
@@ -101,7 +101,7 @@
     "type": "mcq",
     "topic": "Muscle identification",
     "question": "Which muscle is shown?",
-    "image": "./data/muscle-images/gluteus_medius.png",
+    "image": "./data/muscle-images/gluteus_medius.webp",
     "choices": [
       "Psoas major",
       "Biceps brachii",
@@ -117,7 +117,7 @@
     "type": "mcq",
     "topic": "Muscle identification",
     "question": "Which muscle is shown?",
-    "image": "./data/muscle-images/gluteus_minimus.png",
+    "image": "./data/muscle-images/gluteus_minimus.webp",
     "choices": [
       "Gluteus medius",
       "Psoas major",
@@ -149,7 +149,7 @@
     "type": "mcq",
     "topic": "Muscle identification",
     "question": "Which muscle is shown?",
-    "image": "./data/muscle-images/levator_scapulae.png",
+    "image": "./data/muscle-images/levator_scapulae.webp",
     "choices": [
       "Sternocleidomastoid",
       "Levator scapulae",
@@ -229,7 +229,7 @@
     "type": "mcq",
     "topic": "Muscle identification",
     "question": "Which muscle is shown?",
-    "image": "./data/muscle-images/psoas_major.png",
+    "image": "./data/muscle-images/psoas_major.webp",
     "choices": [
       "Gluteus minimus",
       "Psoas minor",
@@ -341,7 +341,7 @@
     "type": "mcq",
     "topic": "Muscle identification",
     "question": "Which muscle is shown?",
-    "image": "./data/muscle-images/rhomboid_major.png",
+    "image": "./data/muscle-images/rhomboid_major.webp",
     "choices": [
       "Supraspinatus",
       "Teres major",
@@ -373,7 +373,7 @@
     "type": "mcq",
     "topic": "Muscle identification",
     "question": "Which muscle is shown?",
-    "image": "./data/muscle-images/scalenus_anterior.png",
+    "image": "./data/muscle-images/scalenus_anterior.webp",
     "choices": [
       "Longus colli",
       "Tibialis anterior",
@@ -453,7 +453,7 @@
     "type": "mcq",
     "topic": "Muscle identification",
     "question": "Which muscle is shown?",
-    "image": "./data/muscle-images/splenius_capitis.png",
+    "image": "./data/muscle-images/splenius_capitis.webp",
     "choices": [
       "Longus colli",
       "Serratus anterior",

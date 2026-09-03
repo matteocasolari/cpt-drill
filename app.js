@@ -142,6 +142,7 @@ function questionCategory(source) {
     exercises: "Exercises",
     muscles: "Muscles",
     equipment: "Equipment",
+    movements: "Movements",
   })[source] || source;
 }
 
@@ -166,6 +167,7 @@ function renderHome() {
         ${sourceButton("exercises", "Exercises")}
         ${sourceButton("muscles", "Muscles")}
         ${sourceButton("equipment", "Equipment")}
+        ${sourceButton("movements", "Movements")}
       </div>
       <button class="primary" data-action="start" ${tooSmall ? "disabled" : ""}>
         ${tooSmall ? "Bank too small" : "Start"}
@@ -184,7 +186,7 @@ function renderQuiz() {
   const revealed = Boolean(response);
   const answeredCount = state.responses.filter(Boolean).length;
   const correctCount = state.responses.filter((item) => item && item.correct).length;
-  const imageQuestion = ["exercises", "muscles", "equipment"].includes(q.source);
+  const imageQuestion = ["exercises", "muscles", "equipment", "movements"].includes(q.source);
   const questionMetaHtml = `
     <div class="question-meta">
       <div class="chip chip-category">${escapeHtml(questionCategory(q.source))}</div>
@@ -192,7 +194,7 @@ function renderQuiz() {
     </div>`;
   const promptHtml = imageQuestion
     ? `${questionMetaHtml}
-       <img class="quiz-image" src="${escapeHtml(q.image)}" alt="${q.source === "muscles" ? "Muscle" : q.source === "equipment" ? "Gym equipment" : "Exercise"} to identify">`
+       <img class="quiz-image" src="${escapeHtml(q.image)}" alt="${q.source === "muscles" ? "Muscle" : q.source === "equipment" ? "Gym equipment" : q.source === "movements" ? "Movement" : "Exercise"} to identify">`
     : `${questionMetaHtml}
        <p class="stem">${escapeHtml(q.question)}</p>`;
   const choicesHtml = q.choices
@@ -258,7 +260,7 @@ function renderResults() {
         .map(
           (m) => `
         <div class="miss">
-          <p class="miss-stem">${escapeHtml(["exercises", "muscles", "equipment"].includes(m.q.source) ? m.q.choices[m.q.answerIndex] : m.q.question)}</p>
+          <p class="miss-stem">${escapeHtml(["exercises", "muscles", "equipment", "movements"].includes(m.q.source) ? m.q.choices[m.q.answerIndex] : m.q.question)}</p>
           <p class="answer-summary">${m.skipped ? "Skipped" : `Your answer: ${escapeHtml(m.q.choices[m.chosen])}`} · Correct answer: ${escapeHtml(m.q.choices[m.q.answerIndex])}</p>
           <p class="muted">${escapeHtml(m.q.explanation)}</p>
         </div>

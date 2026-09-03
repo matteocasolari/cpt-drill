@@ -180,12 +180,14 @@ button.primary:disabled {
 
 .quiz-image {
   display: block;
-  width: 100%;
-  max-height: 24rem;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  max-height: min(20rem, 45vh);
   object-fit: contain;
   border-radius: 0.5rem;
   background: #fff;
-  margin-bottom: 1rem;
+  margin: 0 auto 1rem;
 }
 
 .choices {

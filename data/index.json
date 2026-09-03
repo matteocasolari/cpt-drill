@@ -16,6 +16,7 @@
     "both.json",
     "exercises.json",
     "muscles.json",
-    "gym-equipment.json"
+    "gym-equipment.json",
+    "movements.json"
   ]
 }

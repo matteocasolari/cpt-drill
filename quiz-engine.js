@@ -2,7 +2,7 @@ export const STORAGE_KEY = "cptDrill.v1";
 export const LEGACY_STORAGE_KEY = "ptDrill.v1";
 export const SESSION_SIZE = 10;
 
-const IMAGE_SOURCES = new Set(["exercises", "muscles", "equipment"]);
+const IMAGE_SOURCES = new Set(["exercises", "muscles", "equipment", "movements"]);
 const SOURCES = new Set(["nasm", "nsca", "both", ...IMAGE_SOURCES]);
 const TYPES = new Set(["mcq", "tf", "scenario"]);
 
@@ -125,6 +125,7 @@ export function pickMixedSession(questions, stats, count, random) {
     questions.filter((q) => q.source === "exercises"),
     questions.filter((q) => q.source === "muscles"),
     questions.filter((q) => q.source === "equipment"),
+    questions.filter((q) => q.source === "movements"),
   ];
   const base = Math.floor(count / groups.length);
   const remainder = count % groups.length;
