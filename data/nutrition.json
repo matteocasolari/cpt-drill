@@ -1,0 +1,1480 @@
+[
+  {
+    "id": "nutrition-001",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Nutrition fundamentals",
+    "question": "What does nutrition primarily describe?",
+    "choices": [
+      "How the body obtains and uses nourishment",
+      "How food is grown and distributed",
+      "How recipes are developed",
+      "How appetite changes during the day"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nutrition is the process of providing the body with nutrients needed for health and growth. It concerns nourishment from food and how the body uses it."
+  },
+  {
+    "id": "nutrition-002",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Macronutrients",
+    "question": "Which group contains the three macronutrients?",
+    "choices": [
+      "Fiber, water, and sodium",
+      "Carbohydrate, protein, and fat",
+      "Iron, calcium, and zinc",
+      "Vitamins A, C, and D"
+    ],
+    "answerIndex": 1,
+    "explanation": "Carbohydrate, protein, and fat are the three macronutrients. The body needs them in relatively large amounts, and all three support vital functions."
+  },
+  {
+    "id": "nutrition-003",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Micronutrients",
+    "question": "Why are vitamins and minerals called micronutrients?",
+    "choices": [
+      "They are found only in small foods",
+      "They contain very little energy",
+      "The body needs them in smaller quantities",
+      "They act only inside individual cells"
+    ],
+    "answerIndex": 2,
+    "explanation": "The body requires micronutrients in much smaller amounts than macronutrients. Small required quantities do not make them unimportant; deficiencies can have serious effects."
+  },
+  {
+    "id": "nutrition-004",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Balanced nutrition",
+    "question": "A client asks for the single perfect diet for everyone. Which response best reflects sound nutrition principles?",
+    "choices": [
+      "Everyone should eat the same macronutrient ratio",
+      "Only biological sex determines the ideal diet",
+      "The healthiest diet excludes all processed foods",
+      "Needs vary with age, genetics, activity, and preferences"
+    ],
+    "answerIndex": 3,
+    "explanation": "There is no universal diet that is optimal for every person. Nutritional needs depend on factors including age, genetics, metabolism, activity, health, and preferences."
+  },
+  {
+    "id": "nutrition-005",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Carbohydrates",
+    "question": "What is the body's preferred fuel during strenuous exercise?",
+    "choices": [
+      "Glucose",
+      "Alcohol",
+      "Dietary cholesterol",
+      "Amino acids"
+    ],
+    "answerIndex": 0,
+    "explanation": "Glucose from carbohydrate is the preferred energy source for muscles during strenuous exercise. The body can store glucose as glycogen for later use."
+  },
+  {
+    "id": "nutrition-006",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Carbohydrates",
+    "question": "Where are non-glucose monosaccharides converted into glucose?",
+    "choices": [
+      "The stomach",
+      "The liver",
+      "The colon",
+      "The pancreas"
+    ],
+    "answerIndex": 1,
+    "explanation": "The liver converts non-glucose monosaccharides into glucose. It can then release glucose into the blood or help store it for future energy needs."
+  },
+  {
+    "id": "nutrition-007",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Protein",
+    "question": "What are the smaller units that make up proteins?",
+    "choices": [
+      "Fatty acids",
+      "Monosaccharides",
+      "Amino acids",
+      "Sterols"
+    ],
+    "answerIndex": 2,
+    "explanation": "Proteins are built from amino acids. The body uses amino acids to build and repair tissues and to make many functional compounds."
+  },
+  {
+    "id": "nutrition-008",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Protein",
+    "question": "The body stores a dedicated reserve of excess dietary protein for later use.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "The body has no specialized protein store comparable to glycogen or body fat. Surplus amino acids are broken down rather than kept as a dedicated protein reserve."
+  },
+  {
+    "id": "nutrition-009",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Dietary fat",
+    "question": "Which type of fat is generally associated with a healthier blood-lipid profile when it replaces saturated fat?",
+    "choices": [
+      "Unsaturated fat",
+      "Industrial trans fat",
+      "Hydrogenated fat",
+      "Interesterified shortening"
+    ],
+    "answerIndex": 0,
+    "explanation": "Unsaturated fats are generally the preferred replacement for saturated fats. Foods such as nuts, seeds, avocado, oily fish, and olive oil provide useful unsaturated fats."
+  },
+  {
+    "id": "nutrition-010",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Fiber",
+    "question": "Which statement best distinguishes soluble from insoluble fiber?",
+    "choices": [
+      "Soluble fiber occurs only in fruit; insoluble fiber only in grains",
+      "Soluble fiber dissolves in water; insoluble fiber does not",
+      "Soluble fiber provides protein; insoluble fiber provides fat",
+      "Soluble fiber is digested in the stomach; insoluble fiber in the liver"
+    ],
+    "answerIndex": 1,
+    "explanation": "Soluble fiber dissolves in water and can be fermented by gut microbes. Insoluble fiber adds bulk and helps material move through the digestive tract."
+  },
+  {
+    "id": "nutrition-011",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Fiber",
+    "question": "A client rapidly doubles their fiber intake and develops discomfort. What is the most practical adjustment?",
+    "choices": [
+      "Remove all fiber indefinitely",
+      "Replace fiber with protein supplements",
+      "Increase fiber gradually and drink enough fluid",
+      "Avoid drinking water with meals"
+    ],
+    "answerIndex": 2,
+    "explanation": "A sudden large increase in fiber can cause bloating or discomfort. Increasing it gradually while maintaining hydration gives the digestive system time to adapt."
+  },
+  {
+    "id": "nutrition-012",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Vitamins",
+    "question": "Which vitamins are classified as fat-soluble?",
+    "choices": [
+      "B1, B2, B6, and B12",
+      "C, folate, and biotin",
+      "C, D, and all B vitamins",
+      "A, D, E, and K"
+    ],
+    "answerIndex": 3,
+    "explanation": "Vitamins A, D, E, and K are fat-soluble. They can be stored in body tissues, unlike most water-soluble vitamins."
+  },
+  {
+    "id": "nutrition-013",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Minerals",
+    "question": "Which mineral is a central component of hemoglobin and helps transport oxygen?",
+    "choices": [
+      "Iron",
+      "Sodium",
+      "Iodine",
+      "Calcium"
+    ],
+    "answerIndex": 0,
+    "explanation": "Iron is needed to form hemoglobin, which carries oxygen in the blood. Inadequate iron can contribute to anemia, tiredness, and reduced physical capacity."
+  },
+  {
+    "id": "nutrition-014",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Hydration",
+    "question": "What is a useful everyday indicator of hydration status for many healthy adults?",
+    "choices": [
+      "Height after waking",
+      "Urine color",
+      "Resting pulse alone",
+      "Daily protein intake"
+    ],
+    "answerIndex": 1,
+    "explanation": "Urine color can provide a practical indication of hydration, with pale straw-colored urine often suggesting adequate intake. Medicines, supplements, and some foods can alter color, so it is not a perfect measure."
+  },
+  {
+    "id": "nutrition-015",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Hydration",
+    "question": "An exerciser trains hard in hot weather and sweats heavily. What should guide a sensible hydration plan?",
+    "choices": [
+      "Avoid all sodium after exercise",
+      "Drink only when the workout has ended",
+      "Replace fluid and consider electrolytes lost in sweat",
+      "Use caffeinated drinks exclusively"
+    ],
+    "answerIndex": 2,
+    "explanation": "Sweat removes water and electrolytes, especially during long or hot sessions. Replacing fluid and, when appropriate, electrolytes helps restore what was lost."
+  },
+  {
+    "id": "nutrition-016",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Digestion",
+    "question": "Where does most nutrient absorption take place?",
+    "choices": [
+      "The esophagus",
+      "The large intestine",
+      "The gallbladder",
+      "The small intestine"
+    ],
+    "answerIndex": 3,
+    "explanation": "Most nutrient absorption occurs across the lining of the small intestine. Its folds and villi create a large surface area for absorption."
+  },
+  {
+    "id": "nutrition-017",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Digestion",
+    "question": "What is bile's main role in digestion?",
+    "choices": [
+      "Emulsifying fat into smaller droplets",
+      "Breaking protein into amino acids",
+      "Converting glucose into fiber",
+      "Absorbing water in the colon"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bile emulsifies dietary fat, dispersing it into smaller droplets. This increases the surface available to fat-digesting enzymes."
+  },
+  {
+    "id": "nutrition-018",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Metabolism",
+    "question": "What does basal metabolic rate represent?",
+    "choices": [
+      "Energy used only during exercise",
+      "Minimum energy used to maintain basic functions at rest",
+      "Calories absorbed from one meal",
+      "Maximum energy stored as glycogen"
+    ],
+    "answerIndex": 1,
+    "explanation": "Basal metabolic rate is the energy needed to maintain essential functions at rest. Breathing, circulation, temperature regulation, and cellular activity all contribute."
+  },
+  {
+    "id": "nutrition-019",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Metabolism",
+    "question": "Digestion itself contributes to total daily energy expenditure.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Processing food requires energy and creates the thermic effect of food. It is one component of total energy expenditure alongside basal needs and physical activity."
+  },
+  {
+    "id": "nutrition-020",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Malnutrition",
+    "question": "A client consumes plenty of calories but has a diet with very little nutrient variety. Could that client still be malnourished?",
+    "choices": [
+      "No, because calories prevent every form of malnutrition",
+      "Only if the person also exercises intensely",
+      "Only when body weight is below the healthy range",
+      "Yes, because micronutrient deficiencies can coexist with excess energy intake"
+    ],
+    "answerIndex": 3,
+    "explanation": "Malnutrition includes deficiencies, excesses, and imbalances of energy or nutrients. A person can consume excess energy while lacking important vitamins, minerals, fiber, or protein."
+  },
+  {
+    "id": "nutrition-021",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Healthy dietary patterns",
+    "question": "What do Mediterranean, Nordic, and traditional Japanese dietary patterns broadly share?",
+    "choices": [
+      "An emphasis on minimally processed plant foods",
+      "Elimination of all dietary fat",
+      "Reliance on vitamin supplements",
+      "A requirement to count every calorie"
+    ],
+    "answerIndex": 0,
+    "explanation": "These patterns differ in their regional foods but emphasize vegetables, fruits, grains, and other minimally processed staples. Their value comes from the overall pattern rather than a single special ingredient."
+  },
+  {
+    "id": "nutrition-022",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Healthy eating",
+    "question": "Which principle most supports a nutritionally varied diet?",
+    "choices": [
+      "Repeating one complete meal every day",
+      "Eating foods of many types and colors",
+      "Avoiding every food containing sugar",
+      "Choosing foods by calorie content alone"
+    ],
+    "answerIndex": 1,
+    "explanation": "Variety makes it more likely that the diet supplies a broad range of nutrients and beneficial plant compounds. Color can be a practical prompt to include different fruits and vegetables."
+  },
+  {
+    "id": "nutrition-023",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Meat and fish",
+    "question": "A client wants to reduce red meat without losing protein variety. Which swap best fits a balanced dietary pattern?",
+    "choices": [
+      "Replace it with candy for equivalent calories",
+      "Remove all protein-rich foods",
+      "Replace it with legumes or fish in some meals",
+      "Use processed meat at every meal"
+    ],
+    "answerIndex": 2,
+    "explanation": "Legumes and fish can replace some red or processed meat while adding nutritional variety. The goal is a sustainable pattern, not simply removing one food without replacing its useful nutrients."
+  },
+  {
+    "id": "nutrition-024",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Legumes and pulses",
+    "question": "Why are legumes and pulses valuable in a balanced diet?",
+    "choices": [
+      "They are the only source of vitamin D",
+      "They contain no carbohydrate",
+      "They eliminate the need for vegetables",
+      "They provide protein, fiber, and micronutrients"
+    ],
+    "answerIndex": 3,
+    "explanation": "Beans, peas, lentils, and other pulses provide plant protein, fiber, and several micronutrients. Their combination of nutrients makes them useful for both plant-based and mixed diets."
+  },
+  {
+    "id": "nutrition-025",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Whole grains",
+    "question": "What is usually retained in a whole grain that refining removes?",
+    "choices": [
+      "The bran and germ",
+      "Only added salt",
+      "All natural starch",
+      "Every form of water"
+    ],
+    "answerIndex": 0,
+    "explanation": "Whole grains retain the bran, germ, and endosperm. Refining commonly removes the fiber-rich bran and nutrient-rich germ."
+  },
+  {
+    "id": "nutrition-026",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Cooking",
+    "question": "A client wants a cooking method that uses little added fat while preserving vegetables' texture. Which option is most suitable?",
+    "choices": [
+      "Deep-frying",
+      "Steaming",
+      "Charring until black",
+      "Boiling for several hours"
+    ],
+    "answerIndex": 1,
+    "explanation": "Steaming can cook vegetables with little or no added fat and limited contact with water. Cooking time still matters because prolonged heat can affect texture and some heat-sensitive nutrients."
+  },
+  {
+    "id": "nutrition-027",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Gut health",
+    "question": "What does the gut microbiome refer to?",
+    "choices": [
+      "Only enzymes released by the pancreas",
+      "The muscular wall of the stomach",
+      "The community of microorganisms in the digestive tract",
+      "All nutrients absorbed into blood"
+    ],
+    "answerIndex": 2,
+    "explanation": "The gut microbiome is the community of microorganisms living in the digestive tract. Its composition and activity can interact with digestion, immunity, and wider health."
+  },
+  {
+    "id": "nutrition-028",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Gut health",
+    "question": "Which dietary habit is most likely to support a diverse gut microbiome?",
+    "choices": [
+      "Using the same refined snack for every meal",
+      "Avoiding all fermentable fiber",
+      "Taking antibiotics without medical need",
+      "Eating a varied range of plant foods"
+    ],
+    "answerIndex": 3,
+    "explanation": "A varied intake of plant foods supplies different fibers and compounds to gut microbes. Diversity in the diet can help support diversity in the microbial community."
+  },
+  {
+    "id": "nutrition-029",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Prebiotics and probiotics",
+    "question": "What is the key difference between a prebiotic and a probiotic?",
+    "choices": [
+      "Prebiotics feed beneficial microbes; probiotics contain live microorganisms",
+      "Prebiotics are live microbes; probiotics are vitamins",
+      "Prebiotics occur only in pills; probiotics only in fruit",
+      "Prebiotics digest protein; probiotics digest fat"
+    ],
+    "answerIndex": 0,
+    "explanation": "Prebiotics are substrates, often particular fibers, used by beneficial gut microbes. Probiotics are live microorganisms intended to provide a health benefit when consumed in adequate amounts."
+  },
+  {
+    "id": "nutrition-030",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Gut health",
+    "question": "A single probiotic product is guaranteed to improve every person's gut health.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Effects depend on the microbial strain, dose, health condition, and individual. The label probiotic does not guarantee that every product benefits every person."
+  },
+  {
+    "id": "nutrition-031",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Food relationships",
+    "question": "Which behavior is characteristic of mindful eating?",
+    "choices": [
+      "Judging foods only as good or bad",
+      "Eating as quickly as possible",
+      "Noticing hunger, fullness, taste, and context",
+      "Ignoring physical signals to follow a rigid clock"
+    ],
+    "answerIndex": 2,
+    "explanation": "Mindful eating brings attention to the eating experience and internal cues without automatic judgment. It can help a person recognize hunger, satisfaction, and the circumstances around eating."
+  },
+  {
+    "id": "nutrition-032",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Food relationships",
+    "question": "A client feels guilty whenever they eat dessert. Which response best supports a healthier relationship with food?",
+    "choices": [
+      "Describe dessert as a forbidden food",
+      "Require compensation with extra exercise",
+      "Recommend skipping the next meal",
+      "Explore flexibility and the overall dietary pattern"
+    ],
+    "answerIndex": 3,
+    "explanation": "A balanced relationship with food allows enjoyable foods without moral labels or compensatory behaviors. Health is shaped by the overall pattern, not one dessert."
+  },
+  {
+    "id": "nutrition-033",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Food labels",
+    "question": "Why is the serving size on a nutrition label important?",
+    "choices": [
+      "Nutrient values are usually stated for that specified amount",
+      "Every package contains exactly one serving",
+      "Serving size proves a food is healthy",
+      "It shows how much every person must eat"
+    ],
+    "answerIndex": 0,
+    "explanation": "Label values relate to a defined serving or quantity, which may differ from the amount actually eaten. Comparing the stated serving with the consumed portion prevents misreading the numbers."
+  },
+  {
+    "id": "nutrition-034",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Food labels",
+    "question": "On an ingredients list, what does the order generally indicate?",
+    "choices": [
+      "Ingredients appear alphabetically",
+      "Ingredients run from greatest to least weight",
+      "The healthiest ingredient is listed first",
+      "All ingredients occur in equal amounts"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ingredients are generally listed in descending order by weight at the time of manufacture. This helps reveal which ingredients make up most of a product."
+  },
+  {
+    "id": "nutrition-035",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Food labels",
+    "question": "A client sees two cereal boxes that use different serving sizes. What is the fairest way to compare their sugar content?",
+    "choices": [
+      "Compare only the front-of-pack pictures",
+      "Choose the box with the longer ingredient list",
+      "Compare values for the same weight, such as per 100 g",
+      "Assume the larger serving is healthier"
+    ],
+    "answerIndex": 2,
+    "explanation": "A common weight basis allows like-for-like comparison when stated servings differ. Front-of-pack imagery and package size can otherwise create misleading impressions."
+  },
+  {
+    "id": "nutrition-036",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Marketing claims",
+    "question": "Why can a claim such as 'natural' give an incomplete picture of a food?",
+    "choices": [
+      "It describes the food's entire nutrient profile",
+      "It guarantees the food contains no sugar",
+      "It means the product has no processing",
+      "It may lack a precise meaning and says little about overall composition"
+    ],
+    "answerIndex": 3,
+    "explanation": "Broad marketing language can create a health halo without describing the food's full nutrient profile. Ingredients and nutrition information provide more useful context."
+  },
+  {
+    "id": "nutrition-037",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Dietary fat",
+    "question": "All foods high in fat have the same effect on health.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answerIndex": 0,
+    "explanation": "Fat-containing foods differ in fatty-acid profile and in the other nutrients they provide. The type of fat and the overall dietary pattern matter more than treating every fat source identically."
+  },
+  {
+    "id": "nutrition-038",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Dietary fat",
+    "question": "Which food is a common source of monounsaturated fat?",
+    "choices": [
+      "Table sugar",
+      "Olive oil",
+      "Egg white",
+      "White rice"
+    ],
+    "answerIndex": 1,
+    "explanation": "Olive oil is rich in monounsaturated fat. Nuts and avocado are other familiar sources."
+  },
+  {
+    "id": "nutrition-039",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Free sugars",
+    "question": "Which sugar is generally classified as a free sugar?",
+    "choices": [
+      "Sugar naturally enclosed in an intact apple",
+      "Lactose naturally present in plain milk",
+      "Honey added to a drink",
+      "Starch in a whole grain"
+    ],
+    "answerIndex": 2,
+    "explanation": "Free sugars include sugars added to foods and drinks as well as those in honey, syrups, and juices. Sugar contained within the cellular structure of intact fruit is treated differently."
+  },
+  {
+    "id": "nutrition-040",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Salt",
+    "question": "A client wants to lower sodium intake. Which change is likely to have the largest practical impact?",
+    "choices": [
+      "Stop eating all fresh fruit",
+      "Replace water with fruit juice",
+      "Add salt only after cooking instead of during cooking",
+      "Rely less on salty packaged foods and check labels"
+    ],
+    "answerIndex": 3,
+    "explanation": "A large share of sodium can come from processed and packaged foods rather than salt added at the table. Checking labels and choosing lower-sodium versions can reduce intake substantially."
+  },
+  {
+    "id": "nutrition-041",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Caffeine",
+    "question": "Why can caffeine affect sleep even when consumed hours before bedtime?",
+    "choices": [
+      "Its stimulant effects can persist because clearance takes time",
+      "It immediately converts into alcohol",
+      "It permanently stops melatonin production",
+      "It always causes dehydration"
+    ],
+    "answerIndex": 0,
+    "explanation": "Caffeine is a stimulant with effects that may persist for several hours. Sensitivity and clearance vary, so timing matters for people whose sleep is affected."
+  },
+  {
+    "id": "nutrition-042",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Alcohol",
+    "question": "Alcohol provides energy but is not an essential nutrient.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answerIndex": 1,
+    "explanation": "Alcohol supplies calories, but the body does not require it for health. Its energy contribution does not make it an essential nutrient."
+  },
+  {
+    "id": "nutrition-043",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Superfoods",
+    "question": "What is the main problem with treating one food as a 'superfood'?",
+    "choices": [
+      "No plant food contains nutrients",
+      "Every nutrient must come from supplements",
+      "One food cannot compensate for an unbalanced overall diet",
+      "Colorful foods are always unsafe"
+    ],
+    "answerIndex": 2,
+    "explanation": "No single food determines health or supplies everything the body needs. Dietary variety and the overall pattern are more meaningful than a superfood label."
+  },
+  {
+    "id": "nutrition-044",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Organic food",
+    "question": "What does organic certification primarily describe?",
+    "choices": [
+      "A guaranteed higher vitamin content",
+      "A food with zero environmental impact",
+      "A product that cannot contain sugar",
+      "Standards for production, handling, and labeling"
+    ],
+    "answerIndex": 3,
+    "explanation": "Organic labels relate to regulated production and handling standards. They do not automatically guarantee that a product is more nutritious or environmentally impact-free."
+  },
+  {
+    "id": "nutrition-045",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Sports nutrition",
+    "question": "An athlete has a demanding training session tomorrow. Which macronutrient is especially important for replenishing muscle glycogen?",
+    "choices": [
+      "Carbohydrate",
+      "Alcohol",
+      "Cholesterol",
+      "Trans fat"
+    ],
+    "answerIndex": 0,
+    "explanation": "Carbohydrate replenishes glycogen used during demanding exercise. Adequate intake supports the fuel supply for subsequent training."
+  },
+  {
+    "id": "nutrition-046",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Sports nutrition",
+    "question": "What combination commonly supports recovery after exercise?",
+    "choices": [
+      "Alcohol for hydration and salt for sleep",
+      "Protein for repair and carbohydrate for glycogen",
+      "Fiber alone for muscle synthesis",
+      "Saturated fat and caffeine only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Protein supplies amino acids for repair and adaptation, while carbohydrate helps restore glycogen. The ideal amount and timing depend on the session and the person's broader diet."
+  },
+  {
+    "id": "nutrition-047",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Sports nutrition",
+    "question": "A recreational exerciser finishes a moderate session and will not train again until tomorrow. Must they consume a supplement within minutes?",
+    "choices": [
+      "Yes, or all adaptation is lost",
+      "Yes, but only a fat supplement",
+      "No, a suitable meal within the broader recovery period can work",
+      "No, because food after exercise has no effect"
+    ],
+    "answerIndex": 2,
+    "explanation": "Recovery nutrition is not limited to a tiny universal window immediately after exercise. A normal balanced meal can meet the needs of many recreational exercisers when the next session is not imminent."
+  },
+  {
+    "id": "nutrition-048",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Sports nutrition",
+    "question": "As exercise intensity rises, the body generally relies more heavily on which fuel?",
+    "choices": [
+      "Dietary fiber",
+      "Alcohol",
+      "Minerals",
+      "Carbohydrate"
+    ],
+    "answerIndex": 3,
+    "explanation": "Higher-intensity work relies increasingly on carbohydrate because it can supply energy rapidly. Fat contributes more prominently at lower intensities, though fuels overlap."
+  },
+  {
+    "id": "nutrition-049",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Sports nutrition",
+    "question": "Exercising before breakfast automatically produces greater long-term fat loss.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answerIndex": 0,
+    "explanation": "Using a greater proportion of fat during one fasted session does not guarantee greater long-term body-fat loss. Overall energy balance, adherence, and the full training and dietary pattern remain important."
+  },
+  {
+    "id": "nutrition-050",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Healthy weight",
+    "question": "Why is body weight alone an incomplete measure of health?",
+    "choices": [
+      "Scales cannot measure mass",
+      "Health also involves body composition, behaviors, and clinical markers",
+      "Weight never changes",
+      "Only height determines health"
+    ],
+    "answerIndex": 1,
+    "explanation": "A scale shows total mass but not its composition or the full state of a person's health. Fitness, blood markers, habits, mental well-being, and disease risk add important context."
+  },
+  {
+    "id": "nutrition-051",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Weight management",
+    "question": "A client wants the fastest possible weight-loss plan and expects progress to stay linear. What is the most realistic guidance?",
+    "choices": [
+      "Weight will drop at the same rate forever",
+      "The strictest possible rules work for everyone",
+      "Sustainable change is usually gradual and plateaus can occur",
+      "Daily scale changes show only fat gain or loss"
+    ],
+    "answerIndex": 2,
+    "explanation": "Weight loss often slows as body size and energy needs change, and day-to-day weight fluctuates for many reasons. A sustainable plan emphasizes habits, adequate nutrition, and realistic expectations."
+  },
+  {
+    "id": "nutrition-052",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Energy balance",
+    "question": "What is required over time for body mass to decrease?",
+    "choices": [
+      "Energy intake must exceed expenditure",
+      "Protein intake must be zero",
+      "Every meal must be eaten before noon",
+      "Energy expenditure must exceed intake"
+    ],
+    "answerIndex": 3,
+    "explanation": "A sustained energy deficit is required for loss of body mass. The dietary method used to create that deficit still needs to be nutritionally adequate and maintainable."
+  },
+  {
+    "id": "nutrition-053",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Weight management",
+    "question": "Why can very restrictive diets be difficult to maintain?",
+    "choices": [
+      "Hunger, rigidity, and social constraints can undermine adherence",
+      "They always increase food variety",
+      "They permanently eliminate appetite",
+      "They require no planning"
+    ],
+    "answerIndex": 0,
+    "explanation": "Severe restriction can increase hunger, preoccupation with food, and difficulty eating socially. A plan that cannot be sustained is unlikely to support lasting change."
+  },
+  {
+    "id": "nutrition-054",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Weight management",
+    "question": "A client is choosing a commercial weight-loss program. Which feature is the strongest positive sign?",
+    "choices": [
+      "A promise of effortless rapid loss",
+      "Qualified support and realistic, flexible habits",
+      "A ban on every carbohydrate food",
+      "Testimonials offered instead of evidence"
+    ],
+    "answerIndex": 1,
+    "explanation": "A responsible program uses realistic expectations, balanced nutrition, and appropriately qualified support. Extreme promises and rigid exclusions are warning signs."
+  },
+  {
+    "id": "nutrition-055",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Body weight",
+    "question": "Which factor can change scale weight from one day to the next without reflecting a change in body fat?",
+    "choices": [
+      "Eye color",
+      "Bone length",
+      "Fluid balance",
+      "Blood type"
+    ],
+    "answerIndex": 2,
+    "explanation": "Fluid, glycogen, digestive contents, and hormonal changes can shift scale weight over short periods. Trends over time are more informative than a single reading."
+  },
+  {
+    "id": "nutrition-056",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Weight gain",
+    "question": "An underweight client wants to gain weight gradually while improving overall nutrition. Which approach is most appropriate?",
+    "choices": [
+      "Drink alcohol for extra calories",
+      "Eliminate protein",
+      "Skip meals and eat one very large snack",
+      "Add energy-dense nutritious foods and regular meals"
+    ],
+    "answerIndex": 3,
+    "explanation": "Gradually increasing energy with regular meals and nutrient-dense additions can support healthy weight gain. Protein and resistance exercise may help favor the development of lean tissue."
+  },
+  {
+    "id": "nutrition-057",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Appetite regulation",
+    "question": "Which hormone is commonly associated with signaling hunger and is produced mainly in the stomach?",
+    "choices": [
+      "Ghrelin",
+      "Leptin",
+      "Insulin-like growth factor only",
+      "Melatonin"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ghrelin is produced mainly in the stomach and rises in association with hunger. Appetite regulation is complex and is not controlled by ghrelin alone."
+  },
+  {
+    "id": "nutrition-058",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Appetite regulation",
+    "question": "Leptin is produced mainly by which tissue?",
+    "choices": [
+      "Tooth enamel",
+      "Adipose tissue",
+      "The lens of the eye",
+      "Tendons"
+    ],
+    "answerIndex": 1,
+    "explanation": "Leptin is produced chiefly by adipose tissue and communicates information about energy stores. Leptin signaling is one part of a wider appetite-regulation system."
+  },
+  {
+    "id": "nutrition-059",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Gut microbiome",
+    "question": "Current evidence proves that changing one bacterial species reliably causes weight loss in everyone.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answerIndex": 0,
+    "explanation": "Research links the microbiome with metabolism and body weight, but association does not establish a universal single-microbe treatment. Human responses are complex and evidence is still developing."
+  },
+  {
+    "id": "nutrition-060",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Low-carbohydrate diets",
+    "question": "What often explains the rapid initial scale drop on a low-carbohydrate diet?",
+    "choices": [
+      "Immediate loss of bone tissue",
+      "Permanent acceleration of metabolism",
+      "Complete removal of body fat",
+      "Loss of glycogen-associated water"
+    ],
+    "answerIndex": 3,
+    "explanation": "Stored glycogen is associated with water, so depleting glycogen can produce a quick decline in body water and scale weight. That initial change is not all body fat."
+  },
+  {
+    "id": "nutrition-061",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Low-carbohydrate diets",
+    "question": "For which condition has a carefully supervised ketogenic diet long had a specific therapeutic use?",
+    "choices": [
+      "Drug-resistant epilepsy",
+      "Seasonal allergies",
+      "Near-sightedness",
+      "Sprained ankles"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ketogenic diets have an established clinical role for some people with drug-resistant epilepsy. A therapeutic diet used under specialist care is different from a general weight-loss trend."
+  },
+  {
+    "id": "nutrition-062",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Intermittent fasting",
+    "question": "A client asks whether intermittent fasting produces unique fat loss when calories and adherence are equal. What is the best answer?",
+    "choices": [
+      "It always doubles fat loss",
+      "It is mainly one scheduling method and is not uniquely superior",
+      "It works only because breakfast is harmful",
+      "It prevents all metabolic adaptation"
+    ],
+    "answerIndex": 1,
+    "explanation": "Intermittent fasting can help some people organize intake, but it is not consistently superior when energy intake and adherence are comparable. Its suitability depends on the individual and context."
+  },
+  {
+    "id": "nutrition-063",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Meal timing",
+    "question": "Everyone must eat breakfast to have a healthy diet.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answerIndex": 0,
+    "explanation": "Breakfast can be useful and nutritious, but no single meal schedule is mandatory for every healthy adult. Overall diet quality and individual needs matter more than a universal rule."
+  },
+  {
+    "id": "nutrition-064",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Diet myths",
+    "question": "What is a common weakness of detox diets?",
+    "choices": [
+      "They contain too much dietary variety",
+      "They always provide adequate protein",
+      "They are identical to medical treatment",
+      "They overstate the need for special products to perform normal elimination"
+    ],
+    "answerIndex": 3,
+    "explanation": "The liver, kidneys, lungs, gut, and skin already process and eliminate waste. Restrictive detox products do not replace these systems and may reduce nutrient intake."
+  },
+  {
+    "id": "nutrition-065",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Diet myths",
+    "question": "A client sees an influencer claim that a tea 'melts fat' without any other change. What is the most evidence-based response?",
+    "choices": [
+      "A single drink cannot bypass the determinants of energy balance",
+      "Herbal wording guarantees effectiveness",
+      "The claim is true if the tea is expensive",
+      "Fat loss never involves dietary patterns"
+    ],
+    "answerIndex": 0,
+    "explanation": "No tea can independently override energy balance, physiology, and behavior to produce substantial fat loss. Marketing claims should be judged against credible evidence rather than anecdotes."
+  },
+  {
+    "id": "nutrition-066",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Plant-based nutrition",
+    "question": "What does 'plant-based' most accurately imply?",
+    "choices": [
+      "A diet made only of raw fruit",
+      "A diet centered on plant foods, with exact exclusions varying",
+      "A diet that always includes fish",
+      "A regulated synonym for low calorie"
+    ],
+    "answerIndex": 1,
+    "explanation": "Plant-based describes an emphasis on foods from plants, but it does not have one universally fixed definition. Some plant-based patterns include limited animal foods, while vegan diets exclude them."
+  },
+  {
+    "id": "nutrition-067",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Plant-based nutrition",
+    "question": "Why does the quality of a plant-based diet still matter?",
+    "choices": [
+      "Every vegan product is nutritionally identical",
+      "Plants contain no micronutrients",
+      "Plant-based sweets and refined foods can still be high in salt, sugar, or saturated fat",
+      "Only animal foods provide energy"
+    ],
+    "answerIndex": 2,
+    "explanation": "A plant-based label does not automatically make a food balanced or nutrient-dense. Whole grains, legumes, vegetables, fruits, nuts, and seeds form a stronger foundation than highly refined products."
+  },
+  {
+    "id": "nutrition-068",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Plant-based nutrition",
+    "question": "A client who recently became vegan asks which nutrient generally requires a reliable fortified source or supplement. Which is the priority?",
+    "choices": [
+      "Vitamin C",
+      "Carbohydrate",
+      "Fiber",
+      "Vitamin B12"
+    ],
+    "answerIndex": 3,
+    "explanation": "Vitamin B12 is not reliably supplied by unfortified plant foods. People following vegan diets need a dependable fortified food or supplement source."
+  },
+  {
+    "id": "nutrition-069",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Plant protein",
+    "question": "How can someone eating only plants obtain all essential amino acids?",
+    "choices": [
+      "Eat adequate amounts from a varied selection of plant proteins",
+      "Consume one specific food at every meal",
+      "Avoid grains whenever legumes are eaten",
+      "Use sugar to convert nonessential amino acids"
+    ],
+    "answerIndex": 0,
+    "explanation": "A varied plant-based diet with sufficient energy and protein can provide all essential amino acids. Complementary proteins do not generally need to be combined in the same mouthful or meal."
+  },
+  {
+    "id": "nutrition-070",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Plant protein",
+    "question": "Beans and grains must be eaten in the same meal for their amino acids to count.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "The body maintains an amino-acid pool across meals. Variety over the day is more important than rigidly pairing complementary proteins at every meal."
+  },
+  {
+    "id": "nutrition-071",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Plant-based minerals",
+    "question": "Which compound in some plant foods can reduce absorption of minerals such as iron and zinc?",
+    "choices": [
+      "Glycogen",
+      "Lactose",
+      "Phytate",
+      "Creatine"
+    ],
+    "answerIndex": 2,
+    "explanation": "Phytate can bind certain minerals and reduce their absorption. Soaking, sprouting, fermenting, and cooking can reduce phytate or improve mineral availability."
+  },
+  {
+    "id": "nutrition-072",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Plant-based iron",
+    "question": "A plant-based client wants to improve absorption of iron from lentils. What could they add to the meal?",
+    "choices": [
+      "A large dose of calcium at the same time",
+      "Tea with the meal",
+      "Only coconut oil",
+      "A vitamin C-rich pepper"
+    ],
+    "answerIndex": 3,
+    "explanation": "Vitamin C can increase absorption of non-heme iron from plant foods. Tea and large amounts of calcium taken with the meal may inhibit absorption in some contexts."
+  },
+  {
+    "id": "nutrition-073",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Plant-based omega-3",
+    "question": "Which food provides the short-chain omega-3 fat ALA?",
+    "choices": [
+      "Flaxseed",
+      "Table salt",
+      "White sugar",
+      "Gelatin"
+    ],
+    "answerIndex": 0,
+    "explanation": "Flaxseed, chia seed, walnuts, and some oils provide alpha-linolenic acid, or ALA. Conversion from ALA to the longer-chain fats EPA and DHA is limited."
+  },
+  {
+    "id": "nutrition-074",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Sustainable diets",
+    "question": "Which general dietary shift can reduce food-related environmental pressure?",
+    "choices": [
+      "Discarding edible leftovers",
+      "Emphasizing diverse plant foods and reducing food waste",
+      "Choosing only heavily packaged single portions",
+      "Increasing reliance on air-freighted foods year-round"
+    ],
+    "answerIndex": 1,
+    "explanation": "Plant-rich patterns and reduced food waste can lower several environmental burdens. Sustainability also depends on production methods, transport, season, packaging, and local context."
+  },
+  {
+    "id": "nutrition-075",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Plant-based planning",
+    "question": "A vegan client relies mostly on fries, cookies, and meat substitutes. What is the most useful improvement?",
+    "choices": [
+      "Remove all carbohydrate foods",
+      "Add more products labeled vegan regardless of composition",
+      "Build meals around legumes, whole grains, vegetables, nuts, and seeds",
+      "Stop eating fruit because it contains sugar"
+    ],
+    "answerIndex": 2,
+    "explanation": "A nutritionally strong vegan diet needs variety and minimally processed staples, not merely the absence of animal foods. Fortification and targeted supplementation may also be needed."
+  },
+  {
+    "id": "nutrition-076",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Immune health",
+    "question": "Which statement best describes nutrition and immunity?",
+    "choices": [
+      "One food can permanently boost immunity",
+      "Supplements prevent every infection",
+      "Avoiding carbohydrate activates all immune cells",
+      "Adequate overall nutrition supports normal immune function"
+    ],
+    "answerIndex": 3,
+    "explanation": "The immune system depends on adequate energy, protein, vitamins, and minerals. No single food can make it invulnerable or replace vaccination, sleep, hygiene, and medical care."
+  },
+  {
+    "id": "nutrition-077",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Vitamin D",
+    "question": "Why can obtaining enough vitamin D from food alone be difficult?",
+    "choices": [
+      "Vitamin D occurs naturally in relatively few foods",
+      "Vitamin D is destroyed by all chewing",
+      "Plants contain every vitamin except C",
+      "The body cannot absorb fortified nutrients"
+    ],
+    "answerIndex": 0,
+    "explanation": "Few foods naturally contain substantial vitamin D, though oily fish, egg yolk, some mushrooms, and fortified foods contribute. Sun exposure, season, skin, location, and public-health guidance affect vitamin D status."
+  },
+  {
+    "id": "nutrition-078",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Supplements",
+    "question": "A client suspects a vitamin D deficiency and plans to take a very high dose indefinitely. What is the safest guidance?",
+    "choices": [
+      "Use more because fat-soluble vitamins cannot accumulate",
+      "Seek professional advice and follow evidence-based dosing",
+      "Replace every meal with supplements",
+      "Judge deficiency from tiredness alone"
+    ],
+    "answerIndex": 1,
+    "explanation": "Vitamin D is fat-soluble, and excessive supplemental doses can cause harm. Testing, risk factors, local guidance, and professional advice should inform treatment."
+  },
+  {
+    "id": "nutrition-079",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Sleep and diet",
+    "question": "How can poor sleep affect eating behavior?",
+    "choices": [
+      "It eliminates the need for energy",
+      "It prevents digestion completely",
+      "It may alter appetite regulation and food choices",
+      "It guarantees weight loss"
+    ],
+    "answerIndex": 2,
+    "explanation": "Insufficient sleep can influence hunger, reward responses, and dietary choices. Sleep and nutrition have a two-way relationship rather than a simple single-cause link."
+  },
+  {
+    "id": "nutrition-080",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Menopause nutrition",
+    "question": "Which nutrient is especially relevant to bone health around and after menopause?",
+    "choices": [
+      "Alcohol",
+      "Added sugar",
+      "Trans fat",
+      "Calcium"
+    ],
+    "answerIndex": 3,
+    "explanation": "Calcium, together with vitamin D and weight-bearing activity, supports bone health. Falling estrogen levels increase the importance of protecting bone during and after menopause."
+  },
+  {
+    "id": "nutrition-081",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Healthy aging",
+    "question": "An older client has a small appetite and is losing strength. Which meal strategy is most helpful?",
+    "choices": [
+      "Include protein-rich, nutrient-dense foods across the day",
+      "Drink water instead of eating",
+      "Avoid resistance exercise and all fat",
+      "Save all protein for one weekly meal"
+    ],
+    "answerIndex": 0,
+    "explanation": "Older adults may benefit from protein distributed across meals along with enough total energy and micronutrients. Resistance activity complements nutrition in preserving muscle and function."
+  },
+  {
+    "id": "nutrition-082",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Brain health",
+    "question": "Which dietary pattern is most consistently associated with support for cardiovascular and brain health?",
+    "choices": [
+      "A juice-only cleanse",
+      "A varied Mediterranean-style pattern",
+      "A diet made entirely of supplements",
+      "A pattern high in trans fat and refined sugar"
+    ],
+    "answerIndex": 1,
+    "explanation": "Mediterranean-style patterns emphasize vegetables, fruit, legumes, whole grains, nuts, olive oil, and fish. Evidence concerns the overall pattern, not a guarantee from any one food."
+  },
+  {
+    "id": "nutrition-083",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Digestive symptoms",
+    "question": "What commonly causes the sensation of bloating?",
+    "choices": [
+      "A permanent increase in body fat after one meal",
+      "Loss of all gut bacteria",
+      "Gas, digestive contents, or altered gut sensitivity",
+      "Only gluten in every person"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bloating can involve gas production, constipation, meal volume, fluid shifts, or heightened gut sensitivity. Persistent or severe symptoms warrant assessment rather than indiscriminate food restriction."
+  },
+  {
+    "id": "nutrition-084",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Digestive symptoms",
+    "question": "A client frequently feels bloated and wants to eliminate ten food groups at once. What is the better first step?",
+    "choices": [
+      "Begin the widest possible elimination immediately",
+      "Stop drinking water",
+      "Assume bloating proves a food allergy",
+      "Track symptoms and seek qualified assessment before major restriction"
+    ],
+    "answerIndex": 3,
+    "explanation": "Broad unsupervised elimination can create deficiencies and make triggers harder to identify. A symptom record and professional assessment can guide a structured approach and screen for medical causes."
+  },
+  {
+    "id": "nutrition-085",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Diarrhea",
+    "question": "Why can diarrhea lead to dehydration?",
+    "choices": [
+      "The bowel loses water and electrolytes before enough can be reabsorbed",
+      "The liver permanently stops making bile",
+      "Protein turns into body heat",
+      "The stomach absorbs too much calcium"
+    ],
+    "answerIndex": 0,
+    "explanation": "Rapid intestinal transit can prevent adequate water and electrolyte reabsorption. Replacing fluid is important, and persistent or severe diarrhea needs medical attention."
+  },
+  {
+    "id": "nutrition-086",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Allergy and intolerance",
+    "question": "What distinguishes a food allergy from many food intolerances?",
+    "choices": [
+      "An intolerance always causes anaphylaxis",
+      "An allergy involves the immune system",
+      "An allergy depends only on food preference",
+      "An intolerance can never cause symptoms"
+    ],
+    "answerIndex": 1,
+    "explanation": "A food allergy is an immune reaction and can be severe even with small exposures. Intolerances use different mechanisms and are generally not immune-mediated."
+  },
+  {
+    "id": "nutrition-087",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Food allergy",
+    "question": "A client develops breathing difficulty and swelling soon after eating peanuts. What action is appropriate?",
+    "choices": [
+      "Wait several days to see whether it passes",
+      "Recommend a home elimination test",
+      "Treat it as a possible emergency and follow the person's allergy plan",
+      "Give a probiotic and continue the meal"
+    ],
+    "answerIndex": 2,
+    "explanation": "Breathing difficulty and swelling can indicate anaphylaxis, which requires urgent emergency treatment. A prescribed epinephrine auto-injector should be used according to the person's emergency plan."
+  },
+  {
+    "id": "nutrition-088",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Lactose intolerance",
+    "question": "What causes lactose intolerance symptoms?",
+    "choices": [
+      "An immune reaction to every milk protein",
+      "Excess iron absorption",
+      "A lack of stomach acid in all cases",
+      "Insufficient lactase to digest lactose fully"
+    ],
+    "answerIndex": 3,
+    "explanation": "Lactase breaks lactose into absorbable sugars in the small intestine. When lactase activity is low, lactose reaches the colon and can be fermented, causing gas and other symptoms."
+  },
+  {
+    "id": "nutrition-089",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Gluten",
+    "question": "A gluten-free diet is automatically healthier for everyone.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answerIndex": 0,
+    "explanation": "Gluten avoidance is medically necessary for conditions such as celiac disease, but it is not inherently healthier for the general population. Unnecessary restriction can reduce variety and fiber."
+  },
+  {
+    "id": "nutrition-090",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Celiac disease",
+    "question": "A client suspects celiac disease and intends to stop gluten before testing. What should they do first?",
+    "choices": [
+      "Avoid gluten for a year before seeking help",
+      "Discuss testing with a clinician while still eating gluten",
+      "Use a food-sensitivity test bought online",
+      "Assume symptoms alone confirm the diagnosis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Celiac tests are most reliable while gluten is still being consumed. Removing it beforehand can interfere with diagnosis, so clinical guidance should come first."
+  },
+  {
+    "id": "nutrition-091",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Pregnancy nutrition",
+    "question": "Which vitamin is especially important before conception and in early pregnancy because it helps prevent neural-tube defects?",
+    "choices": [
+      "Vitamin K only",
+      "Vitamin E only",
+      "Folate",
+      "Biotin"
+    ],
+    "answerIndex": 2,
+    "explanation": "Folate is crucial during early fetal development, including formation of the neural tube. Public-health guidance commonly recommends folic acid supplementation around conception and early pregnancy."
+  },
+  {
+    "id": "nutrition-092",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Pregnancy nutrition",
+    "question": "A pregnant client asks whether 'eating for two' means doubling calorie intake from the first trimester. What is the best response?",
+    "choices": [
+      "Yes, energy needs always double immediately",
+      "Yes, but only through sugary foods",
+      "No, pregnancy never changes nutritional needs",
+      "No, needs rise more modestly and diet quality remains central"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pregnancy does not require twice the usual energy intake, especially early on. Nutrient needs and later energy needs do change, so quality and individualized clinical advice matter."
+  },
+  {
+    "id": "nutrition-093",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Infant nutrition",
+    "question": "Why is iron-rich complementary food important from around the middle of the first year?",
+    "choices": [
+      "An infant's stored iron begins to run down",
+      "Breast milk becomes poisonous",
+      "Iron replaces the need for energy",
+      "Infants stop growing at that age"
+    ],
+    "answerIndex": 0,
+    "explanation": "Infants are born with iron stores that diminish over the first months of life. Age-appropriate iron-rich complementary foods help meet increasing needs as weaning begins."
+  },
+  {
+    "id": "nutrition-094",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Child feeding",
+    "question": "Which division of responsibility generally supports responsive feeding?",
+    "choices": [
+      "The child chooses only sweets; the caregiver controls every bite",
+      "The caregiver offers what, when, and where; the child decides whether and how much",
+      "The caregiver forces a clean plate at every meal",
+      "The child decides the family's entire shopping list"
+    ],
+    "answerIndex": 1,
+    "explanation": "Responsive feeding gives caregivers responsibility for providing suitable foods and structure. Children retain responsibility for responding to their hunger and fullness cues."
+  },
+  {
+    "id": "nutrition-095",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Child feeding",
+    "question": "A parent's child refuses a new vegetable the first time it is offered. What should the parent do?",
+    "choices": [
+      "Force the child to finish a full portion",
+      "Ban all familiar foods",
+      "Offer it calmly again on future occasions without pressure",
+      "Conclude the child will never eat it"
+    ],
+    "answerIndex": 2,
+    "explanation": "Children may need repeated, low-pressure exposure before accepting an unfamiliar food. Pressure and coercion can make the eating experience more negative."
+  },
+  {
+    "id": "nutrition-096",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Mental health",
+    "question": "What is the most accurate description of diet and mental health?",
+    "choices": [
+      "One nutrient cures every mental-health condition",
+      "Mental health is unrelated to physical health",
+      "Supplements always replace professional treatment",
+      "Diet can support mental well-being but is not a standalone cure"
+    ],
+    "answerIndex": 3,
+    "explanation": "Diet quality can interact with mood, energy, sleep, and wider mental well-being. It should complement, not replace, appropriate psychological or medical care."
+  },
+  {
+    "id": "nutrition-097",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Gut-brain axis",
+    "question": "What does the gut-brain axis describe?",
+    "choices": [
+      "Two-way communication between the digestive system and brain",
+      "A direct pipe carrying food into brain tissue",
+      "The conversion of every thought into glucose",
+      "A one-way signal from muscles to the stomach"
+    ],
+    "answerIndex": 0,
+    "explanation": "The gut and brain communicate through neural, hormonal, immune, and microbial pathways. This relationship is bidirectional and scientifically active, but it does not justify miracle claims."
+  },
+  {
+    "id": "nutrition-098",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Emotional eating",
+    "question": "A client notices they eat when stressed even without physical hunger. Which first step is constructive?",
+    "choices": [
+      "Use shame to stop the behavior",
+      "Observe triggers without judgment and develop other coping options",
+      "Skip meals the following day",
+      "Remove every enjoyable food from the home"
+    ],
+    "answerIndex": 1,
+    "explanation": "Recognizing emotional triggers creates space to choose among coping strategies rather than reacting automatically. Regular nourishment and compassionate support are more useful than restriction or shame."
+  },
+  {
+    "id": "nutrition-099",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Eating disorders",
+    "question": "Eating disorders can affect people at any body size.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Body appearance does not reveal whether someone has an eating disorder or disordered behaviors. Concerns deserve appropriate assessment regardless of weight or shape."
+  },
+  {
+    "id": "nutrition-100",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Nutrition information",
+    "question": "A client encounters conflicting nutrition claims online. Which source should carry the most weight?",
+    "choices": [
+      "A celebrity testimonial with no references",
+      "The claim repeated most often on social media",
+      "A product seller's before-and-after photograph",
+      "Consensus guidance and qualified professionals using the total evidence"
+    ],
+    "answerIndex": 3,
+    "explanation": "Reliable guidance considers the quality and totality of evidence and is transparent about uncertainty. Credentials, conflicts of interest, and whether claims match expert consensus are useful checks."
+  }
+]

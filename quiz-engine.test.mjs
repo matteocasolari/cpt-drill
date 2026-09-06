@@ -114,20 +114,34 @@ test("movement questions require an image and can be filtered", () => {
   assert.deepEqual(filterPool([movement, mcq()], "movements").map((q) => q.id), ["movement-push-up"]);
 });
 
+test("nutrition questions validate and can be filtered independently", () => {
+  const nutrition = mcq({
+    id: "nutrition-001",
+    source: "nutrition",
+    topic: "Macronutrients",
+    question: "Which macronutrient is the body's preferred fuel for strenuous exercise?",
+  });
+  assert.equal(validateQuestion(nutrition, new Set()).ok, true);
+  assert.deepEqual(
+    filterPool([nutrition, mcq(), mcq({ id: "shared", source: "both" })], "nutrition").map((q) => q.id),
+    ["nutrition-001"],
+  );
+});
+
 test("pickMixedSession represents every category", () => {
   const make = (source, index) => mcq({
     id: `${source}-${index}`,
     source,
     image: ["exercises", "muscles", "equipment", "movements"].includes(source) ? `${source}-${index}.png` : undefined,
   });
-  const bank = ["nasm", "nsca", "exercises", "muscles", "equipment", "movements"].flatMap((source) =>
+  const bank = ["nasm", "nsca", "nutrition", "exercises", "muscles", "equipment", "movements"].flatMap((source) =>
     Array.from({ length: 4 }, (_, index) => make(source, index))
   );
   const picked = pickMixedSession(bank, {}, 10, () => 0.5);
   const counts = Object.groupBy
     ? Object.fromEntries(Object.entries(Object.groupBy(picked, (q) => q.source)).map(([k, v]) => [k, v.length]))
     : picked.reduce((all, q) => ({ ...all, [q.source]: (all[q.source] || 0) + 1 }), {});
-  assert.deepEqual(counts, { nasm: 2, nsca: 2, exercises: 2, muscles: 2, equipment: 1, movements: 1 });
+  assert.deepEqual(counts, { nasm: 2, nsca: 2, nutrition: 2, exercises: 1, muscles: 1, equipment: 1, movements: 1 });
 });
 
 test("pickSession prefers unseen then previously wrong", () => {
@@ -193,6 +207,18 @@ test("loadProgress accepts valid persisted progress", () => {
     setItem() {},
     removeItem() {
       assert.fail("should not wipe valid progress");
+    },
+  };
+  assert.deepEqual(loadProgress(storage), valid);
+});
+
+test("loadProgress accepts nutrition as the last selected source", () => {
+  const valid = { lastScore: 7, lastSource: "nutrition", questions: {} };
+  const storage = {
+    getItem: () => JSON.stringify(valid),
+    setItem() {},
+    removeItem() {
+      assert.fail("should not wipe valid nutrition progress");
     },
   };
   assert.deepEqual(loadProgress(storage), valid);

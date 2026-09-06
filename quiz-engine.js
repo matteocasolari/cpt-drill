@@ -3,7 +3,8 @@ export const LEGACY_STORAGE_KEY = "ptDrill.v1";
 export const SESSION_SIZE = 10;
 
 const IMAGE_SOURCES = new Set(["exercises", "muscles", "equipment", "movements"]);
-const SOURCES = new Set(["nasm", "nsca", "both", ...IMAGE_SOURCES]);
+const CONTENT_SOURCES = new Set(["nasm", "nsca", "both", "nutrition"]);
+const SOURCES = new Set([...CONTENT_SOURCES, ...IMAGE_SOURCES]);
 const TYPES = new Set(["mcq", "tf", "scenario"]);
 
 export function emptyProgress() {
@@ -57,6 +58,9 @@ export function filterPool(questions, sourceFilter) {
   if (IMAGE_SOURCES.has(sourceFilter)) {
     return questions.filter((q) => q.source === sourceFilter);
   }
+  if (sourceFilter === "nutrition") {
+    return questions.filter((q) => q.source === sourceFilter);
+  }
   return questions.filter((q) => q.source === sourceFilter || q.source === "both");
 }
 
@@ -69,7 +73,7 @@ function shuffle(arr, random) {
   return a;
 }
 
-const VALID_LAST_SOURCES = new Set(["nasm", "nsca", "mixed", ...IMAGE_SOURCES]);
+const VALID_LAST_SOURCES = new Set(["nasm", "nsca", "nutrition", "mixed", ...IMAGE_SOURCES]);
 
 function isQuestionStat(value) {
   return (
@@ -122,6 +126,7 @@ export function pickMixedSession(questions, stats, count, random) {
   const groups = [
     questions.filter((q) => q.source === "nasm" || q.source === "both"),
     questions.filter((q) => q.source === "nsca"),
+    questions.filter((q) => q.source === "nutrition"),
     questions.filter((q) => q.source === "exercises"),
     questions.filter((q) => q.source === "muscles"),
     questions.filter((q) => q.source === "equipment"),

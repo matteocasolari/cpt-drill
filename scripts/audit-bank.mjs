@@ -62,6 +62,7 @@ const mix = {
     nasm: count(questions, "source", "nasm"),
     nsca: count(questions, "source", "nsca"),
     both: count(questions, "source", "both"),
+    nutrition: count(questions, "source", "nutrition"),
   },
   type: {
     mcq: count(questions, "type", "mcq"),
@@ -70,7 +71,7 @@ const mix = {
   },
   servedPools: {},
 };
-for (const p of ["nasm", "nsca", "mixed"]) {
+for (const p of ["nasm", "nsca", "nutrition", "mixed"]) {
   const pool = filterPool(questions, p);
   mix.servedPools[p] = {
     n: pool.length,
