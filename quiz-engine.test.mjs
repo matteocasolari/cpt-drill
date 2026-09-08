@@ -13,6 +13,14 @@ import {
   saveProgress,
   recordAnswer,
   emptyProgress,
+  PROGRESS_VERSION,
+  MAX_SESSIONS,
+  createSessionSummary,
+  recordSession,
+  calculateAnalytics,
+  createBackup,
+  parseBackup,
+  mergeProgress,
 } from "./quiz-engine.js";
 
 const mcq = (over = {}) => ({
@@ -28,7 +36,7 @@ const mcq = (over = {}) => ({
 });
 
 test("constants", () => {
-  assert.equal(STORAGE_KEY, "cptDrill.v1");
+  assert.equal(STORAGE_KEY, "cptDrill.v2");
   assert.equal(SESSION_SIZE, 10);
 });
 
@@ -192,7 +200,9 @@ test("loadProgress wipes parseable but invalid progress", () => {
     };
     const p = loadProgress(storage);
     assert.equal(removed, true, JSON.stringify(invalid));
-    assert.deepEqual(p, emptyProgress(), JSON.stringify(invalid));
+    assert.equal(p.lastScore, null, JSON.stringify(invalid));
+    assert.deepEqual(p.questions, {}, JSON.stringify(invalid));
+    assert.deepEqual(p.sessions, [], JSON.stringify(invalid));
   }
 });
 
@@ -209,7 +219,11 @@ test("loadProgress accepts valid persisted progress", () => {
       assert.fail("should not wipe valid progress");
     },
   };
-  assert.deepEqual(loadProgress(storage), valid);
+  const loaded = loadProgress(storage);
+  assert.equal(loaded.lastScore, valid.lastScore);
+  assert.equal(loaded.lastSource, valid.lastSource);
+  assert.deepEqual(loaded.questions, valid.questions);
+  assert.equal(loaded.version, 2);
 });
 
 test("loadProgress accepts nutrition as the last selected source", () => {
@@ -221,7 +235,10 @@ test("loadProgress accepts nutrition as the last selected source", () => {
       assert.fail("should not wipe valid nutrition progress");
     },
   };
-  assert.deepEqual(loadProgress(storage), valid);
+  const loaded = loadProgress(storage);
+  assert.equal(loaded.lastScore, valid.lastScore);
+  assert.equal(loaded.lastSource, valid.lastSource);
+  assert.deepEqual(loaded.questions, {});
 });
 
 test("loadProgress migrates the legacy storage key", () => {
@@ -232,9 +249,12 @@ test("loadProgress migrates the legacy storage key", () => {
     setItem: (key, value) => { memory[key] = value; },
     removeItem: (key) => { delete memory[key]; },
   };
-  assert.deepEqual(loadProgress(storage), valid);
+  const loaded = loadProgress(storage);
+  assert.equal(loaded.lastScore, valid.lastScore);
+  assert.equal(loaded.lastSource, valid.lastSource);
+  assert.deepEqual(loaded.questions, {});
   assert.equal(memory[LEGACY_STORAGE_KEY], undefined);
-  assert.equal(memory[STORAGE_KEY], JSON.stringify(valid));
+  assert.equal(JSON.parse(memory[STORAGE_KEY]).version, 2);
 });
 
 test("recordAnswer increments wrong only when incorrect", () => {
@@ -259,4 +279,162 @@ test("saveProgress roundtrip", () => {
   p.lastSource = "nasm";
   saveProgress(storage, p);
   assert.equal(JSON.parse(mem[STORAGE_KEY]).lastScore, 4);
+});
+
+test("emptyProgress creates a versioned history container", () => {
+  const progress = emptyProgress("dataset-test");
+  assert.equal(progress.version, PROGRESS_VERSION);
+  assert.equal(progress.datasetId, "dataset-test");
+  assert.deepEqual(progress.sessions, []);
+});
+
+test("loadProgress migrates v1 progress into v2", () => {
+  const old = {
+    lastScore: 8,
+    lastSource: "nasm",
+    questions: { q1: { seen: 2, wrong: 1, lastSeen: 100 } },
+  };
+  const values = new Map([["cptDrill.v1", JSON.stringify(old)]]);
+  const storage = {
+    getItem: (key) => values.get(key) || null,
+    setItem: (key, value) => values.set(key, value),
+    removeItem: (key) => values.delete(key),
+  };
+  const migrated = loadProgress(storage);
+  assert.equal(migrated.version, 2);
+  assert.equal(migrated.lastScore, 8);
+  assert.deepEqual(migrated.questions, old.questions);
+  assert.deepEqual(migrated.sessions, []);
+  assert.ok(values.has("cptDrill.v2"));
+  assert.equal(values.has("cptDrill.v1"), false);
+});
+
+test("createSessionSummary groups answered questions and excludes skips", () => {
+  const questions = [
+    mcq({ id: "q1", source: "nasm", topic: "Assessment" }),
+    mcq({ id: "q2", source: "nutrition", topic: "Protein" }),
+    mcq({ id: "q3", source: "nasm", topic: "Assessment" }),
+  ];
+  const summary = createSessionSummary({
+    id: "session-1",
+    completedAt: 1234,
+    mode: "mixed",
+    questions,
+    responses: [{ chosen: 2, correct: true }, { chosen: 0, correct: false }, null],
+  });
+  assert.deepEqual(summary, {
+    id: "session-1",
+    completedAt: 1234,
+    mode: "mixed",
+    score: 1,
+    answered: 2,
+    total: 3,
+    sources: {
+      nasm: { label: "NASM", correct: 1, attempted: 1 },
+      nutrition: { label: "Nutrition", correct: 0, attempted: 1 },
+    },
+    topics: {
+      Assessment: { correct: 1, attempted: 1 },
+      Protein: { correct: 0, attempted: 1 },
+    },
+  });
+});
+
+test("recordSession deduplicates, sorts, and bounds history", () => {
+  let progress = emptyProgress("dataset-test");
+  for (let index = MAX_SESSIONS; index >= 0; index -= 1) {
+    progress = recordSession(progress, {
+      id: `s-${index}`,
+      completedAt: index + 1,
+      mode: "mixed",
+      score: 1,
+      answered: 1,
+      total: 1,
+      sources: { nasm: { label: "NASM", correct: 1, attempted: 1 } },
+      topics: { Assessment: { correct: 1, attempted: 1 } },
+    });
+  }
+  progress = recordSession(progress, progress.sessions[0]);
+  assert.equal(progress.sessions.length, MAX_SESSIONS);
+  assert.equal(progress.sessions[0].id, "s-1");
+  assert.equal(progress.sessions.at(-1).id, "s-500");
+});
+
+const session = (over = {}) => ({
+  id: "session-1",
+  completedAt: 1000,
+  mode: "mixed",
+  score: 1,
+  answered: 2,
+  total: 2,
+  sources: {
+    nasm: { label: "NASM", correct: 1, attempted: 2 },
+  },
+  topics: {
+    Assessment: { correct: 1, attempted: 2 },
+  },
+  ...over,
+});
+
+test("calculateAnalytics summarizes overall, sources, topics, and trend", () => {
+  const analytics = calculateAnalytics([
+    session(),
+    session({
+      id: "session-2",
+      completedAt: 2000,
+      score: 2,
+      sources: { nutrition: { label: "Nutrition", correct: 2, attempted: 2 } },
+      topics: { Protein: { correct: 2, attempted: 2 } },
+    }),
+  ]);
+  assert.deepEqual(analytics.overall, { sessions: 2, correct: 3, attempted: 4, accuracy: 75 });
+  assert.deepEqual(analytics.series.map((point) => point.accuracy), [50, 100]);
+  assert.equal(analytics.sources.find((item) => item.key === "nasm").accuracy, 50);
+  assert.equal(analytics.sources.find((item) => item.key === "nutrition").accuracy, 100);
+  assert.equal(analytics.sources.find((item) => item.key === "muscles").accuracy, null);
+  assert.equal(analytics.topics[0].topic, "Assessment");
+  assert.equal(analytics.trend.direction, "up");
+});
+
+test("calculateAnalytics does not claim a trend from one session", () => {
+  assert.equal(calculateAnalytics([session()]).trend.direction, "insufficient");
+});
+
+test("backup parsing validates format and merge is repeatable", () => {
+  const current = recordSession(emptyProgress("local"), session());
+  const importedProgress = recordSession(
+    { ...emptyProgress("remote"), questions: { q2: { seen: 3, wrong: 1, lastSeen: 2000 } } },
+    session({ id: "session-2", completedAt: 2000 }),
+  );
+  const backup = createBackup(importedProgress, 3000);
+  const parsed = parseBackup(JSON.stringify(backup));
+  const merged = mergeProgress(current, parsed.progress);
+  const mergedAgain = mergeProgress(merged, parsed.progress);
+  assert.equal(merged.sessions.length, 2);
+  assert.deepEqual(mergedAgain.sessions, merged.sessions);
+  assert.deepEqual(mergedAgain.questions, merged.questions);
+  assert.throws(() => parseBackup("{"), /valid JSON/);
+  assert.throws(() => parseBackup(JSON.stringify({ format: "other", version: 1 })), /backup format/);
+  assert.throws(() => parseBackup("x".repeat(2 * 1024 * 1024 + 1)), /too large/);
+});
+
+test("mergeProgress rejects conflicting sessions with the same id", () => {
+  const current = recordSession(emptyProgress("local"), session());
+  const imported = recordSession(emptyProgress("remote"), session({
+    score: 2,
+    sources: { nasm: { label: "NASM", correct: 2, attempted: 2 } },
+    topics: { Assessment: { correct: 2, attempted: 2 } },
+  }));
+  assert.throws(() => mergeProgress(current, imported), /conflicting session/);
+});
+
+test("parseBackup rejects impossible question and session totals", () => {
+  const badQuestions = emptyProgress("bad-questions");
+  badQuestions.questions.q1 = { seen: 1, wrong: 2, lastSeen: 1000 };
+  badQuestions.datasets[badQuestions.datasetId] = badQuestions.questions;
+  assert.throws(() => parseBackup(JSON.stringify(createBackup(badQuestions, 2000))), /invalid/);
+
+  const badSession = recordSession(emptyProgress("bad-session"), session());
+  badSession.sessions[0].sources.nasm.attempted = 1;
+  assert.throws(() => parseBackup(JSON.stringify(createBackup(badSession, 2000))), /invalid/);
 });

@@ -1,6 +1,6 @@
 # CPT Drill
 
-Personal NASM, NSCA, nutrition, exercise-identification, muscle-identification, gym-equipment-identification, and movement-identification practice drill. Each session serves **10** questions. Progress (scores, per-question stats) is stored in the browser under the `cptDrill.v1` localStorage key.
+Personal NASM, NSCA, nutrition, exercise-identification, muscle-identification, gym-equipment-identification, and movement-identification practice drill. Each session serves **10** questions. Progress is stored locally in the browser under the `cptDrill.v2` localStorage key; existing v1 progress is migrated automatically.
 
 ## Run locally
 
@@ -25,7 +25,11 @@ After merging to `main`:
 
 The site will be served from the repository root (`index.html`, `app.js`, `styles.css`, `data/`).
 
-## Source filter and reset progress
+## Progress, backup, and source filters
+
+The **Progress** screen records completed sessions and shows overall accuracy, recent score trends, a source-first breakdown, and a weakest-first topic breakdown. Confirmed answers still update question scheduling immediately, but only completed sessions appear in the dashboard history. Up to the 500 most recent completed sessions are retained.
+
+Progress never leaves the device automatically. Use **Export backup** to download a JSON copy and **Import backup** to merge a copy from another browser or device. Re-importing the same backup does not duplicate its sessions or question counts. Clearing browser/site data removes any progress that has not been exported.
 
 On the home screen, pick a question source before starting:
 
@@ -38,7 +42,7 @@ On the home screen, pick a question source before starting:
 - **Equipment** — image-only gym-equipment identification questions with related distractors.
 - **Movements** — image-only flexibility, bodyweight, and stability-ball movement identification questions.
 
-**Reset progress** (footer link) asks for confirmation, then clears the `cptDrill.v1` localStorage key and starts fresh.
+**Reset progress** (footer link) asks for confirmation, then clears saved question statistics and session history and starts fresh.
 
 During a quiz, use keys **1–4** to select an answer (true/false items only accept **1–2**) and **Enter** to confirm or continue. Wrong answers show an explanation; the results screen lists any misses from the session.
 

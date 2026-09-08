@@ -2,6 +2,7 @@ import {
   SESSION_SIZE,
   STORAGE_KEY,
   LEGACY_STORAGE_KEY,
+  PREVIOUS_STORAGE_KEYS,
   filterPool,
   pickSession,
   pickMixedSession,
@@ -10,6 +11,12 @@ import {
   recordAnswer,
   normalizeBank,
   emptyProgress,
+  createSessionSummary,
+  recordSession,
+  calculateAnalytics,
+  createBackup,
+  parseBackup,
+  mergeProgress,
 } from "./quiz-engine.js";
 
 const app = document.getElementById("app");
@@ -68,6 +75,7 @@ function safeClearProgress() {
   try {
     storage.removeItem(STORAGE_KEY);
     storage.removeItem(LEGACY_STORAGE_KEY);
+    PREVIOUS_STORAGE_KEYS.forEach((key) => storage.removeItem(key));
   } catch {
     warnStorageOnce("Could not clear progress from localStorage.");
   }
@@ -77,7 +85,7 @@ let questions = [];
 let progress = safeLoadProgress();
 
 const state = {
-  screen: "home", // "home" | "quiz" | "results" | "error"
+  screen: "home", // "home" | "quiz" | "results" | "progress" | "error"
   sourceFilter: "mixed",
   session: [],
   index: 0,
@@ -85,6 +93,8 @@ const state = {
   responses: [],
   score: 0,
   confirmFinish: false,
+  sessionSaved: false,
+  progressMessage: null,
 };
 
 function escapeHtml(value) {
@@ -157,10 +167,19 @@ function renderHome() {
 
   app.innerHTML = `
     <div class="stack">
-      <div>
-        <h1>CPT Drill</h1>
-        ${lastScoreLine}
-      </div>
+      <header class="home-header">
+        <div>
+          <h1>CPT Drill</h1>
+          ${lastScoreLine}
+        </div>
+        <button class="progress-shortcut" data-action="progress" aria-label="View progress">
+          <svg class="progress-shortcut-icon" viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M4 19V10M10 19V5M16 19v-7M22 19V2" />
+            <path d="M2 19h20" />
+          </svg>
+          <span>Progress</span>
+        </button>
+      </header>
       <div class="source-group" role="group" aria-label="Question source">
         ${sourceButton("mixed", "Mixed")}
         ${sourceButton("nasm", "NASM")}
@@ -277,9 +296,71 @@ function renderResults() {
     <div class="card">${missesHtml}</div>
     <div class="stack mt-1">
       <button class="primary" data-action="another">Another ${SESSION_SIZE}</button>
+      <button class="progress-result-link" data-action="progress">See progress →</button>
       <button data-action="home">Home</button>
     </div>
   `;
+}
+
+function formatAccuracy(value) {
+  return value === null ? "—" : `${value}%`;
+}
+
+function trendCopy(trend) {
+  if (trend.direction === "insufficient") return "Complete at least two sessions to see a trend.";
+  if (trend.direction === "flat") return "Your recent average is holding steady.";
+  return `Your recent average is ${trend.direction === "up" ? "up" : "down"} ${Math.abs(trend.change)} percentage ${Math.abs(trend.change) === 1 ? "point" : "points"}.`;
+}
+
+function renderTrendChart(series) {
+  const points = series.slice(-30);
+  if (!points.length) return `<div class="chart-empty muted">Your completed sessions will appear here.</div>`;
+  const width = 600;
+  const height = 190;
+  const pad = 24;
+  const x = (index) => points.length === 1 ? width / 2 : pad + (index / (points.length - 1)) * (width - pad * 2);
+  const y = (value) => height - pad - ((value || 0) / 100) * (height - pad * 2);
+  const coordinates = points.map((point, index) => `${x(index)},${y(point.accuracy)}`).join(" ");
+  const dots = points.map((point, index) => `<circle cx="${x(index)}" cy="${y(point.accuracy)}" r="4"><title>${formatAccuracy(point.accuracy)} · ${new Date(point.completedAt).toLocaleDateString()}</title></circle>`).join("");
+  return `<svg class="trend-chart" viewBox="0 0 ${width} ${height}" role="img" aria-label="Session accuracy over time">
+    <line x1="${pad}" y1="${y(100)}" x2="${width - pad}" y2="${y(100)}" />
+    <line x1="${pad}" y1="${y(50)}" x2="${width - pad}" y2="${y(50)}" />
+    <line x1="${pad}" y1="${y(0)}" x2="${width - pad}" y2="${y(0)}" />
+    <polyline points="${coordinates}" />${dots}
+  </svg>`;
+}
+
+function renderProgress() {
+  const analytics = calculateAnalytics(progress.sessions);
+  const sourceRows = analytics.sources.map((item) => `
+    <div class="source-stat">
+      <div class="source-stat-heading"><strong>${escapeHtml(item.label)}</strong><span>${formatAccuracy(item.accuracy)}</span></div>
+      <div class="performance-bar" role="meter" aria-label="${escapeHtml(item.label)} accuracy" aria-valuemin="0" aria-valuemax="100" aria-valuenow="${item.accuracy || 0}"><span style="width:${item.accuracy || 0}%"></span></div>
+      <div class="muted stat-detail">${item.attempted ? `${item.correct} of ${item.attempted} correct` : "No attempts yet"}</div>
+    </div>`).join("");
+  const topicRows = analytics.topics.map((item) => `
+    <tr><th scope="row">${escapeHtml(item.topic)}</th><td>${formatAccuracy(item.accuracy)}</td><td>${item.correct}/${item.attempted}</td></tr>`).join("");
+  const message = state.progressMessage
+    ? `<p class="data-message ${state.progressMessage.type === "error" ? "is-error" : "is-success"}" role="status">${escapeHtml(state.progressMessage.text)}</p>`
+    : "";
+
+  app.innerHTML = `
+    <div class="page-heading"><div><p class="eyebrow">Your training</p><h1>Progress</h1></div><button data-action="home">← Home</button></div>
+    <section class="dashboard-grid" aria-label="Overall performance">
+      <div class="metric-card"><span>Accuracy</span><strong>${formatAccuracy(analytics.overall.accuracy)}</strong></div>
+      <div class="metric-card"><span>Sessions</span><strong>${analytics.overall.sessions}</strong></div>
+      <div class="metric-card"><span>Answered</span><strong>${analytics.overall.attempted}</strong></div>
+      <div class="metric-card"><span>Correct</span><strong>${analytics.overall.correct}</strong></div>
+    </section>
+    <section class="dashboard-section card"><div class="section-heading"><div><p class="eyebrow">Last 30 sessions</p><h2>Accuracy over time</h2></div></div>${renderTrendChart(analytics.series)}<p class="trend-summary">${escapeHtml(trendCopy(analytics.trend))}</p></section>
+    <section class="dashboard-section"><div class="section-heading"><div><p class="eyebrow">Main view</p><h2>Performance by source</h2></div></div><div class="source-stats">${sourceRows}</div></section>
+    <section class="dashboard-section"><div class="section-heading"><div><p class="eyebrow">Weakest first</p><h2>Performance by topic</h2></div></div>
+      ${topicRows ? `<div class="topic-table-wrap"><table class="topic-table"><thead><tr><th>Topic</th><th>Accuracy</th><th>Correct</th></tr></thead><tbody>${topicRows}</tbody></table></div>` : `<div class="card muted">Complete a session to unlock your topic breakdown.</div>`}
+    </section>
+    <section class="dashboard-section card data-controls"><div><h2>Keep a backup</h2><p class="muted">Progress lives only in this browser. Export a JSON file before clearing browser data or moving devices.</p></div>
+      <div class="data-actions"><button data-action="export">Export backup</button><button data-action="choose-import">Import backup</button></div>
+      <input class="visually-hidden" id="import-file" type="file" accept="application/json,.json" />${message}
+    </section>`;
 }
 
 function renderError() {
@@ -295,6 +376,7 @@ function render() {
   if (state.screen === "home") return renderHome();
   if (state.screen === "quiz") return renderQuiz();
   if (state.screen === "results") return renderResults();
+  if (state.screen === "progress") return renderProgress();
   if (state.screen === "error") return renderError();
 }
 
@@ -309,6 +391,7 @@ function startSession() {
   state.responses = Array(state.session.length).fill(null);
   state.score = 0;
   state.confirmFinish = false;
+  state.sessionSaved = false;
   progress = { ...progress, lastSource: state.sourceFilter };
   safeSaveProgress(progress);
   state.screen = "quiz";
@@ -351,9 +434,43 @@ function requestFinish() {
 
 function finishSession() {
   state.confirmFinish = false;
-  progress = { ...progress, lastScore: state.score };
+  if (!state.sessionSaved) {
+    const session = createSessionSummary({
+      completedAt: Date.now(),
+      mode: state.sourceFilter,
+      questions: state.session,
+      responses: state.responses,
+    });
+    progress = recordSession({ ...progress, lastScore: state.score }, session);
+    state.sessionSaved = true;
+  }
   safeSaveProgress(progress);
   state.screen = "results";
+  render();
+}
+
+function exportProgress() {
+  const json = JSON.stringify(createBackup(progress), null, 2);
+  const url = URL.createObjectURL(new Blob([json], { type: "application/json" }));
+  const link = document.createElement("a");
+  link.href = url;
+  link.download = `cpt-drill-backup-${new Date().toISOString().slice(0, 10)}.json`;
+  link.click();
+  URL.revokeObjectURL(url);
+  state.progressMessage = { type: "success", text: "Backup exported." };
+  render();
+}
+
+async function importProgress(file) {
+  try {
+    if (!file || file.size > 2 * 1024 * 1024) throw new Error("Backup file is too large.");
+    const backup = parseBackup(await file.text());
+    progress = mergeProgress(progress, backup.progress);
+    safeSaveProgress(progress);
+    state.progressMessage = { type: "success", text: "Backup imported and merged." };
+  } catch (error) {
+    state.progressMessage = { type: "error", text: error instanceof Error ? error.message : "Could not import this backup." };
+  }
   render();
 }
 
@@ -412,10 +529,24 @@ app.addEventListener("click", (event) => {
     startSession();
   } else if (action === "home") {
     state.screen = "home";
+    state.progressMessage = null;
     render();
+  } else if (action === "progress") {
+    state.screen = "progress";
+    state.progressMessage = null;
+    render();
+  } else if (action === "export") {
+    exportProgress();
+  } else if (action === "choose-import") {
+    document.getElementById("import-file")?.click();
   } else if (action === "retry") {
     boot();
   }
+});
+
+app.addEventListener("change", (event) => {
+  if (event.target.id !== "import-file") return;
+  importProgress(event.target.files && event.target.files[0]);
 });
 
 window.addEventListener("keydown", (event) => {

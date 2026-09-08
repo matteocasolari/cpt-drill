@@ -1,14 +1,43 @@
-export const STORAGE_KEY = "cptDrill.v1";
+export const STORAGE_KEY = "cptDrill.v2";
 export const LEGACY_STORAGE_KEY = "ptDrill.v1";
 export const SESSION_SIZE = 10;
+export const PROGRESS_VERSION = 2;
+export const MAX_SESSIONS = 500;
+export const PREVIOUS_STORAGE_KEYS = ["cptDrill.v1", LEGACY_STORAGE_KEY];
+
+const SOURCE_LABELS = {
+  nasm: "NASM",
+  nsca: "NSCA",
+  both: "NASM + NSCA",
+  nutrition: "Nutrition",
+  exercises: "Exercises",
+  muscles: "Muscles",
+  equipment: "Equipment",
+  movements: "Movements",
+};
 
 const IMAGE_SOURCES = new Set(["exercises", "muscles", "equipment", "movements"]);
 const CONTENT_SOURCES = new Set(["nasm", "nsca", "both", "nutrition"]);
 const SOURCES = new Set([...CONTENT_SOURCES, ...IMAGE_SOURCES]);
 const TYPES = new Set(["mcq", "tf", "scenario"]);
 
-export function emptyProgress() {
-  return { lastScore: null, lastSource: null, questions: {} };
+function makeId(prefix = "dataset") {
+  if (globalThis.crypto && typeof globalThis.crypto.randomUUID === "function") {
+    return `${prefix}-${globalThis.crypto.randomUUID()}`;
+  }
+  return `${prefix}-${Date.now().toString(36)}-${Math.random().toString(36).slice(2)}`;
+}
+
+export function emptyProgress(datasetId = makeId()) {
+  return {
+    version: PROGRESS_VERSION,
+    datasetId,
+    lastScore: null,
+    lastSource: null,
+    questions: {},
+    sessions: [],
+    datasets: { [datasetId]: {} },
+  };
 }
 
 export function validateQuestion(q, seenIds) {
@@ -80,28 +109,71 @@ function isQuestionStat(value) {
     value &&
     typeof value === "object" &&
     !Array.isArray(value) &&
-    typeof value.seen === "number" &&
-    typeof value.wrong === "number" &&
-    typeof value.lastSeen === "number" &&
-    Number.isFinite(value.seen) &&
-    Number.isFinite(value.wrong) &&
-    Number.isFinite(value.lastSeen)
+    Number.isInteger(value.seen) && value.seen >= 0 &&
+    Number.isInteger(value.wrong) && value.wrong >= 0 && value.wrong <= value.seen &&
+    Number.isFinite(value.lastSeen) && value.lastSeen >= 0
   );
 }
 
-function isValidProgress(parsed) {
+function isQuestions(value) {
+  return value && typeof value === "object" && !Array.isArray(value) && Object.values(value).every(isQuestionStat);
+}
+
+function isCount(value) {
+  return Number.isInteger(value) && value >= 0;
+}
+
+function isAggregateMap(value, withLabel = false) {
+  return value && typeof value === "object" && !Array.isArray(value) && Object.values(value).every((entry) =>
+    entry && typeof entry === "object" && !Array.isArray(entry) &&
+    isCount(entry.correct) && isCount(entry.attempted) && entry.correct <= entry.attempted &&
+    (!withLabel || (typeof entry.label === "string" && entry.label.length > 0))
+  );
+}
+
+function isSession(value) {
+  if (!(value && typeof value === "object" && !Array.isArray(value) &&
+    typeof value.id === "string" && value.id.length > 0 &&
+    Number.isFinite(value.completedAt) && value.completedAt > 0 &&
+    VALID_LAST_SOURCES.has(value.mode) && isCount(value.score) &&
+    isCount(value.answered) && isCount(value.total) &&
+    value.score <= value.answered && value.answered <= value.total &&
+    isAggregateMap(value.sources, true) && isAggregateMap(value.topics))) return false;
+  const totals = (entries) => Object.values(entries).reduce((sum, entry) => ({
+    correct: sum.correct + entry.correct,
+    attempted: sum.attempted + entry.attempted,
+  }), { correct: 0, attempted: 0 });
+  const sources = totals(value.sources);
+  const topics = totals(value.topics);
+  return sources.correct === value.score && sources.attempted === value.answered &&
+    topics.correct === value.score && topics.attempted === value.answered;
+}
+
+function isValidBaseProgress(parsed) {
   if (!parsed || typeof parsed !== "object" || Array.isArray(parsed)) return false;
   if (parsed.lastScore !== null) {
     if (typeof parsed.lastScore !== "number" || !Number.isFinite(parsed.lastScore)) return false;
     if (parsed.lastScore < 0 || parsed.lastScore > SESSION_SIZE) return false;
   }
   if (parsed.lastSource !== null && !VALID_LAST_SOURCES.has(parsed.lastSource)) return false;
-  const { questions } = parsed;
-  if (!questions || typeof questions !== "object" || Array.isArray(questions)) return false;
-  for (const stat of Object.values(questions)) {
-    if (!isQuestionStat(stat)) return false;
-  }
-  return true;
+  return isQuestions(parsed.questions);
+}
+
+function isValidV2Progress(parsed) {
+  return isValidBaseProgress(parsed) && parsed.version === PROGRESS_VERSION &&
+    typeof parsed.datasetId === "string" && parsed.datasetId.length > 0 &&
+    Array.isArray(parsed.sessions) && parsed.sessions.length <= MAX_SESSIONS && parsed.sessions.every(isSession) &&
+    parsed.datasets && typeof parsed.datasets === "object" && !Array.isArray(parsed.datasets) &&
+    Object.values(parsed.datasets).every(isQuestions);
+}
+
+function migrateProgress(parsed) {
+  const next = emptyProgress();
+  next.lastScore = parsed.lastScore;
+  next.lastSource = parsed.lastSource;
+  next.questions = parsed.questions;
+  next.datasets[next.datasetId] = parsed.questions;
+  return next;
 }
 
 export function pickSession(pool, stats, count, random) {
@@ -145,23 +217,26 @@ export function loadProgress(storage) {
   try {
     let raw = storage.getItem(STORAGE_KEY);
     if (!raw) {
-      activeKey = LEGACY_STORAGE_KEY;
-      raw = storage.getItem(LEGACY_STORAGE_KEY);
+      for (const key of PREVIOUS_STORAGE_KEYS) {
+        raw = storage.getItem(key);
+        if (raw) {
+          activeKey = key;
+          break;
+        }
+      }
     }
     if (!raw) return emptyProgress();
     const parsed = JSON.parse(raw);
-    if (!isValidProgress(parsed)) {
+    let progress;
+    if (isValidV2Progress(parsed)) progress = parsed;
+    else if (isValidBaseProgress(parsed)) progress = migrateProgress(parsed);
+    else {
       if (storage.removeItem) storage.removeItem(activeKey);
       return emptyProgress();
     }
-    const progress = {
-      lastScore: parsed.lastScore,
-      lastSource: parsed.lastSource,
-      questions: parsed.questions,
-    };
-    if (activeKey === LEGACY_STORAGE_KEY) {
+    if (activeKey !== STORAGE_KEY || progress !== parsed) {
       storage.setItem(STORAGE_KEY, JSON.stringify(progress));
-      if (storage.removeItem) storage.removeItem(LEGACY_STORAGE_KEY);
+      if (storage.removeItem && activeKey !== STORAGE_KEY) storage.removeItem(activeKey);
     }
     return progress;
   } catch {
@@ -182,5 +257,155 @@ export function recordAnswer(progress, questionId, correct, now) {
     wrong: prev.wrong + (correct ? 0 : 1),
     lastSeen: now,
   };
-  return { ...progress, questions };
+  const datasets = { ...(progress.datasets || {}) };
+  const ownQuestions = { ...(datasets[progress.datasetId] || {}) };
+  const ownPrev = ownQuestions[questionId] || { seen: 0, wrong: 0, lastSeen: 0 };
+  ownQuestions[questionId] = {
+    seen: ownPrev.seen + 1,
+    wrong: ownPrev.wrong + (correct ? 0 : 1),
+    lastSeen: now,
+  };
+  datasets[progress.datasetId] = ownQuestions;
+  return { ...progress, questions, datasets };
+}
+
+function addAggregate(target, key, correct, label) {
+  const entry = target[key] || { ...(label ? { label } : {}), correct: 0, attempted: 0 };
+  entry.correct += correct ? 1 : 0;
+  entry.attempted += 1;
+  target[key] = entry;
+}
+
+export function createSessionSummary({ id = makeId("session"), completedAt = Date.now(), mode, questions, responses }) {
+  const sources = {};
+  const topics = {};
+  let score = 0;
+  let answered = 0;
+  questions.forEach((question, index) => {
+    const response = responses[index];
+    if (!response) return;
+    answered += 1;
+    if (response.correct) score += 1;
+    addAggregate(sources, question.source, response.correct, SOURCE_LABELS[question.source] || question.source);
+    addAggregate(topics, question.topic, response.correct);
+  });
+  return { id, completedAt, mode, score, answered, total: questions.length, sources, topics };
+}
+
+export function recordSession(progress, session) {
+  if (!isSession(session)) throw new Error("Invalid session summary");
+  const existing = (progress.sessions || []).find((item) => item.id === session.id);
+  if (existing) {
+    if (JSON.stringify(existing) !== JSON.stringify(session)) throw new Error("Conflicting session id");
+    return progress;
+  }
+  const sessions = [...(progress.sessions || []), session]
+    .sort((a, b) => a.completedAt - b.completedAt)
+    .slice(-MAX_SESSIONS);
+  return { ...progress, sessions };
+}
+
+function accuracy(correct, attempted) {
+  return attempted ? Math.round((correct / attempted) * 100) : null;
+}
+
+export function calculateAnalytics(sessions) {
+  const ordered = sessions.slice().sort((a, b) => a.completedAt - b.completedAt);
+  const sourceTotals = Object.fromEntries(Object.entries(SOURCE_LABELS).map(([key, label]) => [key, { key, label, correct: 0, attempted: 0 }]));
+  const topicTotals = {};
+  let correct = 0;
+  let attempted = 0;
+  for (const item of ordered) {
+    correct += item.score;
+    attempted += item.answered;
+    for (const [key, value] of Object.entries(item.sources)) {
+      const target = sourceTotals[key] || (sourceTotals[key] = { key, label: value.label || key, correct: 0, attempted: 0 });
+      target.correct += value.correct;
+      target.attempted += value.attempted;
+    }
+    for (const [topic, value] of Object.entries(item.topics)) {
+      const target = topicTotals[topic] || (topicTotals[topic] = { topic, correct: 0, attempted: 0 });
+      target.correct += value.correct;
+      target.attempted += value.attempted;
+    }
+  }
+  const sources = Object.values(sourceTotals).map((item) => ({ ...item, accuracy: accuracy(item.correct, item.attempted) }));
+  const topics = Object.values(topicTotals)
+    .map((item) => ({ ...item, accuracy: accuracy(item.correct, item.attempted) }))
+    .sort((a, b) => a.accuracy - b.accuracy || b.attempted - a.attempted || a.topic.localeCompare(b.topic));
+  const series = ordered.map((item) => ({ id: item.id, completedAt: item.completedAt, accuracy: accuracy(item.score, item.answered) }));
+  let trend = { direction: "insufficient", change: null };
+  if (series.length >= 2) {
+    const size = Math.min(5, Math.floor(series.length / 2));
+    const recent = series.slice(-size);
+    const previous = series.slice(-size * 2, -size);
+    const average = (items) => items.reduce((sum, item) => sum + (item.accuracy || 0), 0) / items.length;
+    const change = Math.round(average(recent) - average(previous));
+    trend = { direction: change > 0 ? "up" : change < 0 ? "down" : "flat", change };
+  }
+  return { overall: { sessions: ordered.length, correct, attempted, accuracy: accuracy(correct, attempted) }, sources, topics, series, trend };
+}
+
+function withCurrentSnapshot(progress) {
+  const datasets = { ...(progress.datasets || {}) };
+  if (!datasets[progress.datasetId] || (Object.keys(datasets).length === 1 && Object.keys(datasets[progress.datasetId]).length === 0)) {
+    datasets[progress.datasetId] = progress.questions;
+  }
+  return { ...progress, datasets };
+}
+
+export function createBackup(progress, exportedAt = Date.now()) {
+  return { format: "cpt-drill-backup", version: 1, exportedAt, progress: withCurrentSnapshot(progress) };
+}
+
+export function parseBackup(text) {
+  if (typeof text !== "string" || text.length > 2 * 1024 * 1024) throw new Error("Backup file is too large");
+  let backup;
+  try {
+    backup = JSON.parse(text);
+  } catch {
+    throw new Error("Backup is not valid JSON");
+  }
+  if (!backup || backup.format !== "cpt-drill-backup" || backup.version !== 1) throw new Error("Unsupported backup format");
+  if (!Number.isFinite(backup.exportedAt) || backup.exportedAt <= 0 || !isValidV2Progress(backup.progress)) throw new Error("Backup data is invalid");
+  return backup;
+}
+
+function mergeQuestionSnapshots(datasets) {
+  const questions = {};
+  for (const snapshot of Object.values(datasets)) {
+    for (const [id, stat] of Object.entries(snapshot)) {
+      const prev = questions[id] || { seen: 0, wrong: 0, lastSeen: 0 };
+      questions[id] = { seen: prev.seen + stat.seen, wrong: prev.wrong + stat.wrong, lastSeen: Math.max(prev.lastSeen, stat.lastSeen) };
+    }
+  }
+  return questions;
+}
+
+function newerSnapshot(a = {}, b = {}) {
+  const result = { ...a };
+  for (const [id, stat] of Object.entries(b)) {
+    const current = result[id];
+    if (!current || stat.seen > current.seen || (stat.seen === current.seen && stat.lastSeen > current.lastSeen)) result[id] = stat;
+  }
+  return result;
+}
+
+export function mergeProgress(current, imported) {
+  if (!isValidV2Progress(imported)) throw new Error("Imported progress is invalid");
+  const local = withCurrentSnapshot(current);
+  const remote = withCurrentSnapshot(imported);
+  const datasets = { ...local.datasets };
+  for (const [id, snapshot] of Object.entries(remote.datasets)) datasets[id] = newerSnapshot(datasets[id], snapshot);
+  let merged = { ...local, datasets, questions: mergeQuestionSnapshots(datasets) };
+  for (const item of remote.sessions) {
+    const existing = merged.sessions.find((candidate) => candidate.id === item.id);
+    if (existing && JSON.stringify(existing) !== JSON.stringify(item)) throw new Error(`Import contains conflicting session ${item.id}`);
+    if (!existing) merged = recordSession(merged, item);
+  }
+  if ((imported.sessions.at(-1)?.completedAt || 0) > (current.sessions.at(-1)?.completedAt || 0)) {
+    merged.lastScore = imported.lastScore;
+    merged.lastSource = imported.lastSource;
+  }
+  return merged;
 }
