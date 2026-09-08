@@ -62,3 +62,12 @@ test("validate-bank exits 1 for malformed item even when valid count meets --min
   assert.equal(result.status, 1);
   assert.match(result.stdout, /valid 6 skipped 1/);
 });
+
+test("dedicated nutrition bank contains at least 200 valid questions", async () => {
+  const nutrition = JSON.parse(await readFile(join(repoRoot, "data/nutrition.json"), "utf8"));
+  assert.ok(nutrition.length >= 200, `expected at least 200 nutrition questions, found ${nutrition.length}`);
+
+  const dir = await writeTempBank(nutrition);
+  const result = runValidator(dir, 200);
+  assert.equal(result.status, 0, result.stderr + result.stdout);
+});

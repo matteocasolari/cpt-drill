@@ -1476,5 +1476,1465 @@
     ],
     "answerIndex": 3,
     "explanation": "Reliable guidance considers the quality and totality of evidence and is transparent about uncertainty. Credentials, conflicts of interest, and whether claims match expert consensus are useful checks."
+  },
+  {
+    "id": "nutrition-101",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Carbohydrates",
+    "question": "Which carbohydrate is stored in human muscle and liver tissue?",
+    "choices": [
+      "Glycogen",
+      "Cellulose",
+      "Lactose",
+      "Fructose"
+    ],
+    "answerIndex": 0,
+    "explanation": "The body joins glucose molecules to form glycogen in the liver and skeletal muscles. Liver glycogen helps maintain blood glucose, while muscle glycogen supplies working muscle."
+  },
+  {
+    "id": "nutrition-102",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Carbohydrates",
+    "question": "What is the primary purpose of the glycemic index?",
+    "choices": [
+      "Ranking foods by protein quality",
+      "Comparing carbohydrate foods by blood-glucose response",
+      "Estimating their vitamin density",
+      "Measuring the total fiber in a meal"
+    ],
+    "answerIndex": 1,
+    "explanation": "The glycemic index compares how carbohydrate-containing foods affect blood glucose under standardized conditions. Portion size and the rest of a mixed meal also influence the actual response."
+  },
+  {
+    "id": "nutrition-103",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Carbohydrates",
+    "question": "A runner needs an easily digested snack shortly before a race. Which choice is generally most suitable?",
+    "choices": [
+      "A large serving of fried food",
+      "A high-fiber bean casserole",
+      "A familiar banana or slice of toast",
+      "A new spicy meal"
+    ],
+    "answerIndex": 2,
+    "explanation": "A familiar, carbohydrate-rich snack that is relatively low in fat and fiber is often easier to tolerate before exercise. Personal tolerance and the time available for digestion still matter."
+  },
+  {
+    "id": "nutrition-104",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Carbohydrates",
+    "question": "All carbohydrate-containing foods affect blood glucose at exactly the same rate.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Carbohydrate type, food structure, preparation, and meal composition all influence glucose response. Individual physiology and portion size add further variation."
+  },
+  {
+    "id": "nutrition-105",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Protein",
+    "question": "What makes an amino acid essential?",
+    "choices": [
+      "It occurs only in animal foods",
+      "It always contains dietary fiber",
+      "It is stored exclusively in muscle",
+      "The body cannot make enough of it"
+    ],
+    "answerIndex": 3,
+    "explanation": "An essential amino acid must be supplied by the diet because the body cannot synthesize enough to meet its needs. Both animal and plant foods can contribute essential amino acids."
+  },
+  {
+    "id": "nutrition-106",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Protein",
+    "question": "What process removes the nitrogen-containing group from an amino acid?",
+    "choices": [
+      "Deamination",
+      "Emulsification",
+      "Glycogenesis",
+      "Fermentation"
+    ],
+    "answerIndex": 0,
+    "explanation": "Deamination removes the amino group when amino acids are broken down. The nitrogen is ultimately handled largely through the urea cycle for excretion."
+  },
+  {
+    "id": "nutrition-107",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Protein",
+    "question": "An older client struggles to eat enough protein at dinner. Which strategy could help distribute intake more evenly?",
+    "choices": [
+      "Save all protein for one weekly meal",
+      "Include a protein source at each meal",
+      "Replace breakfast with water",
+      "Avoid protein after activity"
+    ],
+    "answerIndex": 1,
+    "explanation": "Including protein across meals can make adequate intake easier and provide repeated opportunities for muscle protein synthesis. Total daily intake and meal quality remain important."
+  },
+  {
+    "id": "nutrition-108",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Protein",
+    "question": "Protein is used only to build skeletal muscle.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Proteins also form enzymes, transporters, antibodies, hormones, and structural tissues throughout the body. Their functions extend far beyond skeletal muscle."
+  },
+  {
+    "id": "nutrition-109",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Dietary fat",
+    "question": "Which fatty acids must be obtained from food?",
+    "choices": [
+      "Palmitic acid and stearic acid",
+      "Oleic acid and palmitoleic acid",
+      "Linoleic acid and alpha-linolenic acid",
+      "All saturated fatty acids"
+    ],
+    "answerIndex": 2,
+    "explanation": "Linoleic acid and alpha-linolenic acid are essential fatty acids because humans cannot synthesize them. They belong to the omega-6 and omega-3 families, respectively."
+  },
+  {
+    "id": "nutrition-110",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Dietary fat",
+    "question": "What is one important function of dietary fat?",
+    "choices": [
+      "Eliminating the need for water",
+      "Converting fiber directly into protein",
+      "Preventing all changes in blood glucose",
+      "Absorbing vitamins A, D, E, and K"
+    ],
+    "answerIndex": 3,
+    "explanation": "Dietary fat helps the intestine absorb the fat-soluble vitamins A, D, E, and K. Fat also supplies energy and provides components for cell membranes and signaling molecules."
+  },
+  {
+    "id": "nutrition-111",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Dietary fat",
+    "question": "A client wants to improve the fat quality of a sandwich. Which substitution best supports that goal?",
+    "choices": [
+      "Replace butter with hummus",
+      "Replace avocado with shortening",
+      "Replace nuts with candy",
+      "Replace vegetables with processed meat"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hummus generally replaces more saturated fat with unsaturated fat while adding fiber and other nutrients. Overall dietary pattern matters more than any isolated swap."
+  },
+  {
+    "id": "nutrition-112",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Dietary fat",
+    "question": "Industrial trans fats can raise LDL cholesterol and lower HDL cholesterol.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Industrial trans fats adversely affect the blood-lipid profile by raising LDL and reducing HDL cholesterol. Keeping intake as low as possible is widely recommended."
+  },
+  {
+    "id": "nutrition-113",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Fiber",
+    "question": "Which substance is fermented by gut microbes to produce short-chain fatty acids?",
+    "choices": [
+      "Dietary cholesterol",
+      "Certain dietary fibers",
+      "Sodium chloride",
+      "Vitamin D"
+    ],
+    "answerIndex": 1,
+    "explanation": "Gut microbes ferment certain fibers and resistant starches, producing short-chain fatty acids. These compounds can help fuel cells lining the colon and participate in metabolic signaling."
+  },
+  {
+    "id": "nutrition-114",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Fiber",
+    "question": "Why can intact fruit affect fullness differently from fruit juice?",
+    "choices": [
+      "Fruit contains no natural sugar",
+      "Juice always contains added fat",
+      "Intact fruit retains structure and fiber",
+      "Fruit cannot be digested"
+    ],
+    "answerIndex": 2,
+    "explanation": "Intact fruit retains fiber and requires chewing, which can slow consumption and support fullness. Juice can still contribute nutrients, but it is easier to consume quickly and in larger quantities."
+  },
+  {
+    "id": "nutrition-115",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Fiber",
+    "question": "A client wants to increase dietary fiber at breakfast. Which change is most direct?",
+    "choices": [
+      "Remove fruit from the meal",
+      "Replace whole-grain toast with butter alone",
+      "Drink a sugar-sweetened beverage",
+      "Choose oats with berries instead of a refined pastry"
+    ],
+    "answerIndex": 3,
+    "explanation": "Oats and berries both provide fiber along with a range of nutrients. Increasing fiber gradually can improve tolerance when current intake is low."
+  },
+  {
+    "id": "nutrition-116",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Fiber",
+    "question": "Humans digest every type of dietary fiber completely in the small intestine.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Dietary fiber resists complete digestion in the small intestine. Some reaches the colon and is fermented, while some contributes bulk to stool."
+  },
+  {
+    "id": "nutrition-117",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Vitamins",
+    "question": "Which vitamin helps the body absorb non-heme iron?",
+    "choices": [
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin B12",
+      "Vitamin K"
+    ],
+    "answerIndex": 0,
+    "explanation": "Vitamin C can enhance absorption of non-heme iron when consumed in the same meal. This pairing can be especially useful when iron comes mainly from plant foods."
+  },
+  {
+    "id": "nutrition-118",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Vitamins",
+    "question": "Which vitamin is needed for normal blood clotting?",
+    "choices": [
+      "Vitamin B1",
+      "Vitamin K",
+      "Vitamin C",
+      "Vitamin E"
+    ],
+    "answerIndex": 1,
+    "explanation": "Vitamin K supports the activation of several proteins required for normal blood clotting. It also participates in bone metabolism."
+  },
+  {
+    "id": "nutrition-119",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Vitamins",
+    "question": "What is a central function of vitamin A?",
+    "choices": [
+      "Providing four calories per gram",
+      "Serving as the body's main electrolyte",
+      "Supporting vision and cell differentiation",
+      "Digesting lactose in the intestine"
+    ],
+    "answerIndex": 2,
+    "explanation": "Vitamin A supports vision, immune function, and normal cell differentiation. Both deficiency and excessive preformed vitamin A intake can be harmful."
+  },
+  {
+    "id": "nutrition-120",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Vitamins",
+    "question": "Because water-soluble vitamins are not extensively stored, extremely high doses are always harmless.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Water solubility does not guarantee safety at very high doses. Some water-soluble vitamins can produce adverse effects or interact with medicines."
+  },
+  {
+    "id": "nutrition-121",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Minerals",
+    "question": "Which mineral is the major extracellular electrolyte involved in fluid balance?",
+    "choices": [
+      "Iron",
+      "Zinc",
+      "Selenium",
+      "Sodium"
+    ],
+    "answerIndex": 3,
+    "explanation": "Sodium is the principal extracellular cation and plays a major role in fluid balance and nerve function. Excess intake can contribute to elevated blood pressure in susceptible people."
+  },
+  {
+    "id": "nutrition-122",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Minerals",
+    "question": "Which mineral is required to make thyroid hormones?",
+    "choices": [
+      "Iodine",
+      "Calcium",
+      "Magnesium",
+      "Copper"
+    ],
+    "answerIndex": 0,
+    "explanation": "Iodine is incorporated into thyroid hormones, which help regulate metabolism and development. Too little or too much iodine can impair thyroid function."
+  },
+  {
+    "id": "nutrition-123",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Minerals",
+    "question": "A client avoids dairy but wants food sources that support calcium intake. Which option is most relevant?",
+    "choices": [
+      "Table sugar and olive oil",
+      "Fortified plant drink and calcium-set tofu",
+      "Black coffee and white rice",
+      "Jam and hard candy"
+    ],
+    "answerIndex": 1,
+    "explanation": "Fortified plant drinks and calcium-set tofu can make meaningful calcium contributions. Labels should be checked because fortification and tofu processing methods vary."
+  },
+  {
+    "id": "nutrition-124",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Minerals",
+    "question": "More of an essential mineral is always better for health.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Essential minerals have useful intake ranges, and excessive amounts can be toxic or disrupt absorption of other nutrients. Need does not increase without limit."
+  },
+  {
+    "id": "nutrition-125",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Hydration",
+    "question": "What condition results when blood sodium becomes dangerously diluted?",
+    "choices": [
+      "Hyperglycemia",
+      "Ketosis",
+      "Hyponatremia",
+      "Anemia"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hyponatremia is an abnormally low sodium concentration in the blood. During endurance events, drinking far beyond sweat losses can contribute to this dangerous condition."
+  },
+  {
+    "id": "nutrition-126",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Hydration",
+    "question": "An endurance athlete finishes a session substantially lighter than they started. What does that change most likely indicate?",
+    "choices": [
+      "Immediate loss of only body fat",
+      "Complete glycogen restoration",
+      "Excess calcium intake",
+      "A net fluid deficit"
+    ],
+    "answerIndex": 3,
+    "explanation": "A rapid fall in body mass across one session primarily reflects net fluid loss rather than fat loss. Comparing pre- and post-exercise mass can help estimate individual sweat losses."
+  },
+  {
+    "id": "nutrition-127",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Hydration",
+    "question": "Why does thirst become a less reliable hydration cue in some older adults?",
+    "choices": [
+      "The thirst response may become less sensitive",
+      "Their kidneys stop filtering blood",
+      "Water no longer enters cells",
+      "All older adults sweat more"
+    ],
+    "answerIndex": 0,
+    "explanation": "The sensation of thirst may become less sensitive with age. Regular access to drinks and attention during heat or illness can therefore be particularly important."
+  },
+  {
+    "id": "nutrition-128",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Hydration",
+    "question": "Water obtained from food can contribute to total daily fluid intake.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Many foods, especially fruit, vegetables, soups, and yogurt, contain substantial water. Total water intake includes both beverages and moisture from foods."
+  },
+  {
+    "id": "nutrition-129",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Digestion",
+    "question": "Which enzyme begins starch digestion in the mouth?",
+    "choices": [
+      "Pepsin",
+      "Salivary amylase",
+      "Lactase",
+      "Lipase from bile"
+    ],
+    "answerIndex": 1,
+    "explanation": "Salivary amylase begins breaking starch into smaller carbohydrate molecules in the mouth. Most carbohydrate digestion and absorption later occurs in the small intestine."
+  },
+  {
+    "id": "nutrition-130",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Digestion",
+    "question": "What is the stomach's major role in protein digestion?",
+    "choices": [
+      "Bile converts protein into glucose",
+      "Fiber absorbs every amino acid",
+      "Acid denatures protein and pepsin begins cleavage",
+      "Insulin breaks peptide bonds"
+    ],
+    "answerIndex": 2,
+    "explanation": "Stomach acid unfolds proteins and helps activate pepsin, an enzyme that begins breaking peptide bonds. Digestion continues through pancreatic and intestinal enzymes in the small intestine."
+  },
+  {
+    "id": "nutrition-131",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Digestion",
+    "question": "What is a primary role of the large intestine?",
+    "choices": [
+      "Producing all digestive enzymes",
+      "Storing bile for fat digestion",
+      "Making insulin after every meal",
+      "Absorbing water and processing undigested material"
+    ],
+    "answerIndex": 3,
+    "explanation": "The large intestine absorbs water and electrolytes while microbes act on material that escaped small-intestinal digestion. It also compacts and stores fecal matter."
+  },
+  {
+    "id": "nutrition-132",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Digestion",
+    "question": "A client eats very quickly and often feels uncomfortably full afterward. Which habit may help?",
+    "choices": [
+      "Slow down and notice fullness cues",
+      "Eliminate all carbohydrates",
+      "Drink no fluid during the day",
+      "Skip every meal before dinner"
+    ],
+    "answerIndex": 0,
+    "explanation": "Slower eating gives sensory and gastrointestinal signals more time to register during a meal. It may help the client notice comfortable fullness before overeating."
+  },
+  {
+    "id": "nutrition-133",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Metabolism",
+    "question": "What does the thermic effect of food describe?",
+    "choices": [
+      "Heat lost only through sweating",
+      "Energy used to digest, absorb, and process nutrients",
+      "Energy stored exclusively as glycogen",
+      "Calories removed by freezing food"
+    ],
+    "answerIndex": 1,
+    "explanation": "The thermic effect of food is the energy expended in digestion, absorption, transport, and nutrient processing. It is one component of total daily energy expenditure."
+  },
+  {
+    "id": "nutrition-134",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Metabolism",
+    "question": "Which tissue generally uses more energy at rest per unit mass than adipose tissue?",
+    "choices": [
+      "Tooth enamel",
+      "Hair",
+      "Skeletal muscle",
+      "Stored triglyceride"
+    ],
+    "answerIndex": 2,
+    "explanation": "Lean tissues such as skeletal muscle are more metabolically active than adipose tissue. Organs are even more energy demanding per unit mass, though they make up less total mass."
+  },
+  {
+    "id": "nutrition-135",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Metabolism",
+    "question": "Basal metabolic rate and total daily energy expenditure mean exactly the same thing.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Basal metabolic rate covers the energy needed for essential functions under standardized resting conditions. Total daily expenditure also includes activity and the thermic effect of food."
+  },
+  {
+    "id": "nutrition-136",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Energy balance",
+    "question": "A client begins walking more but unconsciously eats more and rests more. Why might predicted weight loss be smaller?",
+    "choices": [
+      "Walking contains no energy cost",
+      "Body mass cannot change after adulthood",
+      "Only protein affects energy balance",
+      "Energy intake and other expenditure can adapt"
+    ],
+    "answerIndex": 3,
+    "explanation": "Changes in appetite and non-exercise activity can partially compensate for a new exercise routine. Energy balance is dynamic rather than a perfectly fixed arithmetic output."
+  },
+  {
+    "id": "nutrition-137",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Healthy dietary patterns",
+    "question": "What does nutrient density compare?",
+    "choices": [
+      "Nutrients provided relative to the food's energy",
+      "Food price relative to package weight",
+      "Protein relative only to water content",
+      "Cooking time relative to serving size"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nutrient density considers the useful nutrients a food provides in relation to its energy content. It helps describe food quality but does not make energy-dense foods inherently forbidden."
+  },
+  {
+    "id": "nutrition-138",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Healthy eating",
+    "question": "A client has little time to cook and assumes frozen vegetables are nutritionally useless. What guidance is appropriate?",
+    "choices": [
+      "Only vegetables eaten raw contain nutrients",
+      "Frozen vegetables can be a nutritious, convenient option",
+      "Freezing converts vitamins into sugar",
+      "Vegetables count only when bought fresh that day"
+    ],
+    "answerIndex": 1,
+    "explanation": "Frozen vegetables can retain substantial nutritional value and make balanced meals more convenient. Products with heavy sauces or added salt can be compared using the label."
+  },
+  {
+    "id": "nutrition-139",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Cooking",
+    "question": "Which cooking practice is most likely to preserve water-soluble vitamins?",
+    "choices": [
+      "Boiling for a long time and discarding the water",
+      "Repeatedly reheating until very soft",
+      "Using shorter cooking times with little water",
+      "Soaking chopped vegetables overnight"
+    ],
+    "answerIndex": 2,
+    "explanation": "Shorter cooking with limited water reduces the opportunity for heat damage and leaching of water-soluble vitamins. Steaming and microwaving can work well when used appropriately."
+  },
+  {
+    "id": "nutrition-140",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Cooking",
+    "question": "Cooking always reduces the nutritional value of food.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Cooking can reduce some heat-sensitive nutrients, but it can also improve digestibility, safety, and availability of other compounds. The effect depends on the food, nutrient, and method."
+  },
+  {
+    "id": "nutrition-141",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Food labels",
+    "question": "What does a food's energy value represent?",
+    "choices": [
+      "The weight of its package",
+      "Its mineral count only",
+      "How quickly it spoils",
+      "The usable energy supplied by its nutrients"
+    ],
+    "answerIndex": 3,
+    "explanation": "Energy values estimate the energy available from carbohydrate, protein, fat, alcohol, and sometimes fiber or polyols. They do not by themselves describe overall nutritional quality."
+  },
+  {
+    "id": "nutrition-142",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Food labels",
+    "question": "Why should allergens be checked in the ingredient information rather than inferred from a product name?",
+    "choices": [
+      "Unexpected ingredients or cross-contact warnings may be present",
+      "Names always list every trace ingredient",
+      "All allergens are removed during cooking",
+      "Package color identifies allergens"
+    ],
+    "answerIndex": 0,
+    "explanation": "A product name may not reveal every ingredient or relevant cross-contact warning. People with allergies should inspect the current label each time because formulations can change."
+  },
+  {
+    "id": "nutrition-143",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Food labels",
+    "question": "A client compares two yogurts sold in different tub sizes. Which label value gives the fairest nutrient comparison?",
+    "choices": [
+      "The front picture",
+      "Values per 100 grams",
+      "The package slogan",
+      "The total tub weight alone"
+    ],
+    "answerIndex": 1,
+    "explanation": "Values per 100 grams standardize the comparison when package and serving sizes differ. The amount actually eaten is still needed to calculate personal intake."
+  },
+  {
+    "id": "nutrition-144",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Marketing claims",
+    "question": "A front-of-package health claim guarantees that a product is the healthiest option overall.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "A claim usually highlights one regulated characteristic and cannot summarize the whole product. The ingredient list and nutrition panel provide needed context."
+  },
+  {
+    "id": "nutrition-145",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Free sugars",
+    "question": "Which food usually contains intrinsic rather than free sugars?",
+    "choices": [
+      "Table sugar",
+      "Honey",
+      "An intact apple",
+      "A sugary soft drink"
+    ],
+    "answerIndex": 2,
+    "explanation": "Sugars within the cellular structure of intact fruit are generally classed as intrinsic sugars. Sugars added to food and those in honey, syrups, and many juices are classed as free sugars."
+  },
+  {
+    "id": "nutrition-146",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Free sugars",
+    "question": "A client drinks several sugary beverages each day. Which first swap could substantially reduce free-sugar intake?",
+    "choices": [
+      "Add sugar to every glass of water",
+      "Replace meals with sweets",
+      "Drink the same beverages in larger cups",
+      "Replace some with water or unsweetened drinks"
+    ],
+    "answerIndex": 3,
+    "explanation": "Sugar-sweetened drinks can deliver considerable free sugar without much fullness. Replacing some with water or unsweetened alternatives is a focused, practical change."
+  },
+  {
+    "id": "nutrition-147",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Salt",
+    "question": "Why is most dietary sodium easy to overlook?",
+    "choices": [
+      "Much of it comes from manufactured and restaurant foods",
+      "It exists only in drinking water",
+      "It has no taste at any concentration",
+      "Nutrition labels never mention it"
+    ],
+    "answerIndex": 0,
+    "explanation": "A large share of sodium intake can come from processed, packaged, and restaurant foods rather than salt added at the table. Comparing labels can reveal meaningful differences between similar products."
+  },
+  {
+    "id": "nutrition-148",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Salt",
+    "question": "Sea salt is sodium-free because it is less processed than table salt.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Sea salt and table salt both consist largely of sodium chloride. Differences in texture or trace minerals do not make sea salt sodium-free."
+  },
+  {
+    "id": "nutrition-149",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Caffeine",
+    "question": "How does caffeine primarily promote alertness?",
+    "choices": [
+      "By supplying essential amino acids",
+      "By blocking adenosine receptors",
+      "By replacing blood glucose",
+      "By producing vitamin D"
+    ],
+    "answerIndex": 1,
+    "explanation": "Caffeine blocks adenosine receptors in the nervous system, reducing perceived sleep pressure for a time. Sensitivity and clearance vary substantially among individuals."
+  },
+  {
+    "id": "nutrition-150",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Caffeine",
+    "question": "A client sleeps poorly after an afternoon coffee while their friend does not. What best explains the difference?",
+    "choices": [
+      "Caffeine never affects sleep",
+      "Coffee contains no active compound",
+      "Individual sensitivity and metabolism vary",
+      "Only cup color affects absorption"
+    ],
+    "answerIndex": 2,
+    "explanation": "Genetics, habitual intake, medicines, pregnancy, and timing can all change caffeine's effects. One person's tolerance is therefore a poor guide for another."
+  },
+  {
+    "id": "nutrition-151",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Alcohol",
+    "question": "Which organ performs most alcohol metabolism?",
+    "choices": [
+      "The gallbladder",
+      "The large intestine",
+      "The thyroid",
+      "The liver"
+    ],
+    "answerIndex": 3,
+    "explanation": "The liver carries out most alcohol metabolism using several enzyme systems. Its processing capacity is limited, so drinking faster does not produce equally faster clearance."
+  },
+  {
+    "id": "nutrition-152",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Alcohol",
+    "question": "Alcohol can impair sleep quality even when it initially makes someone feel sleepy.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Alcohol may shorten the time needed to fall asleep but disrupt later sleep architecture and continuity. Sedation is not the same as restorative sleep."
+  },
+  {
+    "id": "nutrition-153",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Gut microbiome",
+    "question": "Which factor can rapidly alter the gut microbial community?",
+    "choices": [
+      "Dietary pattern",
+      "Eye color",
+      "Shoe size",
+      "Blood type alone"
+    ],
+    "answerIndex": 0,
+    "explanation": "Diet is one of several influences that can alter microbial composition and activity. Medicines, illness, age, environment, and many other factors also contribute."
+  },
+  {
+    "id": "nutrition-154",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Prebiotics and probiotics",
+    "question": "A client assumes every fermented food contains live probiotic organisms. What correction is most accurate?",
+    "choices": [
+      "Fermentation always produces vitamin B12",
+      "Processing may remove or kill live microbes",
+      "All fermented foods use the same strain",
+      "Live microbes survive every storage condition"
+    ],
+    "answerIndex": 1,
+    "explanation": "Heat treatment and some production methods can remove or kill microorganisms after fermentation. A fermented food is therefore not automatically a probiotic product with demonstrated benefit."
+  },
+  {
+    "id": "nutrition-155",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Prebiotics and probiotics",
+    "question": "What must a probiotic claim include beyond the presence of live microbes?",
+    "choices": [
+      "A naturally green package",
+      "At least one gram of sugar",
+      "A health benefit shown at an adequate amount",
+      "An animal-derived ingredient"
+    ],
+    "answerIndex": 2,
+    "explanation": "A probiotic is a live microorganism that confers a health benefit when administered in adequate amounts. Benefits are strain- and condition-specific rather than interchangeable across products."
+  },
+  {
+    "id": "nutrition-156",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Gut microbiome",
+    "question": "Greater microbial diversity is a complete standalone measure of gut health in every situation.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Diversity can be informative, but no single microbiome metric defines health in every person or context. Microbial functions and the host's condition also matter."
+  },
+  {
+    "id": "nutrition-157",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Sports nutrition",
+    "question": "What is the main purpose of carbohydrate consumed during prolonged endurance exercise?",
+    "choices": [
+      "Building bone mineral directly",
+      "Eliminating sweat losses",
+      "Replacing every amino acid",
+      "Maintaining fuel availability"
+    ],
+    "answerIndex": 3,
+    "explanation": "Carbohydrate during prolonged activity helps maintain blood glucose and supplies working muscles with fuel. The useful amount depends on exercise duration, intensity, and tolerance."
+  },
+  {
+    "id": "nutrition-158",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Sports nutrition",
+    "question": "An athlete plans to try a new concentrated sports drink on race day. What is the better approach?",
+    "choices": [
+      "Test the strategy during training first",
+      "Double the concentration without practice",
+      "Avoid all fluid during training",
+      "Use whichever product has the brightest label"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nutrition and hydration strategies should be rehearsed in training to assess tolerance and practicality. Race day is a poor time to discover gastrointestinal problems."
+  },
+  {
+    "id": "nutrition-159",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Sports nutrition",
+    "question": "Why is glycogen restoration especially urgent when two demanding sessions are close together?",
+    "choices": [
+      "Protein becomes toxic after exercise",
+      "Recovery time is limited",
+      "Water cannot enter muscle overnight",
+      "Fat stores disappear during the first session"
+    ],
+    "answerIndex": 1,
+    "explanation": "Rapid carbohydrate intake matters most when there is little time before the next glycogen-demanding session. With a longer recovery window, total intake across the day becomes more important than immediate timing."
+  },
+  {
+    "id": "nutrition-160",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Sports nutrition",
+    "question": "A strength athlete wants to rely on supplements while consistently missing meals. What should be prioritized?",
+    "choices": [
+      "More products with proprietary blends",
+      "Eliminating dietary carbohydrate",
+      "A sufficient overall eating pattern",
+      "Replacing water with pre-workout"
+    ],
+    "answerIndex": 2,
+    "explanation": "Supplements cannot compensate for chronically inadequate energy, protein, micronutrients, and food variety. Foundational eating habits should be addressed before marginal performance aids."
+  },
+  {
+    "id": "nutrition-161",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Sports nutrition",
+    "question": "What does carbohydrate loading aim to increase before a long endurance event?",
+    "choices": [
+      "Bone calcium concentration",
+      "Blood protein storage",
+      "Resting body temperature",
+      "Muscle glycogen stores"
+    ],
+    "answerIndex": 3,
+    "explanation": "Carbohydrate loading aims to maximize muscle glycogen availability before prolonged endurance competition. It is not necessary for every short or low-intensity activity."
+  },
+  {
+    "id": "nutrition-162",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Sports nutrition",
+    "question": "Every workout requires a commercial sports drink.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Water and ordinary meals are adequate for many short or moderate sessions. Sports drinks can be useful in particular prolonged, intense, or hot conditions but are not universally required."
+  },
+  {
+    "id": "nutrition-163",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Weight management",
+    "question": "Why does preserving lean mass matter during weight loss?",
+    "choices": [
+      "Lean tissue supports function and contributes to energy expenditure",
+      "Lean mass contains no water",
+      "It prevents every weight plateau",
+      "It makes energy intake irrelevant"
+    ],
+    "answerIndex": 0,
+    "explanation": "Preserving lean tissue supports strength, physical function, and resting energy needs. Adequate protein and resistance training can help during an energy deficit."
+  },
+  {
+    "id": "nutrition-164",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Weight management",
+    "question": "A client weighs themselves after a salty restaurant meal and sees a sudden increase. What is the most likely short-term explanation?",
+    "choices": [
+      "Several kilograms of new body fat overnight",
+      "Fluid retention and food mass",
+      "Permanent metabolic damage",
+      "Immediate muscle hypertrophy"
+    ],
+    "answerIndex": 1,
+    "explanation": "Sodium, carbohydrate storage, hydration, and food in the gut can shift scale weight quickly. Such a change does not imply an equivalent overnight change in body fat."
+  },
+  {
+    "id": "nutrition-165",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Appetite regulation",
+    "question": "Which property of protein commonly supports weight-management diets?",
+    "choices": [
+      "It contains no energy",
+      "It cannot be digested",
+      "It often promotes satiety",
+      "It permanently suppresses hunger hormones"
+    ],
+    "answerIndex": 2,
+    "explanation": "Protein often has a strong satiating effect and helps maintain lean tissue during energy restriction. It still supplies energy and does not eliminate normal appetite variation."
+  },
+  {
+    "id": "nutrition-166",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Body weight",
+    "question": "Body mass index directly measures a person's body-fat percentage.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Body mass index is calculated from height and weight, not a direct measurement of body fat. It can be useful for populations but has limitations when applied to individuals."
+  },
+  {
+    "id": "nutrition-167",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Plant-based nutrition",
+    "question": "Which nutrient is commonly added to fortified plant drinks?",
+    "choices": [
+      "Alcohol",
+      "Caffeine",
+      "Cholesterol",
+      "Calcium"
+    ],
+    "answerIndex": 3,
+    "explanation": "Many plant drinks are fortified with calcium and may also contain vitamins such as D or B12. Formulations differ, so the package should be checked and the drink shaken when instructed."
+  },
+  {
+    "id": "nutrition-168",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Plant-based nutrition",
+    "question": "A vegan client avoids iodized salt and rarely eats fortified foods. Which nutrient deserves particular attention?",
+    "choices": [
+      "Iodine",
+      "Vitamin C",
+      "Fiber",
+      "Carbohydrate"
+    ],
+    "answerIndex": 0,
+    "explanation": "Iodine intake can be low when seafood, dairy, iodized salt, and fortified sources are absent. Excessive seaweed intake is not a reliable solution because iodine levels can be extremely high and variable."
+  },
+  {
+    "id": "nutrition-169",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Plant protein",
+    "question": "Which food is a complete plant protein with all essential amino acids?",
+    "choices": [
+      "Olive oil",
+      "Soybeans",
+      "Table sugar",
+      "Apple juice"
+    ],
+    "answerIndex": 1,
+    "explanation": "Soy protein provides all essential amino acids in useful proportions. Overall variety and sufficient total intake allow many other plant proteins to complement one another across the day."
+  },
+  {
+    "id": "nutrition-170",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Plant-based nutrition",
+    "question": "A vegan diet is nutritionally adequate automatically, regardless of food choices.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "A vegan diet can be adequate but requires thoughtful food selection and a reliable source of vitamin B12. Depending on circumstances, iodine, vitamin D, calcium, iron, zinc, omega-3 fats, and protein may also need attention."
+  },
+  {
+    "id": "nutrition-171",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Sustainable diets",
+    "question": "Which action helps reduce avoidable food waste at home?",
+    "choices": [
+      "Discarding food at its best-before date automatically",
+      "Buying more than storage can hold",
+      "Planning meals and using leftovers safely",
+      "Ignoring refrigerator temperature"
+    ],
+    "answerIndex": 2,
+    "explanation": "Planning purchases and safely reusing leftovers can reduce edible food waste. Understanding date labels and storing food correctly can help as well."
+  },
+  {
+    "id": "nutrition-172",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Sustainable diets",
+    "question": "A client wants a more sustainable diet without becoming fully vegetarian. Which step is practical?",
+    "choices": [
+      "Waste more vegetables",
+      "Choose only heavily packaged single portions",
+      "Avoid seasonal produce entirely",
+      "Replace some meat meals with legumes"
+    ],
+    "answerIndex": 3,
+    "explanation": "Replacing some meat with beans, lentils, or other pulses can lower environmental pressure and add fiber. Sustainable eating can involve gradual shifts rather than an all-or-nothing identity."
+  },
+  {
+    "id": "nutrition-173",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Immune health",
+    "question": "Why can a nutrient deficiency impair immune function?",
+    "choices": [
+      "Immune cells require adequate substrates and micronutrients",
+      "The immune system uses only sunlight",
+      "Deficiency always increases antibody production",
+      "Nutrients act only in skeletal muscle"
+    ],
+    "answerIndex": 0,
+    "explanation": "Immune barriers, cell proliferation, signaling, and antibody production depend on adequate energy and nutrients. Correcting deficiency helps normal function, but megadoses do not create invulnerability."
+  },
+  {
+    "id": "nutrition-174",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Supplements",
+    "question": "A supplement labeled natural is necessarily safe at any dose.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Natural substances can cause toxicity, interactions, contamination, or allergic reactions. Safety depends on the substance, dose, user, and product quality."
+  },
+  {
+    "id": "nutrition-175",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Supplements",
+    "question": "What does a third-party supplement certification primarily help verify?",
+    "choices": [
+      "Guaranteed effectiveness for everyone",
+      "Contents and manufacturing quality",
+      "A product's ability to replace meals",
+      "Freedom from every possible side effect"
+    ],
+    "answerIndex": 1,
+    "explanation": "Independent certification can provide added assurance about identity, contamination, and manufacturing standards. It does not prove that the supplement is effective or appropriate for a particular person."
+  },
+  {
+    "id": "nutrition-176",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Supplements",
+    "question": "An athlete subject to drug testing considers a new supplement. Which risk requires special attention?",
+    "choices": [
+      "The package being too light",
+      "The product containing ordinary water",
+      "Undeclared or contaminated banned substances",
+      "The label using small print"
+    ],
+    "answerIndex": 2,
+    "explanation": "Supplement contamination or undeclared ingredients can lead to an anti-doping violation even without intent. Products independently tested for sport reduce risk but cannot replace informed judgment."
+  },
+  {
+    "id": "nutrition-177",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Vitamin D",
+    "question": "Which body process initiates vitamin D production after suitable sun exposure?",
+    "choices": [
+      "Red blood cells digest cholesterol",
+      "The colon absorbs visible light",
+      "Muscle glycogen releases iodine",
+      "Ultraviolet B radiation acts on the skin"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ultraviolet B radiation converts a cholesterol-derived compound in skin into a vitamin D precursor. Latitude, season, skin pigmentation, clothing, age, and sun protection influence production."
+  },
+  {
+    "id": "nutrition-178",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Sleep and diet",
+    "question": "What can sleep restriction do to food choices?",
+    "choices": [
+      "Increase preference for energy-dense foods",
+      "Eliminate appetite permanently",
+      "Prevent all glucose variation",
+      "Guarantee greater vegetable intake"
+    ],
+    "answerIndex": 0,
+    "explanation": "Insufficient sleep can heighten reward responses to food and make energy-dense choices more appealing. It can also impair glucose regulation and decision-making."
+  },
+  {
+    "id": "nutrition-179",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Sleep and diet",
+    "question": "A client uses large evening meals to compensate for skipping food all day and then sleeps poorly. Which experiment is reasonable?",
+    "choices": [
+      "Stop drinking water permanently",
+      "Distribute meals more regularly and reduce late discomfort",
+      "Double the evening meal",
+      "Use alcohol as a sleep aid"
+    ],
+    "answerIndex": 1,
+    "explanation": "More regular intake may reduce extreme evening hunger and the discomfort of a very large meal near bedtime. Sleep problems have many causes, so persistent issues may need professional assessment."
+  },
+  {
+    "id": "nutrition-180",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Menopause nutrition",
+    "question": "Why does protein remain important during and after menopause?",
+    "choices": [
+      "It replaces the need for resistance exercise",
+      "It prevents every hot flash",
+      "It supports maintenance of muscle and bone tissue",
+      "It supplies dietary vitamin D automatically"
+    ],
+    "answerIndex": 2,
+    "explanation": "Adequate protein contributes to maintaining muscle and bone alongside resistance and weight-bearing activity. It is one part of a broader dietary pattern rather than a standalone treatment for menopausal symptoms."
+  },
+  {
+    "id": "nutrition-181",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Healthy aging",
+    "question": "An older client becomes full quickly and is unintentionally losing weight. Which food strategy may help?",
+    "choices": [
+      "Fill up on calorie-free drinks before meals",
+      "Remove every source of dietary fat",
+      "Skip breakfast and lunch",
+      "Use smaller nutrient-dense meals and snacks"
+    ],
+    "answerIndex": 3,
+    "explanation": "Smaller, energy- and nutrient-dense meals can be easier to manage when appetite is limited. Unintentional weight loss also warrants timely medical or dietetic assessment."
+  },
+  {
+    "id": "nutrition-182",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Healthy aging",
+    "question": "Which vitamin is particularly vulnerable to poor absorption in some older adults?",
+    "choices": [
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin K",
+      "Biotin"
+    ],
+    "answerIndex": 0,
+    "explanation": "Reduced stomach acid and intrinsic-factor problems can impair vitamin B12 absorption with age. Medicines and gastrointestinal conditions may add to the risk."
+  },
+  {
+    "id": "nutrition-183",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Brain health",
+    "question": "Which dietary fats are structurally important in brain-cell membranes?",
+    "choices": [
+      "Industrial trans fats only",
+      "Long-chain omega-3 fatty acids",
+      "Cholesterol-free sugars",
+      "Insoluble fiber"
+    ],
+    "answerIndex": 1,
+    "explanation": "Long-chain omega-3 fats, including DHA, are important components of neuronal membranes. Brain health still depends on the whole dietary and lifestyle pattern, not one isolated nutrient."
+  },
+  {
+    "id": "nutrition-184",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Brain health",
+    "question": "One food or supplement has been proven to prevent every form of dementia.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "No single food or supplement prevents every form of dementia. Cardiovascular risk management, physical activity, sleep, social engagement, and an overall healthy diet are more defensible targets."
+  },
+  {
+    "id": "nutrition-185",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Digestive symptoms",
+    "question": "What does the low-FODMAP diet temporarily reduce?",
+    "choices": [
+      "All sources of dietary protein",
+      "Every type of fat",
+      "Certain fermentable short-chain carbohydrates",
+      "Only foods containing sodium"
+    ],
+    "answerIndex": 2,
+    "explanation": "A low-FODMAP approach restricts certain fermentable carbohydrates that can trigger symptoms in some people with irritable bowel syndrome. It is normally followed by structured reintroduction and personalization rather than permanent blanket restriction."
+  },
+  {
+    "id": "nutrition-186",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Digestive symptoms",
+    "question": "A client has persistent abdominal pain, blood in the stool, and unexplained weight loss. What is the appropriate response?",
+    "choices": [
+      "Start an extreme elimination diet alone",
+      "Ignore the symptoms for six months",
+      "Take random supplements until pain stops",
+      "Seek prompt medical assessment"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bleeding and unexplained weight loss are alarm features that require medical evaluation. Nutrition experimentation should not delay investigation of potentially serious causes."
+  },
+  {
+    "id": "nutrition-187",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Constipation",
+    "question": "Which combination commonly supports normal bowel function?",
+    "choices": [
+      "Adequate fiber, fluid, and physical activity",
+      "High alcohol intake and bed rest",
+      "Removing all plant foods",
+      "Ignoring the urge to defecate"
+    ],
+    "answerIndex": 0,
+    "explanation": "Fiber, adequate hydration, movement, and regular toileting habits can support bowel regularity. Persistent or severe constipation may have medical or medication-related causes."
+  },
+  {
+    "id": "nutrition-188",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Diarrhea",
+    "question": "Replacing fluid and electrolytes can be important during significant diarrhea.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Diarrhea can cause substantial losses of water and electrolytes. Oral rehydration solutions use an effective balance of glucose and salts to promote absorption."
+  },
+  {
+    "id": "nutrition-189",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Allergy and intolerance",
+    "question": "What is cross-contact in food-allergy management?",
+    "choices": [
+      "Digestion of lactose in the colon",
+      "Unintentional transfer of an allergen to another food",
+      "Cooking two vegetables together",
+      "Eating the same meal twice"
+    ],
+    "answerIndex": 1,
+    "explanation": "Cross-contact occurs when an allergen is unintentionally transferred through hands, utensils, surfaces, oils, or equipment. Even a small amount may be dangerous for a highly allergic person."
+  },
+  {
+    "id": "nutrition-190",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Lactose intolerance",
+    "question": "A lactose-intolerant client assumes all dairy must be eliminated. Which statement is more accurate?",
+    "choices": [
+      "Every dairy product contains identical lactose",
+      "Lactose intolerance is an immune allergy",
+      "Tolerance varies, and some dairy foods are lower in lactose",
+      "Calcium cannot come from other foods"
+    ],
+    "answerIndex": 2,
+    "explanation": "Many people with lactose intolerance tolerate some lactose, especially in smaller portions or foods such as hard cheese and yogurt. Lactose-free and fortified alternatives can also help meet nutritional needs."
+  },
+  {
+    "id": "nutrition-191",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Celiac disease",
+    "question": "What triggers the autoimmune response in celiac disease?",
+    "choices": [
+      "Lactose in all dairy foods",
+      "Fructose in intact fruit",
+      "Unsaturated fat in nuts",
+      "Gluten proteins in wheat, barley, and rye"
+    ],
+    "answerIndex": 3,
+    "explanation": "Gluten exposure triggers an autoimmune reaction that damages the small-intestinal lining in people with celiac disease. Strict long-term avoidance is medically necessary after diagnosis."
+  },
+  {
+    "id": "nutrition-192",
+    "source": "nutrition",
+    "type": "tf",
+    "topic": "Food allergy",
+    "question": "Cooking reliably destroys every food allergen.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Many allergenic proteins remain capable of causing reactions after cooking. Safe management requires allergen avoidance and control of cross-contact, not assumptions about heat."
+  },
+  {
+    "id": "nutrition-193",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Pregnancy nutrition",
+    "question": "Why are high-mercury fish limited during pregnancy?",
+    "choices": [
+      "Methylmercury can harm fetal nervous-system development",
+      "Fish contains no useful nutrients",
+      "All seafood causes allergy",
+      "Mercury prevents protein digestion"
+    ],
+    "answerIndex": 0,
+    "explanation": "High methylmercury exposure can damage the developing nervous system. Lower-mercury fish can still supply valuable protein, iodine, vitamin D, and omega-3 fats."
+  },
+  {
+    "id": "nutrition-194",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Pregnancy nutrition",
+    "question": "A pregnant client asks whether any amount of alcohol is known to be safe. What is the prudent guidance?",
+    "choices": [
+      "One drink every day is proven safe",
+      "Avoid alcohol during pregnancy",
+      "Only spirits pose a risk",
+      "Alcohol becomes a vitamin during pregnancy"
+    ],
+    "answerIndex": 1,
+    "explanation": "No safe amount or timing of alcohol in pregnancy has been established. Avoidance removes the risk of alcohol-related fetal harm."
+  },
+  {
+    "id": "nutrition-195",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Infant nutrition",
+    "question": "Why should honey be avoided during the first year of life?",
+    "choices": [
+      "It contains too much protein",
+      "It prevents tooth eruption",
+      "It can contain spores that cause infant botulism",
+      "It has no carbohydrate"
+    ],
+    "answerIndex": 2,
+    "explanation": "Honey can carry Clostridium botulinum spores that an infant's immature gut cannot safely handle. Cooking or pasteurization does not make honey appropriate before 12 months."
+  },
+  {
+    "id": "nutrition-196",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Child feeding",
+    "question": "A parent's child stops eating after a few bites even though food remains. How should the parent react?",
+    "choices": [
+      "Force the child to clean the plate",
+      "Offer dessert only as a reward",
+      "Distract the child until everything is eaten",
+      "Respect the child's fullness signal"
+    ],
+    "answerIndex": 3,
+    "explanation": "Responsive feeding allows the caregiver to provide suitable food while the child decides whether and how much to eat. Pressure can disrupt recognition of internal hunger and fullness cues."
+  },
+  {
+    "id": "nutrition-197",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Mental health",
+    "question": "Which statement best reflects the relationship between depression and diet?",
+    "choices": [
+      "The relationship can be bidirectional and multifactorial",
+      "One nutrient explains every case",
+      "Diet has no possible association with mood",
+      "Food replaces professional mental-health care"
+    ],
+    "answerIndex": 0,
+    "explanation": "Mood can affect appetite and food choices, while overall diet may influence biological pathways related to mental health. Neither direction reduces depression to a simple food problem."
+  },
+  {
+    "id": "nutrition-198",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Eating disorders",
+    "question": "A client reports purging and feeling out of control around food. What is the trainer's appropriate priority?",
+    "choices": [
+      "Prescribe stricter calorie tracking",
+      "Encourage assessment by a qualified healthcare professional",
+      "Praise rapid weight change",
+      "Create a punitive exercise plan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Purging and loss-of-control eating are serious warning signs that require appropriate clinical support. A fitness professional should stay within scope and facilitate referral rather than prescribe treatment."
+  },
+  {
+    "id": "nutrition-199",
+    "source": "nutrition",
+    "type": "mcq",
+    "topic": "Nutrition information",
+    "question": "Which study design can directly test whether an assigned dietary intervention causes an outcome?",
+    "choices": [
+      "A celebrity testimonial",
+      "A cross-sectional survey alone",
+      "A randomized controlled trial",
+      "An unsourced opinion article"
+    ],
+    "answerIndex": 2,
+    "explanation": "Random assignment can reduce confounding and strengthen causal inference when a trial is well conducted. Duration, adherence, sample size, comparator, and outcome choice still affect its usefulness."
+  },
+  {
+    "id": "nutrition-200",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Nutrition information",
+    "question": "A client reads that one observational study links a food with disease. How should the finding be interpreted?",
+    "choices": [
+      "As proof that the food caused every case",
+      "As evidence that all observational research is useless",
+      "As a personalized medical diagnosis",
+      "As an association that needs context and supporting evidence"
+    ],
+    "answerIndex": 3,
+    "explanation": "Observational studies can identify important associations but are vulnerable to confounding and cannot alone prove causation. Confidence grows when different high-quality methods produce consistent results and plausible mechanisms support them."
   }
 ]
