@@ -1527,5 +1527,20 @@
     ],
     "answerIndex": 0,
     "explanation": "Compensations such as low-back arching in a push-up indicate that the client cannot yet control the position being asked of them. The appropriate response is to regress to a version they can perform with correct alignment. Loading a faulty pattern reinforces incorrect sensory information rather than improving it."
+  },
+  {
+    "id": "nasm-prg-107",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Complex training",
+    "question": "An advanced client performs heavy squats immediately followed by explosive vertical jumps. Which programming interpretation is most accurate?",
+    "choices": [
+      "This is complex training intended to use the preceding contraction to enhance force production",
+      "This is static balance training and can be repeated daily without recovery",
+      "This pairing relies on autogenic inhibition to eliminate muscular force",
+      "The jumps should always precede the heavy lift because order is irrelevant"
+    ],
+    "answerIndex": 0,
+    "explanation": "Complex training pairs a heavy multijoint exercise with an explosive movement and uses post-activation potentiation. The preceding contraction can acutely enhance subsequent force generation. Because the pairing is highly stressful, adequate recovery is important and complete neuromuscular recovery may take about 72 hours."
   }
 ]

@@ -834,5 +834,20 @@
     ],
     "answerIndex": 1,
     "explanation": "The a-vO2 difference increases with chronic aerobic training, particularly at maximal exercise. This happens both through skeletal muscle adaptations that improve oxygen extraction and through more effective distribution of blood to active tissue. Extraction is therefore a genuine contributor to a rising maximal oxygen uptake, not a fixed term."
+  },
+  {
+    "id": "nsca-aer-059",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Frequency and recovery",
+    "question": "A client replaces three short, easy aerobic sessions with three much longer, high-intensity sessions but keeps the same weekly spacing. What programming issue should the trainer reconsider first?",
+    "choices": [
+      "Whether the harder sessions now require more recovery or a lower weekly frequency",
+      "Whether every session should become longer still to preserve the original frequency",
+      "Whether recovery can be eliminated because aerobic exercise never produces fatigue",
+      "Whether the sessions should be scheduled on consecutive days to accumulate fatigue"
+    ],
+    "answerIndex": 0,
+    "explanation": "Longer and more intense aerobic sessions create greater recovery demands than short, easy sessions. Frequency therefore cannot be planned independently of duration and intensity. Keeping the old schedule without considering the new workload may provide inadequate recovery."
   }
 ]

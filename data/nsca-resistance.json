@@ -1156,5 +1156,20 @@
     ],
     "answerIndex": 0,
     "explanation": "Overtraining syndromes are largely a function of the rate of progression, that is, attempting too much too soon. The body has not had time for its physiological adaptations to catch up with the imposed stress. The typical result is extreme soreness or injury rather than a productive adaptation."
+  },
+  {
+    "id": "nsca-res-086",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Forced repetitions",
+    "question": "A lifter reaches muscular failure, and a partner helps complete two additional repetitions but is not positioned to protect against a dropped bar. How should the trainer classify this arrangement?",
+    "choices": [
+      "It is safe spotting because any physical assistance protects the lifter",
+      "It is a warm-up method because the partner reduces the resistance",
+      "It is a forced-repetition technique and does not replace proper safety spotting",
+      "It is an unassisted set because the lifter initiated every repetition"
+    ],
+    "answerIndex": 2,
+    "explanation": "Repetitions completed with another person's help after the lifter can no longer finish them independently are forced repetitions. Assistance intended to extend a set is distinct from spotting intended to protect the lifter if a repetition fails. The trainer must not treat the forced-repetition partner as a substitute for proper safety measures."
   }
 ]

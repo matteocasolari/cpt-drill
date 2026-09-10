@@ -819,5 +819,20 @@
     ],
     "answerIndex": 0,
     "explanation": "Exercise is an essential component of diabetic management, and in both type 1 and type 2 it can increase insulin sensitivity and glucose utilization, lowering blood glucose. Regular physical activity also reduces other cardiovascular risk factors including hypertension, dyslipidemia, and obesity. Potential complications such as hypoglycemia must still be anticipated when designing and supervising the program."
+  },
+  {
+    "id": "nsca-cond-060",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Beta blockers",
+    "question": "A client taking a beta blocker reports hard effort even though their heart rate remains below the trainer's usual target zone. How should intensity be monitored?",
+    "choices": [
+      "Increase workload until heart rate reaches the unmedicated prediction",
+      "Ignore both heart rate and the client's symptoms",
+      "Use ratings of perceived exertion because the medication blunts the normal heart-rate response",
+      "Stop using any method of intensity monitoring"
+    ],
+    "answerIndex": 2,
+    "explanation": "Beta blockers slow heart rate and keep it from increasing normally during exercise. A conventional heart-rate target can therefore understate how hard the client is working. Ratings of perceived exertion provide a more useful intensity guide in this situation."
   }
 ]

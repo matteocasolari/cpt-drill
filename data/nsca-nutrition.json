@@ -652,5 +652,20 @@
     ],
     "answerIndex": 0,
     "explanation": "Nutrition and physical activity should be addressed in conjunction with one another, and focusing on one at the exclusion of the other yields less than optimal results. Trainers enhance their overall effectiveness by maintaining core nutrition knowledge and individualizing their advice. Assessment and recommendations should match the client's needs and goals, and referral should follow when those needs exceed the trainer's scope."
+  },
+  {
+    "id": "nsca-nut-045",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Caffeine and hydration",
+    "question": "A client who regularly drinks coffee asks whether every cup must be excluded from daily fluid intake because caffeine is dehydrating. Which response is best?",
+    "choices": [
+      "Regular consumers generally develop tolerance, so caffeinated drinks can contribute to hydration",
+      "Every caffeinated drink produces a net fluid loss larger than its volume",
+      "Only solid foods can contribute to hydration",
+      "Coffee counts as fluid only when consumed immediately after exercise"
+    ],
+    "answerIndex": 0,
+    "explanation": "Tolerance to caffeine generally develops within one to four days of regular use. In tolerant consumers, caffeinated beverages do not produce the increased urine output implied by the dehydration claim. Those beverages can therefore contribute to overall hydration."
   }
 ]

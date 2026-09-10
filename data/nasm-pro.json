@@ -830,5 +830,20 @@
     ],
     "answerIndex": 0,
     "explanation": "Encouraging a greater proportion of whole foods while limiting highly processed foods is general nutrition guidance a trainer may offer. Whole foods tend to be more satiating than many processed foods, which helps clients maintain caloric balance and avoid excess intake. Building an individualized therapeutic plan would require referral to a registered dietitian."
+  },
+  {
+    "id": "nasm-pro-057",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Communication",
+    "question": "A client gives a vague answer about why they want to exercise while the trainer is checking phone notifications. What response best demonstrates active listening?",
+    "choices": [
+      "Offer a standard goal before the conversation becomes uncomfortable",
+      "Put the phone away, ask a clarifying question, and reflect the client's answer back",
+      "Wait silently without acknowledging what the client said",
+      "Explain the trainer's own fitness goals in greater detail"
+    ],
+    "answerIndex": 1,
+    "explanation": "Active listening requires genuine attention, appropriate questions, and feedback that confirms understanding. Removing the distraction and reflecting the answer gives the client space to clarify their own goals. Supplying a goal or redirecting the conversation toward the trainer does not establish understanding."
   }
 ]

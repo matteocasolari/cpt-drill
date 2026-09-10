@@ -963,5 +963,20 @@
     ],
     "answerIndex": 0,
     "explanation": "A trainer intending to work with clinical patients should receive additional training related to the mechanism of the disease and the common signs and symptoms associated with it. Physician clearance is also required before training clients with medical conditions. Recognizing when the complexity of a case exceeds one's competence is itself part of professional practice."
+  },
+  {
+    "id": "nsca-con-075",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Client contract",
+    "question": "A client is ready to sign but is unsure when a prepaid package can be canceled or refunded. What should the trainer do before accepting the agreement?",
+    "choices": [
+      "Clarify the cancellation, termination, and refund terms and document any resolved questions",
+      "Ask the client to sign first and discuss the terms only if a dispute occurs",
+      "Replace the contract with a verbal promise",
+      "Add the client's exercise test results to answer the billing question"
+    ],
+    "answerIndex": 0,
+    "explanation": "A client contract should state its cancellation policy, termination provisions, and refund or voiding circumstances. The consultation should give the client an opportunity to discuss those terms before receipt or signature. Clarifying and documenting questions supports a shared understanding of the agreement."
   }
 ]

@@ -1415,5 +1415,20 @@
     ],
     "answerIndex": 0,
     "explanation": "Adequate sleep is a requirement for normal brain function, memory, recovery and repair, and appropriate hormone levels. Most adults sleep well below what they actually need, and the shortfall affects glucose metabolism and hormone function. The trainer can raise sleep as a general lifestyle factor while referring any suspected medical problem onward."
+  },
+  {
+    "id": "nasm-sci-097",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Bone remodeling",
+    "question": "An adolescent client asks why bones normally become larger and denser during growth. Which remodeling pattern best explains the change?",
+    "choices": [
+      "Osteoclast activity permanently stops during adolescence",
+      "Cartilage replaces all existing bone tissue",
+      "New bone formation outpaces the removal of old bone",
+      "Old bone is removed faster than osteoblasts can replace it"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bone remodeling combines osteoclast-driven resorption with osteoblast-driven formation. During childhood and adolescence, new bone is normally added faster than old bone is removed. The resulting positive balance allows bones to become larger, heavier, and denser."
   }
 ]

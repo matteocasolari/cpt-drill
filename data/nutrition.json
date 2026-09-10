@@ -2936,5 +2936,20 @@
     ],
     "answerIndex": 3,
     "explanation": "Observational studies can identify important associations but are vulnerable to confounding and cannot alone prove causation. Confidence grows when different high-quality methods produce consistent results and plausible mechanisms support them."
+  },
+  {
+    "id": "nutrition-201",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Gut-brain axis",
+    "question": "A client reads a wellness post claiming that a single food controls mood because the gut sends commands directly and only one way to the brain. Which evaluation is most accurate?",
+    "choices": [
+      "The claim is accurate because gut-brain communication uses only one nerve",
+      "The claim is too simplistic because communication is bidirectional and involves neural, hormonal, immune, and microbial pathways",
+      "The claim is accurate for any food described as natural",
+      "The gut and brain have no known communication pathways"
+    ],
+    "answerIndex": 1,
+    "explanation": "The gut-brain axis is a two-way communication system involving neural, hormonal, immune, and microbial pathways. That complexity does not support a claim that one food directly controls mood through a single route. Evidence about the axis should not be stretched into miracle-food conclusions."
   }
 ]

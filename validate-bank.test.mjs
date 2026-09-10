@@ -71,3 +71,28 @@ test("dedicated nutrition bank contains at least 200 valid questions", async () 
   const result = runValidator(dir, 200);
   assert.equal(result.status, 0, result.stderr + result.stdout);
 });
+
+test("every curriculum bank retains its expanded question coverage", async () => {
+  const minimums = {
+    "nasm-pro.json": 57,
+    "nasm-science.json": 96,
+    "nasm-assess.json": 98,
+    "nasm-flex-cardio.json": 76,
+    "nasm-opt.json": 96,
+    "nasm-programming.json": 104,
+    "nasm-special.json": 58,
+    "nsca-consult.json": 66,
+    "nsca-resistance.json": 79,
+    "nsca-aerobic.json": 57,
+    "nsca-plyo-speed.json": 58,
+    "nsca-nutrition.json": 45,
+    "nsca-conditions.json": 56,
+    "both.json": 78,
+    "nutrition.json": 201,
+  };
+
+  for (const [file, minimum] of Object.entries(minimums)) {
+    const questions = JSON.parse(await readFile(join(repoRoot, "data", file), "utf8"));
+    assert.ok(questions.length >= minimum, `${file}: expected at least ${minimum}, found ${questions.length}`);
+  }
+});

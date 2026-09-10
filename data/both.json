@@ -1105,5 +1105,20 @@
     ],
     "answerIndex": 0,
     "explanation": "Stabilization, the body's ability to provide optimal dynamic joint support and maintain correct posture during movement, is the foundation on which hypertrophy, strength, and power are built. Strength cannot be considered in isolation, since muscles, tendons, and ligaments must be prepared for the loads required to increase it beyond the initial stages. This is why resistance exercises progress from stabilization-focused, to strength-focused, to power-focused work."
+  },
+  {
+    "id": "both-105",
+    "source": "both",
+    "type": "scenario",
+    "topic": "Conservative starting point",
+    "question": "A new client appears anxious about exercise, and their readiness information leaves the trainer uncertain between two starting intensities. Which choice best supports both safety and adherence?",
+    "choices": [
+      "Begin with the higher option to establish the client's maximum tolerance",
+      "Choose the lower option and build from attainable early successes",
+      "Alternate randomly between the two intensities",
+      "Cancel all exercise until the client no longer feels anxious"
+    ],
+    "answerIndex": 1,
+    "explanation": "When readiness is uncertain, beginning at the more conservative intensity reduces the risk of injury or aggravating an underlying condition. A manageable starting point also leaves clear room for improvement. Early attainable goals can build the confidence and momentum that support adherence."
   }
 ]

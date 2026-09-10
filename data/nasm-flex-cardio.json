@@ -1115,5 +1115,20 @@
     ],
     "answerIndex": 1,
     "explanation": "Clients engaged in intense training or endurance sport should not rely on thirst as an indicator of hydration status. They should instead follow a recommended hydration protocol built around planned intake. Thirst lags behind actual fluid deficit, so it arrives too late to guide replacement during hard or prolonged work."
+  },
+  {
+    "id": "nasm-fc-077",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Cool-down",
+    "question": "A client finishes a vigorous treadmill interval and wants to stop moving immediately. Which transition best addresses a key purpose of the cool-down?",
+    "choices": [
+      "Walk at a gradually decreasing pace before completing flexibility work",
+      "Sit down at once so heart rate falls as quickly as possible",
+      "Begin another hard interval to clear metabolic waste",
+      "Hold the breath during a maximal static stretch"
+    ],
+    "answerIndex": 0,
+    "explanation": "A gradual reduction in activity helps heart rate, breathing, and body temperature move toward baseline while limiting blood pooling in the legs. Flexibility work such as self-myofascial techniques and static stretching can follow during the cool-down. Stopping abruptly does not provide the same controlled physiological transition."
   }
 ]

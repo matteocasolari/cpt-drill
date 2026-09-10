@@ -1413,5 +1413,20 @@
     ],
     "answerIndex": 0,
     "explanation": "Programming efforts should focus on the assessments conducted before the client's initial workout, and a lack of assessment can lead to ineffective exercise selection and programming. This process is what separates generic physical activity from systematic, progressive exercise programming. Individuality based on assessment results also increases the likelihood that the client adheres to the program."
+  },
+  {
+    "id": "nasm-opt-101",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Exercise order",
+    "question": "A client's primary goal is improving a technically demanding multijoint lift, but the current session places it after several fatiguing isolation exercises. What adjustment best follows priority-based exercise order?",
+    "choices": [
+      "Move the goal-specific lift near the beginning of the session",
+      "Keep it last so fatigue makes the technique more challenging",
+      "Arrange every exercise alphabetically",
+      "Alternate the order randomly at every workout"
+    ],
+    "answerIndex": 0,
+    "explanation": "Priority-based ordering places exercises most closely tied to the client's goal early in the session. This reduces the effect of fatigue on the movement that matters most. It also agrees with the secondary guideline of placing multijoint work before single-joint exercises."
   }
 ]

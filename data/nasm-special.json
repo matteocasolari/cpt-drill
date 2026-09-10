@@ -845,5 +845,20 @@
     ],
     "answerIndex": 0,
     "explanation": "Regular physical activity and exercise is described as one of the most important factors related to long-term successful weight loss. The majority of participants who reported consistently exercising an average of one hour per day maintained significant weight loss over a period of several years. Overweight and obesity also represent the one area of public health where fitness professionals can make a significant positive impact."
+  },
+  {
+    "id": "nasm-sp-059",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Hypertension",
+    "question": "A client with hypertension holds their breath through a slow, heavy resistance repetition. Which coaching change most directly reduces the acute blood-pressure concern?",
+    "choices": [
+      "Add a longer isometric pause while maintaining the breath hold",
+      "Use an even heavier load so the repetition ends sooner",
+      "Cue normal breathing, avoid the Valsalva maneuver, and shorten prolonged isometric or concentric actions",
+      "Move every resistance exercise to a supine position"
+    ],
+    "answerIndex": 2,
+    "explanation": "Heavy lifting, breath holding through the Valsalva maneuver, and prolonged muscular actions can create an undesirable blood-pressure response. Clients with hypertension should breathe normally, use appropriate loads, and avoid extended isometric and concentric actions. Seated or standing exercises and careful progression are generally preferred."
   }
 ]

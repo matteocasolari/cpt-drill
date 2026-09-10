@@ -841,5 +841,20 @@
     ],
     "answerIndex": 0,
     "explanation": "The benefits of adding plyometric exercise to an adolescent's program go beyond improvements in performance. Plyometrics have been shown to help adolescents develop bone strength, balance, and coordination. Improvements in running velocity, vertical jump, bone mass, and a reduced sport injury rate have also been reported in young clients."
+  },
+  {
+    "id": "nsca-ps-059",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Deceleration mechanics",
+    "question": "An athlete accelerates quickly but loses alignment and control whenever stopping or cutting. Which training emphasis most directly addresses the exposed injury risk?",
+    "choices": [
+      "More maximal-speed repetitions without any braking practice",
+      "Controlled absorption and redirection of momentum during landings and cuts",
+      "Removing all eccentric actions from training",
+      "Long static stretches performed immediately before every sprint"
+    ],
+    "answerIndex": 1,
+    "explanation": "Landing and changing direction require the body to absorb and redirect momentum under control. Poor deceleration exposes tissues to forces the athlete cannot manage even when acceleration is strong. Training the braking phase directly therefore targets the observed limitation and its associated injury risk."
   }
 ]

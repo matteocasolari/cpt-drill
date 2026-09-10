@@ -1445,5 +1445,20 @@
     ],
     "answerIndex": 0,
     "explanation": "Movement impairment is simply the term used to describe a client's abnormal movement when it deviates from optimal postural alignment while in motion. The observation process searches for muscle imbalances or movement impairment patterns that may lead to injury inside or outside the gym. Corrective programming then stretches identified overactive muscles and strengthens identified underactive ones."
+  },
+  {
+    "id": "nasm-assess-100",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Assessment preparation",
+    "question": "A client arrives for a baseline fitness assessment after a strenuous morning workout and a large caffeinated meal one hour earlier. What is the best course of action?",
+    "choices": [
+      "Proceed because only alcohol changes assessment results",
+      "Perform only the most fatiguing tests so the workout has less influence",
+      "Have the client drink less water and begin immediately",
+      "Reschedule after reviewing the preparation instructions with the client"
+    ],
+    "answerIndex": 3,
+    "explanation": "Strenuous exercise on the day of testing and heavy food or caffeine within three hours can compromise a baseline assessment. Rescheduling protects the usefulness and comparability of the measurements. The client should also arrive rested and adequately hydrated rather than restricting fluids."
   }
 ]
