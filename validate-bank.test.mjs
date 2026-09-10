@@ -88,7 +88,7 @@ test("every curriculum bank retains its expanded question coverage", async () =>
     "nsca-nutrition.json": 45,
     "nsca-conditions.json": 56,
     "both.json": 78,
-    "nutrition.json": 201,
+    "nutrition.json": 222,
   };
 
   for (const [file, minimum] of Object.entries(minimums)) {

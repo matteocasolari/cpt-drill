@@ -2951,5 +2951,320 @@
     ],
     "answerIndex": 1,
     "explanation": "The gut-brain axis is a two-way communication system involving neural, hormonal, immune, and microbial pathways. That complexity does not support a claim that one food directly controls mood through a single route. Evidence about the axis should not be stretched into miracle-food conclusions."
+  },
+  {
+    "id": "nutrition-202",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Balanced nutrition",
+    "question": "Two clients of the same age ask for identical meal plans, but they have different activity levels, health needs, and food preferences. What is the most appropriate response?",
+    "choices": [
+      "Give both clients the same plan because age determines nutritional needs",
+      "Adjust each eating pattern to the individual's needs and circumstances",
+      "Choose whichever plan excludes the most food groups",
+      "Use the more active client's intake for both people"
+    ],
+    "answerIndex": 1,
+    "explanation": "There is no single optimal diet for every person. Nutritional needs and sustainable choices vary with activity, health, metabolism, genetics, age, and preferences. A balanced approach therefore requires individual context rather than a universal template."
+  },
+  {
+    "id": "nutrition-203",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Constipation",
+    "question": "A client with mild constipation sharply increases fiber but drinks very little and remains sedentary. Which broader adjustment is most appropriate?",
+    "choices": [
+      "Combine adequate fluid and regular movement with the fiber increase",
+      "Eliminate all dietary fiber until bowel habits normalize",
+      "Rely only on supplements and avoid regular toileting habits",
+      "Ignore persistent symptoms because constipation never has medical causes"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bowel regularity is supported by fiber together with adequate hydration, physical activity, and regular toileting habits. Focusing on fiber alone overlooks the rest of that combination. Persistent or severe constipation warrants medical attention because illness or medication may contribute."
+  },
+  {
+    "id": "nutrition-204",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Emotional eating",
+    "question": "A client responds to stress-driven eating by skipping the next day's meals and criticizing themselves. Which alternative is more constructive?",
+    "choices": [
+      "Use stricter punishment after every episode",
+      "Avoid noticing triggers so eating remains spontaneous",
+      "Observe the trigger without judgment, eat regularly, and develop another coping option",
+      "Remove every enjoyable food from the home"
+    ],
+    "answerIndex": 2,
+    "explanation": "Recognizing emotional triggers without shame creates an opportunity to choose a different coping response. Regular nourishment can also reduce the restriction-and-reaction pattern. Punishment and severe restriction do not address the underlying trigger compassionately."
+  },
+  {
+    "id": "nutrition-205",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Gluten",
+    "question": "A client without celiac disease removes whole-grain breads solely because a package says gluten-free foods are healthier. What concern should be discussed?",
+    "choices": [
+      "Gluten avoidance guarantees excessive protein intake",
+      "Unnecessary restriction may reduce dietary variety and fiber without providing an automatic health advantage",
+      "All gluten-free foods contain more vitamins than whole grains",
+      "Gluten is the body's only source of carbohydrate"
+    ],
+    "answerIndex": 1,
+    "explanation": "A gluten-free diet is medically necessary for conditions such as celiac disease but is not inherently healthier for everyone. Removing foods without suitable replacements can reduce variety and fiber. A package claim alone does not establish an individual medical need."
+  },
+  {
+    "id": "nutrition-206",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Healthy weight",
+    "question": "A client's scale weight is unchanged, but their fitness, blood markers, habits, and mental well-being have improved. How should the outcome be interpreted?",
+    "choices": [
+      "No health progress occurred because scale weight is the only valid measure",
+      "The scale proves body composition must also be unchanged",
+      "The improvements matter because health cannot be judged from total body mass alone",
+      "Only the client's age is relevant to the interpretation"
+    ],
+    "answerIndex": 2,
+    "explanation": "Scale weight measures total mass but does not describe body composition or the full state of health. Fitness, clinical markers, behavior, mental well-being, and disease risk provide additional context. Meaningful progress can therefore occur without a change on the scale."
+  },
+  {
+    "id": "nutrition-207",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Intermittent fasting",
+    "question": "A client finds that an intermittent-fasting schedule causes poor adherence even though a friend calls it uniquely effective. What is the best interpretation?",
+    "choices": [
+      "The client must continue because fasting overrides energy intake and adherence",
+      "The schedule is one optional way to organize intake and may not suit this client",
+      "Fasting produces unique fat loss regardless of total intake",
+      "The friend’s experience establishes the best approach for everyone"
+    ],
+    "answerIndex": 1,
+    "explanation": "Intermittent fasting is primarily a meal-scheduling method and is not consistently superior when energy intake and adherence are comparable. Its usefulness depends on the person and context. A pattern that undermines adherence is not made appropriate by another person's success."
+  },
+  {
+    "id": "nutrition-208",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Legumes and pulses",
+    "question": "A client wants one affordable ingredient that adds plant protein and fiber to soups and salads. Which choice best meets both goals?",
+    "choices": [
+      "Lentils",
+      "Table sugar",
+      "Butter",
+      "Filtered water"
+    ],
+    "answerIndex": 0,
+    "explanation": "Lentils are pulses and supply both plant protein and fiber along with several micronutrients. Beans and peas offer similar benefits. This nutrient combination makes pulses useful in plant-based and mixed eating patterns."
+  },
+  {
+    "id": "nutrition-209",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Macronutrients",
+    "question": "A client labels fat unnecessary because carbohydrate and protein already provide energy and building material. Which correction is most accurate?",
+    "choices": [
+      "Only carbohydrate is a macronutrient",
+      "Protein is the sole nutrient needed in large amounts",
+      "Fat is also a macronutrient and supports vital functions",
+      "Vitamins replace every function of dietary fat"
+    ],
+    "answerIndex": 2,
+    "explanation": "Carbohydrate, protein, and fat are all macronutrients required in relatively large amounts. Each supports vital functions, so the existence of the other two does not make fat unnecessary. Macronutrient status describes required quantity rather than a hierarchy of importance."
+  },
+  {
+    "id": "nutrition-210",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Malnutrition",
+    "question": "A client consistently consumes more energy than needed but eats an extremely limited diet lacking protein and micronutrient-rich foods. Which statement is correct?",
+    "choices": [
+      "Excess energy intake rules out malnutrition",
+      "The client may still have malnutrition because excesses and nutrient deficiencies can coexist",
+      "Only low body weight can indicate malnutrition",
+      "Micronutrient intake is irrelevant when calories are abundant"
+    ],
+    "answerIndex": 1,
+    "explanation": "Malnutrition includes nutrient or energy deficiencies, excesses, and imbalances. Consuming excess calories does not guarantee adequate protein, fiber, vitamins, or minerals. Overnutrition and specific deficiencies can therefore exist in the same person."
+  },
+  {
+    "id": "nutrition-211",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Meal timing",
+    "question": "A healthy client dislikes breakfast but consistently meets nutritional needs with a later meal schedule. What guidance best fits the evidence?",
+    "choices": [
+      "Force breakfast because every healthy adult requires the same meal timing",
+      "Judge the pattern by overall diet quality and individual needs rather than one mandatory meal",
+      "Skip all meals before evening regardless of hunger or performance",
+      "Replace breakfast with supplements even when food intake is adequate"
+    ],
+    "answerIndex": 1,
+    "explanation": "Breakfast can be useful, but it is not mandatory for every healthy adult. Overall diet quality, adequacy, and individual circumstances matter more than a universal schedule. The later pattern can be reasonable if it remains nourishing and suitable for the client."
+  },
+  {
+    "id": "nutrition-212",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Meat and fish",
+    "question": "A client removes several weekly red-meat meals but replaces them only with low-protein snack foods. What would make the change more nutritionally balanced?",
+    "choices": [
+      "Replace some meals with legumes or fish to preserve protein and add variety",
+      "Avoid replacing any nutrients previously supplied by the meals",
+      "Use sweets as the primary substitute because they contain energy",
+      "Remove vegetables so the plate remains the same size"
+    ],
+    "answerIndex": 0,
+    "explanation": "Reducing red or processed meat can be part of a balanced pattern when useful nutrients are replaced thoughtfully. Legumes and fish provide protein while adding dietary variety. Simply removing a food without considering its replacement can leave the overall meal less balanced."
+  },
+  {
+    "id": "nutrition-213",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Micronutrients",
+    "question": "A client assumes vitamins and minerals cannot matter much because the body needs only small quantities. Which response is accurate?",
+    "choices": [
+      "Small required amounts make micronutrients optional",
+      "Only nutrients measured in grams affect health",
+      "Micronutrients are required in small amounts, but deficiencies can still have serious effects",
+      "Minerals are macronutrients while vitamins provide no body functions"
+    ],
+    "answerIndex": 2,
+    "explanation": "The term micronutrient refers to the relatively small amounts required compared with macronutrients. It does not mean vitamins and minerals are unimportant. Deficiencies can have substantial health consequences even though requirements are small."
+  },
+  {
+    "id": "nutrition-214",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Nutrition fundamentals",
+    "question": "A client describes nutrition as nothing more than counting calories printed on food labels. Which broader definition is more accurate?",
+    "choices": [
+      "Nutrition concerns how the body obtains and uses nourishment needed for health and growth",
+      "Nutrition measures only the price of food",
+      "Nutrition describes exercise performed after eating",
+      "Nutrition applies only when a nutrient deficiency is diagnosed"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nutrition encompasses nourishment from food and how the body uses nutrients for health and growth. Energy is part of the subject but does not define it completely. Focusing only on calorie labels omits the body's many nutrient needs and processes."
+  },
+  {
+    "id": "nutrition-215",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Organic food",
+    "question": "A client assumes an organic label proves a snack is more nutritious than every conventional alternative. What does the label actually establish?",
+    "choices": [
+      "The product contains every essential nutrient",
+      "The product followed regulated production, handling, and labeling standards",
+      "The product has no environmental impact",
+      "The product is appropriate for every dietary need"
+    ],
+    "answerIndex": 1,
+    "explanation": "Organic certification primarily addresses regulated production, handling, and labeling practices. It does not automatically establish superior nutrient content or zero environmental impact. Foods still need to be evaluated within the person's overall dietary pattern."
+  },
+  {
+    "id": "nutrition-216",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Plant-based iron",
+    "question": "A plant-based client serves lentils with bell pepper and tea. Which two parts of the meal are likely to work in opposite directions on iron uptake?",
+    "choices": [
+      "The pepper can enhance uptake, while the tea can inhibit it",
+      "The lentils inhibit uptake, while the tea supplies absorbable iron",
+      "The pepper blocks uptake, while the tea improves it",
+      "Neither item can influence non-heme iron uptake"
+    ],
+    "answerIndex": 0,
+    "explanation": "Vitamin C in bell pepper can help the body absorb non-heme iron from lentils. Compounds in tea may have the opposite effect when the drink accompanies the meal. Keeping the pepper and having tea at another time would preserve the favorable pairing."
+  },
+  {
+    "id": "nutrition-217",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Plant-based minerals",
+    "question": "A client relies heavily on high-phytate plant staples and wants to improve mineral availability without abandoning them. Which preparation strategy may help?",
+    "choices": [
+      "Soak, sprout, ferment, or cook appropriate foods",
+      "Eat every legume and grain completely raw",
+      "Add more phytate to bind additional minerals",
+      "Remove all sources of iron and zinc"
+    ],
+    "answerIndex": 0,
+    "explanation": "Phytate can bind minerals such as iron and zinc and reduce their absorption. Preparation processes including soaking, sprouting, fermentation, and cooking can make some of those minerals more available. These methods allow useful plant foods to remain part of the diet."
+  },
+  {
+    "id": "nutrition-218",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Plant-based omega-3",
+    "question": "A client obtains omega-3 fat only from flaxseed and assumes the body converts all of its ALA into EPA and DHA. Which correction is appropriate?",
+    "choices": [
+      "Flaxseed contains EPA and DHA exclusively",
+      "ALA is not an omega-3 fat",
+      "Flaxseed supplies ALA, but conversion to the longer-chain EPA and DHA is limited",
+      "The body converts ALA into protein rather than fatty acids"
+    ],
+    "answerIndex": 2,
+    "explanation": "Flaxseed, chia seed, walnuts, and certain oils provide the short-chain omega-3 fat ALA. The body can convert ALA to EPA and DHA, but that conversion is limited. The forms should therefore not be treated as nutritionally identical."
+  },
+  {
+    "id": "nutrition-219",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Plant-based planning",
+    "question": "A vegan client eats mostly fries, cookies, and highly processed substitutes and assumes the vegan label guarantees adequacy. What is the strongest improvement?",
+    "choices": [
+      "Build varied meals around legumes, whole grains, vegetables, nuts, and seeds while considering fortification or supplements",
+      "Continue unchanged because excluding animal foods supplies every nutrient automatically",
+      "Remove legumes and whole grains to reduce variety",
+      "Use sweets as the main source of vitamins and minerals"
+    ],
+    "answerIndex": 0,
+    "explanation": "A nutritionally strong vegan pattern depends on variety and nutrient-rich staples rather than animal-food exclusion alone. Legumes, whole grains, vegetables, nuts, and seeds provide a stronger foundation. Fortified foods or targeted supplements may also be necessary for nutrients that are difficult to obtain."
+  },
+  {
+    "id": "nutrition-220",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Superfoods",
+    "question": "A client adds a heavily marketed superfood while leaving the rest of an unbalanced diet unchanged. What outcome is most realistic?",
+    "choices": [
+      "The single food will compensate for every missing nutrient and habit",
+      "The food may contribute nutrients, but overall variety and dietary pattern remain more important",
+      "The marketing term guarantees prevention of chronic disease",
+      "All other foods become nutritionally unnecessary"
+    ],
+    "answerIndex": 1,
+    "explanation": "No single food supplies everything the body needs or determines health by itself. A so-called superfood may be nutritious, but it cannot repair an otherwise unbalanced pattern. Variety and the overall diet provide the more meaningful frame."
+  },
+  {
+    "id": "nutrition-221",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Weight gain",
+    "question": "An underweight client wants gradual weight gain but currently skips meals and relies on occasional sweets. Which plan better supports the goal?",
+    "choices": [
+      "Add regular meals with energy-dense nutritious foods, adequate protein, and resistance exercise",
+      "Continue skipping meals and eat sweets only once hunger becomes extreme",
+      "Eliminate dietary fat because it contains concentrated energy",
+      "Avoid resistance exercise so no lean tissue can develop"
+    ],
+    "answerIndex": 0,
+    "explanation": "Regular meals and nutrient-dense, energy-rich additions can increase intake gradually while supporting overall nutrition. Adequate protein and resistance exercise may help direct some gain toward lean tissue. Sporadic sweets alone do not provide the same nutritional foundation."
+  },
+  {
+    "id": "nutrition-222",
+    "source": "nutrition",
+    "type": "scenario",
+    "topic": "Whole grains",
+    "question": "A client compares intact whole oats with a refined grain product and asks why their nutrient profiles differ. Which structural difference matters most?",
+    "choices": [
+      "Whole grains retain the bran and germ that refining commonly removes",
+      "Refined grains retain extra bran and germ not found in whole grains",
+      "Whole grains contain no endosperm",
+      "Refining adds the original fiber-rich outer layers"
+    ],
+    "answerIndex": 0,
+    "explanation": "Whole grains retain the bran, germ, and endosperm. Processing a grain into a refined product typically strips away the outer bran and the germ, taking fiber and nutrients with them. That structural loss helps explain the resulting nutritional differences."
   }
 ]
