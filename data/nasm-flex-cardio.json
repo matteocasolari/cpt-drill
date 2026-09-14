@@ -1130,5 +1130,297 @@
     ],
     "answerIndex": 0,
     "explanation": "A gradual reduction in activity helps heart rate, breathing, and body temperature move toward baseline while limiting blood pooling in the legs. Flexibility work such as self-myofascial techniques and static stretching can follow during the cool-down. Stopping abruptly does not provide the same controlled physiological transition."
+  },
+  {
+    "id": "nasm-fc-078",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Flexibility",
+    "question": "What is the soundest guidance about relative flexibility in Flexibility?",
+    "choices": [
+      "The body may use the path of least resistance, producing compensatory movement at more mobile segments.",
+      "Static stretches are held without bouncing at the first point of tension within a safe range.",
+      "Heart-rate reserve equals maximal heart rate minus resting heart rate.",
+      "Stage 2 introduces intervals between zones one and two, with recovery back in zone one."
+    ],
+    "answerIndex": 0,
+    "explanation": "The body may use the path of least resistance, producing compensatory movement at more mobile segments. In Flexibility, this is the soundest approach to relative flexibility."
+  },
+  {
+    "id": "nasm-fc-079",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Flexibility",
+    "question": "How should a trainer address altered reciprocal inhibition?",
+    "choices": [
+      "Active stretching uses agonist and synergist contraction to move a joint through range.",
+      "An overactive agonist can reduce neural drive to its functional antagonist.",
+      "The Karvonen method adds resting heart rate after multiplying heart-rate reserve by intensity.",
+      "Stage 3 is for advanced clients and uses zones one, two, and three, including brief high-intensity intervals."
+    ],
+    "answerIndex": 1,
+    "explanation": "An overactive agonist can reduce neural drive to its functional antagonist. In Flexibility, this is the soundest approach to altered reciprocal inhibition."
+  },
+  {
+    "id": "nasm-fc-080",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Flexibility",
+    "question": "Which practice best reflects an appropriate approach to synergistic dominance?",
+    "choices": [
+      "Dynamic stretching uses controlled functional movement and is suitable in a progressive warm-up.",
+      "The talk test uses speech comfort as a practical indicator of aerobic intensity.",
+      "A synergist may become overactive when the intended prime mover is inhibited.",
+      "Rotating low-, medium-, and high-intensity stage sessions helps reduce the risk of overtraining."
+    ],
+    "answerIndex": 2,
+    "explanation": "A synergist may become overactive when the intended prime mover is inhibited. In Flexibility, this is the soundest approach to synergistic dominance."
+  },
+  {
+    "id": "nasm-fc-081",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Self-myofascial rolling",
+    "question": "While foam rolling, a client finds a tender spot and immediately rolls past it. What pressure-duration instruction is more appropriate?",
+    "choices": [
+      "A cardiorespiratory warm-up gradually raises demand and prepares the client for the work bout.",
+      "Perceived exertion is valuable when heart rate is altered by medication or environmental stress.",
+      "Increasing duration before intensity is often a conservative cardiorespiratory progression.",
+      "Pressure is commonly held on a tender area for at least 30 seconds and until discomfort decreases before moving on."
+    ],
+    "answerIndex": 3,
+    "explanation": "Pressure is commonly held on a tender area for at least 30 seconds and until discomfort decreases before moving on. In Self-myofascial rolling, this is the soundest approach to pressure duration."
+  },
+  {
+    "id": "nasm-fc-082",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Self-myofascial rolling",
+    "question": "Rolling should avoid acute injury, open wounds, and areas where medical guidance prohibits pressure.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Rolling should avoid acute injury, open wounds, and areas where medical guidance prohibits pressure. For Self-myofascial rolling, this is the relevant principle concerning contraindications."
+  },
+  {
+    "id": "nasm-fc-083",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Static stretching",
+    "question": "Which practice best reflects an appropriate approach to acute variables?",
+    "choices": [
+      "Heart-rate reserve equals maximal heart rate minus resting heart rate.",
+      "Static stretches are held without bouncing at the first point of tension within a safe range.",
+      "Stage 2 introduces intervals between zones one and two, with recovery back in zone one.",
+      "The body may use the path of least resistance, producing compensatory movement at more mobile segments."
+    ],
+    "answerIndex": 1,
+    "explanation": "Static stretches are held without bouncing at the first point of tension within a safe range. In Static stretching, this is the soundest approach to acute variables."
+  },
+  {
+    "id": "nasm-fc-084",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Active stretching",
+    "question": "What is the soundest guidance about mechanism in Active stretching?",
+    "choices": [
+      "The Karvonen method adds resting heart rate after multiplying heart-rate reserve by intensity.",
+      "Stage 3 is for advanced clients and uses zones one, two, and three, including brief high-intensity intervals.",
+      "Active stretching uses agonist and synergist contraction to move a joint through range.",
+      "An overactive agonist can reduce neural drive to its functional antagonist."
+    ],
+    "answerIndex": 2,
+    "explanation": "Active stretching uses agonist and synergist contraction to move a joint through range. In Active stretching, this is the soundest approach to mechanism."
+  },
+  {
+    "id": "nasm-fc-085",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Dynamic stretching",
+    "question": "How should a trainer address preactivity use?",
+    "choices": [
+      "The talk test uses speech comfort as a practical indicator of aerobic intensity.",
+      "Rotating low-, medium-, and high-intensity stage sessions helps reduce the risk of overtraining.",
+      "A synergist may become overactive when the intended prime mover is inhibited.",
+      "Dynamic stretching uses controlled functional movement and is suitable in a progressive warm-up."
+    ],
+    "answerIndex": 3,
+    "explanation": "Dynamic stretching uses controlled functional movement and is suitable in a progressive warm-up. In Dynamic stretching, this is the soundest approach to preactivity use."
+  },
+  {
+    "id": "nasm-fc-086",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Cardiorespiratory training",
+    "question": "A sedentary client steps onto a treadmill and tries to begin the main workload immediately. What should precede it?",
+    "choices": [
+      "A cardiorespiratory warm-up gradually raises demand and prepares the client for the work bout.",
+      "Perceived exertion is valuable when heart rate is altered by medication or environmental stress.",
+      "Increasing duration before intensity is often a conservative cardiorespiratory progression.",
+      "Pressure is commonly held on a tender area for at least 30 seconds and until discomfort decreases before moving on."
+    ],
+    "answerIndex": 0,
+    "explanation": "A cardiorespiratory warm-up gradually raises demand and prepares the client for the work bout. In Cardiorespiratory training, this is the soundest approach to warm-up."
+  },
+  {
+    "id": "nasm-fc-087",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Cardiorespiratory training",
+    "question": "A trainer can safely disregard cool-down when addressing Cardiorespiratory training.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "A gradual cool-down supports venous return and a controlled recovery from exercise. Therefore, cool-down should not be disregarded when programming for Cardiorespiratory training."
+  },
+  {
+    "id": "nasm-fc-088",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Cardiorespiratory assessment",
+    "question": "How should a trainer address heart-rate reserve?",
+    "choices": [
+      "Stage 2 introduces intervals between zones one and two, with recovery back in zone one.",
+      "The body may use the path of least resistance, producing compensatory movement at more mobile segments.",
+      "Heart-rate reserve equals maximal heart rate minus resting heart rate.",
+      "Static stretches are held without bouncing at the first point of tension within a safe range."
+    ],
+    "answerIndex": 2,
+    "explanation": "Heart-rate reserve equals maximal heart rate minus resting heart rate. In Cardiorespiratory assessment, this is the soundest approach to heart-rate reserve."
+  },
+  {
+    "id": "nasm-fc-089",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Cardiorespiratory assessment",
+    "question": "Which practice best reflects an appropriate approach to target heart rate?",
+    "choices": [
+      "Stage 3 is for advanced clients and uses zones one, two, and three, including brief high-intensity intervals.",
+      "An overactive agonist can reduce neural drive to its functional antagonist.",
+      "Active stretching uses agonist and synergist contraction to move a joint through range.",
+      "The Karvonen method adds resting heart rate after multiplying heart-rate reserve by intensity."
+    ],
+    "answerIndex": 3,
+    "explanation": "The Karvonen method adds resting heart rate after multiplying heart-rate reserve by intensity. In Cardiorespiratory assessment, this is the soundest approach to target heart rate."
+  },
+  {
+    "id": "nasm-fc-090",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Cardiorespiratory assessment",
+    "question": "What is the soundest guidance about talk test in Cardiorespiratory assessment?",
+    "choices": [
+      "The talk test uses speech comfort as a practical indicator of aerobic intensity.",
+      "Rotating low-, medium-, and high-intensity stage sessions helps reduce the risk of overtraining.",
+      "A synergist may become overactive when the intended prime mover is inhibited.",
+      "Dynamic stretching uses controlled functional movement and is suitable in a progressive warm-up."
+    ],
+    "answerIndex": 0,
+    "explanation": "The talk test uses speech comfort as a practical indicator of aerobic intensity. In Cardiorespiratory assessment, this is the soundest approach to talk test."
+  },
+  {
+    "id": "nasm-fc-091",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Cardiorespiratory assessment",
+    "question": "A client's medication blunts heart-rate response during cardio. Which additional method can the trainer use to monitor intensity?",
+    "choices": [
+      "Increasing duration before intensity is often a conservative cardiorespiratory progression.",
+      "Perceived exertion is valuable when heart rate is altered by medication or environmental stress.",
+      "Pressure is commonly held on a tender area for at least 30 seconds and until discomfort decreases before moving on.",
+      "A cardiorespiratory warm-up gradually raises demand and prepares the client for the work bout."
+    ],
+    "answerIndex": 1,
+    "explanation": "Perceived exertion is valuable when heart rate is altered by medication or environmental stress. In Cardiorespiratory assessment, this is the soundest approach to RPE."
+  },
+  {
+    "id": "nasm-fc-092",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Stage training",
+    "question": "Stage 1 develops a base in zone one at about 65 to 75 percent of maximal heart rate or an RPE of 12 to 13.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Stage 1 develops a base in zone one at about 65 to 75 percent of maximal heart rate or an RPE of 12 to 13. For Stage training, this is the relevant principle concerning stage 1."
+  },
+  {
+    "id": "nasm-fc-093",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Stage training",
+    "question": "What is the soundest guidance about stage 2 in Stage training?",
+    "choices": [
+      "The body may use the path of least resistance, producing compensatory movement at more mobile segments.",
+      "Static stretches are held without bouncing at the first point of tension within a safe range.",
+      "Heart-rate reserve equals maximal heart rate minus resting heart rate.",
+      "Stage 2 introduces intervals between zones one and two, with recovery back in zone one."
+    ],
+    "answerIndex": 3,
+    "explanation": "Stage 2 introduces intervals between zones one and two, with recovery back in zone one. In Stage training, this is the soundest approach to stage 2."
+  },
+  {
+    "id": "nasm-fc-094",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Stage training",
+    "question": "How should a trainer address stage 3?",
+    "choices": [
+      "Stage 3 is for advanced clients and uses zones one, two, and three, including brief high-intensity intervals.",
+      "An overactive agonist can reduce neural drive to its functional antagonist.",
+      "Active stretching uses agonist and synergist contraction to move a joint through range.",
+      "The Karvonen method adds resting heart rate after multiplying heart-rate reserve by intensity."
+    ],
+    "answerIndex": 0,
+    "explanation": "Stage 3 is for advanced clients and uses zones one, two, and three, including brief high-intensity intervals. In Stage training, this is the soundest approach to stage 3."
+  },
+  {
+    "id": "nasm-fc-095",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Stage training",
+    "question": "Which practice best reflects an appropriate approach to stage rotation?",
+    "choices": [
+      "A synergist may become overactive when the intended prime mover is inhibited.",
+      "Rotating low-, medium-, and high-intensity stage sessions helps reduce the risk of overtraining.",
+      "Dynamic stretching uses controlled functional movement and is suitable in a progressive warm-up.",
+      "The talk test uses speech comfort as a practical indicator of aerobic intensity."
+    ],
+    "answerIndex": 1,
+    "explanation": "Rotating low-, medium-, and high-intensity stage sessions helps reduce the risk of overtraining. In Stage training, this is the soundest approach to stage rotation."
+  },
+  {
+    "id": "nasm-fc-096",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Cardiorespiratory programming",
+    "question": "A beginner tolerates the current cardio intensity but cannot yet sustain the planned session length. Which conservative progression is most appropriate?",
+    "choices": [
+      "Pressure is commonly held on a tender area for at least 30 seconds and until discomfort decreases before moving on.",
+      "A cardiorespiratory warm-up gradually raises demand and prepares the client for the work bout.",
+      "Increasing duration before intensity is often a conservative cardiorespiratory progression.",
+      "Perceived exertion is valuable when heart rate is altered by medication or environmental stress."
+    ],
+    "answerIndex": 2,
+    "explanation": "Increasing duration before intensity is often a conservative cardiorespiratory progression. In Cardiorespiratory programming, this is the soundest approach to progression."
+  },
+  {
+    "id": "nasm-fc-097",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Cardiorespiratory programming",
+    "question": "A trainer can safely disregard recovery when addressing Cardiorespiratory programming.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Training frequency and intensity should allow recovery appropriate to fitness and total workload. Therefore, recovery should not be disregarded when programming for Cardiorespiratory programming."
   }
 ]

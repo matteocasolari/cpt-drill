@@ -845,5 +845,370 @@
     ],
     "answerIndex": 1,
     "explanation": "Active listening requires genuine attention, appropriate questions, and feedback that confirms understanding. Removing the distraction and reflecting the answer gives the client space to clarify their own goals. Supplying a goal or redirecting the conversation toward the trainer does not establish understanding."
+  },
+  {
+    "id": "nasm-pro-058",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Scope of practice",
+    "question": "What is the soundest guidance about diagnosis in Scope of practice?",
+    "choices": [
+      "A personal trainer observes and refers but does not diagnose disease or injury.",
+      "Informed consent explains relevant benefits and risks but does not eliminate negligence liability.",
+      "Open-ended questions encourage clients to describe motivations, barriers, and preferences.",
+      "Reliable service, progress review, and appropriate communication support client retention."
+    ],
+    "answerIndex": 0,
+    "explanation": "A personal trainer observes and refers but does not diagnose disease or injury. In Scope of practice, this is the soundest approach to diagnosis."
+  },
+  {
+    "id": "nasm-pro-059",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Scope of practice",
+    "question": "How should a trainer address nutrition boundaries?",
+    "choices": [
+      "Client information should be protected and shared only with authorization or lawful necessity.",
+      "General evidence-based nutrition education is distinct from prescribing medical nutrition therapy.",
+      "Small successful steps can build confidence that a client can sustain exercise behavior.",
+      "Relationships with qualified allied health professionals improve appropriate referral and continuity."
+    ],
+    "answerIndex": 1,
+    "explanation": "General evidence-based nutrition education is distinct from prescribing medical nutrition therapy. In Scope of practice, this is the soundest approach to nutrition boundaries."
+  },
+  {
+    "id": "nasm-pro-060",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Scope of practice",
+    "question": "Which practice best reflects an appropriate approach to supplements?",
+    "choices": [
+      "Clear professional boundaries protect both the client and the trainer relationship.",
+      "A process goal specifies controllable behavior, such as completing three walks each week.",
+      "Trainers should not present supplement sales as individualized medical treatment.",
+      "Marketing should be truthful and avoid guaranteed outcomes or misleading credentials."
+    ],
+    "answerIndex": 2,
+    "explanation": "Trainers should not present supplement sales as individualized medical treatment. In Scope of practice, this is the soundest approach to supplements."
+  },
+  {
+    "id": "nasm-pro-061",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Documentation",
+    "question": "A client reports pain, so the trainer modifies three exercises during the session. What should the trainer record afterward?",
+    "choices": [
+      "A claim is stronger when supported by relevant peer-reviewed evidence rather than testimonials.",
+      "A lapse should be treated as information for revising the plan, not proof of failure.",
+      "Business and health records require secure storage and controlled access.",
+      "Prompt factual session notes document what was planned, performed, modified, and reported."
+    ],
+    "answerIndex": 3,
+    "explanation": "Prompt factual session notes document what was planned, performed, modified, and reported. In Documentation, this is the soundest approach to session records."
+  },
+  {
+    "id": "nasm-pro-062",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Documentation",
+    "question": "An incident report should record objective facts rather than blame or speculation.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "An incident report should record objective facts rather than blame or speculation. For Documentation, this is the relevant principle concerning incident reports."
+  },
+  {
+    "id": "nasm-pro-063",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Risk management",
+    "question": "Which practice best reflects an appropriate approach to equipment inspection?",
+    "choices": [
+      "Active listening includes attentive silence, clarification, reflection, and summarizing.",
+      "Equipment should be inspected and unsafe items removed from service before use.",
+      "A written agreement should clarify services, fees, scheduling, cancellation, and responsibilities.",
+      "Financial interests that could bias a recommendation should be disclosed and managed."
+    ],
+    "answerIndex": 1,
+    "explanation": "Equipment should be inspected and unsafe items removed from service before use. In Risk management, this is the soundest approach to equipment inspection."
+  },
+  {
+    "id": "nasm-pro-064",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Risk management",
+    "question": "What is the soundest guidance about emergency planning in Risk management?",
+    "choices": [
+      "Open-ended questions encourage clients to describe motivations, barriers, and preferences.",
+      "Reliable service, progress review, and appropriate communication support client retention.",
+      "Trainers should know emergency procedures, communication methods, and AED location.",
+      "A personal trainer observes and refers but does not diagnose disease or injury."
+    ],
+    "answerIndex": 2,
+    "explanation": "Trainers should know emergency procedures, communication methods, and AED location. In Risk management, this is the soundest approach to emergency planning."
+  },
+  {
+    "id": "nasm-pro-065",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Risk management",
+    "question": "How should a trainer address informed consent?",
+    "choices": [
+      "Small successful steps can build confidence that a client can sustain exercise behavior.",
+      "Relationships with qualified allied health professionals improve appropriate referral and continuity.",
+      "General evidence-based nutrition education is distinct from prescribing medical nutrition therapy.",
+      "Informed consent explains relevant benefits and risks but does not eliminate negligence liability."
+    ],
+    "answerIndex": 3,
+    "explanation": "Informed consent explains relevant benefits and risks but does not eliminate negligence liability. In Risk management, this is the soundest approach to informed consent."
+  },
+  {
+    "id": "nasm-pro-066",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Professional conduct",
+    "question": "A friend of a client asks the trainer to disclose the client's health history and recent results. How should the trainer respond?",
+    "choices": [
+      "Client information should be protected and shared only with authorization or lawful necessity.",
+      "A process goal specifies controllable behavior, such as completing three walks each week.",
+      "Marketing should be truthful and avoid guaranteed outcomes or misleading credentials.",
+      "Trainers should not present supplement sales as individualized medical treatment."
+    ],
+    "answerIndex": 0,
+    "explanation": "Client information should be protected and shared only with authorization or lawful necessity. In Professional conduct, this is the soundest approach to confidentiality."
+  },
+  {
+    "id": "nasm-pro-067",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Professional conduct",
+    "question": "A trainer can safely disregard professional boundaries when addressing Professional conduct.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clear professional boundaries protect both the client and the trainer relationship. Therefore, professional boundaries should not be disregarded when programming for Professional conduct."
+  },
+  {
+    "id": "nasm-pro-068",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Evidence-based practice",
+    "question": "How should a trainer address source quality?",
+    "choices": [
+      "The trainer should explore ambivalence without arguing when a client resists change.",
+      "Continuing education helps trainers maintain competence as evidence and standards evolve.",
+      "A claim is stronger when supported by relevant peer-reviewed evidence rather than testimonials.",
+      "An incident report should record objective facts rather than blame or speculation."
+    ],
+    "answerIndex": 2,
+    "explanation": "A claim is stronger when supported by relevant peer-reviewed evidence rather than testimonials. In Evidence-based practice, this is the soundest approach to source quality."
+  },
+  {
+    "id": "nasm-pro-069",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Evidence-based practice",
+    "question": "Which practice best reflects an appropriate approach to individual application?",
+    "choices": [
+      "A written agreement should clarify services, fees, scheduling, cancellation, and responsibilities.",
+      "Financial interests that could bias a recommendation should be disclosed and managed.",
+      "Equipment should be inspected and unsafe items removed from service before use.",
+      "Research evidence must be integrated with professional judgment and the client's needs."
+    ],
+    "answerIndex": 3,
+    "explanation": "Research evidence must be integrated with professional judgment and the client's needs. In Evidence-based practice, this is the soundest approach to individual application."
+  },
+  {
+    "id": "nasm-pro-070",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Communication",
+    "question": "What is the soundest guidance about active listening in Communication?",
+    "choices": [
+      "Active listening includes attentive silence, clarification, reflection, and summarizing.",
+      "Reliable service, progress review, and appropriate communication support client retention.",
+      "A personal trainer observes and refers but does not diagnose disease or injury.",
+      "Trainers should know emergency procedures, communication methods, and AED location."
+    ],
+    "answerIndex": 0,
+    "explanation": "Active listening includes attentive silence, clarification, reflection, and summarizing. In Communication, this is the soundest approach to active listening."
+  },
+  {
+    "id": "nasm-pro-071",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Communication",
+    "question": "A client gives short answers and has not explained why exercise matters to them. Which communication approach is most useful?",
+    "choices": [
+      "Relationships with qualified allied health professionals improve appropriate referral and continuity.",
+      "Open-ended questions encourage clients to describe motivations, barriers, and preferences.",
+      "General evidence-based nutrition education is distinct from prescribing medical nutrition therapy.",
+      "Informed consent explains relevant benefits and risks but does not eliminate negligence liability."
+    ],
+    "answerIndex": 1,
+    "explanation": "Open-ended questions encourage clients to describe motivations, barriers, and preferences. In Communication, this is the soundest approach to open questions."
+  },
+  {
+    "id": "nasm-pro-072",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Behavior change",
+    "question": "Small successful steps can build confidence that a client can sustain exercise behavior.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Small successful steps can build confidence that a client can sustain exercise behavior. For Behavior change, this is the relevant principle concerning self-efficacy."
+  },
+  {
+    "id": "nasm-pro-073",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Behavior change",
+    "question": "What is the soundest guidance about process goals in Behavior change?",
+    "choices": [
+      "Business and health records require secure storage and controlled access.",
+      "Prompt factual session notes document what was planned, performed, modified, and reported.",
+      "Clear professional boundaries protect both the client and the trainer relationship.",
+      "A process goal specifies controllable behavior, such as completing three walks each week."
+    ],
+    "answerIndex": 3,
+    "explanation": "A process goal specifies controllable behavior, such as completing three walks each week. In Behavior change, this is the soundest approach to process goals."
+  },
+  {
+    "id": "nasm-pro-074",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Behavior change",
+    "question": "How should a trainer address relapse?",
+    "choices": [
+      "A lapse should be treated as information for revising the plan, not proof of failure.",
+      "Continuing education helps trainers maintain competence as evidence and standards evolve.",
+      "An incident report should record objective facts rather than blame or speculation.",
+      "A claim is stronger when supported by relevant peer-reviewed evidence rather than testimonials."
+    ],
+    "answerIndex": 0,
+    "explanation": "A lapse should be treated as information for revising the plan, not proof of failure. In Behavior change, this is the soundest approach to relapse."
+  },
+  {
+    "id": "nasm-pro-075",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Motivational interviewing",
+    "question": "Which practice best reflects an appropriate approach to resistance?",
+    "choices": [
+      "Financial interests that could bias a recommendation should be disclosed and managed.",
+      "The trainer should explore ambivalence without arguing when a client resists change.",
+      "Equipment should be inspected and unsafe items removed from service before use.",
+      "Research evidence must be integrated with professional judgment and the client's needs."
+    ],
+    "answerIndex": 1,
+    "explanation": "The trainer should explore ambivalence without arguing when a client resists change. In Motivational interviewing, this is the soundest approach to resistance."
+  },
+  {
+    "id": "nasm-pro-076",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Business practice",
+    "question": "A new client is unsure what the package includes and how cancellations are handled. What should clarify these terms before training begins?",
+    "choices": [
+      "A personal trainer observes and refers but does not diagnose disease or injury.",
+      "Trainers should know emergency procedures, communication methods, and AED location.",
+      "A written agreement should clarify services, fees, scheduling, cancellation, and responsibilities.",
+      "Active listening includes attentive silence, clarification, reflection, and summarizing."
+    ],
+    "answerIndex": 2,
+    "explanation": "A written agreement should clarify services, fees, scheduling, cancellation, and responsibilities. In Business practice, this is the soundest approach to service agreement."
+  },
+  {
+    "id": "nasm-pro-077",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Business practice",
+    "question": "A trainer can safely disregard client retention when addressing Business practice.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Reliable service, progress review, and appropriate communication support client retention. Therefore, client retention should not be disregarded when programming for Business practice."
+  },
+  {
+    "id": "nasm-pro-078",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Business practice",
+    "question": "Which practice best reflects an appropriate approach to referral network?",
+    "choices": [
+      "Relationships with qualified allied health professionals improve appropriate referral and continuity.",
+      "Trainers should not present supplement sales as individualized medical treatment.",
+      "Client information should be protected and shared only with authorization or lawful necessity.",
+      "Small successful steps can build confidence that a client can sustain exercise behavior."
+    ],
+    "answerIndex": 0,
+    "explanation": "Relationships with qualified allied health professionals improve appropriate referral and continuity. In Business practice, this is the soundest approach to referral network."
+  },
+  {
+    "id": "nasm-pro-079",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Business practice",
+    "question": "What is the soundest guidance about marketing claims in Business practice?",
+    "choices": [
+      "Prompt factual session notes document what was planned, performed, modified, and reported.",
+      "Marketing should be truthful and avoid guaranteed outcomes or misleading credentials.",
+      "Clear professional boundaries protect both the client and the trainer relationship.",
+      "A process goal specifies controllable behavior, such as completing three walks each week."
+    ],
+    "answerIndex": 1,
+    "explanation": "Marketing should be truthful and avoid guaranteed outcomes or misleading credentials. In Business practice, this is the soundest approach to marketing claims."
+  },
+  {
+    "id": "nasm-pro-080",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Business practice",
+    "question": "How should a trainer address record security?",
+    "choices": [
+      "An incident report should record objective facts rather than blame or speculation.",
+      "A claim is stronger when supported by relevant peer-reviewed evidence rather than testimonials.",
+      "Business and health records require secure storage and controlled access.",
+      "A lapse should be treated as information for revising the plan, not proof of failure."
+    ],
+    "answerIndex": 2,
+    "explanation": "Business and health records require secure storage and controlled access. In Business practice, this is the soundest approach to record security."
+  },
+  {
+    "id": "nasm-pro-081",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Professional development",
+    "question": "A trainer relies on outdated practices even though professional evidence and standards have changed. What action best maintains competence?",
+    "choices": [
+      "Equipment should be inspected and unsafe items removed from service before use.",
+      "Research evidence must be integrated with professional judgment and the client's needs.",
+      "The trainer should explore ambivalence without arguing when a client resists change.",
+      "Continuing education helps trainers maintain competence as evidence and standards evolve."
+    ],
+    "answerIndex": 3,
+    "explanation": "Continuing education helps trainers maintain competence as evidence and standards evolve. In Professional development, this is the soundest approach to continuing education."
+  },
+  {
+    "id": "nasm-pro-082",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Professional conduct",
+    "question": "Financial interests that could bias a recommendation should be disclosed and managed.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Financial interests that could bias a recommendation should be disclosed and managed. For Professional conduct, this is the relevant principle concerning conflicts of interest."
   }
 ]

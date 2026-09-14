@@ -978,5 +978,370 @@
     ],
     "answerIndex": 0,
     "explanation": "A client contract should state its cancellation policy, termination provisions, and refund or voiding circumstances. The consultation should give the client an opportunity to discuss those terms before receipt or signature. Clarifying and documenting questions supports a shared understanding of the agreement."
+  },
+  {
+    "id": "nsca-con-076",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Exercise psychology",
+    "question": "What is the soundest guidance about mental health benefits in Exercise psychology?",
+    "choices": [
+      "Regular exercise can support mood and well-being without replacing mental-health treatment.",
+      "The initial consultation should clarify goals, expectations, responsibilities, and service boundaries.",
+      "Insufficient regular physical activity is a modifiable cardiovascular risk factor.",
+      "Small score changes may reflect normal measurement error rather than true adaptation."
+    ],
+    "answerIndex": 0,
+    "explanation": "Regular exercise can support mood and well-being without replacing mental-health treatment. In Exercise psychology, this is the soundest approach to mental health benefits."
+  },
+  {
+    "id": "nsca-con-077",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Goal setting",
+    "question": "How should a trainer address specific goals?",
+    "choices": [
+      "Preparticipation screening identifies risk and the need for clearance; it does not diagnose disease.",
+      "A useful goal defines the behavior or outcome clearly enough to evaluate progress.",
+      "When screening indicates a need for medical clearance, the trainer should defer to the qualified medical provider.",
+      "Reassessment is most comparable when protocol and testing conditions match the baseline."
+    ],
+    "answerIndex": 1,
+    "explanation": "A useful goal defines the behavior or outcome clearly enough to evaluate progress. In Goal setting, this is the soundest approach to specific goals."
+  },
+  {
+    "id": "nsca-con-078",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Goal setting",
+    "question": "Which practice best reflects an appropriate approach to measurable goals?",
+    "choices": [
+      "Known disease or suggestive signs and symptoms can change clearance and testing decisions.",
+      "An assessment should be selected because it is valid, safe, and relevant to the client's goals.",
+      "A measurable goal includes an observable quantity, frequency, duration, or result.",
+      "Abnormal symptoms or unsafe responses require terminating a test according to protocol."
+    ],
+    "answerIndex": 2,
+    "explanation": "A measurable goal includes an observable quantity, frequency, duration, or result. In Goal setting, this is the soundest approach to measurable goals."
+  },
+  {
+    "id": "nsca-con-079",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Goal setting",
+    "question": "A sedentary beginner proposes doubling every workload within two weeks despite struggling with the current plan. How should the goal be revised?",
+    "choices": [
+      "Risk classification depends on the defined positive and negative risk factors, not intuition alone.",
+      "A test should be modified or omitted when its demands conflict with a client's condition.",
+      "Clients should receive advance instructions about clothing, food, stimulants, medication, and activity.",
+      "Goals should challenge the client while remaining attainable from the current starting point."
+    ],
+    "answerIndex": 3,
+    "explanation": "Goals should challenge the client while remaining attainable from the current starting point. In Goal setting, this is the soundest approach to realistic progression."
+  },
+  {
+    "id": "nsca-con-080",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Motivation",
+    "question": "Enjoyment, mastery, and personal meaning are intrinsic reasons to continue exercise.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Enjoyment, mastery, and personal meaning are intrinsic reasons to continue exercise. For Motivation, this is the relevant principle concerning intrinsic motivation."
+  },
+  {
+    "id": "nsca-con-081",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Motivation",
+    "question": "Which practice best reflects an appropriate approach to autonomy support?",
+    "choices": [
+      "Current smoking and recent cessation are relevant cardiovascular risk considerations.",
+      "Offering meaningful choices can strengthen a client's sense of ownership.",
+      "Less fatiguing resting and nonexercise measures generally precede demanding fitness tests.",
+      "Accurate screening, consent, program, and incident records support continuity and risk management."
+    ],
+    "answerIndex": 1,
+    "explanation": "Offering meaningful choices can strengthen a client's sense of ownership. In Motivation, this is the soundest approach to autonomy support."
+  },
+  {
+    "id": "nsca-con-082",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Consultation",
+    "question": "What is the soundest guidance about rapport in Consultation?",
+    "choices": [
+      "Insufficient regular physical activity is a modifiable cardiovascular risk factor.",
+      "Small score changes may reflect normal measurement error rather than true adaptation.",
+      "Respectful listening and nonjudgmental communication help establish rapport during consultation.",
+      "Regular exercise can support mood and well-being without replacing mental-health treatment."
+    ],
+    "answerIndex": 2,
+    "explanation": "Respectful listening and nonjudgmental communication help establish rapport during consultation. In Consultation, this is the soundest approach to rapport."
+  },
+  {
+    "id": "nsca-con-083",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Consultation",
+    "question": "How should a trainer address expectations?",
+    "choices": [
+      "When screening indicates a need for medical clearance, the trainer should defer to the qualified medical provider.",
+      "Reassessment is most comparable when protocol and testing conditions match the baseline.",
+      "A useful goal defines the behavior or outcome clearly enough to evaluate progress.",
+      "The initial consultation should clarify goals, expectations, responsibilities, and service boundaries."
+    ],
+    "answerIndex": 3,
+    "explanation": "The initial consultation should clarify goals, expectations, responsibilities, and service boundaries. In Consultation, this is the soundest approach to expectations."
+  },
+  {
+    "id": "nsca-con-084",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Health appraisal",
+    "question": "A new client asks whether the preparticipation questionnaire will diagnose a suspected heart condition. How should the trainer explain its purpose?",
+    "choices": [
+      "Preparticipation screening identifies risk and the need for clearance; it does not diagnose disease.",
+      "An assessment should be selected because it is valid, safe, and relevant to the client's goals.",
+      "Abnormal symptoms or unsafe responses require terminating a test according to protocol.",
+      "A measurable goal includes an observable quantity, frequency, duration, or result."
+    ],
+    "answerIndex": 0,
+    "explanation": "Preparticipation screening identifies risk and the need for clearance; it does not diagnose disease. In Health appraisal, this is the soundest approach to screening purpose."
+  },
+  {
+    "id": "nsca-con-085",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Health appraisal",
+    "question": "A trainer can safely disregard symptoms when addressing Health appraisal.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Known disease or suggestive signs and symptoms can change clearance and testing decisions. Therefore, symptoms should not be disregarded when programming for Health appraisal."
+  },
+  {
+    "id": "nsca-con-086",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Risk stratification",
+    "question": "How should a trainer address risk-factor counting?",
+    "choices": [
+      "Using consistent instructions, equipment, sequence, and conditions improves repeatability.",
+      "Assumption-of-risk documents complement but do not replace safe professional conduct.",
+      "Risk classification depends on the defined positive and negative risk factors, not intuition alone.",
+      "Enjoyment, mastery, and personal meaning are intrinsic reasons to continue exercise."
+    ],
+    "answerIndex": 2,
+    "explanation": "Risk classification depends on the defined positive and negative risk factors, not intuition alone. In Risk stratification, this is the soundest approach to risk-factor counting."
+  },
+  {
+    "id": "nsca-con-087",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Risk stratification",
+    "question": "Which practice best reflects an appropriate approach to family history?",
+    "choices": [
+      "Less fatiguing resting and nonexercise measures generally precede demanding fitness tests.",
+      "Accurate screening, consent, program, and incident records support continuity and risk management.",
+      "Offering meaningful choices can strengthen a client's sense of ownership.",
+      "Premature cardiovascular disease in close relatives can count as a coronary risk factor."
+    ],
+    "answerIndex": 3,
+    "explanation": "Premature cardiovascular disease in close relatives can count as a coronary risk factor. In Risk stratification, this is the soundest approach to family history."
+  },
+  {
+    "id": "nsca-con-088",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Risk stratification",
+    "question": "What is the soundest guidance about smoking in Risk stratification?",
+    "choices": [
+      "Current smoking and recent cessation are relevant cardiovascular risk considerations.",
+      "Small score changes may reflect normal measurement error rather than true adaptation.",
+      "Regular exercise can support mood and well-being without replacing mental-health treatment.",
+      "Respectful listening and nonjudgmental communication help establish rapport during consultation."
+    ],
+    "answerIndex": 0,
+    "explanation": "Current smoking and recent cessation are relevant cardiovascular risk considerations. In Risk stratification, this is the soundest approach to smoking."
+  },
+  {
+    "id": "nsca-con-089",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Risk stratification",
+    "question": "During risk appraisal, a client reports doing no regular physical activity. How should that information be treated?",
+    "choices": [
+      "Reassessment is most comparable when protocol and testing conditions match the baseline.",
+      "Insufficient regular physical activity is a modifiable cardiovascular risk factor.",
+      "A useful goal defines the behavior or outcome clearly enough to evaluate progress.",
+      "The initial consultation should clarify goals, expectations, responsibilities, and service boundaries."
+    ],
+    "answerIndex": 1,
+    "explanation": "Insufficient regular physical activity is a modifiable cardiovascular risk factor. In Risk stratification, this is the soundest approach to sedentary behavior."
+  },
+  {
+    "id": "nsca-con-090",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Medical clearance",
+    "question": "When screening indicates a need for medical clearance, should the trainer defer to a qualified medical provider?",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "When screening indicates a need for medical clearance, the trainer should defer to the qualified medical provider. For Medical clearance, this is the relevant principle concerning referral decision."
+  },
+  {
+    "id": "nsca-con-091",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Assessment selection",
+    "question": "What is the soundest guidance about relevance in Assessment selection?",
+    "choices": [
+      "Clients should receive advance instructions about clothing, food, stimulants, medication, and activity.",
+      "Goals should challenge the client while remaining attainable from the current starting point.",
+      "Known disease or suggestive signs and symptoms can change clearance and testing decisions.",
+      "An assessment should be selected because it is valid, safe, and relevant to the client's goals."
+    ],
+    "answerIndex": 3,
+    "explanation": "An assessment should be selected because it is valid, safe, and relevant to the client's goals. In Assessment selection, this is the soundest approach to relevance."
+  },
+  {
+    "id": "nsca-con-092",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Assessment selection",
+    "question": "How should a trainer address contraindications?",
+    "choices": [
+      "A test should be modified or omitted when its demands conflict with a client's condition.",
+      "Assumption-of-risk documents complement but do not replace safe professional conduct.",
+      "Enjoyment, mastery, and personal meaning are intrinsic reasons to continue exercise.",
+      "Risk classification depends on the defined positive and negative risk factors, not intuition alone."
+    ],
+    "answerIndex": 0,
+    "explanation": "A test should be modified or omitted when its demands conflict with a client's condition. In Assessment selection, this is the soundest approach to contraindications."
+  },
+  {
+    "id": "nsca-con-093",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Assessment administration",
+    "question": "Which practice best reflects an appropriate approach to standardization?",
+    "choices": [
+      "Accurate screening, consent, program, and incident records support continuity and risk management.",
+      "Using consistent instructions, equipment, sequence, and conditions improves repeatability.",
+      "Offering meaningful choices can strengthen a client's sense of ownership.",
+      "Premature cardiovascular disease in close relatives can count as a coronary risk factor."
+    ],
+    "answerIndex": 1,
+    "explanation": "Using consistent instructions, equipment, sequence, and conditions improves repeatability. In Assessment administration, this is the soundest approach to standardization."
+  },
+  {
+    "id": "nsca-con-094",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Assessment administration",
+    "question": "A trainer schedules a maximal endurance test before resting blood pressure and body-composition measurements. What is the better testing order?",
+    "choices": [
+      "Regular exercise can support mood and well-being without replacing mental-health treatment.",
+      "Respectful listening and nonjudgmental communication help establish rapport during consultation.",
+      "Less fatiguing resting and nonexercise measures generally precede demanding fitness tests.",
+      "Current smoking and recent cessation are relevant cardiovascular risk considerations."
+    ],
+    "answerIndex": 2,
+    "explanation": "Less fatiguing resting and nonexercise measures generally precede demanding fitness tests. In Assessment administration, this is the soundest approach to test order."
+  },
+  {
+    "id": "nsca-con-095",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Assessment interpretation",
+    "question": "A trainer can safely disregard measurement error when addressing Assessment interpretation.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Small score changes may reflect normal measurement error rather than true adaptation. Therefore, measurement error should not be disregarded when programming for Assessment interpretation."
+  },
+  {
+    "id": "nsca-con-096",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Reassessment",
+    "question": "Which practice best reflects an appropriate approach to same conditions?",
+    "choices": [
+      "Reassessment is most comparable when protocol and testing conditions match the baseline.",
+      "A measurable goal includes an observable quantity, frequency, duration, or result.",
+      "Preparticipation screening identifies risk and the need for clearance; it does not diagnose disease.",
+      "When screening indicates a need for medical clearance, the trainer should defer to the qualified medical provider."
+    ],
+    "answerIndex": 0,
+    "explanation": "Reassessment is most comparable when protocol and testing conditions match the baseline. In Reassessment, this is the soundest approach to same conditions."
+  },
+  {
+    "id": "nsca-con-097",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Fitness testing",
+    "question": "What is the soundest guidance about test termination in Fitness testing?",
+    "choices": [
+      "Goals should challenge the client while remaining attainable from the current starting point.",
+      "Abnormal symptoms or unsafe responses require terminating a test according to protocol.",
+      "Known disease or suggestive signs and symptoms can change clearance and testing decisions.",
+      "An assessment should be selected because it is valid, safe, and relevant to the client's goals."
+    ],
+    "answerIndex": 1,
+    "explanation": "Abnormal symptoms or unsafe responses require terminating a test according to protocol. In Fitness testing, this is the soundest approach to test termination."
+  },
+  {
+    "id": "nsca-con-098",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Fitness testing",
+    "question": "How should a trainer address informed preparation?",
+    "choices": [
+      "Enjoyment, mastery, and personal meaning are intrinsic reasons to continue exercise.",
+      "Risk classification depends on the defined positive and negative risk factors, not intuition alone.",
+      "Clients should receive advance instructions about clothing, food, stimulants, medication, and activity.",
+      "A test should be modified or omitted when its demands conflict with a client's condition."
+    ],
+    "answerIndex": 2,
+    "explanation": "Clients should receive advance instructions about clothing, food, stimulants, medication, and activity. In Fitness testing, this is the soundest approach to informed preparation."
+  },
+  {
+    "id": "nsca-con-099",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Legal practice",
+    "question": "A client signed an assumption-of-risk form, and the trainer concludes that normal safety duties no longer apply. Which correction is accurate?",
+    "choices": [
+      "Offering meaningful choices can strengthen a client's sense of ownership.",
+      "Premature cardiovascular disease in close relatives can count as a coronary risk factor.",
+      "Using consistent instructions, equipment, sequence, and conditions improves repeatability.",
+      "Assumption-of-risk documents complement but do not replace safe professional conduct."
+    ],
+    "answerIndex": 3,
+    "explanation": "Assumption-of-risk documents complement but do not replace safe professional conduct. In Legal practice, this is the soundest approach to assumption of risk."
+  },
+  {
+    "id": "nsca-con-100",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Legal practice",
+    "question": "Accurate screening, consent, program, and incident records support continuity and risk management.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Accurate screening, consent, program, and incident records support continuity and risk management. For Legal practice, this is the relevant principle concerning record retention."
   }
 ]

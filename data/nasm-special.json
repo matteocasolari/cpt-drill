@@ -860,5 +860,443 @@
     ],
     "answerIndex": 2,
     "explanation": "Heavy lifting, breath holding through the Valsalva maneuver, and prolonged muscular actions can create an undesirable blood-pressure response. Clients with hypertension should breathe normally, use appropriate loads, and avoid extended isometric and concentric actions. Seated or standing exercises and careful progression are generally preferred."
+  },
+  {
+    "id": "nasm-sp-060",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Youth training",
+    "question": "What is the soundest guidance about youth supervision in Youth training?",
+    "choices": [
+      "Youth resistance training should be closely supervised with emphasis on technique rather than maximal load.",
+      "Pregnant clients should exercise within obstetric guidance and report warning signs promptly.",
+      "Peripheral neuropathy calls for foot inspection, suitable footwear, and careful exercise selection.",
+      "Training volume and range should be reduced when an arthritic joint is acutely inflamed."
+    ],
+    "answerIndex": 0,
+    "explanation": "Youth resistance training should be closely supervised with emphasis on technique rather than maximal load. In Youth training, this is the soundest approach to youth supervision."
+  },
+  {
+    "id": "nasm-sp-061",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Youth training",
+    "question": "How should a trainer address youth progression?",
+    "choices": [
+      "Talk test and perceived exertion are useful because fixed heart-rate targets may be inappropriate in pregnancy.",
+      "Loads for youth should increase only after the child demonstrates controlled movement.",
+      "High-intensity or high-pressure exercise may be contraindicated with significant diabetic retinopathy.",
+      "Chest discomfort, unusual breathlessness, dizziness, or palpitations require exercise termination and evaluation."
+    ],
+    "answerIndex": 1,
+    "explanation": "Loads for youth should increase only after the child demonstrates controlled movement. In Youth training, this is the soundest approach to youth progression."
+  },
+  {
+    "id": "nasm-sp-062",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Youth training",
+    "question": "Which practice best reflects an appropriate approach to growth considerations?",
+    "choices": [
+      "Bleeding, dizziness, chest pain, painful contractions, or fluid leakage require stopping exercise and medical contact.",
+      "A diabetic client should follow the medical plan and have a rapid carbohydrate source available when appropriate.",
+      "Programs must account for differences in biological maturity rather than relying only on chronological age.",
+      "Repeated walk-rest intervals can improve walking tolerance in intermittent claudication."
+    ],
+    "answerIndex": 2,
+    "explanation": "Programs must account for differences in biological maturity rather than relying only on chronological age. In Youth training, this is the soundest approach to growth considerations."
+  },
+  {
+    "id": "nasm-sp-063",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Youth training",
+    "question": "A youth client is technically capable of training but has begun dreading repetitive workouts. Which program change best supports continued participation?",
+    "choices": [
+      "Pregnant clients should avoid overheating and maintain hydration, especially in hot environments.",
+      "Prolonged isometric effort can create an excessive blood-pressure response and should be limited.",
+      "A progressive warm-up may reduce exercise-induced bronchoconstriction in some clients with asthma.",
+      "Varied and enjoyable activities support youth adherence and motor-skill development."
+    ],
+    "answerIndex": 3,
+    "explanation": "Varied and enjoyable activities support youth adherence and motor-skill development. In Youth training, this is the soundest approach to enjoyment."
+  },
+  {
+    "id": "nasm-sp-064",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Older adults",
+    "question": "Progressive resistance training helps oppose age-related losses of muscle mass and strength.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Progressive resistance training helps oppose age-related losses of muscle mass and strength. For Older adults, this is the relevant principle concerning sarcopenia."
+  },
+  {
+    "id": "nasm-sp-065",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Older adults",
+    "question": "Which practice best reflects an appropriate approach to power and function?",
+    "choices": [
+      "Equipment selection must accommodate the client's body size safely and comfortably.",
+      "Appropriately progressed power training can support everyday function in older adults.",
+      "Loaded spinal flexion and forceful twisting may raise fracture risk in osteoporosis.",
+      "Cancer-related fatigue calls for flexible workloads, short bouts, and coordination with the medical team."
+    ],
+    "answerIndex": 1,
+    "explanation": "Appropriately progressed power training can support everyday function in older adults. In Older adults, this is the soundest approach to power and function."
+  },
+  {
+    "id": "nasm-sp-066",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Older adults",
+    "question": "What is the soundest guidance about recovery in Older adults?",
+    "choices": [
+      "Sustainable activity habits and achievable process goals are more useful than rapid weight-loss promises.",
+      "Impact activity for osteoporosis must match fracture risk, experience, and medical guidance.",
+      "Older clients may require more recovery and a slower progression based on training status and health.",
+      "A diagnosis alone does not determine a program; current function, treatment, risks, and response guide exercise."
+    ],
+    "answerIndex": 2,
+    "explanation": "Older clients may require more recovery and a slower progression based on training status and health. In Older adults, this is the soundest approach to recovery."
+  },
+  {
+    "id": "nasm-sp-067",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Older adults",
+    "question": "How should a trainer address balance programming?",
+    "choices": [
+      "Peripheral neuropathy calls for foot inspection, suitable footwear, and careful exercise selection.",
+      "A longer gradual warm-up can improve comfort before training with arthritis.",
+      "Youth resistance training should be closely supervised with emphasis on technique rather than maximal load.",
+      "Balance challenges should progress from stable supported tasks toward less stable tasks only when controlled."
+    ],
+    "answerIndex": 3,
+    "explanation": "Balance challenges should progress from stable supported tasks toward less stable tasks only when controlled. In Older adults, this is the soundest approach to balance programming."
+  },
+  {
+    "id": "nasm-sp-068",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Pregnancy",
+    "question": "A pregnant client reports a new warning sign during exercise. What should the trainer advise before continuing the program?",
+    "choices": [
+      "Pregnant clients should exercise within obstetric guidance and report warning signs promptly.",
+      "High-intensity or high-pressure exercise may be contraindicated with significant diabetic retinopathy.",
+      "Training volume and range should be reduced when an arthritic joint is acutely inflamed.",
+      "Loads for youth should increase only after the child demonstrates controlled movement."
+    ],
+    "answerIndex": 0,
+    "explanation": "Pregnant clients should exercise within obstetric guidance and report warning signs promptly. In Pregnancy, this is the soundest approach to medical clearance."
+  },
+  {
+    "id": "nasm-sp-069",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Pregnancy",
+    "question": "A trainer can safely disregard intensity monitoring when addressing Pregnancy.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Talk test and perceived exertion are useful because fixed heart-rate targets may be inappropriate in pregnancy. Therefore, intensity monitoring should not be disregarded when programming for Pregnancy."
+  },
+  {
+    "id": "nasm-sp-070",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Pregnancy",
+    "question": "How should a trainer address warning signs?",
+    "choices": [
+      "Prolonged isometric effort can create an excessive blood-pressure response and should be limited.",
+      "Repeated walk-rest intervals can improve walking tolerance in intermittent claudication.",
+      "Bleeding, dizziness, chest pain, painful contractions, or fluid leakage require stopping exercise and medical contact.",
+      "Varied and enjoyable activities support youth adherence and motor-skill development."
+    ],
+    "answerIndex": 2,
+    "explanation": "Bleeding, dizziness, chest pain, painful contractions, or fluid leakage require stopping exercise and medical contact. In Pregnancy, this is the soundest approach to warning signs."
+  },
+  {
+    "id": "nasm-sp-071",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Pregnancy",
+    "question": "Which practice best reflects an appropriate approach to temperature?",
+    "choices": [
+      "A gradual cool-down helps reduce the risk of a sharp postexercise blood-pressure drop.",
+      "A progressive warm-up may reduce exercise-induced bronchoconstriction in some clients with asthma.",
+      "Progressive resistance training helps oppose age-related losses of muscle mass and strength.",
+      "Pregnant clients should avoid overheating and maintain hydration, especially in hot environments."
+    ],
+    "answerIndex": 3,
+    "explanation": "Pregnant clients should avoid overheating and maintain hydration, especially in hot environments. In Pregnancy, this is the soundest approach to temperature."
+  },
+  {
+    "id": "nasm-sp-072",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Obesity",
+    "question": "What is the soundest guidance about initial programming in Obesity?",
+    "choices": [
+      "Low-impact activity with gradual duration increases is often an appropriate starting strategy for obesity.",
+      "Loaded spinal flexion and forceful twisting may raise fracture risk in osteoporosis.",
+      "Cold dry air and airborne irritants can provoke asthma symptoms and should influence mode and setting.",
+      "Appropriately progressed power training can support everyday function in older adults."
+    ],
+    "answerIndex": 0,
+    "explanation": "Low-impact activity with gradual duration increases is often an appropriate starting strategy for obesity. In Obesity, this is the soundest approach to initial programming."
+  },
+  {
+    "id": "nasm-sp-073",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Obesity",
+    "question": "A client cannot sit securely in a machine because its seat and restraints do not accommodate their body size. What should the trainer do?",
+    "choices": [
+      "Impact activity for osteoporosis must match fracture risk, experience, and medical guidance.",
+      "Equipment selection must accommodate the client's body size safely and comfortably.",
+      "Cancer-related fatigue calls for flexible workloads, short bouts, and coordination with the medical team.",
+      "Older clients may require more recovery and a slower progression based on training status and health."
+    ],
+    "answerIndex": 1,
+    "explanation": "Equipment selection must accommodate the client's body size safely and comfortably. In Obesity, this is the soundest approach to equipment fit."
+  },
+  {
+    "id": "nasm-sp-074",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Obesity",
+    "question": "Sustainable activity habits and achievable process goals are more useful than rapid weight-loss promises.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Sustainable activity habits and achievable process goals are more useful than rapid weight-loss promises. For Obesity, this is the relevant principle concerning behavior focus."
+  },
+  {
+    "id": "nasm-sp-075",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Diabetes",
+    "question": "What is the soundest guidance about neuropathy in Diabetes?",
+    "choices": [
+      "Training volume and range should be reduced when an arthritic joint is acutely inflamed.",
+      "Youth resistance training should be closely supervised with emphasis on technique rather than maximal load.",
+      "Pregnant clients should exercise within obstetric guidance and report warning signs promptly.",
+      "Peripheral neuropathy calls for foot inspection, suitable footwear, and careful exercise selection."
+    ],
+    "answerIndex": 3,
+    "explanation": "Peripheral neuropathy calls for foot inspection, suitable footwear, and careful exercise selection. In Diabetes, this is the soundest approach to neuropathy."
+  },
+  {
+    "id": "nasm-sp-076",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Diabetes",
+    "question": "How should a trainer address retinopathy?",
+    "choices": [
+      "High-intensity or high-pressure exercise may be contraindicated with significant diabetic retinopathy.",
+      "Chest discomfort, unusual breathlessness, dizziness, or palpitations require exercise termination and evaluation.",
+      "Loads for youth should increase only after the child demonstrates controlled movement.",
+      "Talk test and perceived exertion are useful because fixed heart-rate targets may be inappropriate in pregnancy."
+    ],
+    "answerIndex": 0,
+    "explanation": "High-intensity or high-pressure exercise may be contraindicated with significant diabetic retinopathy. In Diabetes, this is the soundest approach to retinopathy."
+  },
+  {
+    "id": "nasm-sp-077",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Diabetes",
+    "question": "Which practice best reflects an appropriate approach to hypoglycemia preparation?",
+    "choices": [
+      "Repeated walk-rest intervals can improve walking tolerance in intermittent claudication.",
+      "A diabetic client should follow the medical plan and have a rapid carbohydrate source available when appropriate.",
+      "Programs must account for differences in biological maturity rather than relying only on chronological age.",
+      "Bleeding, dizziness, chest pain, painful contractions, or fluid leakage require stopping exercise and medical contact."
+    ],
+    "answerIndex": 1,
+    "explanation": "A diabetic client should follow the medical plan and have a rapid carbohydrate source available when appropriate. In Diabetes, this is the soundest approach to hypoglycemia preparation."
+  },
+  {
+    "id": "nasm-sp-078",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Hypertension",
+    "question": "A client with hypertension performs long maximal isometric holds and experiences an excessive pressure response. What is the best modification?",
+    "choices": [
+      "A progressive warm-up may reduce exercise-induced bronchoconstriction in some clients with asthma.",
+      "Varied and enjoyable activities support youth adherence and motor-skill development.",
+      "Prolonged isometric effort can create an excessive blood-pressure response and should be limited.",
+      "Pregnant clients should avoid overheating and maintain hydration, especially in hot environments."
+    ],
+    "answerIndex": 2,
+    "explanation": "Prolonged isometric effort can create an excessive blood-pressure response and should be limited. In Hypertension, this is the soundest approach to isometric effort."
+  },
+  {
+    "id": "nasm-sp-079",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Hypertension",
+    "question": "A trainer can safely disregard cool-down when addressing Hypertension.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "A gradual cool-down helps reduce the risk of a sharp postexercise blood-pressure drop. Therefore, cool-down should not be disregarded when programming for Hypertension."
+  },
+  {
+    "id": "nasm-sp-080",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Osteoporosis",
+    "question": "Which practice best reflects an appropriate approach to spinal flexion?",
+    "choices": [
+      "Loaded spinal flexion and forceful twisting may raise fracture risk in osteoporosis.",
+      "Cancer-related fatigue calls for flexible workloads, short bouts, and coordination with the medical team.",
+      "Appropriately progressed power training can support everyday function in older adults.",
+      "Equipment selection must accommodate the client's body size safely and comfortably."
+    ],
+    "answerIndex": 0,
+    "explanation": "Loaded spinal flexion and forceful twisting may raise fracture risk in osteoporosis. In Osteoporosis, this is the soundest approach to spinal flexion."
+  },
+  {
+    "id": "nasm-sp-081",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Osteoporosis",
+    "question": "What is the soundest guidance about impact selection in Osteoporosis?",
+    "choices": [
+      "A diagnosis alone does not determine a program; current function, treatment, risks, and response guide exercise.",
+      "Impact activity for osteoporosis must match fracture risk, experience, and medical guidance.",
+      "Older clients may require more recovery and a slower progression based on training status and health.",
+      "Sustainable activity habits and achievable process goals are more useful than rapid weight-loss promises."
+    ],
+    "answerIndex": 1,
+    "explanation": "Impact activity for osteoporosis must match fracture risk, experience, and medical guidance. In Osteoporosis, this is the soundest approach to impact selection."
+  },
+  {
+    "id": "nasm-sp-082",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Arthritis",
+    "question": "How should a trainer address warm-up?",
+    "choices": [
+      "Youth resistance training should be closely supervised with emphasis on technique rather than maximal load.",
+      "Balance challenges should progress from stable supported tasks toward less stable tasks only when controlled.",
+      "A longer gradual warm-up can improve comfort before training with arthritis.",
+      "Peripheral neuropathy calls for foot inspection, suitable footwear, and careful exercise selection."
+    ],
+    "answerIndex": 2,
+    "explanation": "A longer gradual warm-up can improve comfort before training with arthritis. In Arthritis, this is the soundest approach to warm-up."
+  },
+  {
+    "id": "nasm-sp-083",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Arthritis",
+    "question": "A client with arthritis arrives with an acutely swollen, painful joint during a flare. How should that day's training change?",
+    "choices": [
+      "Loads for youth should increase only after the child demonstrates controlled movement.",
+      "Pregnant clients should exercise within obstetric guidance and report warning signs promptly.",
+      "High-intensity or high-pressure exercise may be contraindicated with significant diabetic retinopathy.",
+      "Training volume and range should be reduced when an arthritic joint is acutely inflamed."
+    ],
+    "answerIndex": 3,
+    "explanation": "Training volume and range should be reduced when an arthritic joint is acutely inflamed. In Arthritis, this is the soundest approach to flare management."
+  },
+  {
+    "id": "nasm-sp-084",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Coronary heart disease",
+    "question": "Chest discomfort, unusual breathlessness, dizziness, or palpitations require exercise termination and evaluation.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Chest discomfort, unusual breathlessness, dizziness, or palpitations require exercise termination and evaluation. For Coronary heart disease, this is the relevant principle concerning symptom monitoring."
+  },
+  {
+    "id": "nasm-sp-085",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Peripheral vascular disease",
+    "question": "How should a trainer address walking intervals?",
+    "choices": [
+      "Varied and enjoyable activities support youth adherence and motor-skill development.",
+      "Repeated walk-rest intervals can improve walking tolerance in intermittent claudication.",
+      "Bleeding, dizziness, chest pain, painful contractions, or fluid leakage require stopping exercise and medical contact.",
+      "Prolonged isometric effort can create an excessive blood-pressure response and should be limited."
+    ],
+    "answerIndex": 1,
+    "explanation": "Repeated walk-rest intervals can improve walking tolerance in intermittent claudication. In Peripheral vascular disease, this is the soundest approach to walking intervals."
+  },
+  {
+    "id": "nasm-sp-086",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Asthma",
+    "question": "Which practice best reflects an appropriate approach to warm-up?",
+    "choices": [
+      "Progressive resistance training helps oppose age-related losses of muscle mass and strength.",
+      "Pregnant clients should avoid overheating and maintain hydration, especially in hot environments.",
+      "A progressive warm-up may reduce exercise-induced bronchoconstriction in some clients with asthma.",
+      "A gradual cool-down helps reduce the risk of a sharp postexercise blood-pressure drop."
+    ],
+    "answerIndex": 2,
+    "explanation": "A progressive warm-up may reduce exercise-induced bronchoconstriction in some clients with asthma. In Asthma, this is the soundest approach to warm-up."
+  },
+  {
+    "id": "nasm-sp-087",
+    "source": "nasm",
+    "type": "mcq",
+    "topic": "Asthma",
+    "question": "What is the soundest guidance about environment in Asthma?",
+    "choices": [
+      "Appropriately progressed power training can support everyday function in older adults.",
+      "Low-impact activity with gradual duration increases is often an appropriate starting strategy for obesity.",
+      "Loaded spinal flexion and forceful twisting may raise fracture risk in osteoporosis.",
+      "Cold dry air and airborne irritants can provoke asthma symptoms and should influence mode and setting."
+    ],
+    "answerIndex": 3,
+    "explanation": "Cold dry air and airborne irritants can provoke asthma symptoms and should influence mode and setting. In Asthma, this is the soundest approach to environment."
+  },
+  {
+    "id": "nasm-sp-088",
+    "source": "nasm",
+    "type": "scenario",
+    "topic": "Cancer",
+    "question": "A client receiving cancer treatment has unpredictable severe fatigue but wants to remain active. Which programming strategy is most appropriate?",
+    "choices": [
+      "Cancer-related fatigue calls for flexible workloads, short bouts, and coordination with the medical team.",
+      "Older clients may require more recovery and a slower progression based on training status and health.",
+      "Equipment selection must accommodate the client's body size safely and comfortably.",
+      "Impact activity for osteoporosis must match fracture risk, experience, and medical guidance."
+    ],
+    "answerIndex": 0,
+    "explanation": "Cancer-related fatigue calls for flexible workloads, short bouts, and coordination with the medical team. In Cancer, this is the soundest approach to fatigue management."
+  },
+  {
+    "id": "nasm-sp-089",
+    "source": "nasm",
+    "type": "tf",
+    "topic": "Special populations",
+    "question": "A trainer can safely disregard individualization when addressing Special populations.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "A diagnosis alone does not determine a program; current function, treatment, risks, and response guide exercise. Therefore, individualization should not be disregarded when programming for Special populations."
   }
 ]

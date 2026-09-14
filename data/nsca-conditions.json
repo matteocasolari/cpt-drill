@@ -834,5 +834,735 @@
     ],
     "answerIndex": 2,
     "explanation": "Beta blockers slow heart rate and keep it from increasing normally during exercise. A conventional heart-rate target can therefore understate how hard the client is working. Ratings of perceived exertion provide a more useful intensity guide in this situation."
+  },
+  {
+    "id": "nsca-cond-061",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Spinal cord injury",
+    "question": "What is the soundest guidance about autonomic dysreflexia in Spinal cord injury?",
+    "choices": [
+      "Autonomic dysreflexia is a medical emergency marked by sudden hypertension and requires stopping exercise and obtaining medical help.",
+      "Aquatic exercise requires close supervision because a seizure in water creates a drowning hazard.",
+      "Exercise should reinforce controlled neutral-spine mechanics and avoid painful ranges.",
+      "Low-impact modes and gradual volume progression can reduce orthopedic stress for a heavier client."
+    ],
+    "answerIndex": 0,
+    "explanation": "Autonomic dysreflexia is a medical emergency marked by sudden hypertension and requires stopping exercise and obtaining medical help. In Spinal cord injury, this is the soundest approach to autonomic dysreflexia."
+  },
+  {
+    "id": "nsca-cond-062",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Spinal cord injury",
+    "question": "How should a trainer address temperature regulation?",
+    "choices": [
+      "Well-controlled epilepsy does not automatically exclude a client from appropriately supervised exercise.",
+      "Clients with spinal cord injury may regulate temperature poorly, so trainers should control climate and monitor symptoms.",
+      "Painful overhead motion should be modified and referred when symptoms persist or suggest injury.",
+      "Metabolic syndrome calls for coordinated activity, nutrition, and medical risk-factor management."
+    ],
+    "answerIndex": 1,
+    "explanation": "Clients with spinal cord injury may regulate temperature poorly, so trainers should control climate and monitor symptoms. In Spinal cord injury, this is the soundest approach to temperature regulation."
+  },
+  {
+    "id": "nsca-cond-063",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Spinal cord injury",
+    "question": "Which practice best reflects an appropriate approach to pressure sores?",
+    "choices": [
+      "Cerebral palsy varies widely, so exercise must be based on the individual functional presentation.",
+      "After appropriate clearance, progressive balance work can help restore ankle proprioception.",
+      "Skin and pressure areas should be checked because impaired sensation can conceal tissue damage.",
+      "Clients following a medical diabetes plan may need to check glucose before and after exercise."
+    ],
+    "answerIndex": 2,
+    "explanation": "Skin and pressure areas should be checked because impaired sensation can conceal tissue damage. In Spinal cord injury, this is the soundest approach to pressure sores."
+  },
+  {
+    "id": "nsca-cond-064",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Spinal cord injury",
+    "question": "Before a seated resistance exercise, a wheelchair user transfers back into the chair but leaves both wheel locks open. What should the trainer do first?",
+    "choices": [
+      "Slow controlled movement and adequate positioning are preferable when spasticity affects exercise technique.",
+      "Knee training should emphasize controlled alignment rather than allowing uncontrolled valgus collapse.",
+      "Shaking, sweating, confusion, weakness, and unusual irritability can signal hypoglycemia.",
+      "Stable wheelchair positioning and locked wheels are essential before resistance exercise begins."
+    ],
+    "answerIndex": 3,
+    "explanation": "Stable wheelchair positioning and locked wheels are essential before resistance exercise begins. In Spinal cord injury, this is the soundest approach to wheelchair positioning."
+  },
+  {
+    "id": "nsca-cond-065",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Spinal cord injury",
+    "question": "Exercise should emphasize available musculature while respecting the neurological level and medical restrictions.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Exercise should emphasize available musculature while respecting the neurological level and medical restrictions. For Spinal cord injury, this is the relevant principle concerning exercise selection."
+  },
+  {
+    "id": "nsca-cond-066",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Spinal cord injury",
+    "question": "Which practice best reflects an appropriate approach to orthostatic hypotension?",
+    "choices": [
+      "Training should prioritize useful movement, strength, mobility, and independence.",
+      "Position changes should be gradual because orthostatic hypotension can follow spinal cord injury.",
+      "Arthritis exercise should be reduced during a painful flare and progressed when symptoms permit.",
+      "Exercise timing should account for meals and medication or insulin according to the client's medical plan."
+    ],
+    "answerIndex": 1,
+    "explanation": "Position changes should be gradual because orthostatic hypotension can follow spinal cord injury. In Spinal cord injury, this is the soundest approach to orthostatic hypotension."
+  },
+  {
+    "id": "nsca-cond-067",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Multiple sclerosis",
+    "question": "What is the soundest guidance about heat sensitivity in Multiple sclerosis?",
+    "choices": [
+      "An acute injury has a sudden onset, whereas a chronic injury develops or persists over time.",
+      "Low-impact aerobic modes can improve conditioning while limiting joint stress.",
+      "Heat can worsen multiple-sclerosis symptoms, making a cool environment and hydration important.",
+      "Clients with hypertension should avoid breath holding and use continuous breathing during resistance exercise."
+    ],
+    "answerIndex": 2,
+    "explanation": "Heat can worsen multiple-sclerosis symptoms, making a cool environment and hydration important. In Multiple sclerosis, this is the soundest approach to heat sensitivity."
+  },
+  {
+    "id": "nsca-cond-068",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Multiple sclerosis",
+    "question": "How should a trainer address fatigue management?",
+    "choices": [
+      "Early tissue healing includes inflammation, so exercise must not disrupt protection of the injured area.",
+      "Gentle regular range-of-motion work can help preserve joint mobility.",
+      "Chest pressure or suspected angina during exercise requires stopping activity and following the emergency plan.",
+      "Short bouts with generous recovery help manage the pronounced fatigue common in multiple sclerosis."
+    ],
+    "answerIndex": 3,
+    "explanation": "Short bouts with generous recovery help manage the pronounced fatigue common in multiple sclerosis. In Multiple sclerosis, this is the soundest approach to fatigue management."
+  },
+  {
+    "id": "nsca-cond-069",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Multiple sclerosis",
+    "question": "A client with multiple sclerosis completes last week's workload easily but arrives today with pronounced fatigue and poorer balance. How should the trainer respond?",
+    "choices": [
+      "Programming should be adjusted day by day because multiple-sclerosis symptoms can fluctuate.",
+      "Loading during tissue repair should progress only within guidance from the rehabilitation professional.",
+      "Suspected disordered eating requires sensitive referral to qualified medical and nutrition professionals.",
+      "A client with asthma should have an individualized action plan and access to prescribed rescue medication."
+    ],
+    "answerIndex": 0,
+    "explanation": "Programming should be adjusted day by day because multiple-sclerosis symptoms can fluctuate. In Multiple sclerosis, this is the soundest approach to variable symptoms."
+  },
+  {
+    "id": "nsca-cond-070",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Multiple sclerosis",
+    "question": "A trainer can safely disregard balance assistance when addressing Multiple sclerosis.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Stable supports and supervised transitions reduce fall risk when balance is impaired. Therefore, balance assistance should not be disregarded when programming for Multiple sclerosis."
+  },
+  {
+    "id": "nsca-cond-071",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Multiple sclerosis",
+    "question": "How should a trainer address training goals?",
+    "choices": [
+      "A personal trainer does not diagnose or rehabilitate an injury independently of qualified clinicians.",
+      "Regular aerobic activity can support lipid management alongside medical and dietary care.",
+      "Programs can develop strength, aerobic capacity, mobility, and function without attempting to cure the disease.",
+      "Prolonged supine exercise later in pregnancy may need modification because the uterus can impair venous return."
+    ],
+    "answerIndex": 2,
+    "explanation": "Programs can develop strength, aerobic capacity, mobility, and function without attempting to cure the disease. In Multiple sclerosis, this is the soundest approach to training goals."
+  },
+  {
+    "id": "nsca-cond-072",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Epilepsy",
+    "question": "Which practice best reflects an appropriate approach to seizure plan?",
+    "choices": [
+      "Unexplained pain, swelling, instability, or loss of function warrants referral rather than diagnostic guessing.",
+      "Lipid abnormalities should be considered with the client's other cardiovascular risk factors.",
+      "Strength, balance, and functional training together help reduce fall risk in older adults.",
+      "The trainer should know the client's seizure history, triggers, medication effects, and emergency plan."
+    ],
+    "answerIndex": 3,
+    "explanation": "The trainer should know the client's seizure history, triggers, medication effects, and emergency plan. In Epilepsy, this is the soundest approach to seizure plan."
+  },
+  {
+    "id": "nsca-cond-073",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Epilepsy",
+    "question": "What is the soundest guidance about seizure response in Epilepsy?",
+    "choices": [
+      "During a seizure, protect the client from nearby hazards without restraining movement or placing anything in the mouth.",
+      "Exercise should reinforce controlled neutral-spine mechanics and avoid painful ranges.",
+      "Improved fitness, function, blood pressure, and glucose control are valuable even before major weight loss occurs.",
+      "Autonomic dysreflexia is a medical emergency marked by sudden hypertension and requires stopping exercise and obtaining medical help."
+    ],
+    "answerIndex": 0,
+    "explanation": "During a seizure, protect the client from nearby hazards without restraining movement or placing anything in the mouth. In Epilepsy, this is the soundest approach to seizure response."
+  },
+  {
+    "id": "nsca-cond-074",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Epilepsy",
+    "question": "A client with well-controlled epilepsy wants swimming included in the program. Which precaution is most appropriate?",
+    "choices": [
+      "Painful overhead motion should be modified and referred when symptoms persist or suggest injury.",
+      "Aquatic exercise requires close supervision because a seizure in water creates a drowning hazard.",
+      "Low-impact modes and gradual volume progression can reduce orthopedic stress for a heavier client.",
+      "Clients with spinal cord injury may regulate temperature poorly, so trainers should control climate and monitor symptoms."
+    ],
+    "answerIndex": 1,
+    "explanation": "Aquatic exercise requires close supervision because a seizure in water creates a drowning hazard. In Epilepsy, this is the soundest approach to aquatic exercise."
+  },
+  {
+    "id": "nsca-cond-075",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Epilepsy",
+    "question": "Well-controlled epilepsy does not automatically exclude a client from appropriately supervised exercise.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Well-controlled epilepsy does not automatically exclude a client from appropriately supervised exercise. For Epilepsy, this is the relevant principle concerning exercise participation."
+  },
+  {
+    "id": "nsca-cond-076",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Cerebral palsy",
+    "question": "What is the soundest guidance about individualization in Cerebral palsy?",
+    "choices": [
+      "Knee training should emphasize controlled alignment rather than allowing uncontrolled valgus collapse.",
+      "Clients following a medical diabetes plan may need to check glucose before and after exercise.",
+      "Stable wheelchair positioning and locked wheels are essential before resistance exercise begins.",
+      "Cerebral palsy varies widely, so exercise must be based on the individual functional presentation."
+    ],
+    "answerIndex": 3,
+    "explanation": "Cerebral palsy varies widely, so exercise must be based on the individual functional presentation. In Cerebral palsy, this is the soundest approach to individualization."
+  },
+  {
+    "id": "nsca-cond-077",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Cerebral palsy",
+    "question": "How should a trainer address spasticity?",
+    "choices": [
+      "Slow controlled movement and adequate positioning are preferable when spasticity affects exercise technique.",
+      "Hip exercises should remain within a controlled pain-free range and follow clinical restrictions.",
+      "Shaking, sweating, confusion, weakness, and unusual irritability can signal hypoglycemia.",
+      "Exercise should emphasize available musculature while respecting the neurological level and medical restrictions."
+    ],
+    "answerIndex": 0,
+    "explanation": "Slow controlled movement and adequate positioning are preferable when spasticity affects exercise technique. In Cerebral palsy, this is the soundest approach to spasticity."
+  },
+  {
+    "id": "nsca-cond-078",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Cerebral palsy",
+    "question": "Which practice best reflects an appropriate approach to communication?",
+    "choices": [
+      "Arthritis exercise should be reduced during a painful flare and progressed when symptoms permit.",
+      "The trainer should allow sufficient time and use communication methods appropriate to the client.",
+      "Diabetic clients should use suitable footwear and inspect feet because neuropathy can mask injury.",
+      "Position changes should be gradual because orthostatic hypotension can follow spinal cord injury."
+    ],
+    "answerIndex": 1,
+    "explanation": "The trainer should allow sufficient time and use communication methods appropriate to the client. In Cerebral palsy, this is the soundest approach to communication."
+  },
+  {
+    "id": "nsca-cond-079",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Cerebral palsy",
+    "question": "A client with cerebral palsy wants training to make transfers and daily movement easier. What should guide exercise selection?",
+    "choices": [
+      "Low-impact aerobic modes can improve conditioning while limiting joint stress.",
+      "Exercise timing should account for meals and medication or insulin according to the client's medical plan.",
+      "Training should prioritize useful movement, strength, mobility, and independence.",
+      "Heat can worsen multiple-sclerosis symptoms, making a cool environment and hydration important."
+    ],
+    "answerIndex": 2,
+    "explanation": "Training should prioritize useful movement, strength, mobility, and independence. In Cerebral palsy, this is the soundest approach to functional training."
+  },
+  {
+    "id": "nsca-cond-080",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Injury rehabilitation",
+    "question": "A trainer can safely disregard injury classification when addressing Injury rehabilitation.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "An acute injury has a sudden onset, whereas a chronic injury develops or persists over time. Therefore, injury classification should not be disregarded when programming for Injury rehabilitation."
+  },
+  {
+    "id": "nsca-cond-081",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Injury rehabilitation",
+    "question": "Which practice best reflects an appropriate approach to inflammation phase?",
+    "choices": [
+      "Early tissue healing includes inflammation, so exercise must not disrupt protection of the injured area.",
+      "Suspected disordered eating requires sensitive referral to qualified medical and nutrition professionals.",
+      "Chest pressure or suspected angina during exercise requires stopping activity and following the emergency plan.",
+      "Programming should be adjusted day by day because multiple-sclerosis symptoms can fluctuate."
+    ],
+    "answerIndex": 0,
+    "explanation": "Early tissue healing includes inflammation, so exercise must not disrupt protection of the injured area. In Injury rehabilitation, this is the soundest approach to inflammation phase."
+  },
+  {
+    "id": "nsca-cond-082",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Injury rehabilitation",
+    "question": "What is the soundest guidance about repair phase in Injury rehabilitation?",
+    "choices": [
+      "A trainer should not prescribe a therapeutic diet or attempt to treat an eating disorder.",
+      "Loading during tissue repair should progress only within guidance from the rehabilitation professional.",
+      "A client with asthma should have an individualized action plan and access to prescribed rescue medication.",
+      "Stable supports and supervised transitions reduce fall risk when balance is impaired."
+    ],
+    "answerIndex": 1,
+    "explanation": "Loading during tissue repair should progress only within guidance from the rehabilitation professional. In Injury rehabilitation, this is the soundest approach to repair phase."
+  },
+  {
+    "id": "nsca-cond-083",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Injury rehabilitation",
+    "question": "How should a trainer address remodeling phase?",
+    "choices": [
+      "Regular aerobic activity can support lipid management alongside medical and dietary care.",
+      "Longer warm-ups, paced intervals, and symptom monitoring can improve tolerance in COPD.",
+      "During remodeling, progressively applied stress helps tissue align and regain capacity.",
+      "Programs can develop strength, aerobic capacity, mobility, and function without attempting to cure the disease."
+    ],
+    "answerIndex": 2,
+    "explanation": "During remodeling, progressively applied stress helps tissue align and regain capacity. In Injury rehabilitation, this is the soundest approach to remodeling phase."
+  },
+  {
+    "id": "nsca-cond-084",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Injury rehabilitation",
+    "question": "A client reports a new painful injury and asks the personal trainer to diagnose it and conduct rehabilitation. What should the trainer do?",
+    "choices": [
+      "Lipid abnormalities should be considered with the client's other cardiovascular risk factors.",
+      "Prolonged supine exercise later in pregnancy may need modification because the uterus can impair venous return.",
+      "The trainer should know the client's seizure history, triggers, medication effects, and emergency plan.",
+      "A personal trainer does not diagnose or rehabilitate an injury independently of qualified clinicians."
+    ],
+    "answerIndex": 3,
+    "explanation": "A personal trainer does not diagnose or rehabilitate an injury independently of qualified clinicians. In Injury rehabilitation, this is the soundest approach to scope of practice."
+  },
+  {
+    "id": "nsca-cond-085",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Injury rehabilitation",
+    "question": "Unexplained pain, swelling, instability, or loss of function warrants referral rather than diagnostic guessing.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Unexplained pain, swelling, instability, or loss of function warrants referral rather than diagnostic guessing. For Injury rehabilitation, this is the relevant principle concerning referral."
+  },
+  {
+    "id": "nsca-cond-086",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Low-back concerns",
+    "question": "How should a trainer address neutral spine?",
+    "choices": [
+      "Low-impact modes and gradual volume progression can reduce orthopedic stress for a heavier client.",
+      "Exercise should reinforce controlled neutral-spine mechanics and avoid painful ranges.",
+      "Autonomic dysreflexia is a medical emergency marked by sudden hypertension and requires stopping exercise and obtaining medical help.",
+      "Aquatic exercise requires close supervision because a seizure in water creates a drowning hazard."
+    ],
+    "answerIndex": 1,
+    "explanation": "Exercise should reinforce controlled neutral-spine mechanics and avoid painful ranges. In Low-back concerns, this is the soundest approach to neutral spine."
+  },
+  {
+    "id": "nsca-cond-087",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Shoulder concerns",
+    "question": "Which practice best reflects an appropriate approach to painful overhead motion?",
+    "choices": [
+      "Metabolic syndrome calls for coordinated activity, nutrition, and medical risk-factor management.",
+      "Clients with spinal cord injury may regulate temperature poorly, so trainers should control climate and monitor symptoms.",
+      "Painful overhead motion should be modified and referred when symptoms persist or suggest injury.",
+      "Well-controlled epilepsy does not automatically exclude a client from appropriately supervised exercise."
+    ],
+    "answerIndex": 2,
+    "explanation": "Painful overhead motion should be modified and referred when symptoms persist or suggest injury. In Shoulder concerns, this is the soundest approach to painful overhead motion."
+  },
+  {
+    "id": "nsca-cond-088",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Ankle concerns",
+    "question": "What is the soundest guidance about proprioception in Ankle concerns?",
+    "choices": [
+      "Clients following a medical diabetes plan may need to check glucose before and after exercise.",
+      "Skin and pressure areas should be checked because impaired sensation can conceal tissue damage.",
+      "Cerebral palsy varies widely, so exercise must be based on the individual functional presentation.",
+      "After appropriate clearance, progressive balance work can help restore ankle proprioception."
+    ],
+    "answerIndex": 3,
+    "explanation": "After appropriate clearance, progressive balance work can help restore ankle proprioception. In Ankle concerns, this is the soundest approach to proprioception."
+  },
+  {
+    "id": "nsca-cond-089",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Knee concerns",
+    "question": "During a squat, a client's knee repeatedly collapses inward as fatigue increases. Which coaching priority is most appropriate?",
+    "choices": [
+      "Knee training should emphasize controlled alignment rather than allowing uncontrolled valgus collapse.",
+      "Shaking, sweating, confusion, weakness, and unusual irritability can signal hypoglycemia.",
+      "Stable wheelchair positioning and locked wheels are essential before resistance exercise begins.",
+      "Slow controlled movement and adequate positioning are preferable when spasticity affects exercise technique."
+    ],
+    "answerIndex": 0,
+    "explanation": "Knee training should emphasize controlled alignment rather than allowing uncontrolled valgus collapse. In Knee concerns, this is the soundest approach to movement alignment."
+  },
+  {
+    "id": "nsca-cond-090",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Hip concerns",
+    "question": "A trainer can safely disregard pain-free range when addressing Hip concerns.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hip exercises should remain within a controlled pain-free range and follow clinical restrictions. Therefore, pain-free range should not be disregarded when programming for Hip concerns."
+  },
+  {
+    "id": "nsca-cond-091",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Arthritis",
+    "question": "What is the soundest guidance about symptom-based adjustment in Arthritis?",
+    "choices": [
+      "Exercise timing should account for meals and medication or insulin according to the client's medical plan.",
+      "Position changes should be gradual because orthostatic hypotension can follow spinal cord injury.",
+      "Arthritis exercise should be reduced during a painful flare and progressed when symptoms permit.",
+      "Training should prioritize useful movement, strength, mobility, and independence."
+    ],
+    "answerIndex": 2,
+    "explanation": "Arthritis exercise should be reduced during a painful flare and progressed when symptoms permit. In Arthritis, this is the soundest approach to symptom-based adjustment."
+  },
+  {
+    "id": "nsca-cond-092",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Arthritis",
+    "question": "How should a trainer address low-impact aerobic work?",
+    "choices": [
+      "Clients with hypertension should avoid breath holding and use continuous breathing during resistance exercise.",
+      "Heat can worsen multiple-sclerosis symptoms, making a cool environment and hydration important.",
+      "An acute injury has a sudden onset, whereas a chronic injury develops or persists over time.",
+      "Low-impact aerobic modes can improve conditioning while limiting joint stress."
+    ],
+    "answerIndex": 3,
+    "explanation": "Low-impact aerobic modes can improve conditioning while limiting joint stress. In Arthritis, this is the soundest approach to low-impact aerobic work."
+  },
+  {
+    "id": "nsca-cond-093",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Arthritis",
+    "question": "Which practice best reflects an appropriate approach to range of motion?",
+    "choices": [
+      "Gentle regular range-of-motion work can help preserve joint mobility.",
+      "Chest pressure or suspected angina during exercise requires stopping activity and following the emergency plan.",
+      "Short bouts with generous recovery help manage the pronounced fatigue common in multiple sclerosis.",
+      "Early tissue healing includes inflammation, so exercise must not disrupt protection of the injured area."
+    ],
+    "answerIndex": 0,
+    "explanation": "Gentle regular range-of-motion work can help preserve joint mobility. In Arthritis, this is the soundest approach to range of motion."
+  },
+  {
+    "id": "nsca-cond-094",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Eating disorders",
+    "question": "A client shows several warning signs of disordered eating and asks the trainer for a therapeutic meal plan. What is the appropriate response?",
+    "choices": [
+      "A client with asthma should have an individualized action plan and access to prescribed rescue medication.",
+      "Suspected disordered eating requires sensitive referral to qualified medical and nutrition professionals.",
+      "Programming should be adjusted day by day because multiple-sclerosis symptoms can fluctuate.",
+      "Loading during tissue repair should progress only within guidance from the rehabilitation professional."
+    ],
+    "answerIndex": 1,
+    "explanation": "Suspected disordered eating requires sensitive referral to qualified medical and nutrition professionals. In Eating disorders, this is the soundest approach to warning signs."
+  },
+  {
+    "id": "nsca-cond-095",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Eating disorders",
+    "question": "A trainer should not prescribe a therapeutic diet or attempt to treat an eating disorder.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "A trainer should not prescribe a therapeutic diet or attempt to treat an eating disorder. For Eating disorders, this is the relevant principle concerning trainer boundaries."
+  },
+  {
+    "id": "nsca-cond-096",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Hyperlipidemia",
+    "question": "Which practice best reflects an appropriate approach to aerobic exercise?",
+    "choices": [
+      "Prolonged supine exercise later in pregnancy may need modification because the uterus can impair venous return.",
+      "Programs can develop strength, aerobic capacity, mobility, and function without attempting to cure the disease.",
+      "A personal trainer does not diagnose or rehabilitate an injury independently of qualified clinicians.",
+      "Regular aerobic activity can support lipid management alongside medical and dietary care."
+    ],
+    "answerIndex": 3,
+    "explanation": "Regular aerobic activity can support lipid management alongside medical and dietary care. In Hyperlipidemia, this is the soundest approach to aerobic exercise."
+  },
+  {
+    "id": "nsca-cond-097",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Hyperlipidemia",
+    "question": "What is the soundest guidance about combined risk in Hyperlipidemia?",
+    "choices": [
+      "Lipid abnormalities should be considered with the client's other cardiovascular risk factors.",
+      "Strength, balance, and functional training together help reduce fall risk in older adults.",
+      "The trainer should know the client's seizure history, triggers, medication effects, and emergency plan.",
+      "Unexplained pain, swelling, instability, or loss of function warrants referral rather than diagnostic guessing."
+    ],
+    "answerIndex": 0,
+    "explanation": "Lipid abnormalities should be considered with the client's other cardiovascular risk factors. In Hyperlipidemia, this is the soundest approach to combined risk."
+  },
+  {
+    "id": "nsca-cond-098",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Obesity",
+    "question": "How should a trainer address weight-neutral benefits?",
+    "choices": [
+      "Autonomic dysreflexia is a medical emergency marked by sudden hypertension and requires stopping exercise and obtaining medical help.",
+      "Improved fitness, function, blood pressure, and glucose control are valuable even before major weight loss occurs.",
+      "During a seizure, protect the client from nearby hazards without restraining movement or placing anything in the mouth.",
+      "Exercise should reinforce controlled neutral-spine mechanics and avoid painful ranges."
+    ],
+    "answerIndex": 1,
+    "explanation": "Improved fitness, function, blood pressure, and glucose control are valuable even before major weight loss occurs. In Obesity, this is the soundest approach to weight-neutral benefits."
+  },
+  {
+    "id": "nsca-cond-099",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Obesity",
+    "question": "A heavier beginner reports joint discomfort during jogging but wants to improve conditioning. Which initial adjustment is most appropriate?",
+    "choices": [
+      "Clients with spinal cord injury may regulate temperature poorly, so trainers should control climate and monitor symptoms.",
+      "Aquatic exercise requires close supervision because a seizure in water creates a drowning hazard.",
+      "Low-impact modes and gradual volume progression can reduce orthopedic stress for a heavier client.",
+      "Painful overhead motion should be modified and referred when symptoms persist or suggest injury."
+    ],
+    "answerIndex": 2,
+    "explanation": "Low-impact modes and gradual volume progression can reduce orthopedic stress for a heavier client. In Obesity, this is the soundest approach to joint stress."
+  },
+  {
+    "id": "nsca-cond-100",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Metabolic syndrome",
+    "question": "A trainer can safely disregard combined management when addressing Metabolic syndrome.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Metabolic syndrome calls for coordinated activity, nutrition, and medical risk-factor management. Therefore, combined management should not be disregarded when programming for Metabolic syndrome."
+  },
+  {
+    "id": "nsca-cond-101",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Diabetes",
+    "question": "How should a trainer address preexercise glucose?",
+    "choices": [
+      "Clients following a medical diabetes plan may need to check glucose before and after exercise.",
+      "Stable wheelchair positioning and locked wheels are essential before resistance exercise begins.",
+      "Cerebral palsy varies widely, so exercise must be based on the individual functional presentation.",
+      "Knee training should emphasize controlled alignment rather than allowing uncontrolled valgus collapse."
+    ],
+    "answerIndex": 0,
+    "explanation": "Clients following a medical diabetes plan may need to check glucose before and after exercise. In Diabetes, this is the soundest approach to preexercise glucose."
+  },
+  {
+    "id": "nsca-cond-102",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Diabetes",
+    "question": "Which practice best reflects an appropriate approach to hypoglycemia signs?",
+    "choices": [
+      "Exercise should emphasize available musculature while respecting the neurological level and medical restrictions.",
+      "Shaking, sweating, confusion, weakness, and unusual irritability can signal hypoglycemia.",
+      "Slow controlled movement and adequate positioning are preferable when spasticity affects exercise technique.",
+      "Hip exercises should remain within a controlled pain-free range and follow clinical restrictions."
+    ],
+    "answerIndex": 1,
+    "explanation": "Shaking, sweating, confusion, weakness, and unusual irritability can signal hypoglycemia. In Diabetes, this is the soundest approach to hypoglycemia signs."
+  },
+  {
+    "id": "nsca-cond-103",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Diabetes",
+    "question": "What is the soundest guidance about foot care in Diabetes?",
+    "choices": [
+      "Position changes should be gradual because orthostatic hypotension can follow spinal cord injury.",
+      "The trainer should allow sufficient time and use communication methods appropriate to the client.",
+      "Diabetic clients should use suitable footwear and inspect feet because neuropathy can mask injury.",
+      "Arthritis exercise should be reduced during a painful flare and progressed when symptoms permit."
+    ],
+    "answerIndex": 2,
+    "explanation": "Diabetic clients should use suitable footwear and inspect feet because neuropathy can mask injury. In Diabetes, this is the soundest approach to foot care."
+  },
+  {
+    "id": "nsca-cond-104",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Diabetes",
+    "question": "A client using insulin wants to move training from after dinner to before breakfast. What should the trainer emphasize?",
+    "choices": [
+      "Heat can worsen multiple-sclerosis symptoms, making a cool environment and hydration important.",
+      "Training should prioritize useful movement, strength, mobility, and independence.",
+      "Low-impact aerobic modes can improve conditioning while limiting joint stress.",
+      "Exercise timing should account for meals and medication or insulin according to the client's medical plan."
+    ],
+    "answerIndex": 3,
+    "explanation": "Exercise timing should account for meals and medication or insulin according to the client's medical plan. In Diabetes, this is the soundest approach to insulin timing."
+  },
+  {
+    "id": "nsca-cond-105",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Hypertension",
+    "question": "Clients with hypertension should avoid breath holding and use continuous breathing during resistance exercise.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Clients with hypertension should avoid breath holding and use continuous breathing during resistance exercise. For Hypertension, this is the relevant principle concerning resistance breathing."
+  },
+  {
+    "id": "nsca-cond-106",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Cardiovascular conditions",
+    "question": "What is the soundest guidance about angina response in Cardiovascular conditions?",
+    "choices": [
+      "Programming should be adjusted day by day because multiple-sclerosis symptoms can fluctuate.",
+      "Chest pressure or suspected angina during exercise requires stopping activity and following the emergency plan.",
+      "Early tissue healing includes inflammation, so exercise must not disrupt protection of the injured area.",
+      "Suspected disordered eating requires sensitive referral to qualified medical and nutrition professionals."
+    ],
+    "answerIndex": 1,
+    "explanation": "Chest pressure or suspected angina during exercise requires stopping activity and following the emergency plan. In Cardiovascular conditions, this is the soundest approach to angina response."
+  },
+  {
+    "id": "nsca-cond-107",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Respiratory conditions",
+    "question": "How should a trainer address asthma preparation?",
+    "choices": [
+      "Stable supports and supervised transitions reduce fall risk when balance is impaired.",
+      "Loading during tissue repair should progress only within guidance from the rehabilitation professional.",
+      "A client with asthma should have an individualized action plan and access to prescribed rescue medication.",
+      "A trainer should not prescribe a therapeutic diet or attempt to treat an eating disorder."
+    ],
+    "answerIndex": 2,
+    "explanation": "A client with asthma should have an individualized action plan and access to prescribed rescue medication. In Respiratory conditions, this is the soundest approach to asthma preparation."
+  },
+  {
+    "id": "nsca-cond-108",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Respiratory conditions",
+    "question": "Which practice best reflects an appropriate approach to COPD pacing?",
+    "choices": [
+      "Programs can develop strength, aerobic capacity, mobility, and function without attempting to cure the disease.",
+      "During remodeling, progressively applied stress helps tissue align and regain capacity.",
+      "Regular aerobic activity can support lipid management alongside medical and dietary care.",
+      "Longer warm-ups, paced intervals, and symptom monitoring can improve tolerance in COPD."
+    ],
+    "answerIndex": 3,
+    "explanation": "Longer warm-ups, paced intervals, and symptom monitoring can improve tolerance in COPD. In Respiratory conditions, this is the soundest approach to COPD pacing."
+  },
+  {
+    "id": "nsca-cond-109",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Pregnancy",
+    "question": "A client in later pregnancy becomes light-headed during prolonged supine exercise. Which modification is most appropriate?",
+    "choices": [
+      "Prolonged supine exercise later in pregnancy may need modification because the uterus can impair venous return.",
+      "The trainer should know the client's seizure history, triggers, medication effects, and emergency plan.",
+      "A personal trainer does not diagnose or rehabilitate an injury independently of qualified clinicians.",
+      "Lipid abnormalities should be considered with the client's other cardiovascular risk factors."
+    ],
+    "answerIndex": 0,
+    "explanation": "Prolonged supine exercise later in pregnancy may need modification because the uterus can impair venous return. In Pregnancy, this is the soundest approach to supine positioning."
+  },
+  {
+    "id": "nsca-cond-110",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Older adults",
+    "question": "A trainer can safely disregard fall prevention when addressing Older adults.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "Strength, balance, and functional training together help reduce fall risk in older adults. Therefore, fall prevention should not be disregarded when programming for Older adults."
   }
 ]

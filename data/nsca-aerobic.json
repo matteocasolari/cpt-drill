@@ -849,5 +849,224 @@
     ],
     "answerIndex": 0,
     "explanation": "Longer and more intense aerobic sessions create greater recovery demands than short, easy sessions. Frequency therefore cannot be planned independently of duration and intensity. Keeping the old schedule without considering the new workload may provide inadequate recovery."
+  },
+  {
+    "id": "nsca-aer-060",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Aerobic adaptations",
+    "question": "What is the soundest guidance about stroke volume in Aerobic adaptations?",
+    "choices": [
+      "Endurance training can increase stroke volume, reducing the heart rate needed at a given submaximal workload.",
+      "Aerobic adaptations decline when the training stimulus is substantially reduced or removed.",
+      "When heart rate is unreliable, perceived exertion, pace, workload, or metabolic equivalents can guide intensity.",
+      "Heat, humidity, cold, altitude, and air quality can require adjustment of aerobic workload."
+    ],
+    "answerIndex": 0,
+    "explanation": "Endurance training can increase stroke volume, reducing the heart rate needed at a given submaximal workload. In Aerobic adaptations, this is the soundest approach to stroke volume."
+  },
+  {
+    "id": "nsca-aer-061",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Aerobic adaptations",
+    "question": "How should a trainer address capillary density?",
+    "choices": [
+      "Aerobic adaptations are specific to the muscles, movement pattern, and energy demands trained.",
+      "Endurance training increases skeletal-muscle capillary density and supports oxygen exchange.",
+      "The work-to-recovery ratio should match the energy-system goal and the client's capacity.",
+      "Fluid planning should consider session duration, environment, sweat losses, and individual tolerance."
+    ],
+    "answerIndex": 1,
+    "explanation": "Endurance training increases skeletal-muscle capillary density and supports oxygen exchange. In Aerobic adaptations, this is the soundest approach to capillary density."
+  },
+  {
+    "id": "nsca-aer-062",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Aerobic adaptations",
+    "question": "Which practice best reflects an appropriate approach to mitochondria?",
+    "choices": [
+      "Frequency should reflect intensity, duration, fitness, recovery capacity, and other training.",
+      "Tempo training uses sustained work near a challenging but controlled pace to improve endurance performance.",
+      "Greater mitochondrial density and oxidative enzyme activity improve aerobic energy production.",
+      "Heart rate, symptoms, perceived exertion, and recovery trends help evaluate tolerance to a program."
+    ],
+    "answerIndex": 2,
+    "explanation": "Greater mitochondrial density and oxidative enzyme activity improve aerobic energy production. In Aerobic adaptations, this is the soundest approach to mitochondria."
+  },
+  {
+    "id": "nsca-aer-063",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Aerobic adaptations",
+    "question": "After beginning endurance training, a client shows an early increase in blood volume. Which adaptation most directly explains this change?",
+    "choices": [
+      "Duration can be accumulated in shorter bouts when continuous exercise is not yet tolerated.",
+      "Long slow distance training develops endurance through prolonged relatively low-intensity work.",
+      "Endurance training can increase stroke volume, reducing the heart rate needed at a given submaximal workload.",
+      "Plasma-volume expansion is an early adaptation that supports cardiovascular function."
+    ],
+    "answerIndex": 3,
+    "explanation": "Plasma-volume expansion is an early adaptation that supports cardiovascular function. In Aerobic adaptations, this is the soundest approach to plasma volume."
+  },
+  {
+    "id": "nsca-aer-064",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Aerobic detraining",
+    "question": "Aerobic adaptations decline when the training stimulus is substantially reduced or removed.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Aerobic adaptations decline when the training stimulus is substantially reduced or removed. For Aerobic detraining, this is the relevant principle concerning detraining."
+  },
+  {
+    "id": "nsca-aer-065",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Program design",
+    "question": "Which practice best reflects an appropriate approach to specificity?",
+    "choices": [
+      "The work-to-recovery ratio should match the energy-system goal and the client's capacity.",
+      "Aerobic adaptations are specific to the muscles, movement pattern, and energy demands trained.",
+      "Fluid planning should consider session duration, environment, sweat losses, and individual tolerance.",
+      "Greater mitochondrial density and oxidative enzyme activity improve aerobic energy production."
+    ],
+    "answerIndex": 1,
+    "explanation": "Aerobic adaptations are specific to the muscles, movement pattern, and energy demands trained. In Program design, this is the soundest approach to specificity."
+  },
+  {
+    "id": "nsca-aer-066",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Program design",
+    "question": "What is the soundest guidance about frequency in Program design?",
+    "choices": [
+      "Tempo training uses sustained work near a challenging but controlled pace to improve endurance performance.",
+      "Heart rate, symptoms, perceived exertion, and recovery trends help evaluate tolerance to a program.",
+      "Frequency should reflect intensity, duration, fitness, recovery capacity, and other training.",
+      "Plasma-volume expansion is an early adaptation that supports cardiovascular function."
+    ],
+    "answerIndex": 2,
+    "explanation": "Frequency should reflect intensity, duration, fitness, recovery capacity, and other training. In Program design, this is the soundest approach to frequency."
+  },
+  {
+    "id": "nsca-aer-067",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Program design",
+    "question": "How should a trainer address duration progression?",
+    "choices": [
+      "Long slow distance training develops endurance through prolonged relatively low-intensity work.",
+      "Endurance training can increase stroke volume, reducing the heart rate needed at a given submaximal workload.",
+      "Aerobic adaptations decline when the training stimulus is substantially reduced or removed.",
+      "Duration can be accumulated in shorter bouts when continuous exercise is not yet tolerated."
+    ],
+    "answerIndex": 3,
+    "explanation": "Duration can be accumulated in shorter bouts when continuous exercise is not yet tolerated. In Program design, this is the soundest approach to duration progression."
+  },
+  {
+    "id": "nsca-aer-068",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Program design",
+    "question": "A client's medication makes heart rate an unreliable intensity guide. Which alternatives can still help prescribe aerobic intensity?",
+    "choices": [
+      "Intensity may be prescribed with heart rate, perceived exertion, pace, workload, or metabolic equivalents.",
+      "Heat, humidity, cold, altitude, and air quality can require adjustment of aerobic workload.",
+      "Endurance training increases skeletal-muscle capillary density and supports oxygen exchange.",
+      "Aerobic adaptations are specific to the muscles, movement pattern, and energy demands trained."
+    ],
+    "answerIndex": 0,
+    "explanation": "When heart rate is unreliable, perceived exertion, pace, workload, or metabolic equivalents can guide intensity. These alternatives let the trainer prescribe and monitor aerobic effort without depending on a distorted heart-rate response."
+  },
+  {
+    "id": "nsca-aer-069",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Interval training",
+    "question": "A trainer can safely disregard work recovery ratio when addressing Interval training.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 1,
+    "explanation": "The work-to-recovery ratio should match the energy-system goal and the client's capacity. Therefore, work recovery ratio should not be disregarded when programming for Interval training."
+  },
+  {
+    "id": "nsca-aer-070",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Tempo training",
+    "question": "How should a trainer address tempo purpose?",
+    "choices": [
+      "Heart rate, symptoms, perceived exertion, and recovery trends help evaluate tolerance to a program.",
+      "Plasma-volume expansion is an early adaptation that supports cardiovascular function.",
+      "Tempo training uses sustained work near a challenging but controlled pace to improve endurance performance.",
+      "Duration can be accumulated in shorter bouts when continuous exercise is not yet tolerated."
+    ],
+    "answerIndex": 2,
+    "explanation": "Tempo training uses sustained work near a challenging but controlled pace to improve endurance performance. In Tempo training, this is the soundest approach to tempo purpose."
+  },
+  {
+    "id": "nsca-aer-071",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Long slow distance",
+    "question": "Which practice best reflects an appropriate approach to LSD purpose?",
+    "choices": [
+      "Endurance training can increase stroke volume, reducing the heart rate needed at a given submaximal workload.",
+      "Aerobic adaptations decline when the training stimulus is substantially reduced or removed.",
+      "Intensity may be prescribed with heart rate, perceived exertion, pace, workload, or metabolic equivalents.",
+      "Long slow distance training develops endurance through prolonged relatively low-intensity work."
+    ],
+    "answerIndex": 3,
+    "explanation": "Long slow distance training develops endurance through prolonged relatively low-intensity work. In Long slow distance, this is the soundest approach to LSD purpose."
+  },
+  {
+    "id": "nsca-aer-072",
+    "source": "nsca",
+    "type": "mcq",
+    "topic": "Aerobic safety",
+    "question": "What is the soundest guidance about environment in Aerobic safety?",
+    "choices": [
+      "Heat, humidity, cold, altitude, and air quality can require adjustment of aerobic workload.",
+      "Endurance training increases skeletal-muscle capillary density and supports oxygen exchange.",
+      "Aerobic adaptations are specific to the muscles, movement pattern, and energy demands trained.",
+      "The work-to-recovery ratio should match the energy-system goal and the client's capacity."
+    ],
+    "answerIndex": 0,
+    "explanation": "Heat, humidity, cold, altitude, and air quality can require adjustment of aerobic workload. In Aerobic safety, this is the soundest approach to environment."
+  },
+  {
+    "id": "nsca-aer-073",
+    "source": "nsca",
+    "type": "scenario",
+    "topic": "Aerobic safety",
+    "question": "A client is preparing for a long session in hot, humid weather. Which factors should guide the hydration plan?",
+    "choices": [
+      "Greater mitochondrial density and oxidative enzyme activity improve aerobic energy production.",
+      "Fluid planning should consider session duration, environment, sweat losses, and individual tolerance.",
+      "Frequency should reflect intensity, duration, fitness, recovery capacity, and other training.",
+      "Tempo training uses sustained work near a challenging but controlled pace to improve endurance performance."
+    ],
+    "answerIndex": 1,
+    "explanation": "Fluid planning should consider session duration, environment, sweat losses, and individual tolerance. In Aerobic safety, this is the soundest approach to hydration."
+  },
+  {
+    "id": "nsca-aer-074",
+    "source": "nsca",
+    "type": "tf",
+    "topic": "Aerobic monitoring",
+    "question": "Heart rate, symptoms, perceived exertion, and recovery trends help evaluate tolerance to a program.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answerIndex": 0,
+    "explanation": "Heart rate, symptoms, perceived exertion, and recovery trends help evaluate tolerance to a program. For Aerobic monitoring, this is the relevant principle concerning recovery response."
   }
 ]
