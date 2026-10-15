@@ -98,6 +98,19 @@ test("exercise technique bank is extensive and covers every required domain", as
   });
   assert.ok(longestKeys.length / fourChoice.length <= 0.55, "correct choices are too predictably the longest option");
 
+  const wordCount = (text) => text.trim().split(/\s+/).filter(Boolean).length;
+  const optionLengths = fourChoice.flatMap((question) => question.choices.map(wordCount));
+  const averageOptionLength = optionLengths.reduce((sum, length) => sum + length, 0) / optionLengths.length;
+  const sortedOptionLengths = [...optionLengths].sort((a, b) => a - b);
+  const optionP90 = sortedOptionLengths[Math.floor((sortedOptionLengths.length - 1) * 0.9)];
+  assert.ok(averageOptionLength <= 13, `average option length is ${averageOptionLength.toFixed(1)} words`);
+  assert.ok(optionP90 <= 18, `90th-percentile option length is ${optionP90} words`);
+  assert.ok(Math.max(...optionLengths) <= 22, "an answer option exceeds 22 words");
+
+  const stemLengths = technique.map((question) => wordCount(question.question)).sort((a, b) => a - b);
+  const stemP90 = stemLengths[Math.floor((stemLengths.length - 1) * 0.9)];
+  assert.ok(stemP90 <= 22, `90th-percentile stem length is ${stemP90} words`);
+
   const oneSentence = technique.filter((question) => question.explanation.split(/(?<=[.!?])\s+/).filter(Boolean).length < 2);
   assert.deepEqual(oneSentence.map((question) => question.id), [], "every explanation should teach with at least two sentences");
 
