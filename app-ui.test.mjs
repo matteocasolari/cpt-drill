@@ -10,3 +10,10 @@ test("home presents Progress as a chart utility in the header", async () => {
   assert.match(source, /class="progress-shortcut-icon"/);
   assert.doesNotMatch(source, /<button data-action="progress">View progress<\/button>/);
 });
+
+test("home presents an Exercise Technique category", async () => {
+  const source = await readFile(new URL("./app.js", import.meta.url), "utf8");
+
+  assert.match(source, /sourceButton\("exercise-technique", "Exercise Technique"\)/);
+  assert.match(source, /"exercise-technique": "Exercise Technique"/);
+});

@@ -72,6 +72,44 @@ test("dedicated nutrition bank contains at least 200 valid questions", async () 
   assert.equal(result.status, 0, result.stderr + result.stdout);
 });
 
+test("exercise technique bank is extensive and covers every required domain", async () => {
+  const technique = JSON.parse(await readFile(join(repoRoot, "data/exercise-technique.json"), "utf8"));
+  assert.ok(technique.length >= 300, `expected at least 300 exercise technique questions, found ${technique.length}`);
+  assert.ok(technique.filter((question) => question.type === "tf").length >= 15, "expected at least 15 true/false misconception checks");
+
+  const dir = await writeTempBank(technique);
+  const result = runValidator(dir, 300);
+  assert.equal(result.status, 0, result.stderr + result.stdout);
+
+  const topics = technique.map((question) => question.topic.toLowerCase()).join("\n");
+  for (const domain of [
+    "fundamental technique", "breathing", "spotting", "squat", "deadlift", "lunge", "step-up",
+    "bench press", "shoulder press", "row", "pulldown", "pull-up", "chest fly", "lateral raise",
+    "biceps curl", "triceps", "leg press", "leg extension", "leg curl", "calf raise", "core",
+    "power clean", "snatch", "push press", "machine", "cable", "elastic resistance", "medicine ball",
+  ]) {
+    assert.match(topics, new RegExp(domain), `missing required technique domain: ${domain}`);
+  }
+
+  const fourChoice = technique.filter((question) => question.choices.length === 4);
+  const longestKeys = fourChoice.filter((question) => {
+    const keyLength = question.choices[question.answerIndex].trim().split(/\s+/).length;
+    return question.choices.every((choice, index) => index === question.answerIndex || keyLength >= choice.trim().split(/\s+/).length);
+  });
+  assert.ok(longestKeys.length / fourChoice.length <= 0.55, "correct choices are too predictably the longest option");
+
+  const oneSentence = technique.filter((question) => question.explanation.split(/(?<=[.!?])\s+/).filter(Boolean).length < 2);
+  assert.deepEqual(oneSentence.map((question) => question.id), [], "every explanation should teach with at least two sentences");
+
+  const bareScenarios = technique.filter((question) => question.type === "scenario" && question.question.split(/(?<=[.!?])\s+/).length < 2);
+  assert.deepEqual(bareScenarios.map((question) => question.id), [], "scenario questions should include a setup and an application question");
+});
+
+test("exercise technique bank is registered in the manifest", async () => {
+  const manifest = JSON.parse(await readFile(join(repoRoot, "data/index.json"), "utf8"));
+  assert.ok(manifest.files.includes("exercise-technique.json"));
+});
+
 test("priority curriculum banks contain the approved expansion totals", async () => {
   const expectedCounts = {
     "nasm-pro.json": 82,
@@ -97,8 +135,8 @@ test("priority curriculum banks contain the approved expansion totals", async ()
   }
 });
 
-test("expanded repository bank has 2,072 valid questions with unique ids", () => {
-  const result = runValidator(repoRoot, 2072);
+test("expanded repository bank has 2,415 valid questions with unique ids", () => {
+  const result = runValidator(repoRoot, 2415);
   assert.equal(result.status, 0, result.stderr + result.stdout);
-  assert.match(result.stdout, /valid 2072 skipped 0/);
+  assert.match(result.stdout, /valid 2415 skipped 0/);
 });

@@ -10,6 +10,7 @@ const SOURCE_LABELS = {
   nsca: "NSCA",
   both: "NASM + NSCA",
   nutrition: "Nutrition",
+  "exercise-technique": "Exercise Technique",
   exercises: "Exercises",
   muscles: "Muscles",
   equipment: "Equipment",
@@ -17,7 +18,7 @@ const SOURCE_LABELS = {
 };
 
 const IMAGE_SOURCES = new Set(["exercises", "muscles", "equipment", "movements"]);
-const CONTENT_SOURCES = new Set(["nasm", "nsca", "both", "nutrition"]);
+const CONTENT_SOURCES = new Set(["nasm", "nsca", "both", "nutrition", "exercise-technique"]);
 const SOURCES = new Set([...CONTENT_SOURCES, ...IMAGE_SOURCES]);
 const TYPES = new Set(["mcq", "tf", "scenario"]);
 
@@ -87,7 +88,7 @@ export function filterPool(questions, sourceFilter) {
   if (IMAGE_SOURCES.has(sourceFilter)) {
     return questions.filter((q) => q.source === sourceFilter);
   }
-  if (sourceFilter === "nutrition") {
+  if (sourceFilter === "nutrition" || sourceFilter === "exercise-technique") {
     return questions.filter((q) => q.source === sourceFilter);
   }
   return questions.filter((q) => q.source === sourceFilter || q.source === "both");
@@ -102,7 +103,7 @@ function shuffle(arr, random) {
   return a;
 }
 
-const VALID_LAST_SOURCES = new Set(["nasm", "nsca", "nutrition", "mixed", ...IMAGE_SOURCES]);
+const VALID_LAST_SOURCES = new Set(["nasm", "nsca", "nutrition", "exercise-technique", "mixed", ...IMAGE_SOURCES]);
 
 function isQuestionStat(value) {
   return (
@@ -199,6 +200,7 @@ export function pickMixedSession(questions, stats, count, random) {
     questions.filter((q) => q.source === "nasm" || q.source === "both"),
     questions.filter((q) => q.source === "nsca"),
     questions.filter((q) => q.source === "nutrition"),
+    questions.filter((q) => q.source === "exercise-technique"),
     questions.filter((q) => q.source === "exercises"),
     questions.filter((q) => q.source === "muscles"),
     questions.filter((q) => q.source === "equipment"),

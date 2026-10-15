@@ -150,6 +150,7 @@ function questionCategory(source) {
     nsca: "NSCA",
     both: "NASM + NSCA",
     nutrition: "Nutrition",
+    "exercise-technique": "Exercise Technique",
     exercises: "Exercises",
     muscles: "Muscles",
     equipment: "Equipment",
@@ -185,6 +186,7 @@ function renderHome() {
         ${sourceButton("nasm", "NASM")}
         ${sourceButton("nsca", "NSCA")}
         ${sourceButton("nutrition", "Nutrition")}
+        ${sourceButton("exercise-technique", "Exercise Technique")}
         ${sourceButton("exercises", "Exercises")}
         ${sourceButton("muscles", "Muscles")}
         ${sourceButton("equipment", "Equipment")}

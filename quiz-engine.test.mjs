@@ -136,20 +136,34 @@ test("nutrition questions validate and can be filtered independently", () => {
   );
 });
 
+test("exercise technique questions validate and can be filtered independently", () => {
+  const technique = mcq({
+    id: "technique-001",
+    source: "exercise-technique",
+    topic: "Back squat technique",
+    question: "Where should the knees track during a back squat?",
+  });
+  assert.equal(validateQuestion(technique, new Set()).ok, true);
+  assert.deepEqual(
+    filterPool([technique, mcq(), mcq({ id: "shared", source: "both" })], "exercise-technique").map((q) => q.id),
+    ["technique-001"],
+  );
+});
+
 test("pickMixedSession represents every category", () => {
   const make = (source, index) => mcq({
     id: `${source}-${index}`,
     source,
     image: ["exercises", "muscles", "equipment", "movements"].includes(source) ? `${source}-${index}.png` : undefined,
   });
-  const bank = ["nasm", "nsca", "nutrition", "exercises", "muscles", "equipment", "movements"].flatMap((source) =>
+  const bank = ["nasm", "nsca", "nutrition", "exercise-technique", "exercises", "muscles", "equipment", "movements"].flatMap((source) =>
     Array.from({ length: 4 }, (_, index) => make(source, index))
   );
   const picked = pickMixedSession(bank, {}, 10, () => 0.5);
   const counts = Object.groupBy
     ? Object.fromEntries(Object.entries(Object.groupBy(picked, (q) => q.source)).map(([k, v]) => [k, v.length]))
     : picked.reduce((all, q) => ({ ...all, [q.source]: (all[q.source] || 0) + 1 }), {});
-  assert.deepEqual(counts, { nasm: 2, nsca: 2, nutrition: 2, exercises: 1, muscles: 1, equipment: 1, movements: 1 });
+  assert.deepEqual(counts, { nasm: 2, nsca: 2, nutrition: 1, "exercise-technique": 1, exercises: 1, muscles: 1, equipment: 1, movements: 1 });
 });
 
 test("pickSession prefers unseen then previously wrong", () => {
