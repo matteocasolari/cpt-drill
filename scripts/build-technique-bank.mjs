@@ -6,6 +6,10 @@ const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const questions = [];
 let sequence = 0;
 
+function capitalizeChoice(choice) {
+  return choice.replace(/^(\s*)(\p{Ll})/u, (_, whitespace, letter) => `${whitespace}${letter.toUpperCase()}`);
+}
+
 function add({ topic, type = "mcq", question, correct, wrong, explanation }) {
   sequence += 1;
   const id = `technique-${String(sequence).padStart(3, "0")}`;
@@ -16,12 +20,13 @@ function add({ topic, type = "mcq", question, correct, wrong, explanation }) {
     });
     return;
   }
-  const choices = [correct, ...wrong];
+  const normalizedCorrect = capitalizeChoice(correct);
+  const choices = [normalizedCorrect, ...wrong.map(capitalizeChoice)];
   const shift = sequence % 4;
   const rotated = [...choices.slice(shift), ...choices.slice(0, shift)];
   questions.push({
     id, source: "exercise-technique", type, topic, question,
-    choices: rotated, answerIndex: rotated.indexOf(correct), explanation,
+    choices: rotated, answerIndex: rotated.indexOf(normalizedCorrect), explanation,
   });
 }
 

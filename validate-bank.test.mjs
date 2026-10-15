@@ -107,6 +107,13 @@ test("exercise technique bank is extensive and covers every required domain", as
   assert.ok(optionP90 <= 18, `90th-percentile option length is ${optionP90} words`);
   assert.ok(Math.max(...optionLengths) <= 22, "an answer option exceeds 22 words");
 
+  const lowercaseChoices = technique.flatMap((question) =>
+    question.choices
+      .filter((choice) => /^\p{Ll}/u.test(choice.trim()))
+      .map((choice) => `${question.id}: ${choice}`),
+  );
+  assert.deepEqual(lowercaseChoices, [], "every answer choice should begin with a capital letter");
+
   const stemLengths = technique.map((question) => wordCount(question.question)).sort((a, b) => a - b);
   const stemP90 = stemLengths[Math.floor((stemLengths.length - 1) * 0.9)];
   assert.ok(stemP90 <= 22, `90th-percentile stem length is ${stemP90} words`);

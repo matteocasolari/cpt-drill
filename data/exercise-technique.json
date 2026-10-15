@@ -1,4 +1,4 @@
- [
+[
   {
     "id": "technique-001",
     "source": "exercise-technique",
@@ -911,7 +911,7 @@
     "topic": "Back squat technique",
     "question": "Which setup is most appropriate for the Back squat?",
     "choices": [
-      "barbell across the upper back, feet about shoulder-width and flat",
+      "Barbell across the upper back, feet about shoulder-width and flat",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -929,7 +929,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "descend by flexing hips and knees together, then drive up while keeping the bar over the midfoot"
+      "Descend by flexing hips and knees together, then drive up while keeping the bar over the midfoot"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Back squat's intended joint actions and keeps the resistance controlled through both phases. A repeatable Back squat path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -943,7 +943,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "knees track with the toes, heels stay down, and the trunk remains braced",
+      "Knees track with the toes, heels stay down, and the trunk remains braced",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -957,7 +957,7 @@
     "question": "A client is learning the Back squat. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "view the knees, feet, trunk, and bar path from a safe front-quarter or side angle",
+      "View the knees, feet, trunk, and bar path from a safe front-quarter or side angle",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -971,7 +971,7 @@
     "topic": "Back squat technique",
     "question": "Which is a meaningful technique fault during the Back squat?",
     "choices": [
-      "knees collapsing inward and heels lifting",
+      "Knees collapsing inward and heels lifting",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -989,7 +989,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "reduce the load or depth and cue knees to follow the toes while maintaining tripod-foot pressure"
+      "Reduce the load or depth and cue knees to follow the toes while maintaining tripod-foot pressure"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Back squat to a level where the client can practice the intended pattern. If a concise cue does not restore Back squat control, the set should end or the movement should be regressed."
@@ -1003,7 +1003,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "inhale and brace before or during descent; exhale through the sticking point unless an appropriate brief Valsalva is used",
+      "Inhale and brace before or during descent; exhale through the sticking point unless an appropriate brief Valsalva is used",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -1017,7 +1017,7 @@
     "question": "A client is ready to perform the Back squat. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "stand close behind for moderate loads; for heavy loads use a rack and trained side spotters as needed",
+      "Stand close behind for moderate loads; for heavy loads use a rack and trained side spotters as needed",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -1031,7 +1031,7 @@
     "topic": "Front squat technique",
     "question": "Which setup is most appropriate for the Front squat?",
     "choices": [
-      "bar supported across the front shoulders with elbows high and feet stable",
+      "Bar supported across the front shoulders with elbows high and feet stable",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -1049,7 +1049,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "sit between the hips while keeping the torso upright, then extend hips and knees together"
+      "Sit between the hips while keeping the torso upright, then extend hips and knees together"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Front squat's intended joint actions and keeps the resistance controlled through both phases. A repeatable Front squat path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -1063,7 +1063,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "elbows remain high, whole feet stay planted, and knees follow the toes",
+      "Elbows remain high, whole feet stay planted, and knees follow the toes",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -1077,7 +1077,7 @@
     "question": "A client is learning the Front squat. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "watch elbow height, spinal position, knee tracking, and balance without standing in front of the bar",
+      "Watch elbow height, spinal position, knee tracking, and balance without standing in front of the bar",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -1091,7 +1091,7 @@
     "topic": "Front squat technique",
     "question": "Which is a meaningful technique fault during the Front squat?",
     "choices": [
-      "elbows dropping and the torso pitching forward",
+      "Elbows dropping and the torso pitching forward",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -1109,7 +1109,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "decrease load or depth and restore front-rack mobility and trunk control"
+      "Decrease load or depth and restore front-rack mobility and trunk control"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Front squat to a level where the client can practice the intended pattern. If a concise cue does not restore Front squat control, the set should end or the movement should be regressed."
@@ -1123,7 +1123,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "brace before descent and exhale after passing the hardest portion",
+      "Brace before descent and exhale after passing the hardest portion",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -1137,7 +1137,7 @@
     "question": "A client is ready to perform the Front squat. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "use rack safeties and competent side spotters for heavy attempts; keep the front clear for a safe release",
+      "Use rack safeties and competent side spotters for heavy attempts; keep the front clear for a safe release",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -1151,7 +1151,7 @@
     "topic": "Deadlift technique",
     "question": "Which setup is most appropriate for the Deadlift?",
     "choices": [
-      "bar over the midfoot, feet stable, closed grip, hips hinged, chest up, and spine controlled",
+      "Bar over the midfoot, feet stable, closed grip, hips hinged, chest up, and spine controlled",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -1169,7 +1169,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "push through the floor and extend knees and hips while keeping the bar close, then hinge to return"
+      "Push through the floor and extend knees and hips while keeping the bar close, then hinge to return"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Deadlift's intended joint actions and keeps the resistance controlled through both phases. A repeatable Deadlift path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -1183,7 +1183,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "bar stays close, shoulders and hips rise without spinal rounding, and lockout comes from hip extension",
+      "Bar stays close, shoulders and hips rise without spinal rounding, and lockout comes from hip extension",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -1197,7 +1197,7 @@
     "question": "A client is learning the Deadlift. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "observe from a front-quarter or side position outside the bar and plate path",
+      "Observe from a front-quarter or side position outside the bar and plate path",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -1211,7 +1211,7 @@
     "topic": "Deadlift technique",
     "question": "Which is a meaningful technique fault during the Deadlift?",
     "choices": [
-      "the bar drifts forward while the lumbar spine rounds",
+      "The bar drifts forward while the lumbar spine rounds",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -1229,7 +1229,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "reduce load, reset the brace and hinge, and use blocks if the client cannot reach the floor with control"
+      "Reduce load, reset the brace and hinge, and use blocks if the client cannot reach the floor with control"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Deadlift to a level where the client can practice the intended pattern. If a concise cue does not restore Deadlift control, the set should end or the movement should be regressed."
@@ -1243,7 +1243,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "brace before the pull and exhale after the sticking point or at lockout",
+      "Brace before the pull and exhale after the sticking point or at lockout",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -1257,7 +1257,7 @@
     "question": "A client is ready to perform the Deadlift. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "do not physically spot the bar; coach from clear space and maintain a safe drop or set-down area",
+      "Do not physically spot the bar; coach from clear space and maintain a safe drop or set-down area",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -1271,7 +1271,7 @@
     "topic": "Romanian deadlift technique",
     "question": "Which setup is most appropriate for the Romanian deadlift?",
     "choices": [
-      "stand tall with the load close to the thighs, knees softly flexed, and trunk braced",
+      "Stand tall with the load close to the thighs, knees softly flexed, and trunk braced",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -1289,7 +1289,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "push the hips back while the load tracks close to the legs, then extend the hips to stand"
+      "Push the hips back while the load tracks close to the legs, then extend the hips to stand"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Romanian deadlift's intended joint actions and keeps the resistance controlled through both phases. A repeatable Romanian deadlift path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -1303,7 +1303,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "the spine stays controlled, shins remain nearly vertical, and motion comes primarily from the hips",
+      "The spine stays controlled, shins remain nearly vertical, and motion comes primarily from the hips",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -1317,7 +1317,7 @@
     "question": "A client is learning the Romanian deadlift. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "watch the hip hinge, bar distance, knee angle, and spinal position from the side",
+      "Watch the hip hinge, bar distance, knee angle, and spinal position from the side",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -1331,7 +1331,7 @@
     "topic": "Romanian deadlift technique",
     "question": "Which is a meaningful technique fault during the Romanian deadlift?",
     "choices": [
-      "turning the movement into a squat or reaching the load away from the legs",
+      "Turning the movement into a squat or reaching the load away from the legs",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -1349,7 +1349,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "use a dowel or lighter load to teach the hinge and stop at the client's controlled hamstring range"
+      "Use a dowel or lighter load to teach the hinge and stop at the client's controlled hamstring range"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Romanian deadlift to a level where the client can practice the intended pattern. If a concise cue does not restore Romanian deadlift control, the set should end or the movement should be regressed."
@@ -1363,7 +1363,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "inhale and brace before the hinge; exhale as the hips extend through the hard portion",
+      "Inhale and brace before the hinge; exhale as the hips extend through the hard portion",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -1377,7 +1377,7 @@
     "question": "A client is ready to perform the Romanian deadlift. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "coach rather than physically spot; keep clear of the load and ensure a controlled set-down",
+      "Coach rather than physically spot; keep clear of the load and ensure a controlled set-down",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -1391,7 +1391,7 @@
     "topic": "Lunge technique",
     "question": "Which setup is most appropriate for the Lunge?",
     "choices": [
-      "begin tall with feet oriented forward and enough space for the intended step",
+      "Begin tall with feet oriented forward and enough space for the intended step",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -1409,7 +1409,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "step and lower under control while both legs share balance, then push through the working foot to return"
+      "Step and lower under control while both legs share balance, then push through the working foot to return"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Lunge's intended joint actions and keeps the resistance controlled through both phases. A repeatable Lunge path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -1423,7 +1423,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "front knee follows the toes, pelvis stays controlled, and the front foot remains planted",
+      "Front knee follows the toes, pelvis stays controlled, and the front foot remains planted",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -1437,7 +1437,7 @@
     "question": "A client is learning the Lunge. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "stand to the side and slightly behind, close enough to assist balance without obstructing the step",
+      "Stand to the side and slightly behind, close enough to assist balance without obstructing the step",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -1451,7 +1451,7 @@
     "topic": "Lunge technique",
     "question": "Which is a meaningful technique fault during the Lunge?",
     "choices": [
-      "front knee collapses inward and the client loses frontal-plane balance",
+      "Front knee collapses inward and the client loses frontal-plane balance",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -1469,7 +1469,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "shorten the range, reduce load, or use light external support while cueing knee-to-toe alignment"
+      "Shorten the range, reduce load, or use light external support while cueing knee-to-toe alignment"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Lunge to a level where the client can practice the intended pattern. If a concise cue does not restore Lunge control, the set should end or the movement should be regressed."
@@ -1483,7 +1483,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "inhale during lowering and exhale through the return",
+      "Inhale during lowering and exhale through the return",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -1497,7 +1497,7 @@
     "question": "A client is ready to perform the Lunge. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "spot near the torso or wrists depending on the load; never stand in the client's step path",
+      "Spot near the torso or wrists depending on the load; never stand in the client's step path",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -1511,7 +1511,7 @@
     "topic": "Step-up technique",
     "question": "Which setup is most appropriate for the Step-up?",
     "choices": [
-      "choose a box height the client can control and place the entire lead foot securely on it",
+      "Choose a box height the client can control and place the entire lead foot securely on it",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -1529,7 +1529,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "drive through the lead leg to rise without pushing excessively from the trailing foot, then descend under control"
+      "Drive through the lead leg to rise without pushing excessively from the trailing foot, then descend under control"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Step-up's intended joint actions and keeps the resistance controlled through both phases. A repeatable Step-up path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -1543,7 +1543,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "lead knee follows the toes, pelvis stays level, and the foot does not hang off the edge",
+      "Lead knee follows the toes, pelvis stays level, and the foot does not hang off the edge",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -1557,7 +1557,7 @@
     "question": "A client is learning the Step-up. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "stand beside and slightly behind the client, guarding the direction of a possible loss of balance",
+      "Stand beside and slightly behind the client, guarding the direction of a possible loss of balance",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -1571,7 +1571,7 @@
     "topic": "Step-up technique",
     "question": "Which is a meaningful technique fault during the Step-up?",
     "choices": [
-      "launching from the floor leg and dropping rapidly from the box",
+      "Launching from the floor leg and dropping rapidly from the box",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -1589,7 +1589,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "lower the box or resistance and cue the lead leg to do the work with a quiet controlled descent"
+      "Lower the box or resistance and cue the lead leg to do the work with a quiet controlled descent"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Step-up to a level where the client can practice the intended pattern. If a concise cue does not restore Step-up control, the set should end or the movement should be regressed."
@@ -1603,7 +1603,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "exhale while stepping up and inhale while stepping down",
+      "Exhale while stepping up and inhale while stepping down",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -1617,7 +1617,7 @@
     "question": "A client is ready to perform the Step-up. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "guard balance at the torso or wrists without pulling the client off line; keep the area around the box clear",
+      "Guard balance at the torso or wrists without pulling the client off line; keep the area around the box clear",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -1631,7 +1631,7 @@
     "topic": "Barbell bench press technique",
     "question": "Which setup is most appropriate for the Barbell bench press?",
     "choices": [
-      "use five-point contact, eyes under the bar, a closed balanced grip, and wrists stacked",
+      "Use five-point contact, eyes under the bar, a closed balanced grip, and wrists stacked",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -1649,7 +1649,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "lower the bar under control toward the chest and press it up without bouncing or losing contact"
+      "Lower the bar under control toward the chest and press it up without bouncing or losing contact"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Barbell bench press's intended joint actions and keeps the resistance controlled through both phases. A repeatable Barbell bench press path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -1663,7 +1663,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "forearms approach vertical at the bottom, wrists remain firm, and feet and torso stay stable",
+      "Forearms approach vertical at the bottom, wrists remain firm, and feet and torso stay stable",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -1677,7 +1677,7 @@
     "question": "A client is learning the Barbell bench press. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "stand at the head of the bench with a stable stance and an unobstructed grip on the bar",
+      "Stand at the head of the bench with a stable stance and an unobstructed grip on the bar",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -1691,7 +1691,7 @@
     "topic": "Barbell bench press technique",
     "question": "Which is a meaningful technique fault during the Barbell bench press?",
     "choices": [
-      "bouncing the bar, flaring into a painful position, or lifting the feet and hips",
+      "Bouncing the bar, flaring into a painful position, or lifting the feet and hips",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -1709,7 +1709,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "reduce load, restore contact points, and choose a grip and depth the client controls pain-free"
+      "Reduce load, restore contact points, and choose a grip and depth the client controls pain-free"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Barbell bench press to a level where the client can practice the intended pattern. If a concise cue does not restore Barbell bench press control, the set should end or the movement should be regressed."
@@ -1723,7 +1723,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "inhale on the descent and exhale through the sticking point",
+      "Inhale on the descent and exhale through the sticking point",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -1737,7 +1737,7 @@
     "question": "A client is ready to perform the Barbell bench press. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "agree on liftoff and rack commands; use an alternated grip to assist the bar evenly when needed",
+      "Agree on liftoff and rack commands; use an alternated grip to assist the bar evenly when needed",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -1751,7 +1751,7 @@
     "topic": "Incline bench press technique",
     "question": "Which setup is most appropriate for the Incline bench press?",
     "choices": [
-      "set a suitable bench angle, establish five-point contact, and use a closed symmetrical grip",
+      "Set a suitable bench angle, establish five-point contact, and use a closed symmetrical grip",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -1769,7 +1769,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "lower toward the upper chest with control and press along a consistent path"
+      "Lower toward the upper chest with control and press along a consistent path"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Incline bench press's intended joint actions and keeps the resistance controlled through both phases. A repeatable Incline bench press path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -1783,7 +1783,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "wrists stay stacked, shoulders remain supported, and the bar does not drift toward the face",
+      "Wrists stay stacked, shoulders remain supported, and the bar does not drift toward the face",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -1797,7 +1797,7 @@
     "question": "A client is learning the Incline bench press. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "spot from the head of the bench with access to the bar and clear commands",
+      "Spot from the head of the bench with access to the bar and clear commands",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -1811,7 +1811,7 @@
     "topic": "Incline bench press technique",
     "question": "Which is a meaningful technique fault during the Incline bench press?",
     "choices": [
-      "losing shoulder contact and turning the press into an unstable steep-angle lift",
+      "Losing shoulder contact and turning the press into an unstable steep-angle lift",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -1829,7 +1829,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "reduce load or bench angle and reestablish scapular and foot support"
+      "Reduce load or bench angle and reestablish scapular and foot support"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Incline bench press to a level where the client can practice the intended pattern. If a concise cue does not restore Incline bench press control, the set should end or the movement should be regressed."
@@ -1843,7 +1843,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "inhale while lowering and exhale through the press sticking point",
+      "Inhale while lowering and exhale through the press sticking point",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -1857,7 +1857,7 @@
     "question": "A client is ready to perform the Incline bench press. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "provide a coordinated liftoff and minimal even assistance; guide the bar back to both hooks",
+      "Provide a coordinated liftoff and minimal even assistance; guide the bar back to both hooks",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -1871,7 +1871,7 @@
     "topic": "Dumbbell bench press technique",
     "question": "Which setup is most appropriate for the Dumbbell bench press?",
     "choices": [
-      "sit with dumbbells controlled, transition onto the bench, and establish five-point contact",
+      "Sit with dumbbells controlled, transition onto the bench, and establish five-point contact",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -1889,7 +1889,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "lower both dumbbells through a controlled pain-free arc and press without letting them collide"
+      "Lower both dumbbells through a controlled pain-free arc and press without letting them collide"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Dumbbell bench press's intended joint actions and keeps the resistance controlled through both phases. A repeatable Dumbbell bench press path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -1903,7 +1903,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "wrists remain over elbows and the torso and feet stay stable",
+      "Wrists remain over elbows and the torso and feet stay stable",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -1917,7 +1917,7 @@
     "question": "A client is learning the Dumbbell bench press. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "stand or kneel where both wrists are accessible without leaning over the client's face",
+      "Stand or kneel where both wrists are accessible without leaning over the client's face",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -1931,7 +1931,7 @@
     "topic": "Dumbbell bench press technique",
     "question": "Which is a meaningful technique fault during the Dumbbell bench press?",
     "choices": [
-      "dumbbells drift inward while elbows cave and wrists bend",
+      "Dumbbells drift inward while elbows cave and wrists bend",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -1949,7 +1949,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "reduce load and cue stacked wrists over elbows through a controlled path"
+      "Reduce load and cue stacked wrists over elbows through a controlled path"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Dumbbell bench press to a level where the client can practice the intended pattern. If a concise cue does not restore Dumbbell bench press control, the set should end or the movement should be regressed."
@@ -1963,7 +1963,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "inhale during lowering and exhale during the hardest part of the press",
+      "Inhale during lowering and exhale during the hardest part of the press",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -1977,7 +1977,7 @@
     "question": "A client is ready to perform the Dumbbell bench press. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "spot at the wrists, not merely the elbows, and assist both sides evenly",
+      "Spot at the wrists, not merely the elbows, and assist both sides evenly",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -1991,7 +1991,7 @@
     "topic": "Shoulder press technique",
     "question": "Which setup is most appropriate for the Shoulder press?",
     "choices": [
-      "begin seated or standing with a stable base, braced trunk, and load controlled near shoulder level",
+      "Begin seated or standing with a stable base, braced trunk, and load controlled near shoulder level",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -2009,7 +2009,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "press overhead without excessive spinal extension, then lower to a controlled position"
+      "Press overhead without excessive spinal extension, then lower to a controlled position"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Shoulder press's intended joint actions and keeps the resistance controlled through both phases. A repeatable Shoulder press path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -2023,7 +2023,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "wrists stack over elbows, ribs remain controlled, and the load finishes over the base of support",
+      "Wrists stack over elbows, ribs remain controlled, and the load finishes over the base of support",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -2037,7 +2037,7 @@
     "question": "A client is learning the Shoulder press. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "stand behind a seated client or close behind and slightly offset for standing work, with access to wrists or bar",
+      "Stand behind a seated client or close behind and slightly offset for standing work, with access to wrists or bar",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -2051,7 +2051,7 @@
     "topic": "Shoulder press technique",
     "question": "Which is a meaningful technique fault during the Shoulder press?",
     "choices": [
-      "arching the lower back and allowing the ribs to flare",
+      "Arching the lower back and allowing the ribs to flare",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -2069,7 +2069,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "reduce load or use back support and cue the client to brace and keep the rib cage stacked over the pelvis"
+      "Reduce load or use back support and cue the client to brace and keep the rib cage stacked over the pelvis"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Shoulder press to a level where the client can practice the intended pattern. If a concise cue does not restore Shoulder press control, the set should end or the movement should be regressed."
@@ -2083,7 +2083,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "exhale through the overhead press and inhale during lowering",
+      "Exhale through the overhead press and inhale during lowering",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -2097,7 +2097,7 @@
     "question": "A client is ready to perform the Shoulder press. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "for dumbbells spot the wrists; for a bar use a stable close position and agreed assistance and rack commands",
+      "For dumbbells spot the wrists; for a bar use a stable close position and agreed assistance and rack commands",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -2111,7 +2111,7 @@
     "topic": "Bent-over row technique",
     "question": "Which setup is most appropriate for the Bent-over row?",
     "choices": [
-      "hinge at the hips with feet stable, trunk braced, and load hanging under control",
+      "Hinge at the hips with feet stable, trunk braced, and load hanging under control",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -2129,7 +2129,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "pull toward the torso by driving the elbows back, then lower without losing the hinge"
+      "Pull toward the torso by driving the elbows back, then lower without losing the hinge"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Bent-over row's intended joint actions and keeps the resistance controlled through both phases. A repeatable Bent-over row path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -2143,7 +2143,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "spine and hip angle remain controlled while shoulders retract without shrugging",
+      "Spine and hip angle remain controlled while shoulders retract without shrugging",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -2157,7 +2157,7 @@
     "question": "A client is learning the Bent-over row. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "observe from the side or front-quarter outside the load path",
+      "Observe from the side or front-quarter outside the load path",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -2171,7 +2171,7 @@
     "topic": "Bent-over row technique",
     "question": "Which is a meaningful technique fault during the Bent-over row?",
     "choices": [
-      "using repeated trunk jerks and lumbar motion to launch the weight",
+      "Using repeated trunk jerks and lumbar motion to launch the weight",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -2189,7 +2189,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "reduce load and reestablish a supported or shallower hinge before rowing smoothly"
+      "Reduce load and reestablish a supported or shallower hinge before rowing smoothly"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Bent-over row to a level where the client can practice the intended pattern. If a concise cue does not restore Bent-over row control, the set should end or the movement should be regressed."
@@ -2203,7 +2203,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "exhale during the pull and inhale during the controlled lowering",
+      "Exhale during the pull and inhale during the controlled lowering",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -2217,7 +2217,7 @@
     "question": "A client is ready to perform the Bent-over row. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "do not lift the bar for the client; coach and ensure a safe set-down area",
+      "Do not lift the bar for the client; coach and ensure a safe set-down area",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -2231,7 +2231,7 @@
     "topic": "One-arm dumbbell row technique",
     "question": "Which setup is most appropriate for the One-arm dumbbell row?",
     "choices": [
-      "support the body securely on a bench with a stable hand and foot position",
+      "Support the body securely on a bench with a stable hand and foot position",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -2249,7 +2249,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "pull the dumbbell toward the side of the torso, then lower under control"
+      "Pull the dumbbell toward the side of the torso, then lower under control"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the One-arm dumbbell row's intended joint actions and keeps the resistance controlled through both phases. A repeatable One-arm dumbbell row path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -2263,7 +2263,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "pelvis and spine stay controlled rather than rotating open to chase range",
+      "Pelvis and spine stay controlled rather than rotating open to chase range",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -2277,7 +2277,7 @@
     "question": "A client is learning the One-arm dumbbell row. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "stand beside the working side but outside the dumbbell's vertical path",
+      "Stand beside the working side but outside the dumbbell's vertical path",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -2291,7 +2291,7 @@
     "topic": "One-arm dumbbell row technique",
     "question": "Which is a meaningful technique fault during the One-arm dumbbell row?",
     "choices": [
-      "twisting the trunk and shrugging to move an excessive load",
+      "Twisting the trunk and shrugging to move an excessive load",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -2309,7 +2309,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "reduce load and cue the client to keep the shoulders and hips square"
+      "Reduce load and cue the client to keep the shoulders and hips square"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the One-arm dumbbell row to a level where the client can practice the intended pattern. If a concise cue does not restore One-arm dumbbell row control, the set should end or the movement should be regressed."
@@ -2323,7 +2323,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "exhale while rowing and inhale while lowering",
+      "Exhale while rowing and inhale while lowering",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -2337,7 +2337,7 @@
     "question": "A client is ready to perform the One-arm dumbbell row. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "normally supervise rather than touch the dumbbell; guard the client only if balance requires it",
+      "Normally supervise rather than touch the dumbbell; guard the client only if balance requires it",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -2351,7 +2351,7 @@
     "topic": "Seated cable row technique",
     "question": "Which setup is most appropriate for the Seated cable row?",
     "choices": [
-      "sit securely with feet supported, knees softly bent, trunk tall, and cable taut",
+      "Sit securely with feet supported, knees softly bent, trunk tall, and cable taut",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -2369,7 +2369,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "pull the handle toward the torso with controlled shoulder extension and scapular retraction, then return smoothly"
+      "Pull the handle toward the torso with controlled shoulder extension and scapular retraction, then return smoothly"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Seated cable row's intended joint actions and keeps the resistance controlled through both phases. A repeatable Seated cable row path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -2383,7 +2383,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "the trunk remains stable and shoulders do not elevate",
+      "The trunk remains stable and shoulders do not elevate",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -2397,7 +2397,7 @@
     "question": "A client is learning the Seated cable row. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "observe from the side-front without straddling or stepping over the cable",
+      "Observe from the side-front without straddling or stepping over the cable",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -2411,7 +2411,7 @@
     "topic": "Seated cable row technique",
     "question": "Which is a meaningful technique fault during the Seated cable row?",
     "choices": [
-      "rocking far backward and forward to create momentum",
+      "Rocking far backward and forward to create momentum",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -2429,7 +2429,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "reduce load and cue a quiet torso with the elbows driving back"
+      "Reduce load and cue a quiet torso with the elbows driving back"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Seated cable row to a level where the client can practice the intended pattern. If a concise cue does not restore Seated cable row control, the set should end or the movement should be regressed."
@@ -2443,7 +2443,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "exhale while pulling and inhale during the return",
+      "Exhale while pulling and inhale during the return",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -2457,7 +2457,7 @@
     "question": "A client is ready to perform the Seated cable row. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "do not grab the moving cable or place hands near the stack; use the stop and pin only after motion ceases",
+      "Do not grab the moving cable or place hands near the stack; use the stop and pin only after motion ceases",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -2471,7 +2471,7 @@
     "topic": "Lat pulldown technique",
     "question": "Which setup is most appropriate for the Lat pulldown?",
     "choices": [
-      "sit with thighs secured, feet planted, a closed grip, and torso tall",
+      "Sit with thighs secured, feet planted, a closed grip, and torso tall",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -2489,7 +2489,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "pull the bar toward the upper chest by driving elbows down, then return with control"
+      "Pull the bar toward the upper chest by driving elbows down, then return with control"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Lat pulldown's intended joint actions and keeps the resistance controlled through both phases. A repeatable Lat pulldown path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -2503,7 +2503,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "neck stays neutral, shoulders avoid shrugging, and the bar travels in front of the head",
+      "Neck stays neutral, shoulders avoid shrugging, and the bar travels in front of the head",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -2517,7 +2517,7 @@
     "question": "A client is learning the Lat pulldown. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "stand to the side-front where the shoulder and bar paths are visible and the stack remains clear",
+      "Stand to the side-front where the shoulder and bar paths are visible and the stack remains clear",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -2531,7 +2531,7 @@
     "topic": "Lat pulldown technique",
     "question": "Which is a meaningful technique fault during the Lat pulldown?",
     "choices": [
-      "pulling the bar behind the neck or rocking far backward",
+      "Pulling the bar behind the neck or rocking far backward",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -2549,7 +2549,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "lower the load and cue elbows down toward the ribs with the bar in front"
+      "Lower the load and cue elbows down toward the ribs with the bar in front"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Lat pulldown to a level where the client can practice the intended pattern. If a concise cue does not restore Lat pulldown control, the set should end or the movement should be regressed."
@@ -2563,7 +2563,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "exhale during the pull and inhale as the arms extend",
+      "Exhale during the pull and inhale as the arms extend",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -2577,7 +2577,7 @@
     "question": "A client is ready to perform the Lat pulldown. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "supervise rather than place hands under the stack; assist only at a safe handle or lever point if required",
+      "Supervise rather than place hands under the stack; assist only at a safe handle or lever point if required",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -2591,7 +2591,7 @@
     "topic": "Pull-up technique",
     "question": "Which setup is most appropriate for the Pull-up?",
     "choices": [
-      "begin from a secure closed grip with the body controlled and adequate overhead clearance",
+      "Begin from a secure closed grip with the body controlled and adequate overhead clearance",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -2609,7 +2609,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "pull the body upward by driving elbows down, then lower without dropping"
+      "Pull the body upward by driving elbows down, then lower without dropping"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Pull-up's intended joint actions and keeps the resistance controlled through both phases. A repeatable Pull-up path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -2623,7 +2623,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "trunk remains controlled and the shoulders move smoothly without excessive swinging",
+      "Trunk remains controlled and the shoulders move smoothly without excessive swinging",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -2637,7 +2637,7 @@
     "question": "A client is learning the Pull-up. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "stand beside or slightly behind, ready to assist at the torso or use the intended assistance system",
+      "Stand beside or slightly behind, ready to assist at the torso or use the intended assistance system",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -2651,7 +2651,7 @@
     "topic": "Pull-up technique",
     "question": "Which is a meaningful technique fault during the Pull-up?",
     "choices": [
-      "kipping unintentionally and dropping through the bottom position",
+      "Kipping unintentionally and dropping through the bottom position",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -2669,7 +2669,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "use an assisted machine or band setup and cue a controlled body line and descent"
+      "Use an assisted machine or band setup and cue a controlled body line and descent"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Pull-up to a level where the client can practice the intended pattern. If a concise cue does not restore Pull-up control, the set should end or the movement should be regressed."
@@ -2683,7 +2683,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "exhale while pulling up and inhale while lowering",
+      "Exhale while pulling up and inhale while lowering",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -2697,7 +2697,7 @@
     "question": "A client is ready to perform the Pull-up. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "assist at the torso or approved machine pad, not by yanking the feet unpredictably",
+      "Assist at the torso or approved machine pad, not by yanking the feet unpredictably",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -2711,7 +2711,7 @@
     "topic": "Chest fly technique",
     "question": "Which setup is most appropriate for the Chest fly?",
     "choices": [
-      "establish five-point contact with dumbbells over the chest and elbows softly flexed",
+      "Establish five-point contact with dumbbells over the chest and elbows softly flexed",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -2729,7 +2729,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "open the arms in a controlled arc to a comfortable depth, then bring them together without changing elbow angle greatly"
+      "Open the arms in a controlled arc to a comfortable depth, then bring them together without changing elbow angle greatly"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Chest fly's intended joint actions and keeps the resistance controlled through both phases. A repeatable Chest fly path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -2743,7 +2743,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "shoulders remain supported, wrists neutral, and range stays pain-free",
+      "Shoulders remain supported, wrists neutral, and range stays pain-free",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -2757,7 +2757,7 @@
     "question": "A client is learning the Chest fly. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "position near the head and shoulders with safe access to the wrists",
+      "Position near the head and shoulders with safe access to the wrists",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -2771,7 +2771,7 @@
     "topic": "Chest fly technique",
     "question": "Which is a meaningful technique fault during the Chest fly?",
     "choices": [
-      "lowering too deeply while the elbows straighten and shoulders roll forward",
+      "Lowering too deeply while the elbows straighten and shoulders roll forward",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -2789,7 +2789,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "reduce load and range and maintain the same slight elbow bend"
+      "Reduce load and range and maintain the same slight elbow bend"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Chest fly to a level where the client can practice the intended pattern. If a concise cue does not restore Chest fly control, the set should end or the movement should be regressed."
@@ -2803,7 +2803,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "inhale while opening and exhale while bringing the arms together",
+      "Inhale while opening and exhale while bringing the arms together",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -2817,7 +2817,7 @@
     "question": "A client is ready to perform the Chest fly. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "spot at the wrists when needed and help guide the dumbbells to a safe finish position",
+      "Spot at the wrists when needed and help guide the dumbbells to a safe finish position",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -2831,7 +2831,7 @@
     "topic": "Lateral raise technique",
     "question": "Which setup is most appropriate for the Lateral raise?",
     "choices": [
-      "stand or sit tall with light dumbbells controlled at the sides and elbows softly bent",
+      "Stand or sit tall with light dumbbells controlled at the sides and elbows softly bent",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -2849,7 +2849,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "raise the arms in the scapular plane to the prescribed height, then lower slowly"
+      "Raise the arms in the scapular plane to the prescribed height, then lower slowly"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Lateral raise's intended joint actions and keeps the resistance controlled through both phases. A repeatable Lateral raise path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -2863,7 +2863,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "wrists stay neutral, shoulders remain down, and the trunk does not sway",
+      "Wrists stay neutral, shoulders remain down, and the trunk does not sway",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -2877,7 +2877,7 @@
     "question": "A client is learning the Lateral raise. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "observe from the front-quarter to compare both shoulders and detect trunk compensation",
+      "Observe from the front-quarter to compare both shoulders and detect trunk compensation",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -2891,7 +2891,7 @@
     "topic": "Lateral raise technique",
     "question": "Which is a meaningful technique fault during the Lateral raise?",
     "choices": [
-      "shrugging and swinging the torso to lift above a controllable range",
+      "Shrugging and swinging the torso to lift above a controllable range",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -2909,7 +2909,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "reduce load and range and cue long neck, quiet torso, and controlled arms"
+      "Reduce load and range and cue long neck, quiet torso, and controlled arms"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Lateral raise to a level where the client can practice the intended pattern. If a concise cue does not restore Lateral raise control, the set should end or the movement should be regressed."
@@ -2923,7 +2923,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "exhale while raising and inhale while lowering",
+      "Exhale while raising and inhale while lowering",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -2937,7 +2937,7 @@
     "question": "A client is ready to perform the Lateral raise. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "physical spotting is usually unnecessary; coach and clear the dumbbell path",
+      "Physical spotting is usually unnecessary; coach and clear the dumbbell path",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -2951,7 +2951,7 @@
     "topic": "Upright row technique",
     "question": "Which setup is most appropriate for the Upright row?",
     "choices": [
-      "stand with a balanced closed grip and the bar or handles close to the body",
+      "Stand with a balanced closed grip and the bar or handles close to the body",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -2969,7 +2969,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "pull upward under control only through a pain-free shoulder range, then lower smoothly"
+      "Pull upward under control only through a pain-free shoulder range, then lower smoothly"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Upright row's intended joint actions and keeps the resistance controlled through both phases. A repeatable Upright row path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -2983,7 +2983,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "wrists remain controlled and shoulders do not move into a painful position",
+      "Wrists remain controlled and shoulders do not move into a painful position",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -2997,7 +2997,7 @@
     "question": "A client is learning the Upright row. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "observe from the front-quarter and monitor shoulder comfort and symmetry",
+      "Observe from the front-quarter and monitor shoulder comfort and symmetry",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -3011,7 +3011,7 @@
     "topic": "Upright row technique",
     "question": "Which is a meaningful technique fault during the Upright row?",
     "choices": [
-      "forcing the elbows excessively high despite shoulder discomfort",
+      "Forcing the elbows excessively high despite shoulder discomfort",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -3029,7 +3029,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "reduce load and range or select another exercise if a comfortable path is unavailable"
+      "Reduce load and range or select another exercise if a comfortable path is unavailable"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Upright row to a level where the client can practice the intended pattern. If a concise cue does not restore Upright row control, the set should end or the movement should be regressed."
@@ -3043,7 +3043,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "exhale during the pull and inhale during lowering",
+      "Exhale during the pull and inhale during lowering",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -3057,7 +3057,7 @@
     "question": "A client is ready to perform the Upright row. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "do not physically spot the bar; supervise and stop the set if pain or loss of control appears",
+      "Do not physically spot the bar; supervise and stop the set if pain or loss of control appears",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -3071,7 +3071,7 @@
     "topic": "Biceps curl technique",
     "question": "Which setup is most appropriate for the Biceps curl?",
     "choices": [
-      "stand or sit with a stable torso, arms controlled, and wrists neutral",
+      "Stand or sit with a stable torso, arms controlled, and wrists neutral",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -3089,7 +3089,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "flex the elbows without driving them forward, then extend under control"
+      "Flex the elbows without driving them forward, then extend under control"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Biceps curl's intended joint actions and keeps the resistance controlled through both phases. A repeatable Biceps curl path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -3103,7 +3103,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "upper arms remain relatively still and the spine does not extend to swing the load",
+      "Upper arms remain relatively still and the spine does not extend to swing the load",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -3117,7 +3117,7 @@
     "question": "A client is learning the Biceps curl. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "observe from the side-front to see elbow position, wrists, and trunk movement",
+      "Observe from the side-front to see elbow position, wrists, and trunk movement",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -3131,7 +3131,7 @@
     "topic": "Biceps curl technique",
     "question": "Which is a meaningful technique fault during the Biceps curl?",
     "choices": [
-      "rocking the hips and shoulders to accelerate the weight",
+      "Rocking the hips and shoulders to accelerate the weight",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -3149,7 +3149,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "reduce load and cue quiet ribs and elbows beside the torso"
+      "Reduce load and cue quiet ribs and elbows beside the torso"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Biceps curl to a level where the client can practice the intended pattern. If a concise cue does not restore Biceps curl control, the set should end or the movement should be regressed."
@@ -3163,7 +3163,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "exhale while curling and inhale while lowering",
+      "Exhale while curling and inhale while lowering",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -3177,7 +3177,7 @@
     "question": "A client is ready to perform the Biceps curl. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "spotting is generally unnecessary; avoid pushing on the forearms or standing in the weight path",
+      "Spotting is generally unnecessary; avoid pushing on the forearms or standing in the weight path",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -3191,7 +3191,7 @@
     "topic": "Triceps pushdown technique",
     "question": "Which setup is most appropriate for the Triceps pushdown?",
     "choices": [
-      "stand stably facing the cable with elbows near the torso and the line of pull opposing extension",
+      "Stand stably facing the cable with elbows near the torso and the line of pull opposing extension",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -3209,7 +3209,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "extend the elbows without moving the shoulders, then return under control"
+      "Extend the elbows without moving the shoulders, then return under control"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Triceps pushdown's intended joint actions and keeps the resistance controlled through both phases. A repeatable Triceps pushdown path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -3223,7 +3223,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "wrists stay neutral, elbows remain near the sides, and torso position is steady",
+      "Wrists stay neutral, elbows remain near the sides, and torso position is steady",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -3237,7 +3237,7 @@
     "question": "A client is learning the Triceps pushdown. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "stand offset from the cable so the elbows and stack are visible without blocking either",
+      "Stand offset from the cable so the elbows and stack are visible without blocking either",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -3251,7 +3251,7 @@
     "topic": "Triceps pushdown technique",
     "question": "Which is a meaningful technique fault during the Triceps pushdown?",
     "choices": [
-      "leaning body weight onto the handle and letting elbows drift forward",
+      "Leaning body weight onto the handle and letting elbows drift forward",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -3269,7 +3269,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "reduce load and cue fixed upper arms with smooth elbow motion"
+      "Reduce load and cue fixed upper arms with smooth elbow motion"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Triceps pushdown to a level where the client can practice the intended pattern. If a concise cue does not restore Triceps pushdown control, the set should end or the movement should be regressed."
@@ -3283,7 +3283,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "exhale while pressing down and inhale during return",
+      "Exhale while pressing down and inhale during return",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -3297,7 +3297,7 @@
     "question": "A client is ready to perform the Triceps pushdown. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "never put hands beneath the stack; stop the stack before changing the pin",
+      "Never put hands beneath the stack; stop the stack before changing the pin",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -3311,7 +3311,7 @@
     "topic": "Supine triceps extension technique",
     "question": "Which setup is most appropriate for the Supine triceps extension?",
     "choices": [
-      "use five-point contact and begin with the bar or dumbbells balanced above the shoulders",
+      "Use five-point contact and begin with the bar or dumbbells balanced above the shoulders",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -3329,7 +3329,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "flex the elbows to lower the load under control, then extend without letting upper arms wander"
+      "Flex the elbows to lower the load under control, then extend without letting upper arms wander"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Supine triceps extension's intended joint actions and keeps the resistance controlled through both phases. A repeatable Supine triceps extension path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -3343,7 +3343,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "wrists remain firm and the load stays clear of the face through a controlled path",
+      "Wrists remain firm and the load stays clear of the face through a controlled path",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -3357,7 +3357,7 @@
     "question": "A client is learning the Supine triceps extension. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "stand at the head of the bench with direct access to the bar or wrists",
+      "Stand at the head of the bench with direct access to the bar or wrists",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -3371,7 +3371,7 @@
     "topic": "Supine triceps extension technique",
     "question": "Which is a meaningful technique fault during the Supine triceps extension?",
     "choices": [
-      "allowing the load to drift toward the face while elbows flare",
+      "Allowing the load to drift toward the face while elbows flare",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -3389,7 +3389,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "reduce load and cue stable upper arms with the implement moving on a safe path"
+      "Reduce load and cue stable upper arms with the implement moving on a safe path"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Supine triceps extension to a level where the client can practice the intended pattern. If a concise cue does not restore Supine triceps extension control, the set should end or the movement should be regressed."
@@ -3403,7 +3403,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "inhale while lowering and exhale while extending",
+      "Inhale while lowering and exhale while extending",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -3417,7 +3417,7 @@
     "question": "A client is ready to perform the Supine triceps extension. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "maintain a close over-the-face spot and grasp the bar evenly or the wrists if assistance is needed",
+      "Maintain a close over-the-face spot and grasp the bar evenly or the wrists if assistance is needed",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -3431,7 +3431,7 @@
     "topic": "Leg press technique",
     "question": "Which setup is most appropriate for the Leg press?",
     "choices": [
-      "adjust the seat so the hips and back remain supported and place both feet securely on the platform",
+      "Adjust the seat so the hips and back remain supported and place both feet securely on the platform",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -3449,7 +3449,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "lower the sled through a controlled range, then press without locking out forcefully"
+      "Lower the sled through a controlled range, then press without locking out forcefully"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Leg press's intended joint actions and keeps the resistance controlled through both phases. A repeatable Leg press path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -3463,7 +3463,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "knees follow toes, heels remain planted, and the pelvis does not roll away from the pad",
+      "Knees follow toes, heels remain planted, and the pelvis does not roll away from the pad",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -3477,7 +3477,7 @@
     "question": "A client is learning the Leg press. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "stand where hips, knees, feet, and safety stops are visible without entering the sled path",
+      "Stand where hips, knees, feet, and safety stops are visible without entering the sled path",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -3491,7 +3491,7 @@
     "topic": "Leg press technique",
     "question": "Which is a meaningful technique fault during the Leg press?",
     "choices": [
-      "lowering until the pelvis tucks and the lower back loses contact",
+      "Lowering until the pelvis tucks and the lower back loses contact",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -3509,7 +3509,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "shorten the range or adjust the seat and reduce load until pelvic contact is maintained"
+      "Shorten the range or adjust the seat and reduce load until pelvic contact is maintained"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Leg press to a level where the client can practice the intended pattern. If a concise cue does not restore Leg press control, the set should end or the movement should be regressed."
@@ -3523,7 +3523,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "inhale while lowering and exhale through the press",
+      "Inhale while lowering and exhale through the press",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -3537,7 +3537,7 @@
     "question": "A client is ready to perform the Leg press. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "use the machine's handles and safeties; never place hands or body beneath the sled or stack",
+      "Use the machine's handles and safeties; never place hands or body beneath the sled or stack",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -3551,7 +3551,7 @@
     "topic": "Leg extension technique",
     "question": "Which setup is most appropriate for the Leg extension?",
     "choices": [
-      "align the knee with the machine axis, secure the back position, and place the pad above the ankle",
+      "Align the knee with the machine axis, secure the back position, and place the pad above the ankle",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -3569,7 +3569,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "extend the knees smoothly through the selected range and lower without letting the stack slam"
+      "Extend the knees smoothly through the selected range and lower without letting the stack slam"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Leg extension's intended joint actions and keeps the resistance controlled through both phases. A repeatable Leg extension path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -3583,7 +3583,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "hips and back remain against the pads and the knees track in the machine's plane",
+      "Hips and back remain against the pads and the knees track in the machine's plane",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -3597,7 +3597,7 @@
     "question": "A client is learning the Leg extension. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "view knee-axis alignment and pad placement from the side before loading",
+      "View knee-axis alignment and pad placement from the side before loading",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -3611,7 +3611,7 @@
     "topic": "Leg extension technique",
     "question": "Which is a meaningful technique fault during the Leg extension?",
     "choices": [
-      "misaligning the knee with the cam and lifting the hips to finish",
+      "Misaligning the knee with the cam and lifting the hips to finish",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -3629,7 +3629,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "readjust the seat and pad, reduce load, and restore full torso contact"
+      "Readjust the seat and pad, reduce load, and restore full torso contact"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Leg extension to a level where the client can practice the intended pattern. If a concise cue does not restore Leg extension control, the set should end or the movement should be regressed."
@@ -3643,7 +3643,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "exhale while extending and inhale while lowering",
+      "Exhale while extending and inhale while lowering",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -3657,7 +3657,7 @@
     "question": "A client is ready to perform the Leg extension. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "do not place hands under the stack; use machine controls only when the stack is settled",
+      "Do not place hands under the stack; use machine controls only when the stack is settled",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -3671,7 +3671,7 @@
     "topic": "Leg curl technique",
     "question": "Which setup is most appropriate for the Leg curl?",
     "choices": [
-      "align the knee with the machine axis, position the roller above the heel, and secure the torso",
+      "Align the knee with the machine axis, position the roller above the heel, and secure the torso",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -3689,7 +3689,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "flex the knees without lifting the hips, then return under control"
+      "Flex the knees without lifting the hips, then return under control"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Leg curl's intended joint actions and keeps the resistance controlled through both phases. A repeatable Leg curl path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -3703,7 +3703,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "hips remain supported and the lumbar spine does not hyperextend",
+      "Hips remain supported and the lumbar spine does not hyperextend",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -3717,7 +3717,7 @@
     "question": "A client is learning the Leg curl. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "observe knee alignment, hip contact, and pad position from the side",
+      "Observe knee alignment, hip contact, and pad position from the side",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -3731,7 +3731,7 @@
     "topic": "Leg curl technique",
     "question": "Which is a meaningful technique fault during the Leg curl?",
     "choices": [
-      "arching the back and lifting the hips to complete the curl",
+      "Arching the back and lifting the hips to complete the curl",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -3749,7 +3749,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "reduce load and readjust pads so the client can keep the pelvis supported"
+      "Reduce load and readjust pads so the client can keep the pelvis supported"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Leg curl to a level where the client can practice the intended pattern. If a concise cue does not restore Leg curl control, the set should end or the movement should be regressed."
@@ -3763,7 +3763,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "exhale while curling and inhale while extending",
+      "Exhale while curling and inhale while extending",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -3777,7 +3777,7 @@
     "question": "A client is ready to perform the Leg curl. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "supervise from the side and never reach beneath the moving stack or lever",
+      "Supervise from the side and never reach beneath the moving stack or lever",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -3791,7 +3791,7 @@
     "topic": "Calf raise technique",
     "question": "Which setup is most appropriate for the Calf raise?",
     "choices": [
-      "place the balls of the feet securely on the platform with a stable support and controlled starting range",
+      "Place the balls of the feet securely on the platform with a stable support and controlled starting range",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -3809,7 +3809,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "plantarflex to rise, pause under control, and lower without bouncing"
+      "Plantarflex to rise, pause under control, and lower without bouncing"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Calf raise's intended joint actions and keeps the resistance controlled through both phases. A repeatable Calf raise path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -3823,7 +3823,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "ankles track in line with the feet and the client maintains balance",
+      "Ankles track in line with the feet and the client maintains balance",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -3837,7 +3837,7 @@
     "question": "A client is learning the Calf raise. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "stand close enough to guard balance but outside the machine or load path",
+      "Stand close enough to guard balance but outside the machine or load path",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -3851,7 +3851,7 @@
     "topic": "Calf raise technique",
     "question": "Which is a meaningful technique fault during the Calf raise?",
     "choices": [
-      "bouncing rapidly through the bottom and rolling onto the outer feet",
+      "Bouncing rapidly through the bottom and rolling onto the outer feet",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -3869,7 +3869,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "reduce load and cue a controlled rise and descent with even forefoot pressure"
+      "Reduce load and cue a controlled rise and descent with even forefoot pressure"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Calf raise to a level where the client can practice the intended pattern. If a concise cue does not restore Calf raise control, the set should end or the movement should be regressed."
@@ -3883,7 +3883,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "exhale while rising and inhale while lowering",
+      "Exhale while rising and inhale while lowering",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -3897,7 +3897,7 @@
     "question": "A client is ready to perform the Calf raise. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "guard the torso for balance and rely on safeties; never stand beneath a loaded lever",
+      "Guard the torso for balance and rely on safeties; never stand beneath a loaded lever",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -3911,7 +3911,7 @@
     "topic": "Core crunch technique",
     "question": "Which setup is most appropriate for the Core crunch?",
     "choices": [
-      "lie supine with a comfortable hip and knee position and head supported neutrally",
+      "Lie supine with a comfortable hip and knee position and head supported neutrally",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -3929,7 +3929,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "curl the rib cage toward the pelvis through a small controlled range, then lower smoothly"
+      "Curl the rib cage toward the pelvis through a small controlled range, then lower smoothly"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Core crunch's intended joint actions and keeps the resistance controlled through both phases. A repeatable Core crunch path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -3943,7 +3943,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "the neck stays neutral and the movement comes from trunk flexion rather than pulling the head",
+      "The neck stays neutral and the movement comes from trunk flexion rather than pulling the head",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -3957,7 +3957,7 @@
     "question": "A client is learning the Core crunch. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "observe from the side and cue without standing on or restraining the feet unnecessarily",
+      "Observe from the side and cue without standing on or restraining the feet unnecessarily",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -3971,7 +3971,7 @@
     "topic": "Core crunch technique",
     "question": "Which is a meaningful technique fault during the Core crunch?",
     "choices": [
-      "jerking the head forward with the hands",
+      "Jerking the head forward with the hands",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -3989,7 +3989,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "place fingertips lightly near the head or cross the arms and cue the chest to lift without neck pulling"
+      "Place fingertips lightly near the head or cross the arms and cue the chest to lift without neck pulling"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Core crunch to a level where the client can practice the intended pattern. If a concise cue does not restore Core crunch control, the set should end or the movement should be regressed."
@@ -4003,7 +4003,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "exhale during the curl and inhale during return",
+      "Exhale during the curl and inhale during return",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -4017,7 +4017,7 @@
     "question": "A client is ready to perform the Core crunch. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "spotting is unnecessary; coach range and stop if neck or back symptoms occur",
+      "Spotting is unnecessary; coach range and stop if neck or back symptoms occur",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -4031,7 +4031,7 @@
     "topic": "Core plank technique",
     "question": "Which setup is most appropriate for the Core plank?",
     "choices": [
-      "place elbows or hands under the shoulders and establish a straight supported body line",
+      "Place elbows or hands under the shoulders and establish a straight supported body line",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -4049,7 +4049,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "hold the position while breathing normally and maintaining tension"
+      "Hold the position while breathing normally and maintaining tension"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Core plank's intended joint actions and keeps the resistance controlled through both phases. A repeatable Core plank path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -4063,7 +4063,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "head, rib cage, pelvis, and legs remain aligned without sagging or piking",
+      "Head, rib cage, pelvis, and legs remain aligned without sagging or piking",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -4077,7 +4077,7 @@
     "question": "A client is learning the Core plank. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "view from the side to assess the whole body line and from the front if shoulder symmetry is unclear",
+      "View from the side to assess the whole body line and from the front if shoulder symmetry is unclear",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -4091,7 +4091,7 @@
     "topic": "Core plank technique",
     "question": "Which is a meaningful technique fault during the Core plank?",
     "choices": [
-      "lumbar sagging and breath-holding as fatigue rises",
+      "Lumbar sagging and breath-holding as fatigue rises",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -4109,7 +4109,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "shorten the lever or duration and cue ribs and pelvis into a stacked position"
+      "Shorten the lever or duration and cue ribs and pelvis into a stacked position"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Core plank to a level where the client can practice the intended pattern. If a concise cue does not restore Core plank control, the set should end or the movement should be regressed."
@@ -4123,7 +4123,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "continue controlled breathing rather than holding the breath for the interval",
+      "Continue controlled breathing rather than holding the breath for the interval",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -4137,7 +4137,7 @@
     "question": "A client is ready to perform the Core plank. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "do not press the client into position; regress or end the hold when alignment fails",
+      "Do not press the client into position; regress or end the hold when alignment fails",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -4151,7 +4151,7 @@
     "topic": "Core back extension technique",
     "question": "Which setup is most appropriate for the Core back extension?",
     "choices": [
-      "secure the lower body on the apparatus and begin with the spine controlled",
+      "Secure the lower body on the apparatus and begin with the spine controlled",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -4169,7 +4169,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "extend only to the intended neutral body line, then lower under control"
+      "Extend only to the intended neutral body line, then lower under control"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Core back extension's intended joint actions and keeps the resistance controlled through both phases. A repeatable Core back extension path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -4183,7 +4183,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "movement is controlled through the hips and trunk without excessive lumbar hyperextension",
+      "Movement is controlled through the hips and trunk without excessive lumbar hyperextension",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -4197,7 +4197,7 @@
     "question": "A client is learning the Core back extension. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "stand to the side where the spine, pad position, and lower-body security are visible",
+      "Stand to the side where the spine, pad position, and lower-body security are visible",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -4211,7 +4211,7 @@
     "topic": "Core back extension technique",
     "question": "Which is a meaningful technique fault during the Core back extension?",
     "choices": [
-      "rising far beyond neutral and using momentum",
+      "Rising far beyond neutral and using momentum",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -4229,7 +4229,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "reduce range and load and cue a long neutral line rather than arching upward"
+      "Reduce range and load and cue a long neutral line rather than arching upward"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Core back extension to a level where the client can practice the intended pattern. If a concise cue does not restore Core back extension control, the set should end or the movement should be regressed."
@@ -4243,7 +4243,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "exhale while extending and inhale while lowering",
+      "Exhale while extending and inhale while lowering",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -4257,7 +4257,7 @@
     "question": "A client is ready to perform the Core back extension. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "verify the apparatus and foot restraint before starting; guard balance without pulling the client",
+      "Verify the apparatus and foot restraint before starting; guard balance without pulling the client",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -4271,7 +4271,7 @@
     "topic": "Power clean technique",
     "question": "Which setup is most appropriate for the Power clean?",
     "choices": [
-      "set the bar over the midfoot with a closed grip, stable back position, and clear platform",
+      "Set the bar over the midfoot with a closed grip, stable back position, and clear platform",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -4289,7 +4289,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "extend the hips, knees, and ankles explosively, keep the bar close, then receive it on the shoulders by moving under it"
+      "Extend the hips, knees, and ankles explosively, keep the bar close, then receive it on the shoulders by moving under it"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Power clean's intended joint actions and keeps the resistance controlled through both phases. A repeatable Power clean path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -4303,7 +4303,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "the bar stays close and the catch is balanced with elbows driven through",
+      "The bar stays close and the catch is balanced with elbows driven through",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -4317,7 +4317,7 @@
     "question": "A client is learning the Power clean. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "coach from the side-front outside the bar and plate trajectory with the platform cleared",
+      "Coach from the side-front outside the bar and plate trajectory with the platform cleared",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -4331,7 +4331,7 @@
     "topic": "Power clean technique",
     "question": "Which is a meaningful technique fault during the Power clean?",
     "choices": [
-      "curling the bar slowly with the arms and catching with low elbows",
+      "Curling the bar slowly with the arms and catching with low elbows",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -4349,7 +4349,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "reduce load and practice pulls, front-rack mobility, and receiving drills separately"
+      "Reduce load and practice pulls, front-rack mobility, and receiving drills separately"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Power clean to a level where the client can practice the intended pattern. If a concise cue does not restore Power clean control, the set should end or the movement should be regressed."
@@ -4363,7 +4363,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "brace before the pull and release air after the explosive phase and secure catch",
+      "Brace before the pull and release air after the explosive phase and secure catch",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -4377,7 +4377,7 @@
     "question": "A client is ready to perform the Power clean. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "do not attempt to catch or physically spot the bar; teach safe release and platform clearance",
+      "Do not attempt to catch or physically spot the bar; teach safe release and platform clearance",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -4391,7 +4391,7 @@
     "topic": "Snatch technique",
     "question": "Which setup is most appropriate for the Snatch?",
     "choices": [
-      "use an appropriate wide closed grip, bar over midfoot, stable start, and unobstructed platform",
+      "Use an appropriate wide closed grip, bar over midfoot, stable start, and unobstructed platform",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -4409,7 +4409,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "accelerate through triple extension and move under the close bar to receive it overhead"
+      "Accelerate through triple extension and move under the close bar to receive it overhead"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Snatch's intended joint actions and keeps the resistance controlled through both phases. A repeatable Snatch path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -4423,7 +4423,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "the catch is balanced with arms secure overhead and the bar over the base of support",
+      "The catch is balanced with arms secure overhead and the bar over the base of support",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -4437,7 +4437,7 @@
     "question": "A client is learning the Snatch. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "observe outside the bar path with a clear view of start, bar proximity, and receiving position",
+      "Observe outside the bar path with a clear view of start, bar proximity, and receiving position",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -4451,7 +4451,7 @@
     "topic": "Snatch technique",
     "question": "Which is a meaningful technique fault during the Snatch?",
     "choices": [
-      "looping the bar far forward and chasing it in the catch",
+      "Looping the bar far forward and chasing it in the catch",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -4469,7 +4469,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "reduce load and drill the pull and overhead receiving position before combining them"
+      "Reduce load and drill the pull and overhead receiving position before combining them"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Snatch to a level where the client can practice the intended pattern. If a concise cue does not restore Snatch control, the set should end or the movement should be regressed."
@@ -4483,7 +4483,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "brace for the pull and resume breathing once the bar is securely received",
+      "Brace for the pull and resume breathing once the bar is securely received",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -4497,7 +4497,7 @@
     "question": "A client is ready to perform the Snatch. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "never physically spot the moving bar; teach the athlete to release it safely and move clear",
+      "Never physically spot the moving bar; teach the athlete to release it safely and move clear",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -4511,7 +4511,7 @@
     "topic": "Push press technique",
     "question": "Which setup is most appropriate for the Push press?",
     "choices": [
-      "start with the bar supported at the shoulders, feet stable, torso braced, and elbows positioned to drive",
+      "Start with the bar supported at the shoulders, feet stable, torso braced, and elbows positioned to drive",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -4529,7 +4529,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "dip vertically, extend hips and knees rapidly, and transfer force into the overhead press"
+      "Dip vertically, extend hips and knees rapidly, and transfer force into the overhead press"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Push press's intended joint actions and keeps the resistance controlled through both phases. A repeatable Push press path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -4543,7 +4543,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "feet stay planted through the dip and the bar finishes balanced over the body",
+      "Feet stay planted through the dip and the bar finishes balanced over the body",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -4557,7 +4557,7 @@
     "question": "A client is learning the Push press. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "stand behind and slightly offset only for suitable loads, remaining clear of the bar's path",
+      "Stand behind and slightly offset only for suitable loads, remaining clear of the bar's path",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -4571,7 +4571,7 @@
     "topic": "Push press technique",
     "question": "Which is a meaningful technique fault during the Push press?",
     "choices": [
-      "turning the dip into a forward squat and overextending the lumbar spine overhead",
+      "Turning the dip into a forward squat and overextending the lumbar spine overhead",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -4589,7 +4589,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "reduce load and drill a vertical dip with stacked ribs and pelvis"
+      "Reduce load and drill a vertical dip with stacked ribs and pelvis"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Push press to a level where the client can practice the intended pattern. If a concise cue does not restore Push press control, the set should end or the movement should be regressed."
@@ -4603,7 +4603,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "brace before the dip and exhale after driving through the sticking region",
+      "Brace before the dip and exhale after driving through the sticking region",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -4617,7 +4617,7 @@
     "question": "A client is ready to perform the Push press. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "for heavy or explosive work prioritize rack safeties and safe release; do not obstruct the bar",
+      "For heavy or explosive work prioritize rack safeties and safe release; do not obstruct the bar",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -4631,7 +4631,7 @@
     "topic": "Machine chest press technique",
     "question": "Which setup is most appropriate for the Machine chest press?",
     "choices": [
-      "adjust the seat so handles align near chest level and establish full back and foot support",
+      "Adjust the seat so handles align near chest level and establish full back and foot support",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -4649,7 +4649,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "press the handles forward smoothly and return without letting the stack slam"
+      "Press the handles forward smoothly and return without letting the stack slam"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Machine chest press's intended joint actions and keeps the resistance controlled through both phases. A repeatable Machine chest press path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -4663,7 +4663,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "wrists remain aligned, shoulders stay supported, and elbows follow a comfortable path",
+      "Wrists remain aligned, shoulders stay supported, and elbows follow a comfortable path",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -4677,7 +4677,7 @@
     "question": "A client is learning the Machine chest press. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "observe from the side-front and keep hands clear of linkages and the stack",
+      "Observe from the side-front and keep hands clear of linkages and the stack",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -4691,7 +4691,7 @@
     "topic": "Machine chest press technique",
     "question": "Which is a meaningful technique fault during the Machine chest press?",
     "choices": [
-      "reaching shoulders forward and losing back contact at the end of the press",
+      "Reaching shoulders forward and losing back contact at the end of the press",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -4709,7 +4709,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "reduce load or adjust the seat and cue the shoulders to remain supported"
+      "Reduce load or adjust the seat and cue the shoulders to remain supported"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Machine chest press to a level where the client can practice the intended pattern. If a concise cue does not restore Machine chest press control, the set should end or the movement should be regressed."
@@ -4723,7 +4723,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "exhale while pressing and inhale during return",
+      "Exhale while pressing and inhale during return",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -4737,7 +4737,7 @@
     "question": "A client is ready to perform the Machine chest press. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "assist only at a manufacturer-safe handle or lever point and never under the weight stack",
+      "Assist only at a manufacturer-safe handle or lever point and never under the weight stack",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -4751,7 +4751,7 @@
     "topic": "Cable technique",
     "question": "Which setup is most appropriate for the Cable?",
     "choices": [
-      "stand with a stable base and set the pulley so resistance directly opposes the intended movement",
+      "Stand with a stable base and set the pulley so resistance directly opposes the intended movement",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -4769,7 +4769,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "move the handle through the planned joint action while controlling the return toward the stack"
+      "Move the handle through the planned joint action while controlling the return toward the stack"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Cable's intended joint actions and keeps the resistance controlled through both phases. A repeatable Cable path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -4783,7 +4783,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "the torso stays organized and the cable remains clear of the body",
+      "The torso stays organized and the cable remains clear of the body",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -4797,7 +4797,7 @@
     "question": "A client is learning the Cable. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "stand outside the cable line with a view of the client, attachment, and stack",
+      "Stand outside the cable line with a view of the client, attachment, and stack",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -4811,7 +4811,7 @@
     "topic": "Cable technique",
     "question": "Which is a meaningful technique fault during the Cable?",
     "choices": [
-      "using a pulley angle that pulls the client off balance and changes the intended action",
+      "Using a pulley angle that pulls the client off balance and changes the intended action",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -4829,7 +4829,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "reposition the pulley or client and reduce load until the line of pull matches the exercise"
+      "Reposition the pulley or client and reduce load until the line of pull matches the exercise"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Cable to a level where the client can practice the intended pattern. If a concise cue does not restore Cable control, the set should end or the movement should be regressed."
@@ -4843,7 +4843,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "exhale during exertion and inhale during the controlled return",
+      "Exhale during exertion and inhale during the controlled return",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -4857,7 +4857,7 @@
     "question": "A client is ready to perform the Cable. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "do not grab the cable or reach under the stack; stop motion before adjusting attachments",
+      "Do not grab the cable or reach under the stack; stop motion before adjusting attachments",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -4871,7 +4871,7 @@
     "topic": "Elastic resistance technique",
     "question": "Which setup is most appropriate for the Elastic resistance?",
     "choices": [
-      "inspect the band, secure the anchor, and stand so initial tension and recoil direction are safe",
+      "Inspect the band, secure the anchor, and stand so initial tension and recoil direction are safe",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -4889,7 +4889,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "move through the intended range while controlling increasing tension and the return"
+      "Move through the intended range while controlling increasing tension and the return"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Elastic resistance's intended joint actions and keeps the resistance controlled through both phases. A repeatable Elastic resistance path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -4903,7 +4903,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "the anchor remains stable and the band does not rub sharp edges or cross the face",
+      "The anchor remains stable and the band does not rub sharp edges or cross the face",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -4917,7 +4917,7 @@
     "question": "A client is learning the Elastic resistance. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "position outside the recoil line while watching the anchor and the client's alignment",
+      "Position outside the recoil line while watching the anchor and the client's alignment",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -4931,7 +4931,7 @@
     "topic": "Elastic resistance technique",
     "question": "Which is a meaningful technique fault during the Elastic resistance?",
     "choices": [
-      "using a damaged band or stepping so far away that end-range control is lost",
+      "Using a damaged band or stepping so far away that end-range control is lost",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -4949,7 +4949,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "replace damaged equipment or use a lighter or longer band with a safer starting distance"
+      "Replace damaged equipment or use a lighter or longer band with a safer starting distance"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Elastic resistance to a level where the client can practice the intended pattern. If a concise cue does not restore Elastic resistance control, the set should end or the movement should be regressed."
@@ -4963,7 +4963,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "exhale during exertion and inhale during the return",
+      "Exhale during exertion and inhale during the return",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -4977,7 +4977,7 @@
     "question": "A client is ready to perform the Elastic resistance. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "supervise the anchor and recoil zone rather than holding a stretched band near the client's face",
+      "Supervise the anchor and recoil zone rather than holding a stretched band near the client's face",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
@@ -4991,7 +4991,7 @@
     "topic": "Medicine ball technique",
     "question": "Which setup is most appropriate for the Medicine ball?",
     "choices": [
-      "select a light suitable ball, clear the landing area, and agree on throw and retrieval commands",
+      "Select a light suitable ball, clear the landing area, and agree on throw and retrieval commands",
       "Use the previous client's settings and wait for a loaded repetition to reveal any setup problems",
       "Begin from an unstable stance and establish balance during the first loaded repetition under resistance",
       "Copy the trainer's setup without considering the client's proportions, mobility, or available pain-free range"
@@ -5009,7 +5009,7 @@
       "Use momentum through every phase and rebound rapidly whenever the movement changes direction",
       "Change the resistance path on every repetition to distribute effort across different joints",
       "Relax at each transition, let the load reverse without control, then abruptly regain tension",
-      "sequence the body to throw explosively while maintaining balance and following through safely"
+      "Sequence the body to throw explosively while maintaining balance and following through safely"
     ],
     "answerIndex": 3,
     "explanation": "This sequence preserves the Medicine ball's intended joint actions and keeps the resistance controlled through both phases. A repeatable Medicine ball path also lets the trainer distinguish purposeful movement from fatigue-related compensation."
@@ -5023,7 +5023,7 @@
     "choices": [
       "Shift toward the stronger side whenever fatigue begins during the working set",
       "Complete every planned repetition even after losing balance, joint tracking, or spinal control",
-      "force transfers through the kinetic chain without uncontrolled spinal motion",
+      "Force transfers through the kinetic chain without uncontrolled spinal motion",
       "Let the working joints drift wherever the greatest load can be moved most easily"
     ],
     "answerIndex": 2,
@@ -5037,7 +5037,7 @@
     "question": "A client is learning the Medicine ball. How should the trainer position themself to evaluate technique?",
     "choices": [
       "Remain at one obstructed viewing angle even when key joints and contacts are hidden",
-      "stand outside the ball path and ensure partners or walls are appropriate for the intended rebound",
+      "Stand outside the ball path and ensure partners or walls are appropriate for the intended rebound",
       "Stand directly in the implement path and watch only one working joint throughout",
       "Count repetitions from across the room and assess the client's technique only afterward"
     ],
@@ -5051,7 +5051,7 @@
     "topic": "Medicine ball technique",
     "question": "Which is a meaningful technique fault during the Medicine ball?",
     "choices": [
-      "using a ball too heavy to move quickly and throwing before the partner is ready",
+      "Using a ball too heavy to move quickly and throwing before the partner is ready",
       "Controlled breathing with stable contact points maintained throughout the complete set",
       "A consistent pain-free range suited to the client's present mobility and control",
       "A smooth repeatable tempo with balanced joint tracking and no reliance on momentum"
@@ -5069,7 +5069,7 @@
       "Increase resistance and speed so momentum carries the client through the observed fault",
       "Allow the fault until the set ends, then give every possible correction together",
       "Manually force the client or implement through the unavailable range despite lost control",
-      "reduce ball mass, rehearse the sequence, and use explicit ready and stop commands"
+      "Reduce ball mass, rehearse the sequence, and use explicit ready and stop commands"
     ],
     "answerIndex": 3,
     "explanation": "This correction reduces the Medicine ball to a level where the client can practice the intended pattern. If a concise cue does not restore Medicine ball control, the set should end or the movement should be regressed."
@@ -5083,7 +5083,7 @@
     "choices": [
       "Use rapid shallow breaths only while passing through the sticking point",
       "Exhale while lowering and avoid inhaling until returning to the start",
-      "exhale during the explosive release and recover breathing before the next repetition",
+      "Exhale during the explosive release and recover breathing before the next repetition",
       "Hold the breath from the first repetition until the set is complete"
     ],
     "answerIndex": 2,
@@ -5097,7 +5097,7 @@
     "question": "A client is ready to perform the Medicine ball. How should the trainer spot or supervise the set?",
     "choices": [
       "Use any convenient contact point and provide continuous assistance to make every repetition easier",
-      "do not try to block a high-speed missed throw with the body; preserve a clear escape and landing area",
+      "Do not try to block a high-speed missed throw with the body; preserve a clear escape and landing area",
       "Stand directly in the load path and assist every repetition before help is requested or needed",
       "Watch from across the room and approach only after the client has completely lost control"
     ],
