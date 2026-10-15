@@ -23,9 +23,9 @@
     "question": "Which piece of gym equipment is shown?",
     "image": "./data/gym-equipment/air-bike.jpg",
     "choices": [
-      "Ski ergometer",
-      "Stair stepper",
       "Curved treadmill",
+      "Elliptical machine",
+      "Exercise bike",
       "Air bike"
     ],
     "answerIndex": 3,
@@ -126,22 +126,6 @@
     ],
     "answerIndex": 2,
     "explanation": "The pictured equipment is the Flat weight bench."
-  },
-  {
-    "id": "equipment-elliptical-climber",
-    "source": "equipment",
-    "type": "mcq",
-    "topic": "Gym equipment identification",
-    "question": "Which piece of gym equipment is shown?",
-    "image": "./data/gym-equipment/elliptical-climber.jpg",
-    "choices": [
-      "Exercise bike",
-      "Elliptical climber",
-      "Air bike",
-      "Elliptical machine"
-    ],
-    "answerIndex": 1,
-    "explanation": "The pictured equipment is the Elliptical climber."
   },
   {
     "id": "equipment-cold-tub",
@@ -247,10 +231,10 @@
     "question": "Which piece of gym equipment is shown?",
     "image": "./data/gym-equipment/elliptical-machine.jpg",
     "choices": [
-      "Air bike",
-      "Elliptical climber",
+      "Ski ergometer",
+      "Stair stepper",
       "Elliptical machine",
-      "Curved treadmill"
+      "Rowing machine"
     ],
     "answerIndex": 2,
     "explanation": "The pictured equipment is the Elliptical machine."
@@ -263,9 +247,9 @@
     "question": "Which piece of gym equipment is shown?",
     "image": "./data/gym-equipment/exercise-bike.jpg",
     "choices": [
-      "Air bike",
-      "Elliptical climber",
-      "Elliptical machine",
+      "Ski ergometer",
+      "Stair stepper",
+      "Curved treadmill",
       "Exercise bike"
     ],
     "answerIndex": 3,
@@ -695,10 +679,10 @@
     "question": "Which piece of gym equipment is shown?",
     "image": "./data/gym-equipment/rowing-machine.jpg",
     "choices": [
-      "Stair stepper",
+      "Curved treadmill",
       "Rowing machine",
-      "Exercise bike",
-      "Ski ergometer"
+      "Ski ergometer",
+      "Stair stepper"
     ],
     "answerIndex": 1,
     "explanation": "The pictured equipment is the Rowing machine."
@@ -775,10 +759,10 @@
     "question": "Which piece of gym equipment is shown?",
     "image": "./data/gym-equipment/ski-ergometer.jpg",
     "choices": [
-      "Exercise bike",
+      "Elliptical machine",
       "Ski ergometer",
-      "Elliptical climber",
-      "Elliptical machine"
+      "Curved treadmill",
+      "Air bike"
     ],
     "answerIndex": 1,
     "explanation": "The pictured equipment is the Ski ergometer."
@@ -855,10 +839,10 @@
     "question": "Which piece of gym equipment is shown?",
     "image": "./data/gym-equipment/stair-stepper.jpg",
     "choices": [
-      "Elliptical climber",
-      "Elliptical machine",
+      "Rowing machine",
+      "Ski ergometer",
       "Stair stepper",
-      "Air bike"
+      "Exercise bike"
     ],
     "answerIndex": 2,
     "explanation": "The pictured equipment is the Stair stepper."

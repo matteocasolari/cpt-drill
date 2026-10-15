@@ -15,7 +15,6 @@ const assets = [
   ["Chalk.jpg", "lifting-chalk", "Lifting chalk", "accessories"],
   ["Chalk_Bowl.jpg", "chalk-bucket", "Chalk bucket", "accessories"],
   ["Chest_Press_Machine.jpg", "flat-weight-bench", "Flat weight bench", "stations"],
-  ["Climbers.jpg", "elliptical-climber", "Elliptical climber", "cardio"],
   ["Cold_Tub.jpg", "cold-tub", "Cold tub", "recovery"],
   ["Deadlift_Jack.jpg", "deadlift-jack", "Deadlift jack", "rack"],
   ["Deadlift_Platform.jpg", "deadlift-platform", "Deadlift platform", "stations"],

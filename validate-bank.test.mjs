@@ -97,8 +97,8 @@ test("priority curriculum banks contain the approved expansion totals", async ()
   }
 });
 
-test("expanded repository bank has 2,073 valid questions with unique ids", () => {
-  const result = runValidator(repoRoot, 2073);
+test("expanded repository bank has 2,072 valid questions with unique ids", () => {
+  const result = runValidator(repoRoot, 2072);
   assert.equal(result.status, 0, result.stderr + result.stdout);
-  assert.match(result.stdout, /valid 2073 skipped 0/);
+  assert.match(result.stdout, /valid 2072 skipped 0/);
 });
