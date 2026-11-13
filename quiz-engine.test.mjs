@@ -184,6 +184,65 @@ test("pickSession prefers unseen then previously wrong", () => {
   );
 });
 
+for (const source of ["muscles", "exercises", "equipment", "movements"]) {
+  test(`${source} rotates every image despite persistent mistakes`, () => {
+    const pool = Array.from({ length: 23 }, (_, i) => mcq({ id: `${source}-${i}`, source }));
+    for (const size of [1, 10]) {
+      let progress = emptyProgress();
+      for (const [i, q] of pool.entries()) {
+        progress = recordAnswer(progress, q.id, i >= 10, i + 1);
+      }
+      let now = 100;
+      // Every consecutive coverage window must include all images, even
+      // when the same ten images keep being answered incorrectly.
+      for (let cycle = 0; cycle < 3; cycle++) {
+        const covered = new Set();
+        for (let session = 0; session < Math.ceil(pool.length / size); session++) {
+          const picked = pickSession(pool, progress.questions, size, () => 0.5);
+          assert.equal(new Set(picked.map(q => q.id)).size, size);
+          for (const q of picked) {
+            covered.add(q.id);
+            progress = recordAnswer(progress, q.id, pool.indexOf(q) >= 10, now++);
+          }
+        }
+        assert.equal(covered.size, pool.length);
+      }
+    }
+  });
+}
+
+test("image selection prioritizes unseen images and randomizes equal-age images", () => {
+  const pool = ["old", "new", "recent"].map(id => mcq({ id, source: "muscles" }));
+  const stats = {
+    old: { seen: 1, wrong: 0, lastSeen: 10 },
+    recent: { seen: 1, wrong: 1, lastSeen: 20 },
+  };
+  assert.deepEqual(pickSession(pool, stats, 3, () => 0.99).map(q => q.id), ["new", "old", "recent"]);
+  const tied = Object.fromEntries(pool.map(q => [q.id, { seen: 1, wrong: 0, lastSeen: 10 }]));
+  assert.notDeepEqual(pickSession(pool, tied, 3, () => 0), pickSession(pool, tied, 3, () => 0.99));
+});
+
+test("Mixed keeps all four image categories rotating after historical mistakes", () => {
+  const sources = ["nasm", "nsca", "nutrition", "exercise-technique", "exercises", "muscles", "equipment", "movements"];
+  const bank = sources.flatMap(source => Array.from({ length: 12 }, (_, i) =>
+    mcq({ id: `${source}-${i}`, source })));
+  let progress = emptyProgress();
+  let now = 1;
+  for (const q of bank) progress = recordAnswer(progress, q.id, !q.id.endsWith("-0"), now++);
+  for (let cycle = 0; cycle < 2; cycle++) {
+    const covered = new Set();
+    for (let session = 0; session < 12; session++) {
+      const picked = pickMixedSession(bank, progress.questions, 10, () => 0.5);
+      assert.equal(picked.length, 10);
+      for (const q of picked) {
+        if (sources.slice(4).includes(q.source)) covered.add(q.id);
+        progress = recordAnswer(progress, q.id, !q.id.endsWith("-0"), now++);
+      }
+    }
+    assert.equal(covered.size, 48);
+  }
+});
+
 test("loadProgress wipes corrupt json", () => {
   const storage = { getItem: () => "{", setItem() {}, removeItem() {} };
   const p = loadProgress(storage);

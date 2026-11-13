@@ -178,6 +178,14 @@ function migrateProgress(parsed) {
 }
 
 export function pickSession(pool, stats, count, random) {
+  if (pool.every((q) => IMAGE_SOURCES.has(q.source))) {
+    // Shuffle before the stable sort so equal-age images have no bank-order bias.
+    // Historical mistakes must never prevent another image from returning.
+    const age = (q) => stats[q.id]?.seen ? stats[q.id].lastSeen : -1;
+    return shuffle(pool, random)
+      .sort((a, b) => age(a) - age(b))
+      .slice(0, Math.min(count, pool.length));
+  }
   const unseen = [];
   const missed = [];
   const rest = [];

@@ -43,6 +43,8 @@ On the home screen, pick a question source before starting:
 - **Equipment** — image-only gym-equipment identification questions with related distractors.
 - **Movements** — image-only flexibility, bodyweight, and stability-ball movement identification questions.
 
+Image questions rotate through unseen images first, then the images answered longest ago, with random tie-breaking. Correct and incorrect answers advance the rotation equally, so past mistakes cannot keep other images out. This applies to all four image categories, including their slots in Mixed mode. Scheduling advances when an answer is confirmed. Coverage depends on practice frequency: Mixed serves one image per category per session, while a dedicated image session serves ten.
+
 **Reset progress** (footer link) asks for confirmation, then clears saved question statistics and session history and starts fresh.
 
 During a quiz, use keys **1–4** to select an answer (true/false items only accept **1–2**) and **Enter** to confirm or continue. Wrong answers show an explanation; the results screen lists any misses from the session.
